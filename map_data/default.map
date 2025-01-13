@@ -1,4 +1,3 @@
-#max_provinces = 1466
 definitions = "definition.csv"
 provinces = "provinces.png"
 #positions = "positions.txt"
@@ -16,32 +15,27 @@ seasons = "seasons.txt"
 # SEA ZONES
 #############
 
-#North European Seas
-sea_zones = LIST { 2 } #French & Iberian atlantic coasts
-
-###############
+#############
 # MAJOR RIVERS
-###############
+#############
 
-########
+river_provinces = LIST { 337 683 707 857 1137 1307 1629 1660 }
+
+#############
 # LAKES
-########
+#############
 
-#####################
+#############
 # IMPASSABLE TERRAIN
-#####################
-# Can be colored by whoever owns the most of the province's neighbours.
-# Blocks unit movement.
+#############
 
-############
-# WASTELAND
-############
-# These are actually supposed to be Wasteland:
-# Cannot be colored. Blocks unit movement, used for things like Sahara desert. 
+impassable_mountains = LIST { 1361 1362 1363 1364 1365 1366 1367 1368 1369 1370 1371 1372 1659 1661 1662 1663 1664 1665 1666 1667 1668 1834 1835 1836 1837 1838 1984 1985 1986 1987 1988 }
 
+#############
 # IMPASSABLE SEA ZONES
-# These sea provinces cannot be crossed/sailed
+#############
 
+#############
 # UNUSED PROVINCES
-# These provinces cause issues because they are passable land, but not part of any title.
-# They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).
+#############
+
