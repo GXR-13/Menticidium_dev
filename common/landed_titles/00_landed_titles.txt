@@ -2772,13 +2772,13 @@ e_Hiria = {
                 color = { 138 158 90 }
                 color2 = { 255 255 255 }
 
-                b_Kollon_4_3_2 = {
+                b_Kollon_4_3_3 = {
                     province = 700
                     color = { 138 158 90 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Kollon_4_3_3 = {
+                b_Kollon_4_3_4 = {
                     province = 704
                     color = { 136 156 88 }
                     color2 = { 255 255 255 }
@@ -2787,6 +2787,12 @@ e_Hiria = {
                 b_Kollon_4_3_1 = {
                     province = 706
                     color = { 134 154 86 }
+                    color2 = { 255 255 255 }
+                }
+
+                b_Kollon_4_3_2 = {
+                    province = 1990
+                    color = { 132 152 84 }
                     color2 = { 255 255 255 }
                 }
             }
