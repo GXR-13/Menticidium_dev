@@ -7738,116 +7738,116 @@ e_Hiria = {
             }
         }
 
-        d_Torquia_9 = {
+        d_Torquia_8 = {
             color = { 153 102 185 }
             color2 = { 255 255 255 }
 
-            capital = c_Torquia_9_1
+            capital = c_Torquia_8_1
 
-            c_Torquia_9_1 = {
+            c_Torquia_8_1 = {
                 color = { 146 94 179 }
                 color2 = { 255 255 255 }
 
-                b_Torquia_9_1_1 = {
+                b_Torquia_8_1_1 = {
                     province = 1212
                     color = { 146 94 179 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_1_3 = {
+                b_Torquia_8_1_3 = {
                     province = 1224
                     color = { 144 92 177 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_1_4 = {
+                b_Torquia_8_1_4 = {
                     province = 1226
                     color = { 142 90 175 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_1_2 = {
+                b_Torquia_8_1_2 = {
                     province = 1240
                     color = { 140 88 173 }
                     color2 = { 255 255 255 }
                 }
             }
 
-            c_Torquia_9_4 = {
+            c_Torquia_8_4 = {
                 color = { 142 88 176 }
                 color2 = { 255 255 255 }
 
-                b_Torquia_9_4_1 = {
+                b_Torquia_8_4_1 = {
                     province = 1213
                     color = { 142 88 176 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_4_2 = {
+                b_Torquia_8_4_2 = {
                     province = 1215
                     color = { 140 86 174 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_4_3 = {
+                b_Torquia_8_4_3 = {
                     province = 1373
                     color = { 138 84 172 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_4_4 = {
+                b_Torquia_8_4_4 = {
                     province = 1374
                     color = { 136 82 170 }
                     color2 = { 255 255 255 }
                 }
             }
 
-            c_Torquia_9_3 = {
+            c_Torquia_8_3 = {
                 color = { 134 82 167 }
                 color2 = { 255 255 255 }
 
-                b_Torquia_9_3_3 = {
+                b_Torquia_8_3_3 = {
                     province = 1217
                     color = { 134 82 167 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_3_2 = {
+                b_Torquia_8_3_2 = {
                     province = 1219
                     color = { 132 80 165 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_3_1 = {
+                b_Torquia_8_3_1 = {
                     province = 1222
                     color = { 130 78 163 }
                     color2 = { 255 255 255 }
                 }
             }
 
-            c_Torquia_9_2 = {
+            c_Torquia_8_2 = {
                 color = { 153 102 185 }
                 color2 = { 255 255 255 }
 
-                b_Torquia_9_2_4 = {
+                b_Torquia_8_2_4 = {
                     province = 1218
                     color = { 153 102 185 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_2_2 = {
+                b_Torquia_8_2_2 = {
                     province = 1220
                     color = { 151 100 183 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_2_1 = {
+                b_Torquia_8_2_1 = {
                     province = 1221
                     color = { 149 98 181 }
                     color2 = { 255 255 255 }
                 }
 
-                b_Torquia_9_2_3 = {
+                b_Torquia_8_2_3 = {
                     province = 1223
                     color = { 147 96 179 }
                     color2 = { 255 255 255 }
@@ -11599,299 +11599,210 @@ k_Doria_Norde = {
 
     capital = c_Doria_Norde_1_1
 
-    d_Doria_Norde_8 = {
+    d_Doria_Norde_9 = {
         color = { 215 119 216 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_8_1
+        capital = c_Doria_Norde_9_1
 
-        c_Doria_Norde_8_3 = {
+        c_Doria_Norde_9_3 = {
             color = { 204 109 205 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_8_3_1 = {
+            b_Doria_Norde_9_3_1 = {
                 province = 1376
                 color = { 204 109 205 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_3_1 = {
-                province = 1381
+            b_Doria_Norde_9_3_3 = {
+                province = 1395
                 color = { 202 107 203 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_3_3 = {
-                province = 1382
+            b_Doria_Norde_9_3_4 = {
+                province = 1398
                 color = { 200 105 201 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_3_4 = {
-                province = 1383
-                color = { 198 103 199 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_3_2 = {
-                province = 1385
-                color = { 196 101 197 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_3_3 = {
-                province = 1395
-                color = { 194 99 195 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_3_4 = {
-                province = 1398
-                color = { 192 97 193 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_3_2 = {
+            b_Doria_Norde_9_3_2 = {
                 province = 1410
-                color = { 190 95 191 }
+                color = { 198 103 199 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_8_1 = {
+        c_Doria_Norde_9_1 = {
             color = { 215 119 216 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_8_1_1 = {
+            b_Doria_Norde_9_1_1 = {
                 province = 1379
                 color = { 215 119 216 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_1_3 = {
+            b_Doria_Norde_9_1_3 = {
                 province = 1380
                 color = { 213 117 214 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_1_3 = {
-                province = 1386
+            b_Doria_Norde_9_1_4 = {
+                province = 1409
                 color = { 211 115 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_1_2 = {
-                province = 1387
+            b_Doria_Norde_9_1_2 = {
+                province = 1457
                 color = { 209 113 210 }
                 color2 = { 255 255 255 }
             }
-
-            b_Doria_Norde_8_1_1 = {
-                province = 1388
-                color = { 207 111 208 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_1_4 = {
-                province = 1409
-                color = { 205 109 206 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_1_2 = {
-                province = 1457
-                color = { 203 107 204 }
-                color2 = { 255 255 255 }
-            }
         }
 
-        c_Doria_Norde_8_4 = {
-            color = { 214 139 227 }
+        c_Doria_Norde_9_2 = {
+            color = { 216 131 217 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_8_4_1 = {
-                province = 1384
-                color = { 214 139 227 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_4_2 = {
-                province = 1392
-                color = { 212 137 225 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_4_4 = {
-                province = 1393
-                color = { 210 135 223 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_4_3 = {
-                province = 1394
-                color = { 208 133 221 }
-                color2 = { 255 255 255 }
-            }
-        }
-
-        c_Doria_Norde_8_2 = {
-            color = { 204 129 217 }
-            color2 = { 255 255 255 }
-
-            b_Doria_Norde_8_2_1 = {
-                province = 1389
-                color = { 204 129 217 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_2_3 = {
-                province = 1390
-                color = { 202 127 215 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_2_2 = {
-                province = 1391
-                color = { 200 125 213 }
-                color2 = { 255 255 255 }
-            }
-
-            b_Doria_Norde_8_2_4 = {
+            b_Doria_Norde_9_2_4 = {
                 province = 1411
-                color = { 198 123 211 }
+                color = { 216 131 217 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_2_2 = {
+            b_Doria_Norde_9_2_2 = {
                 province = 1451
-                color = { 196 121 209 }
+                color = { 214 129 215 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_2_3 = {
+            b_Doria_Norde_9_2_3 = {
                 province = 1452
-                color = { 194 119 207 }
+                color = { 212 127 213 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_8_2_1 = {
+            b_Doria_Norde_9_2_1 = {
                 province = 1458
-                color = { 192 117 205 }
+                color = { 210 125 211 }
                 color2 = { 255 255 255 }
             }
         }
     }
 
-    d_Doria_Norde_5 = {
+    d_Doria_Norde_6 = {
         color = { 219 105 233 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_5_1
+        capital = c_Doria_Norde_6_1
 
-        c_Doria_Norde_5_3 = {
+        c_Doria_Norde_6_3 = {
             color = { 210 96 224 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_5_3_2 = {
+            b_Doria_Norde_6_3_2 = {
                 province = 1377
                 color = { 210 96 224 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_3_4 = {
+            b_Doria_Norde_6_3_4 = {
                 province = 1378
                 color = { 208 94 222 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_3_1 = {
+            b_Doria_Norde_6_3_1 = {
                 province = 1482
                 color = { 206 92 220 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_3_3 = {
+            b_Doria_Norde_6_3_3 = {
                 province = 1489
                 color = { 204 90 218 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_5_1 = {
+        c_Doria_Norde_6_1 = {
             color = { 216 121 228 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_5_1_4 = {
+            b_Doria_Norde_6_1_4 = {
                 province = 1480
                 color = { 216 121 228 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_1_2 = {
+            b_Doria_Norde_6_1_2 = {
                 province = 1481
                 color = { 214 119 226 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_1_1 = {
+            b_Doria_Norde_6_1_1 = {
                 province = 1483
                 color = { 212 117 224 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_1_3 = {
+            b_Doria_Norde_6_1_3 = {
                 province = 1488
                 color = { 210 115 222 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_5_2 = {
+        c_Doria_Norde_6_2 = {
             color = { 219 105 233 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_5_2_2 = {
+            b_Doria_Norde_6_2_2 = {
                 province = 1485
                 color = { 219 105 233 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_2_1 = {
+            b_Doria_Norde_6_2_1 = {
                 province = 1486
                 color = { 217 103 231 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_2_3 = {
+            b_Doria_Norde_6_2_3 = {
                 province = 1487
                 color = { 215 101 229 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_5_4 = {
+        c_Doria_Norde_6_4 = {
             color = { 225 122 238 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_5_4_1 = {
+            b_Doria_Norde_6_4_1 = {
                 province = 1490
                 color = { 225 122 238 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_4_2 = {
+            b_Doria_Norde_6_4_2 = {
                 province = 1491
                 color = { 223 120 236 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_4_4 = {
+            b_Doria_Norde_6_4_4 = {
                 province = 1492
                 color = { 221 118 234 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_5_4_3 = {
+            b_Doria_Norde_6_4_3 = {
                 province = 1493
                 color = { 219 116 232 }
                 color2 = { 255 255 255 }
@@ -11899,93 +11810,204 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_9 = {
+    d_Doria_Norde_1 = {
+        color = { 214 139 227 }
+        color2 = { 255 255 255 }
+
+        capital = c_Doria_Norde_1_1
+
+        c_Doria_Norde_1_3 = {
+            color = { 209 125 224 }
+            color2 = { 255 255 255 }
+
+            b_Doria_Norde_1_3_1 = {
+                province = 1381
+                color = { 209 125 224 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_3_3 = {
+                province = 1382
+                color = { 207 123 222 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_3_4 = {
+                province = 1383
+                color = { 205 121 220 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_3_2 = {
+                province = 1385
+                color = { 203 119 218 }
+                color2 = { 255 255 255 }
+            }
+        }
+
+        c_Doria_Norde_1_4 = {
+            color = { 214 139 227 }
+            color2 = { 255 255 255 }
+
+            b_Doria_Norde_1_4_1 = {
+                province = 1384
+                color = { 214 139 227 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_4_2 = {
+                province = 1392
+                color = { 212 137 225 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_4_4 = {
+                province = 1393
+                color = { 210 135 223 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_4_3 = {
+                province = 1394
+                color = { 208 133 221 }
+                color2 = { 255 255 255 }
+            }
+        }
+
+        c_Doria_Norde_1_1 = {
+            color = { 219 147 232 }
+            color2 = { 255 255 255 }
+
+            b_Doria_Norde_1_1_3 = {
+                province = 1386
+                color = { 219 147 232 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_1_2 = {
+                province = 1387
+                color = { 217 145 230 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_1_1 = {
+                province = 1388
+                color = { 215 143 228 }
+                color2 = { 255 255 255 }
+            }
+        }
+
+        c_Doria_Norde_1_2 = {
+            color = { 204 129 217 }
+            color2 = { 255 255 255 }
+
+            b_Doria_Norde_1_2_1 = {
+                province = 1389
+                color = { 204 129 217 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_2_3 = {
+                province = 1390
+                color = { 202 127 215 }
+                color2 = { 255 255 255 }
+            }
+
+            b_Doria_Norde_1_2_2 = {
+                province = 1391
+                color = { 200 125 213 }
+                color2 = { 255 255 255 }
+            }
+        }
+    }
+
+    d_Doria_Norde_10 = {
         color = { 221 108 223 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_9_1
+        capital = c_Doria_Norde_10_1
 
-        c_Doria_Norde_9_1 = {
+        c_Doria_Norde_10_1 = {
             color = { 221 108 223 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_9_1_2 = {
+            b_Doria_Norde_10_1_2 = {
                 province = 1396
                 color = { 221 108 223 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_1_4 = {
+            b_Doria_Norde_10_1_4 = {
                 province = 1400
                 color = { 219 106 221 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_1_1 = {
+            b_Doria_Norde_10_1_1 = {
                 province = 1440
                 color = { 217 104 219 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_1_3 = {
+            b_Doria_Norde_10_1_3 = {
                 province = 1448
                 color = { 215 102 217 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_9_3 = {
+        c_Doria_Norde_10_3 = {
             color = { 196 87 198 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_9_3_4 = {
+            b_Doria_Norde_10_3_4 = {
                 province = 1397
                 color = { 196 87 198 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_3_1 = {
+            b_Doria_Norde_10_3_1 = {
                 province = 1402
                 color = { 194 85 196 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_3_2 = {
+            b_Doria_Norde_10_3_2 = {
                 province = 1405
                 color = { 192 83 194 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_3_3 = {
+            b_Doria_Norde_10_3_3 = {
                 province = 1407
                 color = { 190 81 192 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_9_2 = {
+        c_Doria_Norde_10_2 = {
             color = { 210 93 212 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_9_2_1 = {
+            b_Doria_Norde_10_2_1 = {
                 province = 1399
                 color = { 210 93 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_2_3 = {
+            b_Doria_Norde_10_2_3 = {
                 province = 1401
                 color = { 208 91 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_2_2 = {
+            b_Doria_Norde_10_2_2 = {
                 province = 1403
                 color = { 206 89 208 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_9_2_4 = {
+            b_Doria_Norde_10_2_4 = {
                 province = 1404
                 color = { 204 87 206 }
                 color2 = { 255 255 255 }
@@ -11993,110 +12015,110 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_2 = {
+    d_Doria_Norde_3 = {
         color = { 199 119 210 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_2_1
+        capital = c_Doria_Norde_3_1
 
-        c_Doria_Norde_2_2 = {
+        c_Doria_Norde_3_2 = {
             color = { 206 131 216 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_2_2_1 = {
+            b_Doria_Norde_3_2_1 = {
                 province = 1406
                 color = { 206 131 216 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_2_2 = {
+            b_Doria_Norde_3_2_2 = {
                 province = 1414
                 color = { 204 129 214 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_2_3 = {
+            b_Doria_Norde_3_2_3 = {
                 province = 1415
                 color = { 202 127 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_2_4 = {
+            b_Doria_Norde_3_2_4 = {
                 province = 1416
                 color = { 200 125 210 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_2_1 = {
+        c_Doria_Norde_3_1 = {
             color = { 199 119 210 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_2_1_2 = {
+            b_Doria_Norde_3_1_2 = {
                 province = 1455
                 color = { 199 119 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_1_1 = {
+            b_Doria_Norde_3_1_1 = {
                 province = 1456
                 color = { 197 117 208 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_1_3 = {
+            b_Doria_Norde_3_1_3 = {
                 province = 1459
                 color = { 195 115 206 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_2_4 = {
+        c_Doria_Norde_3_4 = {
             color = { 190 99 202 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_2_4_1 = {
+            b_Doria_Norde_3_4_1 = {
                 province = 1460
                 color = { 190 99 202 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_4_3 = {
+            b_Doria_Norde_3_4_3 = {
                 province = 1461
                 color = { 188 97 200 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_4_2 = {
+            b_Doria_Norde_3_4_2 = {
                 province = 1462
                 color = { 186 95 198 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_2_3 = {
+        c_Doria_Norde_3_3 = {
             color = { 200 109 212 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_2_3_1 = {
+            b_Doria_Norde_3_3_1 = {
                 province = 1463
                 color = { 200 109 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_3_3 = {
+            b_Doria_Norde_3_3_3 = {
                 province = 1464
                 color = { 198 107 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_3_2 = {
+            b_Doria_Norde_3_3_2 = {
                 province = 1465
                 color = { 196 105 208 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_2_3_4 = {
+            b_Doria_Norde_3_3_4 = {
                 province = 1467
                 color = { 194 103 206 }
                 color2 = { 255 255 255 }
@@ -12104,93 +12126,93 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_10 = {
+    d_Doria_Norde_11 = {
         color = { 197 121 207 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_10_1
+        capital = c_Doria_Norde_11_1
 
-        c_Doria_Norde_10_3 = {
+        c_Doria_Norde_11_3 = {
             color = { 202 140 210 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_10_3_4 = {
+            b_Doria_Norde_11_3_4 = {
                 province = 1408
                 color = { 202 140 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_3_2 = {
+            b_Doria_Norde_11_3_2 = {
                 province = 1412
                 color = { 200 138 208 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_3_3 = {
+            b_Doria_Norde_11_3_3 = {
                 province = 1413
                 color = { 198 136 206 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_3_1 = {
+            b_Doria_Norde_11_3_1 = {
                 province = 1446
                 color = { 196 134 204 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_10_2 = {
+        c_Doria_Norde_11_2 = {
             color = { 197 121 207 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_10_2_4 = {
+            b_Doria_Norde_11_2_4 = {
                 province = 1432
                 color = { 197 121 207 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_2_3 = {
+            b_Doria_Norde_11_2_3 = {
                 province = 1433
                 color = { 195 119 205 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_2_1 = {
+            b_Doria_Norde_11_2_1 = {
                 province = 1444
                 color = { 193 117 203 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_2_2 = {
+            b_Doria_Norde_11_2_2 = {
                 province = 1445
                 color = { 191 115 201 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_10_1 = {
+        c_Doria_Norde_11_1 = {
             color = { 192 112 202 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_10_1_4 = {
+            b_Doria_Norde_11_1_4 = {
                 province = 1434
                 color = { 192 112 202 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_1_2 = {
+            b_Doria_Norde_11_1_2 = {
                 province = 1435
                 color = { 190 110 200 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_1_1 = {
+            b_Doria_Norde_11_1_1 = {
                 province = 1436
                 color = { 188 108 198 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_10_1_3 = {
+            b_Doria_Norde_11_1_3 = {
                 province = 1441
                 color = { 186 106 196 }
                 color2 = { 255 255 255 }
@@ -12198,116 +12220,116 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_4 = {
+    d_Doria_Norde_5 = {
         color = { 215 130 226 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_4_1
+        capital = c_Doria_Norde_5_1
 
-        c_Doria_Norde_4_2 = {
+        c_Doria_Norde_5_2 = {
             color = { 205 119 216 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_4_2_1 = {
+            b_Doria_Norde_5_2_1 = {
                 province = 1417
                 color = { 205 119 216 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_2_2 = {
+            b_Doria_Norde_5_2_2 = {
                 province = 1418
                 color = { 203 117 214 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_2_4 = {
+            b_Doria_Norde_5_2_4 = {
                 province = 1419
                 color = { 201 115 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_2_3 = {
+            b_Doria_Norde_5_2_3 = {
                 province = 1431
                 color = { 199 113 210 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_4_4 = {
+        c_Doria_Norde_5_4 = {
             color = { 207 119 219 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_4_4_1 = {
+            b_Doria_Norde_5_4_1 = {
                 province = 1512
                 color = { 207 119 219 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_4_3 = {
+            b_Doria_Norde_5_4_3 = {
                 province = 1513
                 color = { 205 117 217 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_4_2 = {
+            b_Doria_Norde_5_4_2 = {
                 province = 1535
                 color = { 203 115 215 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_4_1 = {
+        c_Doria_Norde_5_1 = {
             color = { 220 143 230 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_4_1_1 = {
+            b_Doria_Norde_5_1_1 = {
                 province = 1524
                 color = { 220 143 230 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_1_3 = {
+            b_Doria_Norde_5_1_3 = {
                 province = 1525
                 color = { 218 141 228 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_1_4 = {
+            b_Doria_Norde_5_1_4 = {
                 province = 1526
                 color = { 216 139 226 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_1_2 = {
+            b_Doria_Norde_5_1_2 = {
                 province = 1527
                 color = { 214 137 224 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_4_3 = {
+        c_Doria_Norde_5_3 = {
             color = { 215 130 226 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_4_3_2 = {
+            b_Doria_Norde_5_3_2 = {
                 province = 1528
                 color = { 215 130 226 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_3_1 = {
+            b_Doria_Norde_5_3_1 = {
                 province = 1529
                 color = { 213 128 224 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_3_3 = {
+            b_Doria_Norde_5_3_3 = {
                 province = 1530
                 color = { 211 126 222 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_4_3_4 = {
+            b_Doria_Norde_5_3_4 = {
                 province = 1531
                 color = { 209 124 220 }
                 color2 = { 255 255 255 }
@@ -12315,116 +12337,116 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_6 = {
+    d_Doria_Norde_7 = {
         color = { 230 147 241 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_6_1
+        capital = c_Doria_Norde_7_1
 
-        c_Doria_Norde_6_1 = {
+        c_Doria_Norde_7_1 = {
             color = { 235 157 245 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_6_1_1 = {
+            b_Doria_Norde_7_1_1 = {
                 province = 1420
                 color = { 235 157 245 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_1_2 = {
+            b_Doria_Norde_7_1_2 = {
                 province = 1421
                 color = { 233 155 243 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_1_4 = {
+            b_Doria_Norde_7_1_4 = {
                 province = 1423
                 color = { 231 153 241 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_1_5 = {
+            b_Doria_Norde_7_1_5 = {
                 province = 1425
                 color = { 229 151 239 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_1_3 = {
+            b_Doria_Norde_7_1_3 = {
                 province = 1426
                 color = { 227 149 237 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_6_2 = {
+        c_Doria_Norde_7_2 = {
             color = { 230 147 241 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_6_2_2 = {
+            b_Doria_Norde_7_2_2 = {
                 province = 1429
                 color = { 230 147 241 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_2_4 = {
+            b_Doria_Norde_7_2_4 = {
                 province = 1450
                 color = { 228 145 239 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_2_3 = {
+            b_Doria_Norde_7_2_3 = {
                 province = 1453
                 color = { 226 143 237 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_2_1 = {
+            b_Doria_Norde_7_2_1 = {
                 province = 1454
                 color = { 224 141 235 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_6_3 = {
+        c_Doria_Norde_7_3 = {
             color = { 222 138 233 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_6_3_1 = {
+            b_Doria_Norde_7_3_1 = {
                 province = 1438
                 color = { 222 138 233 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_3_3 = {
+            b_Doria_Norde_7_3_3 = {
                 province = 1442
                 color = { 220 136 231 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_3_2 = {
+            b_Doria_Norde_7_3_2 = {
                 province = 1443
                 color = { 218 134 229 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_6_4 = {
+        c_Doria_Norde_7_4 = {
             color = { 215 132 226 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_6_4_1 = {
+            b_Doria_Norde_7_4_1 = {
                 province = 1439
                 color = { 215 132 226 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_4_3 = {
+            b_Doria_Norde_7_4_3 = {
                 province = 1447
                 color = { 213 130 224 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_6_4_2 = {
+            b_Doria_Norde_7_4_2 = {
                 province = 1449
                 color = { 211 128 222 }
                 color2 = { 255 255 255 }
@@ -12432,122 +12454,122 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_3 = {
+    d_Doria_Norde_4 = {
         color = { 208 107 222 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_3_1
+        capital = c_Doria_Norde_4_1
 
-        c_Doria_Norde_3_3 = {
+        c_Doria_Norde_4_3 = {
             color = { 218 127 231 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_3_3_3 = {
+            b_Doria_Norde_4_3_3 = {
                 province = 1422
                 color = { 218 127 231 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_3_4 = {
+            b_Doria_Norde_4_3_4 = {
                 province = 1430
                 color = { 216 125 229 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_3_1 = {
+            b_Doria_Norde_4_3_1 = {
                 province = 1466
                 color = { 214 123 227 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_3_2 = {
+            b_Doria_Norde_4_3_2 = {
                 province = 1471
                 color = { 212 121 225 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_3_1 = {
+        c_Doria_Norde_4_1 = {
             color = { 199 98 213 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_3_1_1 = {
+            b_Doria_Norde_4_1_1 = {
                 province = 1468
                 color = { 199 98 213 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_1_2 = {
+            b_Doria_Norde_4_1_2 = {
                 province = 1470
                 color = { 197 96 211 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_1_3 = {
+            b_Doria_Norde_4_1_3 = {
                 province = 1476
                 color = { 195 94 209 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_1_4 = {
+            b_Doria_Norde_4_1_4 = {
                 province = 1477
                 color = { 193 92 207 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_3_2 = {
+        c_Doria_Norde_4_2 = {
             color = { 208 107 222 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_3_2_1 = {
+            b_Doria_Norde_4_2_1 = {
                 province = 1469
                 color = { 208 107 222 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_2_3 = {
+            b_Doria_Norde_4_2_3 = {
                 province = 1472
                 color = { 206 105 220 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_2_2 = {
+            b_Doria_Norde_4_2_2 = {
                 province = 1479
                 color = { 204 103 218 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_2_4 = {
+            b_Doria_Norde_4_2_4 = {
                 province = 1484
                 color = { 202 101 216 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_3_4 = {
+        c_Doria_Norde_4_4 = {
             color = { 197 112 209 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_3_4_2 = {
+            b_Doria_Norde_4_4_2 = {
                 province = 1473
                 color = { 197 112 209 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_4_3 = {
+            b_Doria_Norde_4_4_3 = {
                 province = 1474
                 color = { 195 110 207 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_4_1 = {
+            b_Doria_Norde_4_4_1 = {
                 province = 1475
                 color = { 193 108 205 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_3_4_4 = {
+            b_Doria_Norde_4_4_4 = {
                 province = 1478
                 color = { 191 106 203 }
                 color2 = { 255 255 255 }
@@ -12555,116 +12577,116 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_7 = {
+    d_Doria_Norde_8 = {
         color = { 215 146 224 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_7_1
+        capital = c_Doria_Norde_8_1
 
-        c_Doria_Norde_7_2 = {
+        c_Doria_Norde_8_2 = {
             color = { 205 137 214 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_7_2_1 = {
+            b_Doria_Norde_8_2_1 = {
                 province = 1424
                 color = { 205 137 214 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_2_2 = {
+            b_Doria_Norde_8_2_2 = {
                 province = 1427
                 color = { 203 135 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_2_3 = {
+            b_Doria_Norde_8_2_3 = {
                 province = 1428
                 color = { 201 133 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_2_4 = {
+            b_Doria_Norde_8_2_4 = {
                 province = 1437
                 color = { 199 131 208 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_7_1 = {
+        c_Doria_Norde_8_1 = {
             color = { 202 144 210 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_7_1_2 = {
+            b_Doria_Norde_8_1_2 = {
                 province = 1514
                 color = { 202 144 210 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_1_4 = {
+            b_Doria_Norde_8_1_4 = {
                 province = 1515
                 color = { 200 142 208 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_1_3 = {
+            b_Doria_Norde_8_1_3 = {
                 province = 1533
                 color = { 198 140 206 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_1_1 = {
+            b_Doria_Norde_8_1_1 = {
                 province = 1534
                 color = { 196 138 204 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_7_4 = {
+        c_Doria_Norde_8_4 = {
             color = { 207 132 217 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_7_4_4 = {
+            b_Doria_Norde_8_4_4 = {
                 province = 1516
                 color = { 207 132 217 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_4_1 = {
+            b_Doria_Norde_8_4_1 = {
                 province = 1517
                 color = { 205 130 215 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_4_3 = {
+            b_Doria_Norde_8_4_3 = {
                 province = 1519
                 color = { 203 128 213 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_4_2 = {
+            b_Doria_Norde_8_4_2 = {
                 province = 1520
                 color = { 201 126 211 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_7_3 = {
+        c_Doria_Norde_8_3 = {
             color = { 215 146 224 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_7_3_2 = {
+            b_Doria_Norde_8_3_2 = {
                 province = 1518
                 color = { 215 146 224 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_3_3 = {
+            b_Doria_Norde_8_3_3 = {
                 province = 1521
                 color = { 213 144 222 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_7_3_1 = {
+            b_Doria_Norde_8_3_1 = {
                 province = 1532
                 color = { 211 142 220 }
                 color2 = { 255 255 255 }
@@ -12672,122 +12694,122 @@ k_Doria_Norde = {
         }
     }
 
-    d_Doria_Norde_1 = {
+    d_Doria_Norde_2 = {
         color = { 226 167 234 }
         color2 = { 255 255 255 }
 
-        capital = c_Doria_Norde_1_1
+        capital = c_Doria_Norde_2_1
 
-        c_Doria_Norde_1_1 = {
+        c_Doria_Norde_2_1 = {
             color = { 236 188 242 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_1_1_4 = {
+            b_Doria_Norde_2_1_4 = {
                 province = 1494
                 color = { 236 188 242 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_1_2 = {
+            b_Doria_Norde_2_1_2 = {
                 province = 1495
                 color = { 234 186 240 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_1_1 = {
+            b_Doria_Norde_2_1_1 = {
                 province = 1496
                 color = { 232 184 238 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_1_3 = {
+            b_Doria_Norde_2_1_3 = {
                 province = 1498
                 color = { 230 182 236 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_1_3 = {
+        c_Doria_Norde_2_3 = {
             color = { 208 146 216 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_1_3_1 = {
+            b_Doria_Norde_2_3_1 = {
                 province = 1497
                 color = { 208 146 216 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_3_3 = {
+            b_Doria_Norde_2_3_3 = {
                 province = 1500
                 color = { 206 144 214 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_3_4 = {
+            b_Doria_Norde_2_3_4 = {
                 province = 1504
                 color = { 204 142 212 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_3_2 = {
+            b_Doria_Norde_2_3_2 = {
                 province = 1506
                 color = { 202 140 210 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_1_2 = {
+        c_Doria_Norde_2_2 = {
             color = { 226 167 234 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_1_2_1 = {
+            b_Doria_Norde_2_2_1 = {
                 province = 1499
                 color = { 226 167 234 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_2_2 = {
+            b_Doria_Norde_2_2_2 = {
                 province = 1501
                 color = { 224 165 232 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_2_4 = {
+            b_Doria_Norde_2_2_4 = {
                 province = 1502
                 color = { 222 163 230 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_2_3 = {
+            b_Doria_Norde_2_2_3 = {
                 province = 1503
                 color = { 220 161 228 }
                 color2 = { 255 255 255 }
             }
         }
 
-        c_Doria_Norde_1_4 = {
+        c_Doria_Norde_2_4 = {
             color = { 216 154 225 }
             color2 = { 255 255 255 }
 
-            b_Doria_Norde_1_4_1 = {
+            b_Doria_Norde_2_4_1 = {
                 province = 1505
                 color = { 216 154 225 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_4_2 = {
+            b_Doria_Norde_2_4_2 = {
                 province = 1507
                 color = { 214 152 223 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_4_3 = {
+            b_Doria_Norde_2_4_3 = {
                 province = 1522
                 color = { 212 150 221 }
                 color2 = { 255 255 255 }
             }
 
-            b_Doria_Norde_1_4_4 = {
+            b_Doria_Norde_2_4_4 = {
                 province = 1523
                 color = { 210 148 219 }
                 color2 = { 255 255 255 }
