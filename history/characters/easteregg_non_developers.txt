@@ -10,6 +10,9 @@ easteregg_joel_hansson_father = {
 	1010.2.7 = {
 		birth=yes
 	}
+	# 1063.1.1 = {
+	# 	employer = 168643 #Skåne
+	# }
 	1063.9.16 = {
 		death="1063.9.16"
 	}
@@ -41,11 +44,10 @@ easteregg_alexia_belfort = {
 	trait = calm
 
 	# Congenital
-	trait = intellect_good_1
+	trait = shrewd
 	trait = beauty_good_1
 
 	# Lifestyle
-	trait = mystic_2 # Wanted 3
 	trait = lifestyle_herbalist
 
 	# Other
@@ -59,6 +61,21 @@ easteregg_alexia_belfort = {
 			add_character_flag = has_scripted_appearance
 		}
 		give_nickname = nick_the_transcriber
+	}
+	1066.1.1 = {
+		# employer = 210 # Burgundy
+		effect = {
+            add_trait = lifestyle_mystic
+            add_trait_xp = {
+                trait = lifestyle_mystic
+                value = {
+                    integer_range = {
+                        min = small_lifestyle_random_xp_low
+                        max = small_lifestyle_random_xp_high
+                    }
+                }
+            }
+        }
 	}
 	1066.9.16 = {
 		death = "1066.9.16"
