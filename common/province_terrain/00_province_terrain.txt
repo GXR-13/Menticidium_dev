@@ -1991,3 +1991,5 @@ default_coastal_sea=coastal_sea
 #1988=wasteland#IMPASSABLE
 1989=deep_sea
 1990=plains
+#1991=wasteland#IMPASSABLE
+#1992=wasteland#IMPASSABLE
