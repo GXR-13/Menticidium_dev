@@ -1,19 +1,20 @@
-e_maghreb = {
+e_hiria = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	
+}
+
+k_High_hiria = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 }
 
-k_maghreb = {
+d_High_hiria_1 = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 }
 
-d_canarias = {
-	867.1.1 = { change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
-}
-
-c_canarias = {
+c_High_hiria_1_1 = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	767.1.1 = { government = tribal_government }

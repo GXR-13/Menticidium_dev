@@ -1,4 +1,4 @@
-﻿paganism_religion = {
+﻿old_therosian_paganism_religion = {
 	family = rf_pagan
 
 	doctrine = pagan_hostility_doctrine
@@ -211,13 +211,14 @@
 	}	
 
 	faiths = {
-		pagan = {
-			color = { 0.6 0.0 0.0 }
+		old_therosian_pagan = {
+			color = rgb { 20 148 43 }
+			icon = pagan
 			reformed_icon = pagan_reformed
 
 			doctrine = unreformed_faith_doctrine
 
-			holy_site = jenne
+			holy_site = c_High_Hiria_1_1
 
 			#Generic pagan tenets
 			doctrine = tenet_astrology

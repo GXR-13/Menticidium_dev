@@ -12,10 +12,10 @@
 		dynasty_splendor_level = 1
 		type = male
 		birth = 1039.1.1
-		title = c_canarias
+		title = c_High_hiria_1_1
 		government = tribal_government
-		culture = baranis
-		religion = "west_african_pagan"
+		culture = ancient_therosian
+		religion = old_therosian_pagan
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 20842
 		position = { 250 750 }
