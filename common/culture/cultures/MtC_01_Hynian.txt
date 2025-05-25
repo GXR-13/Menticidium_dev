@@ -1,0 +1,87 @@
+#Frindi
+frindi = {
+	color = RGB{ 59 209 130}
+	
+	ethos = ethos_spiritual
+	heritage = heritage_hynian
+	language = language_frindian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_irish
+
+	coa_gfx = { irish_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Old Hirian
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+#Gollowynian
+gollowynian = {
+	color = RGB{ 16 181 109 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_hynian
+	language = language_gollowynian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_welsh
+
+	coa_gfx = { breton_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Old Hirian
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+#Rupnic
+rupnic = {
+	color = RGB{ 28 119 255 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_hynian
+	language = language_dabigsian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_latgalian
+
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Old Hirian
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+

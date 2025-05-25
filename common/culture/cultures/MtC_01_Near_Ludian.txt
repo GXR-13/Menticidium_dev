@@ -1,0 +1,112 @@
+#Noszian
+noszian = {
+	color = RGB{ 226 76 54 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_near_ludian
+	language = language_lower_ludian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_pommeranian
+
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 	
+
+	ethnicities = {#Near Ludian
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+#Ptaskan
+ptaskan = {
+	color = RGB{ 232 116 111 }
+	
+	ethos = ethos_communal
+	heritage = heritage_near_ludian
+	language = language_lower_ludian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_polish
+
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 	
+
+	ethnicities = {#Near Ludian
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+#Iowician
+iowician = {
+	color = RGB{ 216 87 36 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_near_ludian
+	language = language_upper_ludian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_serbian
+
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 	
+
+	ethnicities = {#Near Ludian
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+#Bokojowish
+bokojowish = {
+	color = RGB{ 232 161 69 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_near_ludian
+	language = language_valley_ludian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_czech
+
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 	
+
+	ethnicities = {#Near Ludian
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}

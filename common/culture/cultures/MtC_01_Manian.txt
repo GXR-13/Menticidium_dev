@@ -1,0 +1,246 @@
+#Ancient Manian
+manian = {
+	color = RGB{ 70 140 36 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_manian
+	language = language_nothern_hirian #should be ancient language
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_frankish
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Zurunnish
+zurunnish = {
+	color = RGB{ 90 135 55 }
+	created = 0.1.1
+	parents = { manian }#diverged from acient Manian
+	ethos = ethos_stoic
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_swabian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Gronlander
+gronlander = {
+	color = RGB{ 100 163 95 }
+	created = 0.1.1
+	parents = { zurunnish }#those who left the great woods
+
+	ethos = ethos_courtly
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_franconian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Weisslander
+weisslander = {
+	color = RGB{ 163 196 130 }
+	created = 0.1.1
+	parents = { zurunnish gronlander }#in between greelanders and the stayed
+
+	ethos = ethos_communal
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_bavarian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Fretian
+fretian = {
+	color = RGB{ 205 226 95 }
+	created = 0.1.1
+	parents = { manian }#western branch of manian tribes
+
+	ethos = ethos_stoic
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_frisian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Zuidlander
+zuidlander = {
+	color = RGB{ 198 205 113 }
+	created = 0.1.1
+	parents = { zurunnish fretian }#those who left the great woods, and went further west
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_dutch
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+
+
+#Albennian
+albennnan = {
+	color = RGB{ 179 234 139 }
+	created = 0.1.1
+	parents = { zurunnish unknown1 }#they went south and conquered some those long forgotten
+
+	ethos = ethos_bellicose
+	heritage = heritage_manian
+	language = language_nothern_hirian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_saxon
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#Ostlander
+ostlander = {
+	color = RGB{ 203 204 172 }
+	created = 600.1.1
+	parents = { zurunnish unknown1 }#they went south and conquered some those long forgotten
+
+	ethos = ethos_communal
+	heritage = heritage_manian
+	language = language_nothern_hirian #The bastardized language of Ostlanders
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_saxon
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

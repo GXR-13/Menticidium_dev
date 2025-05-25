@@ -1,5 +1,5 @@
 e_Hiria = {
-    color = { 209 63 44 }
+    color = { 234 234 234 }
     color2 = { 255 255 255 }
 
     capital = c_High_Hiria_1_1

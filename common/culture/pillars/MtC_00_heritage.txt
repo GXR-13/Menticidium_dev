@@ -1,0 +1,99 @@
+heritage_hirian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_hirian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_hynian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_hynian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_dorian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dorian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_banlian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_banlian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_dabigsian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dabigsian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_manian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_manian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_near_ludian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_near_ludian
+		}
+	}
+	audio_parameter = european
+}
+
+Heritage_di = {#"Germany, but Chinese"
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_di
+		}
+	}
+	audio_parameter = european
+}
+
+Heritage_li = {#"English, but Chinese/Japanese"
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_li
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_nanyuan = {#"French/Italian, but Chinese"
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_nanyuan
+		}
+	}
+	audio_parameter = european
+}

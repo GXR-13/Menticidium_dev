@@ -1,19 +1,20 @@
+#Ancient Therosian
 ancient_therosian = {
 	color = rgb { 18 172 47 }
 	
 	ethos = ethos_communal
-	heritage = heritage_brythonic
-	language = language_brythonic
+	heritage = heritage_hynian
+	language = language_goidelic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_fishermen
-		tradition_storytellers
-		tradition_ancient_miners
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
 	}
 	
-	name_list = name_list_cornish
+	name_list = name_list_gaelic
 	
-	coa_gfx = { welsh_coa_gfx }
+	coa_gfx = { irish_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
@@ -24,4 +25,62 @@ ancient_therosian = {
 		35 = caucasian_brown_hair
 		30 = caucasian_dark_hair
 	}
+}
+
+unknown1 = {
+	color = rgb{ 0 0 0 }
+
+	ethos = ethos_stoic
+	heritage = heritage_hynian
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+
+	name_list = name_list_cornish
+
+	coa_gfx = { welsh_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+
+}
+unknown2 = {
+	color = rgb{ 0 0 0 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_hynian
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+		
+	name_list = name_list_pictish
+
+	coa_gfx = { scottish_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+	
 }

@@ -1,0 +1,190 @@
+#Acient Hirian(Occidian)
+
+#High Hirian
+high_hirian = {
+	color = RGB{ 236 231 231 }
+	created = 0.1.1
+	parents = { unknown1 }#diverged from Acient Hirian, also known as Occidian
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Mixture of North and South
+		15 = caucasian_blond
+		15 = caucasian_ginger
+		40 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+#North Hirian
+north_hirian = {
+	color = RGB{ 178 188 172 }
+	created = 0.1.1
+	parents = { manian high_hirian }#merged from acient Manian and High Hirian
+	
+	ethos = ethos_stoic
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Northerners
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+#South Hirian
+south_hirian = {
+	color = RGB{ 193 172 179 }
+	created = 0.1.1
+	parents = { old_banlian high_hirian }#merged from acient Banlian and High Hirian
+	
+	ethos = ethos_courtly
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Green Hirian
+green_hirian = {
+	color = RGB{ 142 157 153 }
+	created = 1.1.1
+	parents = { frindi high_hirian }#Assimilated Fridi
+	
+	ethos = ethos_spiritual
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Old Hirian
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+#Concordian
+concordian = { 
+	color = RGB{ 128 128 128 }
+	created = 1.1.1
+	parents = { unknown1 }#Acient Hirian
+	
+	ethos = ethos_communal
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Old Hirian
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+#Leaguemen
+leaguemen = { 
+	color = RGB{ 161 161 161 }
+	created = 562.1.1
+	parents = { unknown1 unknown2 }#concordian and 'various cultures'
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_hirian
+	language = language_standard_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {#Mixture of many ethnicties
+		10 = caucasian_blond
+		10 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		20 = mediterranean
+	}
+}
+
+#A Created Hirian Culture in Doria?(rename needed)

@@ -1,0 +1,271 @@
+language_standard_hirian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_standard_hirian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_standard_hirian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {185 185 185}
+}
+
+language_court_hirian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_court_hirian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_court_hirian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {236 231 231}
+}
+
+language_nothern_hirian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_nothern_hirian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_nothern_hirian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {70 125 27}
+}
+
+language_inner_southern_hirian = {#Interie Common
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_southern_hirian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_southern_hirian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {162 52 89}
+}
+
+language_outer_southern_hirian = {#Exterie Common
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_outer_southern_hirian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_outer_southern_hirian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {136 60 85}
+}
+
+language_coastal_dorian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_coastal_dorian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_costal_dorian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {159 70 185}
+}
+
+language_inland_dorian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_inland_dorian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_inland_dorian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {190 37 158}
+}
+
+language_gollowynian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gollowynian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gollowynian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {16 181 109}
+}
+
+language_frindian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_frindian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_frindian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {59 209 130}
+}
+
+language_dabigsian= {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dabigsian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dabigsian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {4 81 255}
+}
+
+language_upper_ludian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dolny_ludian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_upper_ludian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {224 82 76}
+}
+
+language_lower_ludian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lower_ludian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lower_ludian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {224 82 76}
+}
+
+language_valley_ludian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_valley_ludian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_valley_ludian }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {232 152 48}
+}
+
+
+
+language_eastern_di = {#翟
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eastern_di
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eastern_di }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {230 199 93}
+}
+
+language_eastern_li = {#离
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eastern_li
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eastern_li }
+			multiply = 10
+		}
+	}
+	
+	color = RGB {215 191 127}
+}

@@ -1,0 +1,183 @@
+#Ancient Banlian
+old_banlian = {
+	color = RGB{ 186 54 100 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_banlian
+	language = language_inner_southern_hirian #should be an old language instead
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_frankish
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Modern Banlian
+banlian = {
+	color = RGB{ 186 54 100 }
+	created = 0.1.1
+	parents = { old_banlian high_hirian }#barbarians got civilized
+
+	ethos = ethos_courtly
+	heritage = heritage_banlian
+	language = language_inner_southern_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_french
+
+	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Platian
+platian = {
+	color = RGB{ 154 68 101 }
+	created = 0.1.1
+	parents = { old_banlian }#barbarians got civilized in a different flavor
+
+	ethos = ethos_egalitarian
+	heritage = heritage_banlian
+	language = language_outer_southern_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_french
+
+	coa_gfx = { occitan_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Gollois
+gollois = {
+	color = RGB{ 216 207 212 }
+	created = 250.1.1
+	parents = { banlian gollowynian }#now the went to civilize others
+
+	ethos = ethos_courtly
+	heritage = heritage_banlian
+	language = language_inner_southern_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_breton
+
+	coa_gfx = { breton_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Suditish
+suditish = {
+	color = RGB{ 189 107 138 }
+	created = 100.1.1
+	parents = { banlian high_hirian }#you can always be more hirian
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_banlian
+	language = language_inner_southern_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_french
+
+	coa_gfx = { norman_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+
+#Cotier
+cotier = {
+	color = RGB{ 191 81 103 }
+	created = 100.1.1
+	parents = { platian ancient_dorian }#they went too far south
+	
+	ethos = ethos_communal
+	heritage = heritage_banlian
+	language = language_outer_southern_hirian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_occitan
+
+	coa_gfx = { occitan_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Southerners
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}

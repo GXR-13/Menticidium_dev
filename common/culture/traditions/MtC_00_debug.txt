@@ -1,0 +1,66 @@
+tradition_placeholder1 = {
+	category = regional
+
+	layers = {
+		0 = intrigue
+		1 = mediterranean
+		4 = placeholder.dds
+	}
+
+	is_shown = { always = no }
+	can_pick = { always = no }
+	can_pick_for_hybridization = { always = no }
+
+	parameters = {
+		
+	}
+
+	cost = { prestige = 300000 }
+
+	ai_will_do = { value = 0 }
+}
+
+tradition_placeholder2 = {
+	category = regional
+
+	layers = {
+		0 = intrigue
+		1 = mediterranean
+		4 = placeholder.dds
+	}
+
+	is_shown = { always = no }
+	can_pick = { always = no }
+	can_pick_for_hybridization = { always = no }
+
+	parameters = {
+		
+	}
+
+	cost = { prestige = 300000 }
+
+	ai_will_do = { value = 0 }
+}
+
+tradition_placeholder3 = {
+	category = regional
+
+	layers = {
+		0 = intrigue
+		1 = mediterranean
+		4 = placeholder.dds
+	}
+
+	is_shown = { always = no }
+	can_pick = { always = no }
+	can_pick_for_hybridization = { always = no }
+
+	parameters = {
+		
+	}
+
+	cost = { prestige = 300000 }
+
+	ai_will_do = { value = 0 }
+}
+

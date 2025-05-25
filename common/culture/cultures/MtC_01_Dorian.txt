@@ -1,0 +1,138 @@
+#Acient_Dorian
+ancient_dorian = {
+    color = RGB{ 159 25 112 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_dorian
+	language = language_coastal_dorian #should be an ancient language instead
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_roman
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Dorian
+		10 = mediterranean
+	}
+}
+
+#Littorian
+littorian = {
+	color = RGB{ 143 35 174 }
+	created = 0.1.1
+	parents = { ancient_dorian }#sea people
+
+	ethos = ethos_spiritual
+	heritage = heritage_dorian
+	language = language_coastal_dorian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_sicilian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Dorian
+		10 = mediterranean
+	}
+}
+
+#Cisfreddian
+cisfreddian = {
+	color = RGB{ 192 98 172 }
+	created = 0.1.1
+	parents = { platian littorian }#influenced by the empire
+
+	ethos = ethos_courtly
+	heritage = heritage_dorian
+	language = language_coastal_dorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_lombard
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Dorian
+		10 = mediterranean
+	}
+}
+
+
+#Transfreddian
+transfreddian = {
+	color = RGB{ 207 32 170 }
+	created = 0.1.1
+	parents = { ancient_dorian }#land people
+
+	ethos = ethos_communal
+	heritage = heritage_dorian
+	language = language_inland_dorian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_cisalpine
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Dorian
+		10 = mediterranean
+	}
+}
+
+#Migrarian
+migrarian = {
+	color = RGB{ 201 52 255 }
+	created = 0.1.1
+	parents = { ancient_dorian }#to the East, cowboys!
+
+	ethos = ethos_bellicose
+	heritage = heritage_dorian
+	language = language_inland_dorian 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_placeholder1
+		tradition_placeholder2
+		tradition_placeholder3
+	}
+	
+	name_list = name_list_sardinian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+
+	ethnicities = {#Dorian
+		10 = mediterranean
+	}
+}
