@@ -1,0 +1,43 @@
+#k_Despotic_Dwilia
+##d_Despotic_Dwilia_1
+###c_Despotic_Dwilia_1_2
+1713 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1714 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+###c_Despotic_Dwilia_1_1
+1715 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1716 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1717 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+###c_Despotic_Dwilia_1_3
+1718 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1719 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1720 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+

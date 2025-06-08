@@ -1,0 +1,388 @@
+#k_Gollowyn
+##d_Gollowyn_1
+###c_Gollowyn_1_4
+16 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+778 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+779 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+780 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_1_1
+785 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+786 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+787 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_1_3
+788 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+789 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+790 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+791 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_1_2
+807 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+827 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+831 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+832 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+##d_Gollowyn_6
+###c_Gollowyn_6_1
+781 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+782 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+783 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_6_3
+784 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+844 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+845 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_6_2
+840 = {
+    culture = gollois
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+841 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+842 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_6_4
+846 = {
+    culture = gollois
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+847 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+1036 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+
+##d_Gollowyn_2
+###c_Gollowyn_2_1
+792 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+793 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+801 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_2_2
+794 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+818 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+830 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_2_3
+802 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+816 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+817 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+819 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_2_4
+820 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+821 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+822 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+##d_Gollowyn_4
+###c_Gollowyn_4_1
+795 = {
+    culture = gollois
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+796 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+797 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+800 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_4_4
+798 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+799 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+843 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_4_2
+833 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+848 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+849 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+851 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_4_3
+837 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+852 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+853 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+##d_Gollowyn_3
+###c_Gollowyn_3_1
+803 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+804 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+806 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_3_2
+805 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+814 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+815 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_3_3
+808 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+809 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+813 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+##d_Gollowyn_5
+###c_Gollowyn_5_2
+810 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+811 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+812 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+834 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_5_1
+823 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+824 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+825 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+850 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_5_3
+826 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+828 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+829 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+835 = {
+    culture = gollowynian
+    religion = old_therosian_pagan
+}
+
+###c_Gollowyn_5_4
+836 = {
+    culture = gollois
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+838 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+839 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+

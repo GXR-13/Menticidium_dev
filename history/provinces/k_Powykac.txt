@@ -1,0 +1,143 @@
+#k_Powykac
+##d_Powykac_2
+###c_Powykac_2_4
+1721 = {
+    culture = bokojowish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1722 = {
+    culture = bokojowish
+    religion = old_therosian_pagan
+}
+1725 = {
+    culture = bokojowish
+    religion = old_therosian_pagan
+}
+1727 = {
+    culture = bokojowish
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_2_1
+1723 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1724 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1726 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_2_3
+1728 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1729 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1730 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1733 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_2_2
+1732 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1734 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1742 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1743 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+##d_Powykac_1
+###c_Powykac_1_4
+1735 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1736 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1741 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_1_2
+1737 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1738 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1740 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1748 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_1_1
+1739 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1744 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1745 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1749 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+
+###c_Powykac_1_3
+1746 = {
+    culture = noszian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1747 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+1750 = {
+    culture = noszian
+    religion = old_therosian_pagan
+}
+

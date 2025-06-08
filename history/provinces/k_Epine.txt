@@ -1,0 +1,277 @@
+#k_Epine
+##d_Epine_2
+###c_Epine_2_3
+15 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1011 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1012 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_2_2
+1013 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1014 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1015 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_2_1
+1016 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1020 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1021 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+##d_Epine_4
+###c_Epine_4_4
+886 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1054 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1055 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_4_1
+1043 = {
+    culture = south_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1044 = {
+    culture = south_hirian
+    religion = old_therosian_pagan
+}
+1047 = {
+    culture = south_hirian
+    religion = old_therosian_pagan
+}
+1050 = {
+    culture = south_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_4_2
+1045 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1046 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1048 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_4_3
+1049 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1051 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1052 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1053 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+##d_Epine_1
+###c_Epine_1_4
+1017 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1026 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1027 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_1_2
+1018 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1019 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1022 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_1_1
+1023 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1024 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1025 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_1_3
+1029 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1030 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1031 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+##d_Epine_3
+###c_Epine_3_1
+1028 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1032 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1033 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1034 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_3_3
+1035 = {
+    culture = gollois
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1040 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+1041 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+1042 = {
+    culture = gollois
+    religion = old_therosian_pagan
+}
+
+###c_Epine_3_2
+1037 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1038 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1039 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+##d_Epine_5
+###c_Epine_5_3
+1056 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1058 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1061 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_5_2
+1057 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1059 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1060 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Epine_5_1
+1062 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1063 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1064 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+

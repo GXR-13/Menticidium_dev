@@ -1,0 +1,396 @@
+#k_Waltenland
+##d_Waltenland_5
+###c_Waltenland_5_3
+7 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+396 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+397 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_5_4
+398 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+399 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+400 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_5_1
+401 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+422 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+424 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_5_2
+402 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+403 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+404 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+##d_Waltenland_6
+###c_Waltenland_6_1
+405 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+412 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+413 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+414 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_6_4
+406 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+407 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+448 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+449 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_6_2
+408 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+410 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+411 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+446 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_6_3
+438 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+447 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+450 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+##d_Waltenland_4
+###c_Waltenland_4_3
+409 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+417 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+427 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+452 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_4_2
+423 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+443 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+444 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_4_1
+435 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+436 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+442 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_4_4
+439 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+440 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+441 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+##d_Waltenland_2
+###c_Waltenland_2_2
+415 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+455 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+458 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+461 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_2_4
+416 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+418 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+419 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+420 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_2_3
+437 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+451 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+453 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+454 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_2_1
+456 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+457 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+459 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+460 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+##d_Waltenland_3
+###c_Waltenland_3_3
+421 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+466 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+467 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_3_1
+462 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+463 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+464 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+465 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_3_2
+468 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+469 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+470 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+472 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_3_4
+471 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+473 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+474 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+##d_Waltenland_1
+###c_Waltenland_1_3
+425 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+426 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+445 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_1_1
+428 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+429 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+430 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+431 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Waltenland_1_2
+432 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+433 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+434 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+

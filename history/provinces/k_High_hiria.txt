@@ -1,0 +1,97 @@
+#k_High_hiria
+##d_High_hiria_1
+###c_High_hiria_1_3
+1 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+19 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+20 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+21 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+22 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+23 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+
+###c_High_hiria_1_2
+24 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+25 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+26 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+27 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+
+###c_High_hiria_1_5
+28 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+29 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+30 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+
+###c_High_hiria_1_4
+31 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+33 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+36 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+
+###c_High_hiria_1_1
+32 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+34 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+35 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+37 = {
+    culture = high_hirian
+    religion = old_therosian_pagan
+}
+

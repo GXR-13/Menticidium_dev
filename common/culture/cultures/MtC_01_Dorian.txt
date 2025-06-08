@@ -1,4 +1,4 @@
-#Acient_Dorian
+#ancient_Dorian
 ancient_dorian = {
     color = RGB{ 159 25 112 }
 	

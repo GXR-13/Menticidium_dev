@@ -1,0 +1,392 @@
+#k_Dejois
+##d_Dejois_3
+###c_Dejois_3_3
+14 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1123 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1126 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_3_4
+1124 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1131 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1136 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1139 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_3_2
+1125 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1127 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1135 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1138 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_3_1
+1143 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1174 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1175 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+##d_Dejois_1
+###c_Dejois_1_3
+1128 = {
+    culture = banlian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1129 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+1132 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_1_4
+1130 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1134 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1144 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_1_1
+1145 = {
+    culture = banlian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1146 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+1147 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+1148 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_1_2
+1149 = {
+    culture = banlian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1150 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+1151 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+1152 = {
+    culture = banlian
+    religion = old_therosian_pagan
+}
+
+##d_Dejois_4
+###c_Dejois_4_2
+1133 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1176 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1177 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1178 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_4_5
+1140 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1183 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1192 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_4_3
+1141 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1142 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1179 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1180 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_4_1
+1158 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1166 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1167 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1168 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_4_4
+1171 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1172 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1173 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1187 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+##d_Dejois_2
+###c_Dejois_2_1
+1153 = {
+    culture = platian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1154 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+1155 = {
+    culture = platian
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_2_2
+1156 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1157 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1160 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1161 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_2_3
+1159 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1162 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1163 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1164 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_2_4
+1165 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1169 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1170 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+##d_Dejois_5
+###c_Dejois_5_1
+1185 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1186 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1188 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1189 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_5_2
+1191 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1193 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1194 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1195 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_5_5
+1196 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1199 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1201 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_5_4
+1197 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1198 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1200 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Dejois_5_3
+1202 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1203 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1204 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1205 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+1206 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+

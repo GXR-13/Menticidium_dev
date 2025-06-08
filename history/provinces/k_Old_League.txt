@@ -1,0 +1,275 @@
+#k_Old_League
+##d_Old_League_4
+###c_Old_League_4_3
+3 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+###c_Old_League_4_4
+38 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+42 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_4_1
+43 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+68 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+71 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+72 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_4_2
+69 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+70 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+73 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+##d_Old_League_3
+###c_Old_League_3_6
+39 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+40 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_3_5
+41 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+61 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+62 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_3_4
+44 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+45 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+60 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_3_1
+52 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+53 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+58 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_3_3
+54 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+55 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+56 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_3_2
+59 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+63 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+64 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+##d_Old_League_2
+###c_Old_League_2_3
+46 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+47 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+48 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+49 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+83 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_2_5
+74 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+75 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+76 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_2_4
+77 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+78 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+90 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_2_1
+82 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+85 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+86 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+87 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_2_2
+84 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+88 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+89 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+##d_Old_League_1
+###c_Old_League_1_1
+50 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+51 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+57 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+65 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_1_3
+66 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+67 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+80 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+
+###c_Old_League_1_2
+79 = {
+    culture = concordian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+81 = {
+    culture = concordian
+    religion = old_therosian_pagan
+}
+

@@ -1,0 +1,313 @@
+#k_Kollon
+##d_Kollon_3
+###c_Kollon_3_2
+9 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+475 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+476 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+489 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+495 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_3_3
+477 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+478 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+488 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+518 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_3_4
+479 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+516 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+517 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_3_1
+496 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+497 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+498 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+502 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+##d_Kollon_1
+###c_Kollon_1_4
+480 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+481 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+482 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+483 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+484 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_1_1
+490 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+491 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+493 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+503 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_1_2
+492 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+504 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+505 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+507 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_1_3
+494 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+499 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+500 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+501 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+##d_Kollon_4
+###c_Kollon_4_4
+485 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+486 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+512 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+519 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_4_2
+487 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+701 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+702 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+703 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_4_1
+520 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+521 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+523 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+531 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_4_3
+700 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+704 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+706 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+1990 = {
+    culture = leaguemen
+    religion = old_therosian_pagan
+}
+
+##d_Kollon_2
+###c_Kollon_2_1
+506 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+510 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+511 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+514 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_2_3
+508 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+509 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+527 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_2_2
+513 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+515 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+522 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+524 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kollon_2_4
+525 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+526 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+528 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+529 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+530 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+

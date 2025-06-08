@@ -1,0 +1,286 @@
+#k_Weisshugel
+##d_Weisshugel_3
+###c_Weisshugel_3_2
+8 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+338 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+339 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+340 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+341 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+342 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_3_3
+343 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+344 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+345 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+346 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_3_1
+347 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+349 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+351 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_3_4
+348 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+350 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+352 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+##d_Weisshugel_2
+###c_Weisshugel_2_3
+353 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+354 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+361 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+362 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_2_2
+355 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+363 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+365 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+366 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_2_1
+359 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+364 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+391 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+##d_Weisshugel_4
+###c_Weisshugel_4_3
+356 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+357 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+358 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+367 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_4_1
+360 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+368 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+371 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+375 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_4_4
+369 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+370 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+372 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+373 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_4_2
+374 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+376 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+377 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+380 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+##d_Weisshugel_1
+###c_Weisshugel_1_4
+378 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+379 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+386 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+387 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_1_1
+381 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+383 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+384 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+385 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_1_2
+382 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+389 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+392 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+393 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+
+###c_Weisshugel_1_3
+388 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+390 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+394 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+395 = {
+    culture = weisslander
+    religion = old_therosian_pagan
+}
+

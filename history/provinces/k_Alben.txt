@@ -1,0 +1,246 @@
+#k_Alben
+##d_Alben_1
+###c_Alben_1_1
+217 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+218 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+220 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Alben_1_2
+219 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+221 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+222 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+223 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Alben_1_4
+224 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+225 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+226 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+227 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Alben_1_3
+228 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+229 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+230 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+231 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+###c_Alben_1_5
+232 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+233 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+234 = {
+    culture = zurunnish
+    religion = old_therosian_pagan
+}
+
+##d_Alben_2
+###c_Alben_2_2
+235 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+263 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+264 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_2_1
+241 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+242 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+243 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_2_3
+244 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+265 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+266 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_2_4
+246 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+254 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+261 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+##d_Alben_3
+###c_Alben_3_1
+236 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+237 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+238 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+239 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+240 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_3_3
+245 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+256 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+257 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+258 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_3_5
+247 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+248 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+253 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+255 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_3_2
+249 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+250 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+251 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+252 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Alben_3_4
+259 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+260 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+262 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+

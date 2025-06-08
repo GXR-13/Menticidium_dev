@@ -1,0 +1,167 @@
+#k_Pavland
+##d_Pavland_2
+###c_Pavland_2_1
+1839 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1840 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1841 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1842 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1843 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+##d_Pavland_3
+###c_Pavland_3_4
+1844 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1864 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1868 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_3_2
+1845 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1846 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1847 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1848 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1867 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_3_1
+1853 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1854 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1870 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1871 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_3_3
+1865 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1866 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1869 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1872 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+##d_Pavland_1
+###c_Pavland_1_2
+1849 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1850 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1862 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_1_1
+1851 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1852 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1858 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1859 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_1_3
+1855 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1860 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+1861 = {
+    culture = ostlander
+    religion = old_therosian_pagan
+}
+
+###c_Pavland_1_4
+1856 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1857 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1863 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+

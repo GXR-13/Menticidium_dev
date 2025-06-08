@@ -1,0 +1,482 @@
+#k_Kiemlande
+##d_Kiemlande_5
+###c_Kiemlande_5_2
+10 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+532 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+533 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+534 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+535 = {
+    culture = north_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_5_3
+536 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+537 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+538 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_5_1
+573 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+575 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+605 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+606 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_7
+###c_Kiemlande_7_3
+539 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+540 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+541 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_7_2
+542 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+543 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+544 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_7_1
+545 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+547 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+548 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+563 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_6
+###c_Kiemlande_6_5
+546 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+549 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+550 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+551 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_6_4
+552 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+553 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+556 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+557 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_6_3
+554 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+558 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+559 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+560 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_6_1
+564 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+565 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+569 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_6_2
+566 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+567 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+568 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+570 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_4
+###c_Kiemlande_4_3
+555 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+561 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+562 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+572 = {
+    culture = gronlander
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_4_1
+576 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+577 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+580 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_4_2
+578 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+579 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+581 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+582 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_3
+###c_Kiemlande_3_4
+571 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+574 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+596 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+597 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_3_2
+587 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+588 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+589 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+590 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_3_1
+592 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+620 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+621 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+622 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_3_3
+594 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+595 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+598 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+599 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_2
+###c_Kiemlande_2_1
+583 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+584 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+626 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+629 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_2_3
+585 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+586 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+591 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+602 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_2_2
+593 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+600 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+601 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+604 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_2_4
+603 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+607 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+608 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+609 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+##d_Kiemlande_1
+###c_Kiemlande_1_3
+610 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+616 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+618 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+619 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_1_4
+611 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+612 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+613 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_1_2
+614 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+615 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+617 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+625 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+
+###c_Kiemlande_1_1
+623 = {
+    culture = fretian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+624 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+627 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+628 = {
+    culture = fretian
+    religion = old_therosian_pagan
+}
+

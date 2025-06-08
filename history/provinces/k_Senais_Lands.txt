@@ -1,0 +1,190 @@
+#k_Senais_Lands
+##d_Senais_Lands_5
+###c_Senais_Lands_5_2
+1624 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1625 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_5_1
+1626 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+###c_Senais_Lands_5_3
+1627 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+##d_Senais_Lands_4
+###c_Senais_Lands_4_2
+1628 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1634 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_4_1
+1630 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1631 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1632 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1633 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_4_3
+1635 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1636 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1637 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1638 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+##d_Senais_Lands_1
+###c_Senais_Lands_1_2
+1639 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1640 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_1_3
+1641 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+###c_Senais_Lands_1_1
+1642 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1643 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1644 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+##d_Senais_Lands_3
+###c_Senais_Lands_3_2
+1645 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+###c_Senais_Lands_3_1
+1646 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+
+###c_Senais_Lands_3_3
+1647 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1648 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1649 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+##d_Senais_Lands_2
+###c_Senais_Lands_2_3
+1650 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1654 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1655 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_2_2
+1651 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1652 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+1653 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_2_1
+1656 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1657 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+}
+
+###c_Senais_Lands_2_4
+1658 = {
+    culture = varaparian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+

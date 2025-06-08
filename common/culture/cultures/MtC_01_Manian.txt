@@ -31,7 +31,7 @@ manian = {
 zurunnish = {
 	color = RGB{ 90 135 55 }
 	created = 0.1.1
-	parents = { manian }#diverged from acient Manian
+	parents = { manian }#diverged from ancient Manian
 	ethos = ethos_stoic
 	heritage = heritage_manian
 	language = language_nothern_hirian 
@@ -184,7 +184,7 @@ zuidlander = {
 
 
 #Albennian
-albennnan = {
+albennian = {
 	color = RGB{ 179 234 139 }
 	created = 0.1.1
 	parents = { zurunnish unknown1 }#they went south and conquered some those long forgotten

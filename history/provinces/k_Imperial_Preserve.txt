@@ -1,0 +1,158 @@
+#k_Imperial_Preserve
+##d_Imperial_Preserve_1
+###c_Imperial_Preserve_1_2
+185 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+189 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+190 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+191 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_1_1
+186 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+187 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+188 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_1_4
+193 = {
+    culture = suditish
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+194 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+198 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+199 = {
+    culture = suditish
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_1_3
+197 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+206 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+207 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+
+##d_Imperial_Preserve_2
+###c_Imperial_Preserve_2_5
+192 = {
+    culture = albennian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+195 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+202 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+203 = {
+    culture = albennian
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_2_1
+196 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+212 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+214 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_2_2
+200 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+205 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+208 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+209 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_2_4
+201 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+204 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+215 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+216 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+
+###c_Imperial_Preserve_2_3
+210 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+211 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+213 = {
+    culture = green_hirian
+    religion = old_therosian_pagan
+}
+

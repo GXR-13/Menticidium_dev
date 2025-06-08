@@ -1,10 +1,10 @@
-#Acient Hirian(Occidian)
+#ancient Hirian(Occidian)
 
 #High Hirian
 high_hirian = {
 	color = RGB{ 236 231 231 }
 	created = 0.1.1
-	parents = { unknown1 }#diverged from Acient Hirian, also known as Occidian
+	parents = { unknown1 }#diverged from ancient Hirian, also known as Occidian
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_hirian
@@ -35,7 +35,7 @@ high_hirian = {
 north_hirian = {
 	color = RGB{ 178 188 172 }
 	created = 0.1.1
-	parents = { manian high_hirian }#merged from acient Manian and High Hirian
+	parents = { manian high_hirian }#merged from ancient Manian and High Hirian
 	
 	ethos = ethos_stoic
 	heritage = heritage_hirian
@@ -66,7 +66,7 @@ north_hirian = {
 south_hirian = {
 	color = RGB{ 193 172 179 }
 	created = 0.1.1
-	parents = { old_banlian high_hirian }#merged from acient Banlian and High Hirian
+	parents = { old_banlian high_hirian }#merged from ancient Banlian and High Hirian
 	
 	ethos = ethos_courtly
 	heritage = heritage_hirian
@@ -128,7 +128,7 @@ green_hirian = {
 concordian = { 
 	color = RGB{ 128 128 128 }
 	created = 1.1.1
-	parents = { unknown1 }#Acient Hirian
+	parents = { unknown1 }#ancient Hirian
 	
 	ethos = ethos_communal
 	heritage = heritage_hirian

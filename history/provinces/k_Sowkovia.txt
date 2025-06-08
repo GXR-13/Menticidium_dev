@@ -1,0 +1,158 @@
+#k_Sowkovia
+##d_Sowkovia_2
+###c_Sowkovia_2_2
+1876 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1891 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1893 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1894 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_2_4
+1877 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1880 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1892 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_2_3
+1881 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1882 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1883 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1886 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_2_1
+1895 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1896 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1897 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1898 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+##d_Sowkovia_1
+###c_Sowkovia_1_5
+1878 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1879 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1885 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1887 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_1_4
+1884 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1900 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1904 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_1_1
+1888 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1889 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1890 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1902 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_1_2
+1899 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1901 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1903 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
+###c_Sowkovia_1_3
+1905 = {
+    culture = iowician
+    religion = old_therosian_pagan
+    holding = castle_holding
+}
+1906 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+1907 = {
+    culture = iowician
+    religion = old_therosian_pagan
+}
+
