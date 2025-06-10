@@ -9,14 +9,17 @@
 92 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 93 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 104 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_4_1
@@ -28,14 +31,17 @@
 100 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 102 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 149 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_4_4
@@ -47,10 +53,12 @@
 105 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 106 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_4_2
@@ -62,14 +70,17 @@
 147 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 148 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 150 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Middlesept_6
@@ -82,14 +93,17 @@
 96 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 98 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 99 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_6_4
@@ -101,14 +115,17 @@
 117 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 118 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 121 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_6_2
@@ -120,10 +137,12 @@
 133 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 136 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_6_3
@@ -135,10 +154,12 @@
 134 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 135 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Middlesept_2
@@ -151,14 +172,17 @@
 176 = {
     culture = weisslander
     religion = old_therosian_pagan
+    holding = none
 }
 181 = {
     culture = weisslander
     religion = old_therosian_pagan
+    holding = none
 }
 182 = {
     culture = weisslander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_2_4
@@ -170,14 +194,17 @@
 156 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 157 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 171 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_2_3
@@ -189,10 +216,12 @@
 177 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 180 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_2_1
@@ -204,14 +233,17 @@
 179 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 183 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 184 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Middlesept_1
@@ -224,14 +256,17 @@
 155 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 166 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 167 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_1_4
@@ -243,14 +278,17 @@
 114 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 115 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 163 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_1_5
@@ -262,14 +300,17 @@
 153 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 164 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 165 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_1_2
@@ -281,14 +322,17 @@
 160 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 161 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 162 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_1_1
@@ -300,14 +344,17 @@
 173 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 174 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 175 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Middlesept_3
@@ -320,10 +367,12 @@
 108 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 109 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_3_4
@@ -335,14 +384,17 @@
 119 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 122 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 126 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_3_3
@@ -354,14 +406,17 @@
 124 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 125 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 131 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_3_1
@@ -373,14 +428,17 @@
 128 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 129 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 130 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Middlesept_5
@@ -393,14 +451,17 @@
 145 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 146 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 151 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_5_4
@@ -412,14 +473,17 @@
 138 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 139 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 141 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_5_3
@@ -431,14 +495,17 @@
 142 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 143 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 144 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Middlesept_5_2
@@ -450,9 +517,11 @@
 169 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 170 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 

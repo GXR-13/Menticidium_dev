@@ -16,6 +16,7 @@
 42 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_4_1
@@ -27,14 +28,17 @@
 68 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 71 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 72 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_4_2
@@ -46,10 +50,12 @@
 70 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 73 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Old_League_3
@@ -62,6 +68,7 @@
 40 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_3_5
@@ -73,10 +80,12 @@
 61 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 62 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_3_4
@@ -88,10 +97,12 @@
 45 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 60 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_3_1
@@ -103,10 +114,12 @@
 53 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 58 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_3_3
@@ -118,10 +131,12 @@
 55 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 56 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_3_2
@@ -133,10 +148,12 @@
 63 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 64 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Old_League_2
@@ -149,18 +166,22 @@
 47 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 48 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 49 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 83 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_2_5
@@ -172,10 +193,12 @@
 75 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 76 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_2_4
@@ -187,10 +210,12 @@
 78 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 90 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_2_1
@@ -202,14 +227,17 @@
 85 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 86 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 87 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_2_2
@@ -221,10 +249,12 @@
 88 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 89 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Old_League_1
@@ -237,14 +267,17 @@
 51 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 57 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 65 = {
     culture = leaguemen
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_1_3
@@ -256,10 +289,12 @@
 67 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 80 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Old_League_1_2
@@ -271,5 +306,6 @@
 81 = {
     culture = concordian
     religion = old_therosian_pagan
+    holding = none
 }
 

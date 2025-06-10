@@ -9,14 +9,17 @@
 1722 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1725 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1727 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_2_1
@@ -28,10 +31,12 @@
 1724 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1726 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_2_3
@@ -43,14 +48,17 @@
 1729 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1730 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1733 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_2_2
@@ -62,14 +70,17 @@
 1734 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1742 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1743 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Powykac_1
@@ -82,10 +93,12 @@
 1736 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1741 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_1_2
@@ -97,14 +110,17 @@
 1738 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1740 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1748 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_1_1
@@ -116,14 +132,17 @@
 1744 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1745 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1749 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Powykac_1_3
@@ -135,9 +154,11 @@
 1747 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1750 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 

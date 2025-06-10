@@ -9,14 +9,17 @@
 634 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 635 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 636 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_2_2
@@ -28,10 +31,12 @@
 652 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 653 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_2_3
@@ -43,14 +48,17 @@
 651 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 654 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 664 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_2_4
@@ -62,10 +70,12 @@
 659 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 660 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dulhecht_1
@@ -78,18 +88,22 @@
 631 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 632 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 633 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 642 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_1_2
@@ -101,10 +115,12 @@
 647 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 648 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_1_3
@@ -116,10 +132,12 @@
 646 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 649 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dulhecht_5
@@ -132,14 +150,17 @@
 638 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 639 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 640 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_5_3
@@ -151,14 +172,17 @@
 694 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 696 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 699 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_5_1
@@ -170,14 +194,17 @@
 691 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 692 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 693 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_5_4
@@ -189,10 +216,12 @@
 697 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 698 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dulhecht_3
@@ -205,14 +234,17 @@
 655 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 656 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 657 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_3_2
@@ -224,14 +256,17 @@
 667 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 673 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 674 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_3_3
@@ -243,14 +278,17 @@
 669 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 670 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 671 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dulhecht_4
@@ -263,10 +301,12 @@
 678 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 679 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_4_1
@@ -278,14 +318,17 @@
 663 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 665 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 677 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_4_2
@@ -297,10 +340,12 @@
 675 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 676 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_4_4
@@ -312,14 +357,17 @@
 681 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 682 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 686 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dulhecht_4_5
@@ -331,13 +379,16 @@
 685 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 687 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 688 = {
     culture = zuidlander
     religion = old_therosian_pagan
+    holding = none
 }
 

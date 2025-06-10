@@ -9,18 +9,22 @@
 1781 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1782 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1783 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1784 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_3_2
@@ -32,18 +36,22 @@
 1793 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1794 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1795 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1796 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_3_1
@@ -55,10 +63,12 @@
 1787 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1810 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pokojowa_4
@@ -71,10 +81,12 @@
 1789 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1790 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_4_3
@@ -86,14 +98,17 @@
 1792 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1797 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1799 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_4_2
@@ -105,14 +120,17 @@
 1800 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1801 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1805 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_4_4
@@ -124,10 +142,12 @@
 1803 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1804 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pokojowa_2
@@ -140,10 +160,12 @@
 1807 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1808 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_2_4
@@ -155,14 +177,17 @@
 1811 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1823 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1824 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_2_1
@@ -174,14 +199,17 @@
 1828 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1829 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1830 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_2_2
@@ -193,14 +221,17 @@
 1825 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1826 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1827 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pokojowa_1
@@ -213,10 +244,12 @@
 1819 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1821 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_1_2
@@ -228,14 +261,17 @@
 1816 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1822 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1833 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pokojowa_1_3
@@ -247,13 +283,16 @@
 1818 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1831 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 1832 = {
     culture = bokojowish
     religion = old_therosian_pagan
+    holding = none
 }
 

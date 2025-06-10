@@ -1,5 +1,5 @@
 ﻿old_therosian_paganism_religion = {
-	family = rf_pagan
+	family = rf_old_beliefs
 
 	doctrine = pagan_hostility_doctrine
 

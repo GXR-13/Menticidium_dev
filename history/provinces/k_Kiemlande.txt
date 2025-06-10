@@ -9,18 +9,22 @@
 532 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 533 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 534 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 535 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_5_3
@@ -32,10 +36,12 @@
 537 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 538 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_5_1
@@ -47,14 +53,17 @@
 575 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 605 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 606 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_7
@@ -67,10 +76,12 @@
 540 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 541 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_7_2
@@ -82,10 +93,12 @@
 543 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 544 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_7_1
@@ -97,14 +110,17 @@
 547 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 548 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 563 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_6
@@ -117,14 +133,17 @@
 549 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 550 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 551 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_6_4
@@ -136,14 +155,17 @@
 553 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 556 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 557 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_6_3
@@ -155,14 +177,17 @@
 558 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 559 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 560 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_6_1
@@ -174,10 +199,12 @@
 565 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 569 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_6_2
@@ -189,14 +216,17 @@
 567 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 568 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 570 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_4
@@ -209,14 +239,17 @@
 561 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 562 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 572 = {
     culture = gronlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_4_1
@@ -228,10 +261,12 @@
 577 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 580 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_4_2
@@ -243,14 +278,17 @@
 579 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 581 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 582 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_3
@@ -263,14 +301,17 @@
 574 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 596 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 597 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_3_2
@@ -282,14 +323,17 @@
 588 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 589 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 590 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_3_1
@@ -301,14 +345,17 @@
 620 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 621 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 622 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_3_3
@@ -320,14 +367,17 @@
 595 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 598 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 599 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_2
@@ -340,14 +390,17 @@
 584 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 626 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 629 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_2_3
@@ -359,14 +412,17 @@
 586 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 591 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 602 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_2_2
@@ -378,14 +434,17 @@
 600 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 601 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 604 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_2_4
@@ -397,14 +456,17 @@
 607 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 608 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 609 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Kiemlande_1
@@ -417,14 +479,17 @@
 616 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 618 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 619 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_1_4
@@ -436,10 +501,12 @@
 612 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 613 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_1_2
@@ -451,14 +518,17 @@
 615 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 617 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 625 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Kiemlande_1_1
@@ -470,13 +540,16 @@
 624 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 627 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 628 = {
     culture = fretian
     religion = old_therosian_pagan
+    holding = none
 }
 

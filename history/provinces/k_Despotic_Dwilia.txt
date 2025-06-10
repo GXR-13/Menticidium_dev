@@ -9,6 +9,7 @@
 1714 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Despotic_Dwilia_1_1
@@ -20,10 +21,12 @@
 1716 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 1717 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Despotic_Dwilia_1_3
@@ -35,9 +38,11 @@
 1719 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 1720 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 

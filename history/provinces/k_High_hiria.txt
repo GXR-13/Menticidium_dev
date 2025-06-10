@@ -9,22 +9,27 @@
 19 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 20 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 21 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 22 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 23 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_High_hiria_1_2
@@ -36,14 +41,17 @@
 25 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 26 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 27 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_High_hiria_1_5
@@ -55,10 +63,12 @@
 29 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 30 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_High_hiria_1_4
@@ -70,10 +80,12 @@
 33 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 36 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_High_hiria_1_1
@@ -85,13 +97,16 @@
 34 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 35 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 37 = {
     culture = high_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 

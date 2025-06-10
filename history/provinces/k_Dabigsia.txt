@@ -9,10 +9,12 @@
 1536 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1538 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_2_3
@@ -24,10 +26,12 @@
 1540 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1541 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_2_2
@@ -39,10 +43,12 @@
 1555 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1556 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_2_1
@@ -54,14 +60,17 @@
 1558 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1559 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1560 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_3
@@ -74,14 +83,17 @@
 1509 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1510 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1511 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_3_2
@@ -93,14 +105,17 @@
 1546 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1548 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1562 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_3_3
@@ -112,10 +127,12 @@
 1591 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1592 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_3_4
@@ -127,10 +144,12 @@
 1573 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1574 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_1
@@ -143,10 +162,12 @@
 1545 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1549 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_1_2
@@ -158,10 +179,12 @@
 1551 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1553 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_1_3
@@ -173,10 +196,12 @@
 1554 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1561 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_1_4
@@ -188,14 +213,17 @@
 1566 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1567 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1570 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_4
@@ -208,10 +236,12 @@
 1547 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1576 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_4_1
@@ -223,14 +253,17 @@
 1569 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1571 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1572 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_4_3
@@ -242,10 +275,12 @@
 1579 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1580 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_4_4
@@ -257,10 +292,12 @@
 1582 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1593 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_5
@@ -273,14 +310,17 @@
 1587 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1588 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1590 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_5_2
@@ -292,10 +332,12 @@
 1584 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1585 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_5_1
@@ -307,14 +349,17 @@
 1589 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1594 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1595 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_5_3
@@ -326,14 +371,17 @@
 1597 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1598 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1599 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_6
@@ -346,14 +394,17 @@
 1600 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1605 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1606 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_6_1
@@ -365,10 +416,12 @@
 1602 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1604 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_6_3
@@ -380,10 +433,12 @@
 1616 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1617 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dabigsia_7
@@ -396,10 +451,12 @@
 1607 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1608 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_7_4
@@ -411,14 +468,17 @@
 1610 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1613 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1614 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_7_2
@@ -430,14 +490,17 @@
 1612 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1618 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1619 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dabigsia_7_3
@@ -449,13 +512,16 @@
 1621 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1622 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1623 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 

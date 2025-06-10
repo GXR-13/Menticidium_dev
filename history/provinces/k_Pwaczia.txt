@@ -9,6 +9,7 @@
 1674 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_1_3
@@ -20,14 +21,17 @@
 1767 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1768 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1774 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_1_2
@@ -39,14 +43,17 @@
 1770 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 1771 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 1775 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_1_1
@@ -58,10 +65,12 @@
 1773 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 1776 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_1_4
@@ -73,10 +82,12 @@
 1778 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1779 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pwaczia_2
@@ -89,14 +100,17 @@
 1687 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1688 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1700 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_2_5
@@ -108,10 +122,12 @@
 1753 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1754 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_2_3
@@ -123,14 +139,17 @@
 1756 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1757 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1761 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_2_2
@@ -142,10 +161,12 @@
 1759 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1760 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pwaczia_2_1
@@ -157,13 +178,16 @@
 1763 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1764 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1765 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 

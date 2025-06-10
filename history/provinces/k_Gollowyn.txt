@@ -9,14 +9,17 @@
 778 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 779 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 780 = {
     culture = north_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_1_1
@@ -28,10 +31,12 @@
 786 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 787 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_1_3
@@ -43,14 +48,17 @@
 789 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 790 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 791 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_1_2
@@ -62,14 +70,17 @@
 827 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 831 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 832 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Gollowyn_6
@@ -82,10 +93,12 @@
 782 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 783 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_6_3
@@ -97,10 +110,12 @@
 844 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 845 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_6_2
@@ -112,10 +127,12 @@
 841 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 842 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_6_4
@@ -127,10 +144,12 @@
 847 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 1036 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Gollowyn_2
@@ -143,10 +162,12 @@
 793 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 801 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_2_2
@@ -158,10 +179,12 @@
 818 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 830 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_2_3
@@ -173,14 +196,17 @@
 816 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 817 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 819 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_2_4
@@ -192,10 +218,12 @@
 821 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 822 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Gollowyn_4
@@ -208,14 +236,17 @@
 796 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 797 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 800 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_4_4
@@ -227,10 +258,12 @@
 799 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 843 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_4_2
@@ -242,14 +275,17 @@
 848 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 849 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 851 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_4_3
@@ -261,10 +297,12 @@
 852 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 853 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Gollowyn_3
@@ -277,10 +315,12 @@
 804 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 806 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_3_2
@@ -292,10 +332,12 @@
 814 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 815 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_3_3
@@ -307,10 +349,12 @@
 809 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 813 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Gollowyn_5
@@ -323,14 +367,17 @@
 811 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 812 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 834 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_5_1
@@ -342,14 +389,17 @@
 824 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 825 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 850 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_5_3
@@ -361,14 +411,17 @@
 828 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 829 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 835 = {
     culture = gollowynian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Gollowyn_5_4
@@ -380,9 +433,11 @@
 838 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 839 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 

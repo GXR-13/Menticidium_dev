@@ -9,14 +9,17 @@
 189 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 190 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 191 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_1_1
@@ -28,10 +31,12 @@
 187 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 188 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_1_4
@@ -43,14 +48,17 @@
 194 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 198 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 199 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_1_3
@@ -62,10 +70,12 @@
 206 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 207 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Imperial_Preserve_2
@@ -78,14 +88,17 @@
 195 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 202 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 203 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_2_1
@@ -97,10 +110,12 @@
 212 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 214 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_2_2
@@ -112,14 +127,17 @@
 205 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 208 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 209 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_2_4
@@ -131,14 +149,17 @@
 204 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 215 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 216 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Imperial_Preserve_2_3
@@ -150,9 +171,11 @@
 211 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 213 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 

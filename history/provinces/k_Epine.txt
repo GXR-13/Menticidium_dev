@@ -9,10 +9,12 @@
 1011 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1012 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_2_2
@@ -24,10 +26,12 @@
 1014 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1015 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_2_1
@@ -39,10 +43,12 @@
 1020 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1021 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Epine_4
@@ -55,10 +61,12 @@
 1054 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1055 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_4_1
@@ -70,14 +78,17 @@
 1044 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 1047 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 1050 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_4_2
@@ -89,10 +100,12 @@
 1046 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1048 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_4_3
@@ -104,14 +117,17 @@
 1051 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1052 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1053 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Epine_1
@@ -124,10 +140,12 @@
 1026 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1027 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_1_2
@@ -139,10 +157,12 @@
 1019 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1022 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_1_1
@@ -154,10 +174,12 @@
 1024 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1025 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_1_3
@@ -169,10 +191,12 @@
 1030 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1031 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Epine_3
@@ -185,14 +209,17 @@
 1032 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1033 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1034 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_3_3
@@ -204,14 +231,17 @@
 1040 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 1041 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 1042 = {
     culture = gollois
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_3_2
@@ -223,10 +253,12 @@
 1038 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1039 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Epine_5
@@ -239,10 +271,12 @@
 1058 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1061 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_5_2
@@ -254,10 +288,12 @@
 1059 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1060 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Epine_5_1
@@ -269,9 +305,11 @@
 1063 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1064 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 

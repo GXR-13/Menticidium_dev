@@ -9,14 +9,17 @@
 708 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 709 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 711 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_2_3
@@ -28,14 +31,17 @@
 715 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 719 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 720 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_2_2
@@ -47,14 +53,17 @@
 718 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 721 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 722 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Almaria_1
@@ -67,10 +76,12 @@
 712 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 713 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_1_2
@@ -82,10 +93,12 @@
 726 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 727 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_1_3
@@ -97,10 +110,12 @@
 724 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 725 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Almaria_3
@@ -113,14 +128,17 @@
 730 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 731 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 732 = {
     culture = south_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_3_2
@@ -132,14 +150,17 @@
 767 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 773 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 776 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_3_3
@@ -151,14 +172,17 @@
 768 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 771 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 772 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_3_4
@@ -170,10 +194,12 @@
 775 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 777 = {
     culture = cisfreddian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Almaria_5
@@ -186,10 +212,12 @@
 747 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 748 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_5_1
@@ -201,10 +229,12 @@
 750 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 752 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_5_2
@@ -216,14 +246,17 @@
 749 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 751 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 753 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Almaria_6
@@ -236,14 +269,17 @@
 735 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 739 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 746 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_6_3
@@ -255,14 +291,17 @@
 737 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 738 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 740 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_6_1
@@ -274,10 +313,12 @@
 744 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 745 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Almaria_4
@@ -290,14 +331,17 @@
 755 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 758 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 769 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_4_3
@@ -309,10 +353,12 @@
 757 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 762 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_4_2
@@ -324,14 +370,17 @@
 760 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 764 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 770 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Almaria_4_4
@@ -343,13 +392,16 @@
 763 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 765 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 766 = {
     culture = cotier
     religion = old_therosian_pagan
+    holding = none
 }
 

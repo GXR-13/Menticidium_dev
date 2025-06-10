@@ -9,14 +9,17 @@
 1891 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1893 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1894 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_2_4
@@ -28,10 +31,12 @@
 1880 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1892 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_2_3
@@ -43,14 +48,17 @@
 1882 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1883 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1886 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_2_1
@@ -62,14 +70,17 @@
 1896 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1897 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1898 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Sowkovia_1
@@ -82,14 +93,17 @@
 1879 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1885 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1887 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_1_4
@@ -101,10 +115,12 @@
 1900 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1904 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_1_1
@@ -116,14 +132,17 @@
 1889 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1890 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1902 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_1_2
@@ -135,10 +154,12 @@
 1901 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1903 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Sowkovia_1_3
@@ -150,9 +171,11 @@
 1906 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1907 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 

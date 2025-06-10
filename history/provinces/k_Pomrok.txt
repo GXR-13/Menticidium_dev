@@ -9,14 +9,17 @@
 1670 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1671 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1672 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pomrok_2
@@ -29,10 +32,12 @@
 1680 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 1683 = {
     culture = ostlander
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_2_4
@@ -44,14 +49,17 @@
 1677 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1678 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1820 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_2_3
@@ -63,10 +71,12 @@
 1681 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1731 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_2_1
@@ -78,10 +88,12 @@
 1684 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1685 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Pomrok_1
@@ -94,10 +106,12 @@
 1690 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1696 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_1_1
@@ -109,14 +123,17 @@
 1702 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1705 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1707 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_1_5
@@ -128,14 +145,17 @@
 1693 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1694 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1697 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_1_4
@@ -147,14 +167,17 @@
 1698 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1699 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1706 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Pomrok_1_2
@@ -166,9 +189,11 @@
 1703 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 1704 = {
     culture = noszian
     religion = old_therosian_pagan
+    holding = none
 }
 

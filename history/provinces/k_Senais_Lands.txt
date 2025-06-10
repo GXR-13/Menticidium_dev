@@ -9,6 +9,7 @@
 1625 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_5_1
@@ -35,6 +36,7 @@
 1634 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_4_1
@@ -46,14 +48,17 @@
 1631 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1632 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1633 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_4_3
@@ -65,14 +70,17 @@
 1636 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1637 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1638 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Senais_Lands_1
@@ -85,6 +93,7 @@
 1640 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_1_3
@@ -103,10 +112,12 @@
 1643 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1644 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Senais_Lands_3
@@ -133,10 +144,12 @@
 1648 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1649 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Senais_Lands_2
@@ -149,10 +162,12 @@
 1654 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1655 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_2_2
@@ -164,10 +179,12 @@
 1652 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1653 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_2_1
@@ -179,6 +196,7 @@
 1657 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Senais_Lands_2_4

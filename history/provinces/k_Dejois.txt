@@ -9,10 +9,12 @@
 1123 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1126 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_3_4
@@ -24,14 +26,17 @@
 1131 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1136 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1139 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_3_2
@@ -43,14 +48,17 @@
 1127 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1135 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1138 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_3_1
@@ -62,10 +70,12 @@
 1174 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1175 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dejois_1
@@ -78,10 +88,12 @@
 1129 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 1132 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_1_4
@@ -93,10 +105,12 @@
 1134 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1144 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_1_1
@@ -108,14 +122,17 @@
 1146 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 1147 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 1148 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_1_2
@@ -127,14 +144,17 @@
 1150 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 1151 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 1152 = {
     culture = banlian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dejois_4
@@ -147,14 +167,17 @@
 1176 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1177 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1178 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_4_5
@@ -166,10 +189,12 @@
 1183 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1192 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_4_3
@@ -181,14 +206,17 @@
 1142 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1179 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1180 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_4_1
@@ -200,14 +228,17 @@
 1166 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1167 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1168 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_4_4
@@ -219,14 +250,17 @@
 1172 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1173 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1187 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dejois_2
@@ -239,10 +273,12 @@
 1154 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 1155 = {
     culture = platian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_2_2
@@ -254,14 +290,17 @@
 1157 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1160 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1161 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_2_3
@@ -273,14 +312,17 @@
 1162 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1163 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1164 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_2_4
@@ -292,10 +334,12 @@
 1169 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1170 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Dejois_5
@@ -308,14 +352,17 @@
 1186 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1188 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1189 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_5_2
@@ -327,14 +374,17 @@
 1193 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1194 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1195 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_5_5
@@ -346,10 +396,12 @@
 1199 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1201 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_5_4
@@ -361,10 +413,12 @@
 1198 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1200 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Dejois_5_3
@@ -376,17 +430,21 @@
 1203 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1204 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1205 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 1206 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 

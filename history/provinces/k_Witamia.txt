@@ -9,10 +9,12 @@
 1874 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1875 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_1_2
@@ -24,10 +26,12 @@
 1919 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1920 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_1_3
@@ -39,14 +43,17 @@
 1911 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1912 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1914 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_1_4
@@ -58,10 +65,12 @@
 1915 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1918 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Witamia_2
@@ -74,10 +83,12 @@
 1917 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1923 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_2_3
@@ -89,10 +100,12 @@
 1921 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1922 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_2_1
@@ -104,14 +117,17 @@
 1925 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1927 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1928 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Witamia_2_2
@@ -123,9 +139,11 @@
 1929 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 1930 = {
     culture = iowician
     religion = old_therosian_pagan
+    holding = none
 }
 

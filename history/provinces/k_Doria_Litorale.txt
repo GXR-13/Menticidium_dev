@@ -9,14 +9,17 @@
 1299 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1300 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1302 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_1_2
@@ -28,14 +31,17 @@
 1301 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1303 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1304 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_1_3
@@ -47,14 +53,17 @@
 1309 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1311 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1312 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_1_4
@@ -66,14 +75,17 @@
 1313 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1314 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1318 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_2
@@ -86,14 +98,17 @@
 1244 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1246 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1248 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_2_2
@@ -105,10 +120,12 @@
 1245 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1247 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_2_3
@@ -120,14 +137,17 @@
 1254 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1255 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1356 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_2_4
@@ -139,14 +159,17 @@
 1349 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1350 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1351 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_5
@@ -159,14 +182,17 @@
 1250 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1251 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1256 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_5_1
@@ -178,14 +204,17 @@
 1265 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1274 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1275 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_5_3
@@ -197,14 +226,17 @@
 1268 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1276 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1280 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_5_4
@@ -216,10 +248,12 @@
 1261 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1262 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_5_2
@@ -231,14 +265,17 @@
 1278 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1279 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1281 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_8
@@ -251,10 +288,12 @@
 1259 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1267 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_8_4
@@ -266,10 +305,12 @@
 1264 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1266 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_8_1
@@ -281,14 +322,17 @@
 1290 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1291 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1292 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_8_3
@@ -300,10 +344,12 @@
 1294 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1295 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_4
@@ -316,14 +362,17 @@
 1271 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1272 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1273 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_4_2
@@ -335,10 +384,12 @@
 1283 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1286 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_4_1
@@ -350,14 +401,17 @@
 1285 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1297 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1306 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_4_3
@@ -369,14 +423,17 @@
 1288 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1289 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1305 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_6
@@ -389,10 +446,12 @@
 1315 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1316 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_6_2
@@ -404,10 +463,12 @@
 1319 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1320 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_6_1
@@ -419,14 +480,17 @@
 1322 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1325 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1326 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_6_3
@@ -438,14 +502,17 @@
 1324 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1328 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1329 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_7
@@ -458,14 +525,17 @@
 1331 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1332 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 1333 = {
     culture = varaparian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_7_1
@@ -477,14 +547,17 @@
 1342 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1358 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1359 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_7_4
@@ -496,14 +569,17 @@
 1336 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1337 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1340 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_7_2
@@ -515,14 +591,17 @@
 1339 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1341 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1343 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Doria_Litorale_3
@@ -535,10 +614,12 @@
 1345 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1346 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_3_2
@@ -550,14 +631,17 @@
 1348 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1352 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1353 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Doria_Litorale_3_3
@@ -569,13 +653,16 @@
 1355 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1357 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 1360 = {
     culture = littorian 
     religion = old_therosian_pagan
+    holding = none
 }
 

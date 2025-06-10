@@ -9,10 +9,12 @@
 218 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 220 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_1_2
@@ -24,14 +26,17 @@
 221 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 222 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 223 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_1_4
@@ -43,14 +48,17 @@
 225 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 226 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 227 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_1_3
@@ -62,14 +70,17 @@
 229 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 230 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 231 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_1_5
@@ -81,10 +92,12 @@
 233 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 234 = {
     culture = zurunnish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Alben_2
@@ -97,10 +110,12 @@
 263 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 264 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_2_1
@@ -112,10 +127,12 @@
 242 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 243 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_2_3
@@ -127,10 +144,12 @@
 265 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 266 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_2_4
@@ -142,10 +161,12 @@
 254 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 261 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Alben_3
@@ -158,18 +179,22 @@
 237 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 238 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 239 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 240 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_3_3
@@ -181,14 +206,17 @@
 256 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 257 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 258 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_3_5
@@ -200,14 +228,17 @@
 248 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 253 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 255 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_3_2
@@ -219,14 +250,17 @@
 250 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 251 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 252 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Alben_3_4
@@ -238,9 +272,11 @@
 260 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 262 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 

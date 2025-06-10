@@ -9,10 +9,12 @@
 268 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 269 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_1_2
@@ -24,10 +26,12 @@
 281 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 282 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_1_4
@@ -39,14 +43,17 @@
 280 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 286 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 287 = {
     culture = green_hirian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_1_3
@@ -58,10 +65,12 @@
 285 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 288 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Intermark_2
@@ -74,10 +83,12 @@
 298 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 300 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_2_3
@@ -89,14 +100,17 @@
 290 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 294 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 296 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_2_4
@@ -108,14 +122,17 @@
 297 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 310 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 311 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_2_2
@@ -127,10 +144,12 @@
 309 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 315 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Intermark_4
@@ -143,14 +162,17 @@
 273 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 332 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 334 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_4_4
@@ -162,14 +184,17 @@
 314 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 327 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 328 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_4_3
@@ -181,10 +206,12 @@
 331 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 335 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_4_2
@@ -196,10 +223,12 @@
 333 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 336 = {
     culture = suditish
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Intermark_3
@@ -212,10 +241,12 @@
 275 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 276 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_3_2
@@ -227,10 +258,12 @@
 278 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 284 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_3_3
@@ -242,10 +275,12 @@
 302 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 303 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_3_4
@@ -257,10 +292,12 @@
 293 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 301 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ##d_Intermark_5
@@ -273,10 +310,12 @@
 305 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 306 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_5_5
@@ -288,14 +327,17 @@
 308 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 318 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 321 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_5_1
@@ -307,10 +349,12 @@
 316 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 317 = {
     culture = albennian
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_5_4
@@ -322,14 +366,17 @@
 320 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 322 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 323 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
 ###c_Intermark_5_2
@@ -341,9 +388,11 @@
 325 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 326 = {
     culture = frindi
     religion = old_therosian_pagan
+    holding = none
 }
 
