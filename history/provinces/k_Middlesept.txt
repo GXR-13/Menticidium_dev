@@ -3,83 +3,83 @@
 ###c_Middlesept_4_3
 91 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 92 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 93 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 104 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_4_1
 94 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 100 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 102 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 149 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_4_4
 103 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 105 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 106 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_4_2
 110 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 147 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 148 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 150 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -87,78 +87,78 @@
 ###c_Middlesept_6_1
 95 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 96 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 98 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 99 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_6_4
 116 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 117 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 118 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 121 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_6_2
 120 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 133 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 136 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_6_3
 132 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 134 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 135 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -166,83 +166,83 @@
 ###c_Middlesept_2_2
 97 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 176 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 181 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 182 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_2_4
 154 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 156 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 157 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 171 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_2_3
 158 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 177 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 180 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_2_1
 178 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 179 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 183 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 184 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -250,110 +250,110 @@
 ###c_Middlesept_1_3
 101 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 155 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 166 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 167 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_1_4
 113 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 114 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 115 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 163 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_1_5
 152 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 153 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 164 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 165 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_1_2
 159 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 160 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 161 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 162 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_1_1
 172 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 173 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 174 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 175 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -361,83 +361,83 @@
 ###c_Middlesept_3_2
 107 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 108 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 109 = {
     culture = high_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_3_4
 112 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 119 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 122 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 126 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_3_3
 123 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 124 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 125 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 131 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_3_1
 127 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 128 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 129 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 130 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -445,83 +445,83 @@
 ###c_Middlesept_5_1
 111 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 145 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 146 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 151 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_5_4
 137 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 138 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 139 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 141 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_5_3
 140 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 142 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 143 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 144 = {
     culture = north_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Middlesept_5_2
 168 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 169 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 170 = {
     culture = zurunnish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

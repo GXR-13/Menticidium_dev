@@ -216,7 +216,7 @@ maristellianism_religion = {
 		GHWNamePlural = ghw_purifications
 	}
 
-	faith = {
+	faiths = {
 		frazione_del_litorale = {
 			color = rgb { 144 12 212 }
 			icon = placeholder

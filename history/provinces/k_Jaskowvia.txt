@@ -3,105 +3,105 @@
 ###c_Jaskowvia_3_4
 1708 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1709 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1710 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1711 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1712 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_3_2
 1931 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1932 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1936 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1940 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_3_1
 1935 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1941 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1942 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1943 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_3_3
 1944 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1945 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1953 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Jaskowvia_3_5
 1947 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1948 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1952 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -109,83 +109,83 @@
 ###c_Jaskowvia_1_2
 1751 = {
     culture = noszian
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1976 = {
     culture = noszian
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1979 = {
     culture = noszian
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1981 = {
     culture = noszian
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Jaskowvia_1_4
 1937 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1946 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1950 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1973 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_1_1
 1970 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1982 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1983 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_1_3
 1972 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1977 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1978 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1980 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -193,56 +193,56 @@
 ###c_Jaskowvia_4_3
 1933 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1934 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1967 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1969 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Jaskowvia_4_1
 1951 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1974 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1975 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Jaskowvia_4_2
 1965 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1966 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1971 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
@@ -250,83 +250,83 @@
 ###c_Jaskowvia_2_1
 1938 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1939 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1954 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1968 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_2_4
 1949 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1963 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1964 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Jaskowvia_2_2
 1955 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1956 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1957 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1958 = {
     culture = ostlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Jaskowvia_2_3
 1959 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1960 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1961 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 1962 = {
     culture = ptaskan
-    religion = old_therosian_pagan
+    religion = eastern_ritualism
     holding = none
 }
 

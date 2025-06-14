@@ -3,78 +3,78 @@
 ###c_Imperial_Preserve_1_2
 185 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 189 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 190 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 191 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_1_1
 186 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 187 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 188 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_1_4
 193 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 194 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 198 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 199 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_1_3
 197 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 206 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 207 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -82,100 +82,100 @@
 ###c_Imperial_Preserve_2_5
 192 = {
     culture = albennian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 195 = {
     culture = albennian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 202 = {
     culture = albennian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 203 = {
     culture = albennian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_2_1
 196 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 212 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 214 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_2_2
 200 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 205 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 208 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 209 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_2_4
 201 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 204 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 215 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 216 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Imperial_Preserve_2_3
 210 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 211 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 213 = {
     culture = green_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

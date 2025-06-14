@@ -3,88 +3,88 @@
 ###c_Kollon_3_2
 9 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 475 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 476 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 489 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 495 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_3_3
 477 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 478 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 488 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 518 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_3_4
 479 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 516 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 517 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_3_1
 496 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 497 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 498 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 502 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -92,93 +92,93 @@
 ###c_Kollon_1_4
 480 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 481 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 482 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 483 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 484 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_1_1
 490 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 491 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 493 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 503 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_1_2
 492 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 504 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 505 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 507 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_1_3
 494 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 499 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 500 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 501 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -186,88 +186,88 @@
 ###c_Kollon_4_4
 485 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 486 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 512 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 519 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_4_2
 487 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 701 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 702 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 703 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_4_1
 520 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 521 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 523 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 531 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_4_3
 700 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 704 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 706 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1990 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -275,88 +275,88 @@
 ###c_Kollon_2_1
 506 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 510 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 511 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 514 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_2_3
 508 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 509 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 527 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_2_2
 513 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 515 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 522 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 524 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Kollon_2_4
 525 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 526 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 528 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 529 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 530 = {
     culture = gronlander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

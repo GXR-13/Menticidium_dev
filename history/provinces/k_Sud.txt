@@ -3,60 +3,60 @@
 ###c_Sud_3_4
 13 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 946 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_3_3
 938 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 
 ###c_Sud_3_2
 939 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 947 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_3_1
 940 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 945 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_3_5
 941 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 942 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 943 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -64,78 +64,78 @@
 ###c_Sud_2_4
 944 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 948 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 952 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 953 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_2_3
 954 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 955 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 956 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_2_2
 965 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 971 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 972 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_2_1
 966 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 968 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 970 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 973 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -143,88 +143,88 @@
 ###c_Sud_1_3
 949 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 950 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 959 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 960 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_1_4
 951 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 999 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1000 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1002 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_1_2
 957 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 958 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 961 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 962 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_1_1
 963 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 964 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 967 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 969 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -232,39 +232,39 @@
 ###c_Sud_6_2
 974 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 978 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 979 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 980 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_6_1
 975 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 976 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 977 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -272,88 +272,88 @@
 ###c_Sud_4_2
 981 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 994 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 995 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1001 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_4_4
 988 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 989 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 990 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 992 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_4_3
 991 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 993 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 996 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1008 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_4_1
 997 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 998 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1007 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1009 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -361,78 +361,78 @@
 ###c_Sud_5_2
 982 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 983 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 987 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_5_3
 984 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 985 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 986 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_5_1
 1003 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1004 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1005 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1006 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Sud_5_4
 1181 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1182 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1184 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1190 = {
     culture = suditish
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

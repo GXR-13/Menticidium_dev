@@ -3,66 +3,66 @@
 ###c_Doria_Norde_9_3
 1376 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1395 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1398 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1410 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_9_1
 1379 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1380 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1409 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1457 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_9_2
 1411 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1451 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1452 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1458 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -70,83 +70,83 @@
 ###c_Doria_Norde_6_3
 1377 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1378 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1482 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1489 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_6_1
 1480 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1481 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1483 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1488 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_6_2
 1485 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1486 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1487 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_6_4
 1490 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1491 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1492 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1493 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -154,78 +154,78 @@
 ###c_Doria_Norde_1_3
 1381 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1382 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1383 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1385 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_1_4
 1384 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1392 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1393 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1394 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_1_1
 1386 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1387 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1388 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_1_2
 1389 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1390 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1391 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -233,66 +233,66 @@
 ###c_Doria_Norde_10_1
 1396 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1400 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1440 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1448 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_10_3
 1397 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1402 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1405 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1407 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_10_2
 1399 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1401 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1403 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1404 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -300,78 +300,78 @@
 ###c_Doria_Norde_3_2
 1406 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1414 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1415 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1416 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_3_1
 1455 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1456 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1459 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_3_4
 1460 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1461 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1462 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_3_3
 1463 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1464 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1465 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1467 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -379,66 +379,66 @@
 ###c_Doria_Norde_11_3
 1408 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1412 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1413 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1446 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_11_2
 1432 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1433 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1444 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1445 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_11_1
 1434 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1435 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1436 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1441 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -446,83 +446,83 @@
 ###c_Doria_Norde_5_2
 1417 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1418 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1419 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1431 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_5_4
 1512 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1513 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1535 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_5_1
 1524 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1525 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1526 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1527 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_5_3
 1528 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1529 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1530 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1531 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -530,83 +530,83 @@
 ###c_Doria_Norde_7_1
 1420 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1421 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1423 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1425 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1426 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_7_2
 1429 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1450 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1453 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1454 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_7_3
 1438 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1442 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1443 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_7_4
 1439 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1447 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1449 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -614,88 +614,88 @@
 ###c_Doria_Norde_4_3
 1422 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1430 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1466 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1471 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_4_1
 1468 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1470 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1476 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1477 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_4_2
 1469 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1472 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1479 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1484 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_4_4
 1473 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1474 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1475 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1478 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -703,83 +703,83 @@
 ###c_Doria_Norde_8_2
 1424 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1427 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1428 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1437 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_8_1
 1514 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1515 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1533 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1534 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_8_4
 1516 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1517 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1519 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1520 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_8_3
 1518 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1521 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1532 = {
     culture = migrarian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -787,88 +787,88 @@
 ###c_Doria_Norde_2_1
 1494 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1495 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1496 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1498 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Doria_Norde_2_3
 1497 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1500 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1504 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1506 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_2_2
 1499 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1501 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1502 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1503 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Doria_Norde_2_4
 1505 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1507 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1522 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1523 = {
     culture = transfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 

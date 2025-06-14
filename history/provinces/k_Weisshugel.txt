@@ -3,88 +3,88 @@
 ###c_Weisshugel_3_2
 8 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 338 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 339 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 340 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 341 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 342 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_3_3
 343 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 344 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 345 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 346 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_3_1
 347 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 349 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 351 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_3_4
 348 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 350 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 352 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -92,61 +92,61 @@
 ###c_Weisshugel_2_3
 353 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 354 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 361 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 362 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_2_2
 355 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 363 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 365 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 366 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_2_1
 359 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 364 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 391 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -154,88 +154,88 @@
 ###c_Weisshugel_4_3
 356 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 357 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 358 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 367 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_4_1
 360 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 368 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 371 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 375 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_4_4
 369 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 370 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 372 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 373 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_4_2
 374 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 376 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 377 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 380 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -243,88 +243,88 @@
 ###c_Weisshugel_1_4
 378 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 379 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 386 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 387 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_1_1
 381 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 383 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 384 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 385 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_1_2
 382 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 389 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 392 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 393 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Weisshugel_1_3
 388 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 390 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 394 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 395 = {
     culture = weisslander
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

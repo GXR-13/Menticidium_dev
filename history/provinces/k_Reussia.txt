@@ -3,110 +3,110 @@
 ###c_Reussia_2_1
 2 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 4 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 5 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 6 = {
     culture = leaguemen
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_2_2
 880 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 881 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 904 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 905 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_2_3
 906 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 907 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 908 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 920 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_2_4
 921 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 922 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 924 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 925 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_2_5
 931 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 932 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 933 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 934 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -114,73 +114,73 @@
 ###c_Reussia_1_4
 12 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 854 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 855 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_1_1
 859 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 860 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 862 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_1_2
 861 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 867 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 868 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_1_3
 863 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 864 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 865 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 866 = {
     culture = gollois
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -188,78 +188,78 @@
 ###c_Reussia_4_1
 856 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 877 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 883 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_4_3
 872 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 873 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 896 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 897 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_4_2
 884 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 885 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 901 = {
     culture = platian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_4_4
 887 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 898 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 899 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 900 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -267,61 +267,61 @@
 ###c_Reussia_6_3
 858 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 874 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 889 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1010 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_6_2
 870 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 871 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 891 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 914 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_6_1
 888 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 890 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 894 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -329,61 +329,61 @@
 ###c_Reussia_3_3
 869 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 875 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 893 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 895 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_3_1
 878 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 879 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 882 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_3_2
 892 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 902 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 903 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 923 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -391,105 +391,105 @@
 ###c_Reussia_5_4
 876 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 915 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 916 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 917 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_5_3
 909 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 910 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 936 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 937 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_5_5
 911 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 912 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 918 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 919 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_5_1
 913 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 927 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 928 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 930 = {
     culture = banlian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Reussia_5_2
 926 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 929 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 935 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 

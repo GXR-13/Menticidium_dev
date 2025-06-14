@@ -3,61 +3,61 @@
 ###c_Torquia_2_1
 18 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1067 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1068 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1069 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_2_3
 1087 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1089 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1090 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_2_2
 1088 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1091 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1092 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1093 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -65,66 +65,66 @@
 ###c_Torquia_6_2
 1065 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1066 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1085 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1086 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_6_1
 1084 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1094 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1095 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1096 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_6_3
 1097 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1099 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1100 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1101 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -132,78 +132,78 @@
 ###c_Torquia_4_1
 1070 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1071 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1072 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1073 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_4_2
 1074 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1075 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1080 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1083 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_4_4
 1076 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1081 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1082 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_4_3
 1077 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1078 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1079 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -211,61 +211,61 @@
 ###c_Torquia_1_2
 1098 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = castle_holding
 }
 1102 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 1103 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 
 ###c_Torquia_1_1
 1104 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = castle_holding
 }
 1105 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 1106 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 1107 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 
 ###c_Torquia_1_3
 1108 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = castle_holding
 }
 1109 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 1110 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 1111 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = frazione_del_litorale
     holding = none
 }
 
@@ -273,61 +273,61 @@
 ###c_Torquia_3_1
 1112 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1113 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1117 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1118 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_3_2
 1114 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1115 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1116 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_3_3
 1119 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1120 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1121 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1122 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -335,56 +335,56 @@
 ###c_Torquia_7_2
 1207 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1208 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1211 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1227 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_7_3
 1209 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 1214 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 1216 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Torquia_7_1
 1210 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1228 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1229 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -392,83 +392,83 @@
 ###c_Torquia_8_1
 1212 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = castle_holding
 }
 1224 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1226 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1240 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 
 ###c_Torquia_8_4
 1213 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = castle_holding
 }
 1215 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1373 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1374 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 
 ###c_Torquia_8_3
 1217 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = castle_holding
 }
 1219 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1222 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 
 ###c_Torquia_8_2
 1218 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1220 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1221 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1223 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
@@ -476,61 +476,61 @@
 ###c_Torquia_5_1
 1225 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1230 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1231 = {
     culture = littorian 
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Torquia_5_3
 1232 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = castle_holding
 }
 1233 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1237 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 1239 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = southern_ritualism
     holding = none
 }
 
 ###c_Torquia_5_2
 1234 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = castle_holding
 }
 1235 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1236 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 1238 = {
     culture = varaparian
-    religion = old_therosian_pagan
+    religion = uzturet
     holding = none
 }
 

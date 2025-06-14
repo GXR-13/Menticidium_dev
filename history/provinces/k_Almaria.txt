@@ -3,66 +3,66 @@
 ###c_Almaria_2_1
 17 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 708 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 709 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 711 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_2_3
 714 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 715 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 719 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 720 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_2_2
 717 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 718 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 721 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 722 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -70,51 +70,51 @@
 ###c_Almaria_1_1
 705 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 712 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 713 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_1_2
 710 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 726 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 727 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_1_3
 723 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 724 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 725 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -122,83 +122,83 @@
 ###c_Almaria_3_1
 716 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 730 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 731 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 732 = {
     culture = south_hirian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_3_2
 729 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 767 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 773 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 776 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_3_3
 733 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 768 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 771 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 772 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_3_4
 774 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 775 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 777 = {
     culture = cisfreddian
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -206,56 +206,56 @@
 ###c_Almaria_5_3
 728 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 747 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 748 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_5_1
 741 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 750 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 752 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_5_2
 742 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 749 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 751 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 753 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -263,61 +263,61 @@
 ###c_Almaria_6_2
 734 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 735 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 739 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 746 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_6_3
 736 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 737 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 738 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 740 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_6_1
 743 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 744 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 745 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
@@ -325,83 +325,83 @@
 ###c_Almaria_4_1
 754 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 755 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 758 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 769 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_4_3
 756 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 757 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 762 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_4_2
 759 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 760 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 764 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 770 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
 ###c_Almaria_4_4
 761 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = castle_holding
 }
 763 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 765 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 766 = {
     culture = cotier
-    religion = old_therosian_pagan
+    religion = imperial_verita
     holding = none
 }
 
