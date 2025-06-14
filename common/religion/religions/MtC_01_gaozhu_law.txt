@@ -1,0 +1,246 @@
+gaozhu_law_religion = {#高主之法
+	family = rf_eastern
+	doctrine = eastern_hostility_doctrine
+	graphical_faith = dharmic_gfx
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_alms_and_pacification
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+
+	#Special Doctrine for Eastern Syncretism
+	doctrine = special_doctrine_is_eastern_faith
+
+	#Allow pilgrimages
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Funeral tradition
+	doctrine = doctrine_funeral_stoic
+
+	traits = {
+		virtues = {
+			compassionate
+			content
+			humble
+		}
+		sins = {
+			sadistic
+			ambitious
+			arrogant
+		}
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10
+	}
+
+	holy_order_names = {
+		{ name = holy_order_guardians_of_divinerealm }
+		{ name = holy_order_faithful_of_highgod }
+		{ name = holy_order_warriors_of_the_symbol }
+	}
+
+	holy_order_maa = { armored_footmen }
+
+	localization = {
+		HighGodName = gaozhu_law_high_god_name
+		HighGodName2 = gaozhu_law_high_god_name_2
+		HighGodNamePossessive = gaozhu_law_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameAlternate = gaozhu_law_high_god_name_alternate
+		HighGodNameAlternatePossessive = gaozhu_law_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = gaozhu_law_creator_god_name
+		CreatorNamePossessive = gaozhu_law_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = gaozhu_law_health_god_name
+		HealthGodNamePossessive = gaozhu_law_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = gaozhu_law_fertility_god_name
+		FertilityGodNamePossessive = gaozhu_law_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = gaozhu_law_wealth_god_name
+		WealthGodNamePossessive = gaozhu_law_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = gaozhu_law_household_god_name
+		HouseholdGodNamePossessive = gaozhu_law_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = gaozhu_law_fate_god_name
+		FateGodNamePossessive = gaozhu_law_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = gaozhu_law_knowledge_god_name
+		KnowledgeGodNamePossessive = gaozhu_law_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = gaozhu_law_war_god_name
+		WarGodNamePossessive = gaozhu_law_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = gaozhu_law_trickster_god_name
+		TricksterGodNamePossessive = gaozhu_law_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_SHE
+		TricksterGodHerHis = CHARACTER_HERHIS_HER
+		TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+		#NightGod
+		NightGodName = gaozhu_law_night_god_name
+		NightGodNamePossessive = gaozhu_law_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_SHE
+		NightGodHerHis = CHARACTER_HERHIS_HER
+		NightGodHerHim = CHARACTER_HERHIM_HER
+
+		#WaterGod
+		WaterGodName = gaozhu_law_water_god_name
+		WaterGodNamePossessive = gaozhu_law_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		PantheonTerm = religion_the_gods
+		PantheonTerm2 = religion_the_gods_2
+		PantheonTerm3 = religion_the_gods_3
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			gaozhu_law_good_god_name_three_pure_ones
+			gaozhu_law_wealth_god_name
+			gaozhu_law_health_god_name
+			gaozhu_law_knowledge_god_name
+			gaozhu_law_war_god_name
+			gaozhu_law_night_god_name
+			gaozhu_law_water_god_name
+		}
+		DevilName = gaozhu_law_devil_name
+		DevilNamePossessive = gaozhu_law_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = CHARACTER_ITSELF
+		EvilGodNames = { gaozhu_law_devil_name }
+		HouseOfWorship = gaozhu_law_house_of_worship
+		HouseOfWorship2 = gaozhu_law_house_of_worship_2
+		HouseOfWorship3 = gaozhu_law_house_of_worship_3
+		HouseOfWorshipPlural = gaozhu_law_house_of_worship_plural
+		ReligiousSymbol = gaozhu_law_religious_symbol
+		ReligiousSymbol2 = gaozhu_law_religious_symbol_2
+		ReligiousSymbol3 = gaozhu_law_religious_symbol_3
+		ReligiousText = gaozhu_law_religious_text
+		ReligiousText2 = gaozhu_law_religious_text_2
+		ReligiousText3 = gaozhu_law_religious_text_3
+		ReligiousHeadName = gaozhu_law_religious_head_title
+		ReligiousHeadTitleName = gaozhu_law_religious_head_title_name
+		DevoteeMale = gaozhu_law_devotee_male
+		DevoteeMalePlural = gaozhu_law_devotee_male_plural
+		DevoteeFemale = gaozhu_law_devotee_female
+		DevoteeFemalePlural = gaozhu_law_devotee_female_plural
+		DevoteeNeuter = gaozhu_law_devotee_neuter
+		DevoteeNeuterPlural = gaozhu_law_devotee_neuter_plural
+		PriestMale = gaozhu_law_priest_male
+		PriestMalePlural = gaozhu_law_priest_male_plural
+		PriestFemale = gaozhu_law_priest_female
+		PriestFemalePlural = gaozhu_law_priest_female_plural
+		PriestNeuter = gaozhu_law_priest_neuter
+		PriestNeuterPlural = gaozhu_law_priest_neuter_plural
+		AltPriestTermPlural = gaozhu_law_alternate_priest_term_plural
+		BishopMale = gaozhu_law_priest_male
+		BishopMalePlural = gaozhu_law_priest_male_plural
+		BishopFemale = gaozhu_law_priest_female
+		BishopFemalePlural = gaozhu_law_priest_female_plural
+		BishopNeuter = gaozhu_law_priest_neuter
+		BishopNeuterPlural = gaozhu_law_priest_neuter_plural
+
+		DivineRealm = gaozhu_law_divine_realm
+		DivineRealm2 = gaozhu_law_divine_realm_2
+		DivineRealm3 = gaozhu_law_divine_realm_3
+		PositiveAfterLife = gaozhu_law_positive_afterlife
+		PositiveAfterLife2 = gaozhu_law_positive_afterlife_2
+		PositiveAfterLife3 = gaozhu_law_positive_afterlife_3
+		NegativeAfterLife = gaozhu_law_negative_afterlife
+		NegativeAfterLife2 = gaozhu_law_negative_afterlife_2
+		NegativeAfterLife3 = gaozhu_law_negative_afterlife_3
+		DeathDeityName = paganism_death_deity_name
+		DeathDeityNamePossessive = paganism_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERSHIS_ITS
+		DeathDeityHerHim = CHARACTER_HERHIM_IT
+		WitchGodName = witchgodname_gaozhu_law_daode_tianzun
+		WitchGodNamePossessive = witchgodname_gaozhu_law_daode_tianzun_possessive
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = gaozhu_law_master
+		WitchGodMotherFather = gaozhu_law_father
+
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
+	}
+	faiths = {
+		shiquan_zong = {#世全宗
+			color = rgb { 239 194 55 }
+			icon = placeholder
+				
+
+			holy_site = c_High_Hiria_1_1
+
+			#placeholder tenets
+			doctrine = tenet_MtC_placeholder_1
+			doctrine = tenet_MtC_placeholder_2
+			doctrine = tenet_MtC_placeholder_3
+		}
+		#圣义宗
+		#至正宗
+	}
+		
+}

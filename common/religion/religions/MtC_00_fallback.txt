@@ -1,15 +1,15 @@
 ﻿old_therosian_paganism_religion = {
 	family = rf_old_beliefs
-
-	doctrine = pagan_hostility_doctrine
+	graphical_faith = "pagan_gfx"
+	doctrine = old_beliefs_hostility_doctrine
 
 	pagan_roots = yes
 
 	#Main Group
 	doctrine = doctrine_no_head
-	doctrine = doctrine_gender_male_dominated
-	doctrine = doctrine_pluralism_pluralistic
-	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
 
 	#Marriage
 	doctrine = doctrine_concubines

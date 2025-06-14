@@ -1,16 +1,12 @@
 ﻿#################
-# African Pagans
+#Imperial
 #################
 
-#Siguic:
-#jenne
-
-jenne = { # An important centre of Siguic influence, albeit not an intrinsically sacred one.
+city_of_hiria = { #Capital of the Hirian Empire. Heart of all modern imperial religious practice
 	county = c_High_hiria_1_1
 
 	character_modifier = {
-		name = holy_site_jenne_effect_name
-		diplomacy = 1
+		name = holy_site_high_hiria_effect_name
 		councillor_opinion = 5
 	}
 }
