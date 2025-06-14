@@ -3,56 +3,56 @@
 ###c_Pwaczia_1_5
 1673 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1674 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Pwaczia_1_3
 1766 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1767 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 1768 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 1774 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 
 ###c_Pwaczia_1_2
 1769 = {
     culture = zurunnish
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1770 = {
     culture = zurunnish
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 1771 = {
     culture = zurunnish
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 1775 = {
     culture = zurunnish
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 
@@ -76,17 +76,17 @@
 ###c_Pwaczia_1_4
 1777 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = castle_holding
 }
 1778 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 1779 = {
     culture = noszian
-    religion = imperial_verita
+    religion = eastern_ritualism
     holding = none
 }
 

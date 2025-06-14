@@ -1,4 +1,4 @@
-﻿imperial_religion = {
+﻿communiunism_religion = {
 	family = rf_new_beliefs
 	doctrine = new_beliefs_hostility_doctrine
 	graphical_faith = "catholic_gfx"
@@ -53,151 +53,151 @@
 	holy_order_maa = { armored_footmen }
 
 	localization = {
-		HighGodName = imperial_high_god_name
-		HighGodName2 = imperial_high_god_name_2
-		HighGodNamePossessive = imperial_high_god_name_possessive
+		HighGodName = communiunsm_high_god_name
+		HighGodName2 = communiunsm_high_god_name_2
+		HighGodNamePossessive = communiunsm_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_IT
 		HighGodHerselfHimself = CHARACTER_ITSELF
 		HighGodHerHis = CHARACTER_HERHIS_ITS
-		HighGodNameAlternate = imperial_high_god_name_alternate
-		HighGodNameAlternatePossessive = imperial_high_god_name_alternate_possessive
+		HighGodNameAlternate = communiunsm_high_god_name_alternate
+		HighGodNameAlternatePossessive = communiunsm_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = imperial_creator_god_name
-		CreatorNamePossessive = imperial_creator_god_name_possessive
+		CreatorName = communiunsm_creator_god_name
+		CreatorNamePossessive = communiunsm_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_IT
 		CreatorHerHis = CHARACTER_HERHIS_ITS
 		CreatorHerHim = CHARACTER_HERHIM_IT
 
 		#HealthGod
-		HealthGodName = imperial_health_god_name
-		HealthGodNamePossessive = imperial_health_god_name_possessive
+		HealthGodName = communiunsm_health_god_name
+		HealthGodNamePossessive = communiunsm_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_IT
 		HealthGodHerHis = CHARACTER_SHEHE_ITS
 		HealthGodHerHim = CHARACTER_SHEHE_IT
 		
 		#FertilityGod
-		FertilityGodName = imperial_fertility_god_name
-		FertilityGodNamePossessive = imperial_fertility_god_name_possessive
+		FertilityGodName = communiunsm_fertility_god_name
+		FertilityGodNamePossessive = communiunsm_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_IT
 		FertilityGodHerHis = CHARACTER_SHEHE_ITS
 		FertilityGodHerHim = CHARACTER_SHEHE_IT
 
 		#WealthGod
-		WealthGodName = imperial_wealth_god_name
-		WealthGodNamePossessive = imperial_wealth_god_name_possessive
+		WealthGodName = communiunsm_wealth_god_name
+		WealthGodNamePossessive = communiunsm_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_IT
 		WealthGodHerHis = CHARACTER_SHEHE_ITS
 		WealthGodHerHim = CHARACTER_SHEHE_IT
 
 		#HouseholdGod
-		HouseholdGodName = imperial_household_god_name
-		HouseholdGodNamePossessive = imperial_household_god_name_possessive
+		HouseholdGodName = communiunsm_household_god_name
+		HouseholdGodNamePossessive = communiunsm_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_IT
 		HouseholdGodHerHis = CHARACTER_SHEHE_ITS
 		HouseholdGodHerHim = CHARACTER_SHEHE_IT
 
 		#FateGod
-		FateGodName = imperial_fate_god_name
-		FateGodNamePossessive = imperial_fate_god_name_possessive
+		FateGodName = communiunsm_fate_god_name
+		FateGodNamePossessive = communiunsm_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = imperial_knowledge_god_name
-		KnowledgeGodNamePossessive = imperial_knowledge_god_name_possessive
+		KnowledgeGodName = communiunsm_knowledge_god_name
+		KnowledgeGodNamePossessive = communiunsm_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_IT
 		KnowledgeGodHerHis = CHARACTER_SHEHE_ITS
 		KnowledgeGodHerHim = CHARACTER_SHEHE_IT
 
 		#WarGod
-		WarGodName = imperial_war_god_name
-		WarGodNamePossessive = imperial_war_god_name_possessive
+		WarGodName = communiunsm_war_god_name
+		WarGodNamePossessive = communiunsm_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_IT
 		WarGodHerHis = CHARACTER_SHEHE_ITS
 		WarGodHerHim = CHARACTER_SHEHE_IT
 
 		#TricksterGod
-		TricksterGodName = imperial_trickster_god_name
-		TricksterGodNamePossessive = imperial_trickster_god_name_possessive
+		TricksterGodName = communiunsm_trickster_god_name
+		TricksterGodNamePossessive = communiunsm_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_IT
 		TricksterGodHerHis = CHARACTER_HERHIS_ITS
 		TricksterGodHerHim = CHARACTER_HERHIM_IT
 
 		#NightGod
-		NightGodName = imperial_night_god_name
-		NightGodNamePossessive = imperial_night_god_name_possessive
+		NightGodName = communiunsm_night_god_name
+		NightGodNamePossessive = communiunsm_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_HE
 		NightGodHerHis = CHARACTER_HERHIS_ITS
 		NightGodHerHim = CHARACTER_HERHIM_IT
 
 		#WaterGod
-		WaterGodName = imperial_water_god_name
-		WaterGodNamePossessive = imperial_water_god_name_possessive
+		WaterGodName = communiunsm_water_god_name
+		WaterGodNamePossessive = communiunsm_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_IT
 		WaterGodHerHis = CHARACTER_SHEHE_ITS
 		WaterGodHerHim = CHARACTER_SHEHE_IT
 
 
-		PantheonTerm = imperial_high_god_name
-		PantheonTerm2 = imperial_high_god_name_2
-		PantheonTerm3 = imperial_high_god_name_3
+		PantheonTerm = communiunsm_high_god_name
+		PantheonTerm2 = communiunsm_high_god_name_2
+		PantheonTerm3 = communiunsm_high_god_name_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { imperial_high_god_name imperial_high_god_name_2 }
-		DevilName = imperial_devil_name
-		DevilNamePossessive = imperial_devil_name_possessive
+		GoodGodNames = { communiunsm_high_god_nacommuniunsm_al_high_god_name_2 }
+		DevilName = communiunsm_devil_name
+		DevilNamePossessive = communiunsm_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_IT
 		DevilHerHis = CHARACTER_HERHIS_ITS
 		DevilHerselfHimself = CHARACTER_ITSELF
-		EvilGodNames = { imperial_devil_name imperial_evil_god_decay }
-		HouseOfWorship = imperial_house_of_worship
-		HouseOfWorship2 = imperial_house_of_worship_2
-		HouseOfWorship3 = imperial_house_of_worship_3
-		HouseOfWorshipPlural = imperial_house_of_worship_plural
-		ReligiousSymbol = imperial_religious_symbol
-		ReligiousSymbol2 = imperial_religious_symbol_2
-		ReligiousSymbol3 = imperial_religious_symbol_3
-		ReligiousText = imperial_religious_text
-		ReligiousText2 = imperial_religious_text_2
-		ReligiousText3 = imperial_religious_text_3
-		ReligiousHeadName = imperial_religious_head_title
-		ReligiousHeadTitleName = imperial_religious_head_title_name
-		DevoteeMale = imperial_devotee
-		DevoteeMalePlural = imperial_devoteeplural
-		DevoteeFemale = imperial_devotee
-		DevoteeFemalePlural = imperial_devoteeplural
-		DevoteeNeuter = imperial_devotee
-		DevoteeNeuterPlural = imperial_devoteeplural
-		PriestMale = imperial_priest
-		PriestMalePlural = imperial_priest_plural
-		PriestFemale = imperial_priest
-		PriestFemalePlural = imperial_priest_plural
-		PriestNeuter = imperial_priest
-		PriestNeuterPlural = imperial_priest_plural
-		AltPriestTermPlural = imperial_priest_alternate_plural
-		BishopMale = imperial_priest
-		BishopMalePlural = imperial_priest_plural
-		BishopFemale = imperial_priest
-		BishopFemalePlural = imperial_priest_plural
-		BishopNeuter = imperial_priest
-		BishopNeuterPlural = imperial_priest_plural
-		DivineRealm = imperial_divine_realm
-		DivineRealm2 = imperial_divine_realm_2
-		DivineRealm3 = imperial_divine_realm_3
-		PositiveAfterLife = imperial_divine_realm
-		PositiveAfterLife2 = imperial_divine_realm_2
-		PositiveAfterLife3 = imperial_divine_realm_3
-		NegativeAfterLife = imperial_afterlife
-		NegativeAfterLife2 = imperial_afterlife_2
-		NegativeAfterLife3 = imperial_afterlife_3
-		DeathDeityName = imperial_death_deity_name
-		DeathDeityNamePossessive = imperial_death_deity_name_possessive
+		EvilGodNames = { communiunsm_devil_nacommuniunsm_al_evil_god_decay }
+		HouseOfWorship = communiunsm_house_of_worship
+		HouseOfWorship2 = communiunsm_house_of_worship_2
+		HouseOfWorship3 = communiunsm_house_of_worship_3
+		HouseOfWorshipPlural = communiunsm_house_of_worship_plural
+		ReligiousSymbol = communiunsm_religious_symbol
+		ReligiousSymbol2 = communiunsm_religious_symbol_2
+		ReligiousSymbol3 = communiunsm_religious_symbol_3
+		ReligiousText = communiunsm_religious_text
+		ReligiousText2 = communiunsm_religious_text_2
+		ReligiousText3 = communiunsm_religious_text_3
+		ReligiousHeadName = communiunsm_religious_head_title
+		ReligiousHeadTitleName = communiunsm_religious_head_title_name
+		DevoteeMale = communiunsm_devotee
+		DevoteeMalePlural = communiunsm_devoteeplural
+		DevoteeFemale = communiunsm_devotee
+		DevoteeFemalePlural = communiunsm_devoteeplural
+		DevoteeNeuter = communiunsm_devotee
+		DevoteeNeuterPlural = communiunsm_devoteeplural
+		PriestMale = communiunsm_priest
+		PriestMalePlural = communiunsm_priest_plural
+		PriestFemale = communiunsm_priest
+		PriestFemalePlural = communiunsm_priest_plural
+		PriestNeuter = communiunsm_priest
+		PriestNeuterPlural = communiunsm_priest_plural
+		AltPriestTermPlural = communiunsm_priest_alternate_plural
+		BishopMale = communiunsm_priest
+		BishopMalePlural = communiunsm_priest_plural
+		BishopFemale = communiunsm_priest
+		BishopFemalePlural = communiunsm_priest_plural
+		BishopNeuter = communiunsm_priest
+		BishopNeuterPlural = communiunsm_priest_plural
+		DivineRealm = communiunsm_divine_realm
+		DivineRealm2 = communiunsm_divine_realm_2
+		DivineRealm3 = communiunsm_divine_realm_3
+		PositiveAfterLife = communiunsm_divine_realm
+		PositiveAfterLife2 = communiunsm_divine_realm_2
+		PositiveAfterLife3 = communiunsm_divine_realm_3
+		NegativeAfterLife = communiunsm_afterlife
+		NegativeAfterLife2 = communiunsm_afterlife_2
+		NegativeAfterLife3 = communiunsm_afterlife_3
+		DeathDeityName = communiunsm_death_deity_name
+		DeathDeityNamePossessive = communiunsm_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_HERHIM_IT
 		DeathDeityHerHis = CHARACTER_HERHIS_ITS
 		DeathDeityHerHim = CHARACTER_HERHIM_IT
-		WitchGodName = witchgodname_imperial_occidia
-		WitchGodNamePossessive = witchgodname_imperial_occidia_possessive
+		WitchGodName = witchgodname_communiunsm_occidia
+		WitchGodNamePossessive = witchgodname_communiunsm_occidia_possessive
 		WitchGodSheHe = CHARACTER_SHEHE_IT
 		WitchGodHerHis = CHARACTER_HERHIS_ITS
 		WitchGodHerHim = CHARACTER_HERHIM_IT
