@@ -1,7 +1,7 @@
-﻿bm_1066_canarias = {
-	start_date = 1066.10.1
+﻿bm_the_journey_to_the_west = {
+	start_date = 741.7.17
 	is_playable = yes
-	group = bm_group_1066
+	group = bm_group_hiria
 
 	weight = { value = 100 }
 
@@ -11,7 +11,7 @@
 		dynasty = 100848
 		dynasty_splendor_level = 1
 		type = male
-		birth = 1039.1.1
+		birth = 724.7.17
 		title = c_High_hiria_1_1
 		government = tribal_government
 		culture = ancient_therosian

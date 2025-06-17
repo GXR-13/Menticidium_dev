@@ -6,6 +6,7 @@ old_banlian = {
 	heritage = heritage_banlian
 	language = language_inner_southern_hirian #should be an old language instead
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -37,6 +38,7 @@ banlian = {
 	heritage = heritage_banlian
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -68,6 +70,7 @@ platian = {
 	heritage = heritage_banlian
 	language = language_outer_southern_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -99,6 +102,7 @@ gollois = {
 	heritage = heritage_banlian
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -130,6 +134,7 @@ suditish = {
 	heritage = heritage_banlian
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -161,6 +166,7 @@ cotier = {
 	heritage = heritage_banlian
 	language = language_outer_southern_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

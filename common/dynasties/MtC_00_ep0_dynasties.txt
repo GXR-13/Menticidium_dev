@@ -1,0 +1,45 @@
+﻿#Unlaned
+ma = {
+	name = dynn_Ma
+	culture = guanghai
+}
+###Noble dynasties of Dwilia
+#Kingdom of Bokojowa
+kramenski = {#Historical ruling dynasty of Bokojowa
+	name = dynn_kamenski
+	culture = bokojowish
+}
+
+#kingdom of JaskoL_ia
+kosasz = {#Historical ruling dynasty of Jaskowia
+	name = dynn_kosasz
+	culture = ptaskan
+}
+
+#Kingdom of PoL_ykac
+giest = {#Historical ruling dynasty of Powykac
+	name = dynn_giest
+	culture = noszian
+}
+#Kingdom of PL_aczia
+z_loL_a = {##Historical ruling dynasty of Pwaczia
+	prefix = dynnp_z
+	name = dynn_loL_a
+	culture = noszian
+}
+
+#Kingdom of Pawland
+dreinor = {#Historical ruling dynasty of Pawland
+	name = dynn_dreinor
+	culture = ostlander
+}
+raisten = {#Historical ruling dynasty of Duchy of eastern duchies
+	name = dynn_raisten
+	culture = ostlander
+}
+
+#kingdom of SokoL_ia
+grodzi = {#Historical ruling dynasty of Sokowia
+	name = dynn_grodzi
+	culture = iowician
+}

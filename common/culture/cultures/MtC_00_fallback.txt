@@ -6,6 +6,7 @@ ancient_therosian = {
 	heritage = heritage_hynian
 	language = language_goidelic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -34,6 +35,7 @@ unknown1 = {
 	heritage = heritage_hynian
 	language = language_brythonic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -64,6 +66,7 @@ unknown2 = {
 	heritage = heritage_hynian
 	language = language_brythonic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

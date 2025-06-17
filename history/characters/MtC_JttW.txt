@@ -1,0 +1,29 @@
+###Major Characters###
+JttW_Ma_Bowan = {
+	name= "Bowan" #泊万
+	religion = shiquan_zong
+	culture= guanghai
+	dynasty = ma
+	713.1.8 = {
+		birth=yes
+	}
+}
+
+JttW_Lu_Diqian = {
+	name= "Diqian" #缔谦
+	religion = shiquan_zong
+	culture= guanghai
+	721.12.18 = {
+		birth=yes
+	}
+}
+###Other Characters
+JttW_Wang_Daoming = {
+	name= "Daoming" #道命
+	religion = shiquan_zong
+	culture= guanghai
+	698.9.1 = {
+		birth=yes
+	}
+}
+
