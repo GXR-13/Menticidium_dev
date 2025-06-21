@@ -1,5 +1,5 @@
-###Major Characters###
-JttW_Ma_Bowan = {
+﻿###Major Characters###
+JttW_1 = {
 	name= "Bowan" #泊万
 	religion = shiquan_zong
 	culture= guanghai
@@ -9,7 +9,7 @@ JttW_Ma_Bowan = {
 	}
 }
 
-JttW_Lu_Diqian = {
+JttW_2 = {
 	name= "Diqian" #缔谦
 	religion = shiquan_zong
 	culture= guanghai
@@ -18,7 +18,7 @@ JttW_Lu_Diqian = {
 	}
 }
 ###Other Characters
-JttW_Wang_Daoming = {
+JttW_3 = {
 	name= "Daoming" #道命
 	religion = shiquan_zong
 	culture= guanghai

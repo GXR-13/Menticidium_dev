@@ -1,0 +1,43 @@
+﻿#Jaskowvia
+k_Jaskowvia = {
+	700.1.1 = { change_development_level = 19 }
+
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+#Jaskowvia_1 
+d_Jaskowvia_1 = {
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+
+c_Jaskowvia_1_1 = {
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+c_Jaskowvia_1_2 = {
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+c_Jaskowvia_1_3 = {
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+c_Jaskowvia_1_4 = {
+	715.9.30 = { 
+		holder = Dwilia_1001 
+	}
+}
+#Wilgosołwa
+d_Jaskowvia_3 = {
+	715.9.30 = {
+		liege = k_Jaskowvia
+		holder = Dwilia_1003 
+	}
+}
+

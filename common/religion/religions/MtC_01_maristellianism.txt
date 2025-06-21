@@ -1,4 +1,4 @@
-maristellianism_religion = {
+﻿maristellianism_religion = {
 	family = rf_old_beliefs
 	graphical_faith = "pagan_gfx"
 	doctrine = old_beliefs_hostility_doctrine

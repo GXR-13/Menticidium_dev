@@ -1,4 +1,4 @@
-gaozhu_law_religion = {#高主之法
+﻿gaozhu_law_religion = {#高主之法
 	family = rf_eastern
 	doctrine = eastern_hostility_doctrine
 	graphical_faith = dharmic_gfx

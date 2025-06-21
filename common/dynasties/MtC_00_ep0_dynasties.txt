@@ -29,8 +29,8 @@ z_loL_a = {##Historical ruling dynasty of Pwaczia
 }
 
 #Kingdom of Pawland
-dreinor = {#Historical ruling dynasty of Pawland
-	name = dynn_dreinor
+witte = {#Historical ruling dynasty of Pawland
+	name = dynn_witte
 	culture = ostlander
 }
 raisten = {#Historical ruling dynasty of Duchy of eastern duchies
@@ -39,7 +39,7 @@ raisten = {#Historical ruling dynasty of Duchy of eastern duchies
 }
 
 #kingdom of SokoL_ia
-grodzi = {#Historical ruling dynasty of Sokowia
-	name = dynn_grodzi
+grodija = {#Historical ruling dynasty of Sokowia
+	name = dynn_grodija
 	culture = iowician
 }

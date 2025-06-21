@@ -1,1 +1,122 @@
-###Jaskowia###
+﻿###Jaskowia###
+Dwilia_1001 = {
+	name= "Leszek" 
+	religion = eastern_ritualism
+	culture= ptaskan
+	dynasty = kosasz
+	680.5.9 = {
+		birth=yes
+	}
+}
+
+Dwilia_1002 = {
+	name= "Pavel" 
+	religion = eastern_ritualism
+	culture= ptaskan
+	dynasty = kosasz
+	father = Dwilia_1001
+	713.11.4 = {
+		birth=yes
+	}
+}
+
+Dwilia_1003 = {
+	name= "Piotr" 
+	religion = eastern_ritualism
+	culture= ptaskan
+	dynasty = kosasz
+	father = Dwilia_1001
+	723.3.15 = {
+		birth=yes
+	}
+}
+
+###Powykac###
+dwilia_2001 = {
+	name = "Karel"
+	religion = eastern_ritualism
+	culture= noszian
+	dynasty = giest
+	707.3.31 = {
+		birth=yes
+	}
+}
+###Pwaczia###
+Dwilia_3001 = {
+	name = "Szczepan"
+	religion = eastern_ritualism
+	culture= noszian
+	dynasty = z_loL_a
+	672.6.28 = {
+		birth=yes
+	}
+}
+###Pomrok###
+Dwilia_4001 = {
+	name = "Ludolf"
+	religion = eastern_ritualism
+	culture = ostlander
+	700.8.27 = {
+		birth=yes
+	}
+}
+###Bokojowa###
+Dwilia_5001 = {
+	name= "Hynek" 
+	religion = eastern_ritualism
+	culture= bokojowish
+	dynasty = kramenski
+	694.2.11 = {
+		birth=yes
+	}
+}
+###Pavland
+Dwilia_6001 = {
+	name= "Benno"
+	religion = eastern_ritualism
+	culture= ostlander
+	dynasty = witte
+	684.11.21 = {
+		birth = yes
+	}
+}
+
+Dwilia_6002 = {
+	name= "Magnus"
+	religion = eastern_ritualism
+	culture= ostlander
+	dynasty = raisten
+	723.8.3 = {
+		birth = yes
+	}
+}
+
+
+###Sowkovia###
+Dwilia_7001 = {
+	name = "Berbat"
+	religion = eastern_ritualism
+	culture= iowician
+	dynasty = grodija
+	733.2.27 = {
+		birth = yes
+	}
+}
+###Witamia###
+Dwilia_8001 = {
+	name = "Werner"
+	religion = eastern_ritualism
+	culture= ostlander
+	688.4.15 = {
+		birth = yes
+	}
+}
+###Despotic Dwilia###
+Dwilia_9001= {
+	name= "Ludael" 
+	religion = eastern_ritualism
+	culture= ostlander
+	717.10.18 = {
+		birth=yes
+	}
+}
