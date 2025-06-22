@@ -1,0 +1,8 @@
+﻿#Sołkowia
+k_Sowkovia = {
+	700.1.1 = { change_development_level = 17 }
+
+	737.4.15 = { 
+		holder = Dwilia_7001
+	}
+}

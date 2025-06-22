@@ -1,0 +1,8 @@
+﻿#Połykac
+k_Powykac = {
+	700.1.1 = { change_development_level = 19 }
+
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
+}

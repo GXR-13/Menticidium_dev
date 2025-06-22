@@ -1,0 +1,8 @@
+﻿#Despotic Dwilia
+k_Despotic_Dwilia = {
+	700.1.1 = { change_development_level = 24 }
+
+	738.1.21 = { 
+		holder = Dwilia_9001
+	}
+}

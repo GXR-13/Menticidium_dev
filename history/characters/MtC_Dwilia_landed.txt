@@ -32,7 +32,7 @@ Dwilia_1003 = {
 }
 
 ###Powykac###
-dwilia_2001 = {
+Dwilia_2001 = {
 	name = "Karel"
 	religion = eastern_ritualism
 	culture= noszian
@@ -112,7 +112,7 @@ Dwilia_8001 = {
 	}
 }
 ###Despotic Dwilia###
-Dwilia_9001= {
+Dwilia_9001 = {
 	name= "Ludael" 
 	religion = eastern_ritualism
 	culture= ostlander

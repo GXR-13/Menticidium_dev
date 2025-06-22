@@ -1,0 +1,8 @@
+﻿#Bokojowa
+k_Pokojowa = {
+	700.1.1 = { change_development_level = 17 }
+
+	729.12.16 = { 
+		holder = Dwilia_5001
+	}
+}

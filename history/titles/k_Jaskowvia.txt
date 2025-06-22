@@ -40,4 +40,12 @@ d_Jaskowvia_3 = {
 		holder = Dwilia_1003 
 	}
 }
+c_Jaskowvia_3_4 = {
+	679.1.1 = { 
+		liege = k_Despotic_Dwilia
+	}
+	738.1.21 = { 
+		holder = Dwilia_9001
+	}
+}
 
