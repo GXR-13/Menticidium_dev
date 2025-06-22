@@ -1,0 +1,80 @@
+﻿###Historical Characters###
+# Historical Characters has an _h attached before their number
+Hiria_h_1 = { #Esmael
+	name= "Esmael"
+	religion = imperial_verita
+	culture= high_hirian
+	dynasty = failin
+	-34.12.26 = {
+		birth = yes
+	}
+	658.9.9 = {
+		death = yes
+	}
+
+}
+
+Hiria_h_2 = { #Sellum, the thronekeeper
+	name= "Sellum"
+	religion = imperial_verita
+	culture = high_hirian
+	dynasty = of_ryeland
+	613.5.15 = {
+		birth = yes
+	}
+	681.9.28 = {
+		death = yes
+	}
+}
+
+Hiria_h_3 = { #Emilian, First of the Wise Three
+	name= "Emiliano"
+	religion = imperial_verita
+	culture = cotier
+	dynasty = di_assia
+	613.12.10 = {
+		birth = yes
+	}
+	683.6.6 = {
+		death = yes
+	}
+}
+
+Hiria_h_4 = { #Heilige, Second of the Wise Three
+	name= "Heilige"
+	religion = imperial_verita
+	culture = zuidlander
+	dynasty = mulden
+	664.6.27 = {
+		birth = yes
+	}
+	706.9.9 = {
+		death = yes
+	}
+}
+
+Hiria_h_5 = { #Manfred, Last of the Wise Three 
+	name = "Manfred"
+	religion = imperial_verita
+	culture = north_hirian
+	dynasty = voler
+
+	673.8.9 = {
+		birth = yes
+	}
+	739.1.2 = {
+		death = yes
+	}
+}
+
+###Major Characters###
+Hiria_1 = {
+	name = "Gamall"
+	dna = gamall_von_erfalen
+	religion = imperial_verita
+	culture = north_hirian
+	dynasty = von_erfalen
+	691.7.17 = {
+		birth = yes
+	}
+}

@@ -43,3 +43,37 @@ grodija = {#Historical ruling dynasty of Sokowia
 	name = dynn_grodija
 	culture = iowician
 }
+
+##Imperial Dynasties
+failin = { #Dynasty of old emperor Esmael
+	name = dynn_failin
+	culture = high_hirian
+}
+
+of_ryeland = { #A traditional family originated from weisshugel
+	prefix = dynnp_of
+	name = dynn_ryeland
+	culture = weisslander
+}
+
+di_assia = { #Local family in Almaria
+	prefix = dynnp_di
+	name = dynn_assia
+	culture = cotier
+}
+
+mulden = { #A traditional trading family in Dulhecht
+	name = dynn_mulden
+	culture = zuidlander
+}
+
+voler = { #Local family in Middlesept
+	name = dynn_voler
+	culture = dynn_voler
+}
+
+von_erfalen = {
+	prefix = dynnp_von
+	name = dynn_erfalen
+	culture = gronlander
+}

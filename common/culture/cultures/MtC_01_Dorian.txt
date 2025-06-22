@@ -6,6 +6,7 @@ ancient_dorian = {
 	heritage = heritage_dorian
 	language = language_coastal_dorian #should be an ancient language instead
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -34,6 +35,7 @@ littorian = {
 	heritage = heritage_dorian
 	language = language_coastal_dorian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -62,6 +64,7 @@ cisfreddian = {
 	heritage = heritage_dorian
 	language = language_coastal_dorian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -91,6 +94,7 @@ transfreddian = {
 	heritage = heritage_dorian
 	language = language_inland_dorian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -119,6 +123,7 @@ migrarian = {
 	heritage = heritage_dorian
 	language = language_inland_dorian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

@@ -6,6 +6,7 @@ frindi = {
 	heritage = heritage_hynian
 	language = language_frindian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -35,6 +36,7 @@ gollowynian = {
 	heritage = heritage_hynian
 	language = language_gollowynian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -64,6 +66,7 @@ rupnic = {
 	heritage = heritage_hynian
 	language = language_dabigsian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

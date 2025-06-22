@@ -1,6 +1,6 @@
 ﻿#Płaczia
 k_Pwaczia = {
-	700.1.1 = { change_development_level = 14 }
+	741.1.1 = { change_development_level = 14 }
 
 	684.3.22 = { 
 		holder = Dwilia_3001

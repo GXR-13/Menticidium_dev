@@ -6,6 +6,7 @@ guanghai = {
 	heritage = heritage_di
 	language = language_eastern_di
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

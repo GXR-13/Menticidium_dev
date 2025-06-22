@@ -1,6 +1,6 @@
 ﻿#Pomrok
 k_Pomrok = {
-	700.1.1 = { change_development_level = 16 }
+	741.1.1 = { change_development_level = 16 }
 
 	734.8.28 = { 
 		holder = Dwilia_4001

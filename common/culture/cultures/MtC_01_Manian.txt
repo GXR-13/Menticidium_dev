@@ -6,6 +6,7 @@ manian = {
 	heritage = heritage_manian
 	language = language_nothern_hirian #should be ancient language
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -36,6 +37,7 @@ zurunnish = {
 	heritage = heritage_manian
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -67,6 +69,7 @@ gronlander = {
 	heritage = heritage_manian
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -97,7 +100,8 @@ weisslander = {
 	ethos = ethos_communal
 	heritage = heritage_manian
 	language = language_nothern_hirian 
-	martial_custom = martial_custom_male_only
+	martial_custom = 
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -129,6 +133,7 @@ fretian = {
 	heritage = heritage_manian
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -160,6 +165,7 @@ zuidlander = {
 	heritage = heritage_manian
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -193,6 +199,7 @@ albennian = {
 	heritage = heritage_manian
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -224,6 +231,7 @@ ostlander = {
 	heritage = heritage_manian
 	language = language_nothern_hirian #The bastardized language of Ostlanders
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

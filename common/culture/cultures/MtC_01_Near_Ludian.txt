@@ -6,6 +6,7 @@ noszian = {
 	heritage = heritage_near_ludian
 	language = language_lower_ludian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -34,6 +35,7 @@ ptaskan = {
 	heritage = heritage_near_ludian
 	language = language_lower_ludian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -62,6 +64,7 @@ iowician = {
 	heritage = heritage_near_ludian
 	language = language_upper_ludian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -90,6 +93,7 @@ bokojowish = {
 	heritage = heritage_near_ludian
 	language = language_valley_ludian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

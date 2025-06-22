@@ -1,6 +1,6 @@
 ﻿#Witamia
 k_Witamia = {
-	700.1.1 = { change_development_level = 15 }
+	741.1.1 = { change_development_level = 15 }
 
 	718.12.2 = { 
 		holder = Dwilia_8001

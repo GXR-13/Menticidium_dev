@@ -6,6 +6,7 @@ varaparian = {
 	heritage = heritage_dabigsian
 	language = language_dabigsian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

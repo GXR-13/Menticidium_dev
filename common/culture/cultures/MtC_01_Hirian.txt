@@ -10,6 +10,7 @@ high_hirian = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -41,6 +42,7 @@ north_hirian = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -72,6 +74,7 @@ south_hirian = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -103,6 +106,7 @@ green_hirian = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -134,6 +138,7 @@ concordian = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -165,6 +170,7 @@ leaguemen = {
 	heritage = heritage_hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
