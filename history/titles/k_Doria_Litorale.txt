@@ -2,7 +2,7 @@
 k_Doria_Litorale = {
 	741.1.1 = { change_development_level = 16 }
 
-	611.2.13 = {
+	611.2.13 = { #The Littorian Uprise
 		government = theocracy_government
 	}
 	716.8.2 = { 

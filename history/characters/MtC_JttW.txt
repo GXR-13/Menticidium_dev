@@ -2,7 +2,7 @@
 JttW_1 = { #马泊万
 	name= "Bowan" 
 	religion = shiquan_zong
-	culture= guanghai
+	culture = guanghai
 	dynasty = ma
 	713.1.8 = {
 		birth=yes
@@ -12,7 +12,7 @@ JttW_1 = { #马泊万
 JttW_2 = { #鲁缔谦
 	name= "Diqian" 
 	religion = shiquan_zong
-	culture= guanghai
+	culture = guanghai
 	721.12.18 = {
 		birth=yes
 	}
@@ -21,7 +21,7 @@ JttW_2 = { #鲁缔谦
 JttW_3 = { #王道命
 	name= "Daoming" 
 	religion = shiquan_zong
-	culture= guanghai
+	culture = guanghai
 	698.9.1 = {
 		birth=yes
 	}

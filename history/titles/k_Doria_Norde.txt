@@ -1,0 +1,199 @@
+﻿#Doria Norde, or Lega Norde
+k_Doria_Norde = {
+	741.1.1 = { change_development_level = 19 }
+}
+
+d_Doria_Norde_1 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					holder = { has_government = administrative_government }
+				}
+				set_state_faith = faith:imperial_verita
+			}
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	732.3.7 = {
+		holder = Doria_Norde_1012
+	}
+}
+
+d_Doria_Norde_2 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = republic_government
+	}
+	729.10.10 = {
+		holder = Doria_Norde_1002
+	}
+}
+
+# d_Doria_Norde_3 = {
+	
+# }
+
+c_Doria_Norde_3_1 = {
+	732.3.7 = {
+		holder = Doria_Norde_1012
+	}
+}
+
+c_Doria_Norde_3_4 = {
+	732.3.7 = {
+		holder = Doria_Norde_1012
+	}
+}
+
+c_Doria_Norde_3_2 = {
+	730.2.27 = {
+		holder = Doria_Norde_1013
+	}
+}
+
+c_Doria_Norde_3_3 = {
+	730.2.27 = {
+		holder = Doria_Norde_1013
+	}
+}
+
+# d_Doria_Norde_4 = {
+	
+# }
+c_Doria_Norde_4_1 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = republic_government
+	}
+	712.6.29 = {
+		holder = Doria_Norde_1005
+	}
+}
+
+c_Doria_Norde_4_2 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = republic_government
+	}
+	736.3.17 = {
+		holder = Doria_Norde_1003
+	}
+}
+
+c_Doria_Norde_4_4 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = republic_government
+	}
+	739.5.22 = {
+		holder = Doria_Norde_1004
+	}
+}
+
+
+c_Doria_Norde_4_3 = {
+	730.2.27 = {
+		holder = Doria_Norde_1013
+	}
+}
+
+d_Doria_Norde_5 = {
+	730.2.27 = {
+		holder = Doria_Norde_1013
+	}
+}
+
+c_Doria_Norde_5_4 = {
+	708.8.11 = {
+		holder = Doria_Norde_1014
+	}
+}
+
+d_Doria_Norde_6 = {
+	715.1.6 = {
+		holder = Doria_Norde_1011
+	}
+}
+
+d_Doria_Norde_7 = {
+	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
+		government = republic_government
+	}
+	719.9.5 = {
+		holder = Doria_Norde_1001
+	}
+}
+
+d_Doria_Norde_8 = {
+	708.8.11 = {
+		holder = Doria_Norde_1014
+	}
+}
+
+c_Doria_Norde_8_2 = {
+	719.9.5 = {
+		holder = Doria_Norde_1001
+	}
+}
+
+d_Doria_Norde_9 = {
+	736.5.14 = {
+		holder = Doria_Norde_1010
+	}
+}
+
+c_Doria_Norde_9_1 = {
+	739.3.22 = {
+		liege = 0
+		holder = Doria_Norde_1008
+	}
+}
+
+c_Doria_Norde_9_3 = {
+	708.2.24 = {
+		holder = Doria_Norde_1007
+	}
+	739.3.22 = {
+		liege = 0
+	}
+}
+
+d_Doria_Norde_10 = {
+	736.5.14 = {
+		holder = Doria_Norde_1010
+	}
+}
+
+c_Doria_Norde_10_2 = {
+	732.7.21 = {
+		holder = Doria_Norde_1006
+	}
+	739.3.22 = {
+		liege = 0
+	}
+}
+
+c_Doria_Norde_10_3 = {
+	739.3.22 = {
+		liege = Doria_Norde_1009
+		holder = Doria_Norde_1009
+	}
+}
+
+
+d_Doria_Norde_11 = {
+	722.10.24 = {
+		holder = Doria_Norde_1009
+	}
+}

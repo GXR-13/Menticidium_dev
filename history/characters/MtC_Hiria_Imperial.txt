@@ -3,7 +3,7 @@
 Hiria_h_1 = { #Esmael
 	name= "Esmael"
 	religion = imperial_verita
-	culture= high_hirian
+	culture = high_hirian
 	dynasty = failin
 	-34.12.26 = {
 		birth = yes

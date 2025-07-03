@@ -1,10 +1,149 @@
 ﻿###Doria_Litorale
 Doria_Litorale_1001 = { #High Priest Janis
 	name= "Janis" 
-	religion = eastern_ritualism
-	culture= ptaskan
+	religion = frazione_del_litorale
+	culture = littorian
 	dynasty = bianco
 	681.12.18 = {
+		birth=yes
+	}
+}
+
+###Doria Norde
+Doria_Norde_1001 = { #High Lord Mayor of _7 and Head of the Lega Norde at game start 
+	name = "TBD"
+	religion = southern_ritualism
+	culture = transfreddian
+	688.10.21 = { #52-22
+		birth=yes
+	}
+}
+
+Doria_Norde_1002 = { #High Lord Mayor of _2 at game start 
+	name = "TBD"
+	religion = southern_ritualism
+	culture = transfreddian
+	697.1.30 = { #44-12
+		birth=yes
+	}
+}
+
+Doria_Norde_1003 = { #Lord Mayor of _4_2 at game start 
+	name = "Bonifacio" 
+	religion = southern_ritualism
+	culture = transfreddian
+	711.3.17 = { #30-5
+		birth=yes
+	}
+}
+
+Doria_Norde_1004 = { #Lord Mayor of _4_4 at game start 
+	name = "Stefano"
+	religion = southern_ritualism
+	culture = transfreddian
+	717.3.24 = { #24-2
+		birth=yes
+	}
+}
+
+Doria_Norde_1005 = { #Lord Mayor of _4_1 at game start 
+	name = "Gherardo"
+	religion = southern_ritualism
+	culture = transfreddian
+	688.12.24 = { #52-29
+		birth=yes
+	}
+}
+
+Doria_Norde_1006 = { #Count of _10_2 at game start 
+	name = "Crabiele"
+	religion = southern_ritualism
+	culture = migrarian
+	721.1.23 = { #20-9
+		birth=yes
+	}
+}
+
+Doria_Norde_1007 = { #Count of _9_3 at game start 
+	name = "Giacopo"
+	religion = southern_ritualism
+	culture = transfreddian
+	681.12.10 = { #59-33
+		birth=yes
+	}
+}
+
+Doria_Norde_1008 = { #Count of _9_1 at game start 
+	name = "Pagano"
+	religion = southern_ritualism
+	culture = transfreddian
+	726.10.10 = { #15-3
+		birth=yes
+	}
+}
+
+Doria_Norde_1009 = { #Duke of _11 at game start 
+	name = "Vittore"
+	religion = southern_ritualism
+	culture = migrarian
+	690.2.28 = { #51-19
+		birth=yes
+	}
+}
+
+Doria_Norde_1010 = { #Duke of _10 and _9 at game start 
+	name = "Jagu"
+	religion = southern_ritualism
+	culture = migrarian
+	712.9.27 = { #28-5
+		birth=yes
+	}
+}
+
+Doria_Norde_1011 = { #Duke of _6 at game start 
+	name = "Galeazzo"
+	religion = southern_ritualism
+	culture = transfreddian
+	700.7.22 = { #41-26
+		birth=yes
+	}
+}
+
+Doria_Norde_1012 = { #Archon of _1 at game start 
+	name = "Ariald"
+	religion = imperial_verita
+	culture = cisfreddian
+	703.5.18 = { #38-9
+		birth=yes
+	}
+}
+
+Doria_Norde_1013 = { #Duke of _5 at game start 
+	name = "Ugonino"
+	religion = southern_ritualism
+	culture = transfreddian
+	706.5.23 = { #35-11
+		birth=yes
+	}
+	741.1.1 = {
+		set_realm_capital = title:c_Doria_Norde_3_2
+	}
+}	
+
+Doria_Norde_1014 = { #Duke of _8 at game start 
+	name = "Nicolau"
+	religion = southern_ritualism
+	culture = transfreddian
+	695.11.29 = { #46-33
+		birth=yes
+	}
+}
+
+Doria_Norde_1015 = { #Border Guard at game start 
+	name = "Liutbald"
+	religion = southern_ritualism
+	culture = transfreddian
+	705.2.26 = { #36-5
 		birth=yes
 	}
 }

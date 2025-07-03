@@ -10,19 +10,28 @@ d_Torquia_1 = {
 }
 #Torquia_5
 d_Torquia_5 = {
-	716.8.2 = { 
-		holder = Doria_Litorale_1001
+	640.1.1 = { #TBD, refernce of the establishnemt of the southern bulwark?
+		government = feudal_government #a unique government or succession law or both?
+	}
+	736.1.11 = { 
+		holder = Doria_Norde_1015
 	}
 }
 #Torquia_7
 d_Torquia_7 = {
-	716.8.2 = { 
-		holder = Doria_Litorale_1001
+	640.1.1 = { #TBD, refernce of the establishnemt of the southern bulwark?
+		government = feudal_government #a unique government or succession law or both?
+	}
+	736.1.11 = { 
+		holder = Doria_Norde_1015
 	}
 }
 #Torquia_8
 d_Torquia_8 = {
-	716.8.2 = { 
-		holder = Doria_Litorale_1001
+	640.1.1 = { #TBD, refernce of the establishnemt of the southern bulwark?
+		government = feudal_government #a unique government or succession law or both?
+	}
+	736.1.11 = { 
+		holder = Doria_Norde_1015
 	}
 }
