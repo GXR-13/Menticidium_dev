@@ -1,4 +1,4 @@
-﻿#Unlaned
+﻿#Unlanded
 ma = {
 	name = dynn_Ma
 	culture = guanghai
@@ -69,11 +69,17 @@ mulden = { #A traditional trading family in Dulhecht
 
 voler = { #Local family in Middlesept
 	name = dynn_voler
-	culture = dynn_voler
+	culture = south_hirian
 }
 
-von_erfalen = {
+von_erfalen = { #Noble family originated from Weisshugel
 	prefix = dynnp_von
 	name = dynn_erfalen
 	culture = gronlander
+}
+
+##Two Meridia
+bianco = {
+	name = dynn_bianco
+	culture = littorian
 }

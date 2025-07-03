@@ -68,7 +68,7 @@ Hiria_h_5 = { #Manfred, Last of the Wise Three
 }
 
 ###Major Characters###
-Hiria_1 = {
+Hiria_1 = { #Gamall 'The Bear' von Erfalen 
 	name = "Gamall"
 	dna = gamall_von_erfalen
 	religion = imperial_verita

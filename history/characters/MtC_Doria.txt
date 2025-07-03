@@ -1,0 +1,10 @@
+﻿###Doria_Litorale
+Doria_Litorale_1001 = { #High Priest Janis
+	name= "Janis" 
+	religion = eastern_ritualism
+	culture= ptaskan
+	dynasty = bianco
+	681.12.18 = {
+		birth=yes
+	}
+}

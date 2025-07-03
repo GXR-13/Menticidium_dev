@@ -1,0 +1,28 @@
+﻿#Torquia
+k_Torquia = {
+	741.1.1 = { change_development_level = 15 }
+}
+#Torquia_1
+d_Torquia_1 = {
+	716.8.2 = { 
+		holder = Doria_Litorale_1001
+	}
+}
+#Torquia_5
+d_Torquia_5 = {
+	716.8.2 = { 
+		holder = Doria_Litorale_1001
+	}
+}
+#Torquia_7
+d_Torquia_7 = {
+	716.8.2 = { 
+		holder = Doria_Litorale_1001
+	}
+}
+#Torquia_8
+d_Torquia_8 = {
+	716.8.2 = { 
+		holder = Doria_Litorale_1001
+	}
+}

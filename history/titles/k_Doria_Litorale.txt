@@ -1,0 +1,11 @@
+﻿#Doria Lotorale
+k_Doria_Litorale = {
+	741.1.1 = { change_development_level = 16 }
+
+	611.2.13 = {
+		government = theocracy_government
+	}
+	716.8.2 = { 
+		holder = Doria_Litorale_1001
+	}
+}

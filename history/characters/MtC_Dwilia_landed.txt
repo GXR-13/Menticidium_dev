@@ -1,5 +1,5 @@
 ﻿###Jaskowia###
-Dwilia_1001 = {
+Dwilia_1001 = { #Leszek 'the Stalwart'
 	name= "Leszek" 
 	religion = eastern_ritualism
 	culture= ptaskan
@@ -9,7 +9,7 @@ Dwilia_1001 = {
 	}
 }
 
-Dwilia_1002 = {
+Dwilia_1002 = { #Pavel, Elder son of Leszek
 	name= "Pavel" 
 	religion = eastern_ritualism
 	culture= ptaskan
@@ -20,13 +20,23 @@ Dwilia_1002 = {
 	}
 }
 
-Dwilia_1003 = {
+Dwilia_1003 = { #Pioter, Second son of Leszek
 	name= "Piotr" 
 	religion = eastern_ritualism
 	culture= ptaskan
 	dynasty = kosasz
 	father = Dwilia_1001
 	723.3.15 = {
+		birth=yes
+	}
+}
+
+###WIP Characters，name and dynasty TBD###
+Dwilia_1004 = { #Duke at Jaskowvia_4
+	name= "TBD" 
+	religion = eastern_ritualism
+	culture= ptaskan
+	709.6.12 = {
 		birth=yes
 	}
 }
@@ -120,3 +130,5 @@ Dwilia_9001 = {
 		birth=yes
 	}
 }
+
+#WIP Characters，name and dynasty TBD
