@@ -3,162 +3,162 @@
 ###c_Powykac_2_4
 1721 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1722 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1725 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1727 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Powykac_2_1
 1723 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1724 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1726 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Powykac_2_3
 1728 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1729 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1730 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1733 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Powykac_2_2
 1732 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1734 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1742 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1743 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Powykac_1
 ###c_Powykac_1_4
 1735 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1736 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1741 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Powykac_1_2
 1737 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1738 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1740 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1748 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Powykac_1_1
 1739 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1744 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1745 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1749 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Powykac_1_3
 1746 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1747 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1750 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 

@@ -3,360 +3,360 @@
 ###c_Kollon_3_2
 9 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 475 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 476 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 489 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 495 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_3_3
 477 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 478 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 488 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 518 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_3_4
 479 = {
     culture = gronlander
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 516 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 517 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_3_1
 496 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 497 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 498 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 502 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ##d_Kollon_1
 ###c_Kollon_1_4
 480 = {
     culture = weisslander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 481 = {
     culture = weisslander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 482 = {
     culture = weisslander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 483 = {
     culture = weisslander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 484 = {
     culture = weisslander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_1_1
 490 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 491 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 493 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 503 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_1_2
 492 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 504 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 505 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 507 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Kollon_1_3
 494 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 499 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 500 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 501 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Kollon_4
 ###c_Kollon_4_4
 485 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 486 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 512 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 519 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_4_2
 487 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 701 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 702 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 703 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_4_1
 520 = {
     culture = gronlander
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 521 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 523 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 531 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_4_3
 700 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 704 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 706 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1990 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Kollon_2
 ###c_Kollon_2_1
 506 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 510 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 511 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 514 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Kollon_2_3
 508 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 509 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 527 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_2_2
 513 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 515 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 522 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 524 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Kollon_2_4
 525 = {
     culture = gronlander
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 526 = {
     culture = gronlander
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 528 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 529 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 530 = {
     culture = gronlander
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 

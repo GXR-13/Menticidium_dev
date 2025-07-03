@@ -3,448 +3,448 @@
 ###c_Dejois_3_3
 14 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1123 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1126 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_3_4
 1124 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1131 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1136 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1139 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_3_2
 1125 = {
     culture = suditish
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 1127 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1135 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1138 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_3_1
 1143 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1174 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1175 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ##d_Dejois_1
 ###c_Dejois_1_3
 1128 = {
     culture = banlian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1129 = {
     culture = banlian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1132 = {
     culture = banlian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_1_4
 1130 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1134 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1144 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_1_1
 1145 = {
     culture = banlian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1146 = {
     culture = banlian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1147 = {
     culture = banlian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1148 = {
     culture = banlian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_1_2
 1149 = {
     culture = banlian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1150 = {
     culture = banlian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1151 = {
     culture = banlian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1152 = {
     culture = banlian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Dejois_4
 ###c_Dejois_4_2
 1133 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1176 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1177 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1178 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_4_5
 1140 = {
     culture = suditish
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 1183 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1192 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_4_3
 1141 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1142 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1179 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1180 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_4_1
 1158 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1166 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1167 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1168 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_4_4
 1171 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1172 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1173 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1187 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Dejois_2
 ###c_Dejois_2_1
 1153 = {
     culture = platian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 1154 = {
     culture = platian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1155 = {
     culture = platian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_2_2
 1156 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1157 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1160 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1161 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_2_3
 1159 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1162 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1163 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1164 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_2_4
 1165 = {
     culture = suditish
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 1169 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1170 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Dejois_5
 ###c_Dejois_5_1
 1185 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1186 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1188 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1189 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_5_2
 1191 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1193 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1194 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1195 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_5_5
 1196 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1199 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1201 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Dejois_5_4
 1197 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1198 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 1200 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Dejois_5_3
 1202 = {
     culture = suditish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1203 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1204 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1205 = {
     culture = suditish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1206 = {
     culture = suditish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 

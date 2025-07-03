@@ -3,46 +3,46 @@
 ###c_Despotic_Dwilia_1_2
 1713 = {
     culture = ostlander
-    religion = imperial_verita
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1714 = {
     culture = ostlander
-    religion = imperial_verita
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Despotic_Dwilia_1_1
 1715 = {
     culture = ostlander
-    religion = imperial_verita
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1716 = {
     culture = ostlander
-    religion = imperial_verita
     holding = none
+    religion = eastern_ritualism
 }
 1717 = {
     culture = ostlander
-    religion = imperial_verita
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Despotic_Dwilia_1_3
 1718 = {
     culture = ostlander
-    religion = imperial_verita
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1719 = {
     culture = ostlander
-    religion = imperial_verita
     holding = none
+    religion = eastern_ritualism
 }
 1720 = {
     culture = ostlander
-    religion = imperial_verita
     holding = none
+    religion = eastern_ritualism
 }
 

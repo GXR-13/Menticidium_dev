@@ -3,179 +3,179 @@
 ###c_Sowkovia_2_2
 1876 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1891 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1893 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1894 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Sowkovia_2_4
 1877 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1880 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1892 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Sowkovia_2_3
 1881 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1882 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1883 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1886 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Sowkovia_2_1
 1895 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1896 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1897 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1898 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Sowkovia_1
 ###c_Sowkovia_1_5
 1878 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1879 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1885 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1887 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Sowkovia_1_4
 1884 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1900 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1904 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Sowkovia_1_1
 1888 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1889 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1890 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1902 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Sowkovia_1_2
 1899 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1901 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1903 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Sowkovia_1_3
 1905 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1906 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1907 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 

@@ -3,280 +3,280 @@
 ###c_Alben_1_1
 217 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 218 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 220 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_1_2
 219 = {
     culture = zurunnish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 221 = {
     culture = zurunnish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 222 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 223 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_1_4
 224 = {
     culture = zurunnish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 225 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 226 = {
     culture = zurunnish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 227 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_1_3
 228 = {
     culture = zurunnish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 229 = {
     culture = zurunnish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 230 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 231 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_1_5
 232 = {
     culture = zurunnish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 233 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 234 = {
     culture = zurunnish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ##d_Alben_2
 ###c_Alben_2_2
 235 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 263 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 264 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_2_1
 241 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 242 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 243 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_2_3
 244 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 265 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 266 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Alben_2_4
 246 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 254 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 261 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Alben_3
 ###c_Alben_3_1
 236 = {
     culture = albennian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 237 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 238 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 239 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 240 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_3_3
 245 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 256 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 257 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 258 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_3_5
 247 = {
     culture = albennian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 248 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 253 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 255 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Alben_3_2
 249 = {
     culture = albennian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 250 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 251 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 252 = {
     culture = albennian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Alben_3_4
 259 = {
     culture = albennian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 260 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 262 = {
     culture = albennian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 

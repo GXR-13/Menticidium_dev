@@ -3,296 +3,296 @@
 ###c_Pokojowa_3_3
 1780 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1781 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1782 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1783 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1784 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_3_2
 1785 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1793 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1794 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1795 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1796 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_3_1
 1786 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1787 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1810 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pokojowa_4
 ###c_Pokojowa_4_1
 1788 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1789 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1790 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pokojowa_4_3
 1791 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1792 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1797 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1799 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_4_2
 1798 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1800 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1801 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1805 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_4_4
 1802 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1803 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1804 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pokojowa_2
 ###c_Pokojowa_2_3
 1806 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1807 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1808 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_2_4
 1809 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1811 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1823 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1824 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pokojowa_2_1
 1812 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1828 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1829 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1830 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_2_2
 1813 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1825 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1826 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1827 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pokojowa_1
 ###c_Pokojowa_1_1
 1814 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1819 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1821 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pokojowa_1_2
 1815 = {
     culture = bokojowish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1816 = {
     culture = bokojowish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1822 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1833 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pokojowa_1_3
 1817 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1818 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1831 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1832 = {
     culture = bokojowish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 

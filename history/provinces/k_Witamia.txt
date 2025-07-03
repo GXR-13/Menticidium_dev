@@ -3,147 +3,147 @@
 ###c_Witamia_1_1
 1873 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1874 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1875 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Witamia_1_2
 1908 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1919 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1920 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Witamia_1_3
 1909 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1911 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1912 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1914 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Witamia_1_4
 1910 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1915 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1918 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ##d_Witamia_2
 ###c_Witamia_2_4
 1913 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1917 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1923 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Witamia_2_3
 1916 = {
     culture = iowician
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1921 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1922 = {
     culture = iowician
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Witamia_2_1
 1924 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1925 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1927 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1928 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Witamia_2_2
 1926 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1929 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1930 = {
     culture = iowician
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 

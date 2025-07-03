@@ -3,197 +3,197 @@
 ###c_Pomrok_3_1
 1669 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1670 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1671 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1672 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pomrok_2
 ###c_Pomrok_2_2
 1675 = {
     culture = ostlander
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1680 = {
     culture = ostlander
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1683 = {
     culture = ostlander
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_2_4
 1676 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1677 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1678 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1820 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_2_3
 1679 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1681 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1731 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_2_1
 1682 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1684 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1685 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pomrok_1
 ###c_Pomrok_1_3
 1689 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1690 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1696 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_1_1
 1691 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1702 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1705 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1707 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_1_5
 1692 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1693 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1694 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1697 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_1_4
 1695 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1698 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1699 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1706 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pomrok_1_2
 1701 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1703 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1704 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 

@@ -3,309 +3,309 @@
 ###c_Old_League_4_3
 3 = {
     culture = concordian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 
 ###c_Old_League_4_4
 38 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 42 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Old_League_4_1
 43 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 68 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 71 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 72 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_4_2
 69 = {
     culture = leaguemen
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 70 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 73 = {
     culture = leaguemen
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ##d_Old_League_3
 ###c_Old_League_3_6
 39 = {
     culture = concordian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 40 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_3_5
 41 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 61 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 62 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_3_4
 44 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 45 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 60 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_3_1
 52 = {
     culture = leaguemen
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 53 = {
     culture = leaguemen
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 58 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_3_3
 54 = {
     culture = leaguemen
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 55 = {
     culture = leaguemen
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 56 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_3_2
 59 = {
     culture = leaguemen
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 63 = {
     culture = leaguemen
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 64 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ##d_Old_League_2
 ###c_Old_League_2_3
 46 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 47 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 48 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 49 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 83 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_2_5
 74 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 75 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 76 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_2_4
 77 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 78 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 90 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_2_1
 82 = {
     culture = concordian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 85 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 86 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 87 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_2_2
 84 = {
     culture = concordian
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 88 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 89 = {
     culture = concordian
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ##d_Old_League_1
 ###c_Old_League_1_1
 50 = {
     culture = leaguemen
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 51 = {
     culture = leaguemen
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 57 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 65 = {
     culture = leaguemen
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_1_3
 66 = {
     culture = concordian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 67 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 80 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 
 ###c_Old_League_1_2
 79 = {
     culture = concordian
-    religion = imperial_verita
     holding = castle_holding
+    religion = imperial_verita
 }
 81 = {
     culture = concordian
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 

@@ -3,191 +3,191 @@
 ###c_Pwaczia_1_5
 1673 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1674 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pwaczia_1_3
 1766 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1767 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1768 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1774 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pwaczia_1_2
 1769 = {
     culture = zurunnish
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1770 = {
     culture = zurunnish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1771 = {
     culture = zurunnish
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1775 = {
     culture = zurunnish
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pwaczia_1_1
 1772 = {
     culture = zurunnish
+    holding = none
     religion = imperial_verita
-    holding = castle_holding
 }
 1773 = {
     culture = zurunnish
-    religion = imperial_verita
     holding = none
+    religion = imperial_verita
 }
 1776 = {
     culture = zurunnish
+    holding = castle_holding
     religion = imperial_verita
-    holding = none
 }
 
 ###c_Pwaczia_1_4
 1777 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = castle_holding
+    religion = eastern_ritualism
 }
 1778 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1779 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ##d_Pwaczia_2
 ###c_Pwaczia_2_4
 1686 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1687 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1688 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1700 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
 ###c_Pwaczia_2_5
 1752 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1753 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1754 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pwaczia_2_3
 1755 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1756 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1757 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1761 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pwaczia_2_2
 1758 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1759 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 1760 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 
 ###c_Pwaczia_2_1
 1762 = {
     culture = noszian
+    holding = none
     religion = eastern_ritualism
-    holding = castle_holding
 }
 1763 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1764 = {
     culture = noszian
-    religion = eastern_ritualism
     holding = none
+    religion = eastern_ritualism
 }
 1765 = {
     culture = noszian
+    holding = castle_holding
     religion = eastern_ritualism
-    holding = none
 }
 
