@@ -5,17 +5,17 @@
 	
 # }
 
-# k_High_hiria = {
+# k_High_Hiria = {
 # 	867.1.1 = { change_development_level = 3 }
 # 	1066.1.1 = { change_development_level = 6 }
 # }
 
-# d_High_hiria_1 = {
+# d_High_Hiria_1 = {
 # 	867.1.1 = { change_development_level = 3 }
 # 	1066.1.1 = { change_development_level = 6 }
 # }
 
-# c_High_hiria_1_1 = {
+# c_High_Hiria_1_1 = {
 # 	867.1.1 = { change_development_level = 3 }
 # 	1066.1.1 = { change_development_level = 6 }
 # 	850.1.1 = {

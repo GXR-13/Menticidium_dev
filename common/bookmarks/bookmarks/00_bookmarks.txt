@@ -12,7 +12,7 @@
 		dynasty_splendor_level = 1
 		type = male
 		birth = 724.7.17
-		title = c_High_hiria_1_1
+		title = c_High_Hiria_1_1
 		government = tribal_government
 		culture = ancient_therosian
 		religion = old_therosian_pagan

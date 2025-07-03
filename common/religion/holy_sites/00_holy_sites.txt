@@ -3,7 +3,7 @@
 #################
 
 city_of_hiria = { #Capital of the Hirian Empire. Heart of all modern imperial religious practice
-	county = c_High_hiria_1_1
+	county = c_High_Hiria_1_1
 
 	character_modifier = {
 		name = holy_site_high_hiria_effect_name

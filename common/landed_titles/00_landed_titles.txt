@@ -1,133 +1,133 @@
 e_Hiria = {
     color = { 234 234 234 }
 
-    capital = c_High_Hiria_1_1
+    capital = c_High_Hiria_1_3
 
-    k_High_hiria = {
+    k_High_Hiria = {
         color = { 234 234 234 }
 
-        capital = c_High_hiria_1_1
+        capital = c_High_Hiria__1_3
 
-        d_High_hiria_1 = {
+        d_High_Hiria_1 = {
             color = { 234 234 234 }
 
-            capital = c_High_hiria_1_1
+            capital = c_High_Hiria_1_1
 
-            c_High_hiria_1_3 = {
+            c_High_Hiria_1_3 = {
                 color = { 234 234 234 }
 
-                b_High_hiria_1_3_3 = {
+                b_High_Hiria_1_3_3 = {
                     province = 1
                     color = { 234 234 234 }
                 }
 
-                b_High_hiria_1_3_2 = {
+                b_High_Hiria_1_3_2 = {
                     province = 19
                     color = { 232 232 232 }
                 }
 
-                b_High_hiria_1_3_6 = {
+                b_High_Hiria_1_3_6 = {
                     province = 20
                     color = { 230 230 230 }
                 }
 
-                b_High_hiria_1_3_4 = {
+                b_High_Hiria_1_3_4 = {
                     province = 21
                     color = { 228 228 228 }
                 }
 
-                b_High_hiria_1_3_5 = {
+                b_High_Hiria_1_3_5 = {
                     province = 22
                     color = { 226 226 226 }
                 }
 
-                b_High_hiria_1_3_1 = {
+                b_High_Hiria_1_3_1 = {
                     province = 23
                     color = { 224 224 224 }
                 }
             }
 
-            c_High_hiria_1_2 = {
+            c_High_Hiria_1_2 = {
                 color = { 220 216 216 }
 
-                b_High_hiria_1_2_2 = {
+                b_High_Hiria_1_2_2 = {
                     province = 25
                     color = { 220 216 216 }
                 }
 
-                b_High_hiria_1_2_1 = {
+                b_High_Hiria_1_2_1 = {
                     province = 24
                     color = { 218 214 214 }
                 }
 
-                b_High_hiria_1_2_3 = {
+                b_High_Hiria_1_2_3 = {
                     province = 26
                     color = { 216 212 212 }
                 }
 
-                b_High_hiria_1_2_4 = {
+                b_High_Hiria_1_2_4 = {
                     province = 27
                     color = { 214 210 210 }
                 }
             }
 
-            c_High_hiria_1_5 = {
+            c_High_Hiria_1_5 = {
                 color = { 210 210 210 }
 
-                b_High_hiria_1_5_2 = {
+                b_High_Hiria_1_5_2 = {
                     province = 29
                     color = { 210 210 210 }
                 }
 
-                b_High_hiria_1_5_3 = {
+                b_High_Hiria_1_5_3 = {
                     province = 28
                     color = { 208 208 208 }
                 }
 
-                b_High_hiria_1_5_1 = {
+                b_High_Hiria_1_5_1 = {
                     province = 30
                     color = { 206 206 206 }
                 }
             }
 
-            c_High_hiria_1_4 = {
+            c_High_Hiria_1_4 = {
                 color = { 224 224 224 }
 
-                b_High_hiria_1_4_3 = {
+                b_High_Hiria_1_4_3 = {
                     province = 31
                     color = { 224 224 224 }
                 }
 
-                b_High_hiria_1_4_2 = {
+                b_High_Hiria_1_4_2 = {
                     province = 33
                     color = { 222 222 222 }
                 }
 
-                b_High_hiria_1_4_1 = {
+                b_High_Hiria_1_4_1 = {
                     province = 36
                     color = { 220 220 220 }
                 }
             }
 
-            c_High_hiria_1_1 = {
+            c_High_Hiria_1_1 = {
                 color = { 238 238 238 }
 
-                b_High_hiria_1_1_3 = {
+                b_High_Hiria_1_1_3 = {
                     province = 35
                     color = { 238 238 238 }
                 }
 
-                b_High_hiria_1_1_4 = {
+                b_High_Hiria_1_1_4 = {
                     province = 32
                     color = { 236 236 236 }
                 }
 
-                b_High_hiria_1_1_2 = {
+                b_High_Hiria_1_1_2 = {
                     province = 34
                     color = { 234 234 234 }
                 }
 
-                b_High_hiria_1_1_1 = {
+                b_High_Hiria_1_1_1 = {
                     province = 37
                     color = { 232 232 232 }
                 }
@@ -138,7 +138,7 @@ e_Hiria = {
     k_Reussia = {
         color = { 196 55 122 }
 
-        capital = c_Reussia_1_1
+        capital = c_Reussia_5_3
 
         d_Reussia_2 = {
             color = { 216 79 144 }
@@ -716,7 +716,7 @@ e_Hiria = {
     k_Old_League = {
         color = { 93 93 93 }
 
-        capital = c_Old_League_1_1
+        capital = c_Old_League_2_3
 
         d_Old_League_4 = {
             color = { 111 111 111 }
@@ -1088,7 +1088,7 @@ e_Hiria = {
     k_Waltenland = {
         color = { 139 181 137 }
 
-        capital = c_Waltenland_1_1
+        capital = c_Waltenland_2_4
 
         d_Waltenland_5 = {
             color = { 101 142 99 }
@@ -1622,7 +1622,7 @@ e_Hiria = {
     k_Weisshugel = {
         color = { 106 138 80 }
 
-        capital = c_Weisshugel_1_1
+        capital = c_Weisshugel_4_1
 
         d_Weisshugel_3 = {
             color = { 120 160 87 }
@@ -2007,7 +2007,7 @@ e_Hiria = {
     k_Kollon = {
         color = { 160 188 94 }
 
-        capital = c_Kollon_1_1
+        capital = c_Kollon_3_3
 
         d_Kollon_3 = {
             color = { 160 188 94 }
@@ -2426,7 +2426,7 @@ e_Hiria = {
     k_Kiemlande = {
         color = { 203 233 35 }
 
-        capital = c_Kiemlande_1_1
+        capital = c_Kiemlande_2_2
 
         d_Kiemlande_5 = {
             color = { 211 240 53 }
@@ -3073,7 +3073,7 @@ e_Hiria = {
     k_Dulhecht = {
         color = { 223 241 69 }
 
-        capital = c_Dulhecht_1_1
+        capital = c_Dulhecht_4_1
 
         d_Dulhecht_2 = {
             color = { 223 241 69 }
@@ -3535,7 +3535,7 @@ e_Hiria = {
     k_Sud = {
         color = { 184 104 126 }
 
-        capital = c_Sud_1_1
+        capital = c_Sud_4_2
 
         d_Sud_3 = {
             color = { 203 103 132 }
@@ -4054,7 +4054,7 @@ e_Hiria = {
     k_Dejois = {
         color = { 221 60 155 }
 
-        capital = c_Dejois_1_1
+        capital = c_Dejois_3_2
 
         d_Dejois_3 = {
             color = { 221 60 155 }
@@ -4578,7 +4578,7 @@ e_Hiria = {
     k_Epine = {
         color = { 184 38 75 }
 
-        capital = c_Epine_1_1
+        capital = c_Epine_4_1
 
         d_Epine_2 = {
             color = { 186 68 98 }
@@ -4957,7 +4957,7 @@ e_Hiria = {
     k_Gollowyn = {
         color = { 165 123 123 }
 
-        capital = c_Gollowyn_1_1
+        capital = c_Gollowyn_4_1
 
         d_Gollowyn_1 = {
             color = { 145 110 110 }
@@ -5481,7 +5481,7 @@ e_Hiria = {
     k_Almaria = {
         color = { 228 119 196 }
 
-        capital = c_Almaria_1_1
+        capital = c_Almaria_3_1
 
         d_Almaria_2 = {
             color = { 217 134 193 }
@@ -5963,7 +5963,7 @@ e_Hiria = {
     k_Torquia = {
         color = { 207 151 225 }
 
-        capital = c_Torquia_1_1
+        capital = c_Torquia_4_1
 
         d_Torquia_2 = {
             color = { 186 101 213 }
@@ -6596,7 +6596,7 @@ e_Hiria = {
     k_Middlesept = {
         color = { 204 180 181 }
 
-        capital = c_Middlesept_1_1
+        capital = c_Middlesept_4_2
 
         d_Middlesept_4 = {
             color = { 204 180 181 }
@@ -7208,7 +7208,7 @@ e_Hiria = {
     k_Imperial_Preserve = {
         color = { 203 203 203 }
 
-        capital = c_Imperial_Preserve_1_1
+        capital = c_Imperial_Preserve_1_3
 
         d_Imperial_Preserve_1 = {
             color = { 174 181 174 }
@@ -7422,7 +7422,7 @@ e_Hiria = {
     k_Alben = {
         color = { 172 215 140 }
 
-        capital = c_Alben_1_1
+        capital = c_Alben_3_1
 
         d_Alben_1 = {
             color = { 155 175 140 }
@@ -7752,7 +7752,7 @@ e_Hiria = {
     k_Intermark = {
         color = { 178 178 146 }
 
-        capital = c_Intermark_1_1
+        capital = c_Intermark_1_4
 
         d_Intermark_1 = {
             color = { 178 178 146 }
@@ -8224,7 +8224,7 @@ e_Hiria = {
 k_Doria_Litorale = {
     color = { 105 35 141 }
 
-    capital = c_Doria_Litorale_1_1
+    capital = c_Doria_Litorale_2_2
 
     d_Doria_Litorale_1 = {
         color = { 105 35 141 }
@@ -9001,7 +9001,7 @@ k_Doria_Litorale = {
 k_Dabigsia = {
     color = { 112 199 159 }
 
-    capital = c_Dabigsia_1_1
+    capital = c_Dabigsia_4_4
 
     d_Dabigsia_2 = {
         color = { 130 200 167 }
@@ -9622,7 +9622,7 @@ k_Dabigsia = {
 k_Doria_Norde = {
     color = { 226 167 234 }
 
-    capital = c_Doria_Norde_1_1
+    capital = c_Doria_Norde_2_2
 
     d_Doria_Norde_9 = {
         color = { 215 119 216 }
@@ -10638,7 +10638,7 @@ k_Doria_Norde = {
 k_Senais_Lands = {
     color = { 76 158 130 }
 
-    capital = c_Senais_Lands_1_1
+    capital = c_Senais_Lands_2_2
 
     d_Senais_Lands_5 = {
         color = { 58 117 97 }
@@ -10908,7 +10908,7 @@ k_Senais_Lands = {
 k_Pomrok = {
     color = { 123 109 104 }
 
-    capital = c_Pomrok_1_1
+    capital = c_Pomrok_2_2
 
     d_Pomrok_3 = {
         color = { 157 39 39 }
@@ -11147,7 +11147,7 @@ k_Pomrok = {
 k_Pwaczia = {
     color = { 208 55 35 }
 
-    capital = c_Pwaczia_1_1
+    capital = c_Pwaczia_1_4
 
     d_Pwaczia_1 = {
         color = { 183 79 65 }
@@ -11375,7 +11375,7 @@ k_Pwaczia = {
 k_Jaskowvia = {
     color = { 218 61 50 }
 
-    capital = c_Jaskowvia_1_1
+    capital = c_Jaskowvia_2_1
 
     d_Jaskowvia_3 = {
         color = { 219 170 168 }
@@ -11764,7 +11764,7 @@ k_Jaskowvia = {
 k_Despotic_Dwilia = {
     color = { 106 83 68 }
 
-    capital = c_Despotic_Dwilia_1_1
+    capital = c_Despotic_Dwilia_1_2
 
     d_Despotic_Dwilia_1 = {
         color = { 106 83 68 }
@@ -11828,7 +11828,7 @@ k_Despotic_Dwilia = {
 k_Powykac = {
     color = { 222 91 73 }
 
-    capital = c_Powykac_1_1
+    capital = c_Powykac_2_4
 
     d_Powykac_2 = {
         color = { 222 91 73 }
@@ -12023,7 +12023,7 @@ k_Powykac = {
 k_Pokojowa = {
     color = { 225 170 51 }
 
-    capital = c_Pokojowa_1_1
+    capital = c_Pokojowa_3_3
 
     d_Pokojowa_3 = {
         color = { 225 170 51 }
@@ -12604,7 +12604,7 @@ k_Pavland = {
 k_Witamia = {
     color = { 165 140 131 }
 
-    capital = c_Witamia_1_1
+    capital = c_Witamia_1_3
 
     d_Witamia_1 = {
         color = { 207 108 74 }
@@ -12784,7 +12784,7 @@ k_Witamia = {
 k_Sowkovia = {
     color = { 232 90 41 }
 
-    capital = c_Sowkovia_1_1
+    capital = c_Sowkovia_2_3
 
     d_Sowkovia_2 = {
         color = { 235 112 69 }
