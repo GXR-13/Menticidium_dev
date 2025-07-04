@@ -1,0 +1,353 @@
+﻿#Witamia
+k_Dabigsia = {
+	741.1.1 = { change_development_level = 12 }
+}
+
+#Use Uzturet titles instead of dejure titles#
+
+#Ugunszals
+d_Ugunszals = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	724.1.12={
+		holder = Dabigsia_1001
+	}
+}
+
+c_Dabigsia_3_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	724.1.12={
+		holder = Dabigsia_1001
+	}
+}
+
+c_Dabigsia_3_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	724.1.12={
+		holder = Dabigsia_1001
+	}
+}
+
+c_Dabigsia_3_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	724.1.12={
+		holder = Dabigsia_1001
+	}
+}
+
+#Ugunsmelns
+d_Ugunsmelns = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	706.9.27={
+		holder = Dabigsia_1002
+	}
+}
+
+c_Dabigsia_4_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	706.9.27={
+		holder = Dabigsia_1002
+	}
+}
+
+c_Dabigsia_4_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	706.9.27={
+		holder = Dabigsia_1002
+	}
+}
+
+c_Dabigsia_4_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	706.9.27={
+		holder = Dabigsia_1002
+	}
+}
+
+d_Ugunsvioles = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	733.4.26={
+		holder = Dabigsia_1003
+	}
+}
+
+c_Dabigsia_5_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	733.4.26={
+		holder = Dabigsia_1003
+	}
+}
+
+c_Dabigsia_5_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	733.4.26={
+		holder = Dabigsia_1003
+	}
+}
+
+
+
+d_Zimasgaisma = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	717.3.8={
+		holder = Dabigsia_1005
+	}
+}
+
+c_Dabigsia_6_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	717.3.8={
+		holder = Dabigsia_1005
+	}
+}
+
+c_Dabigsia_6_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	717.3.8={
+		holder = Dabigsia_1005
+	}
+}
+
+c_Dabigsia_6_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	717.3.8={
+		holder = Dabigsia_1005
+	}
+}
+
+c_Dabigsia_7_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	717.3.8={
+		holder = Dabigsia_1005
+	}
+}
+
+d_Vasarasvetra = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	740.1.13={
+		holder = Dabigsia_1004
+	}
+}
+
+c_Dabigsia_5_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	740.1.13={
+		holder = Dabigsia_1004
+	}
+}
+
+c_Dabigsia_5_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	740.1.13={
+		holder = Dabigsia_1004
+	}
+}
+
+d_Perkonamkonis = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	726.12.10={
+		holder = Dabigsia_1006
+	}
+}
+
+c_Dabigsia_2_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	726.12.10={
+		holder = Dabigsia_1006
+	}
+}
+
+c_Dabigsia_2_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	726.12.10={
+		holder = Dabigsia_1006
+	}
+}
+
+d_Aizdegsanas = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	713.12.24={
+		holder = Dabigsia_1007
+	}
+}
+
+c_Dabigsia_3_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	713.12.24={
+		holder = Dabigsia_1007
+	}
+}
+
+d_Mazasaule = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_1_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_1_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_1_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_1_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_2_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+c_Dabigsia_2_2 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	741.2.24={
+		holder = Dabigsia_1008
+	}
+}
+
+d_Maltagala = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	705.10.5={
+		holder = Dabigsia_1009
+	}
+}
+
+c_Dabigsia_7_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	705.10.5={
+		holder = Dabigsia_1009
+	}
+}
+
+c_Dabigsia_7_3 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	705.10.5={
+		holder = Dabigsia_1009
+	}
+}
+
+c_Dabigsia_7_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	705.10.5={
+		holder = Dabigsia_1009
+	}
+}
+
+d_Ramsmiegs = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	734.8.3={
+		holder = Dabigsia_1010
+	}
+}
+
+c_Dabigsia_1_4 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	734.8.3={
+		holder = Dabigsia_1010
+	}
+}
+
+c_Dabigsia_4_1 = {
+	1.1.1 = {
+		government = tribal_government
+	}
+	734.8.3={
+		holder = Dabigsia_1010
+	}
+}
+

@@ -1,0 +1,96 @@
+﻿###Doria_Litorale
+Dabigsia_1001 = { #Keeper of U.szal
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	705.7.20 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1002 = { #Keeper of U.smeln 
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	686.1.20 = {
+		birth=yes
+	}
+
+	741.1.1 = { #The U.magija
+		effect = {
+			ugunsmagija_setup_effect = yes
+		}
+	}
+}
+
+Dabigsia_1003 = { #Keeper of U.violes
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	704.2.15 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1004 = { #Keeper of V.vetra
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	720.4.24 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1005 = { #Keeper of Z.gaisma
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	681.7.21 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1006 = { #Keeper of P.makonis
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	684.9.10 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1007 = { #Keeper of A.sanas
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	703.9.5 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1008 = { #Keeper of M.saule
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	724.11.10 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1009 = { #Keeper of M.gala
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	687.4.18 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1010 = { #Keeper of R.miegs
+	name= "TBD" 
+	religion = uzturet
+	culture = dabigsian
+	698.7.24 = {
+		birth=yes
+	}
+}
