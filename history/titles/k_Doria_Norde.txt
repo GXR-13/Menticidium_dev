@@ -3,6 +3,13 @@ k_Doria_Norde = {
 	741.1.1 = { change_development_level = 19 }
 }
 
+d_Lega_Norde = {
+	719.9.5 = {
+		holder = Doria_Norde_1001
+	}
+}
+
+#
 d_Doria_Norde_1 = {
 	600.1.1 = { #TBD, refernce of the seceding of Doria Norde during the chaotic times
 		government = administrative_government

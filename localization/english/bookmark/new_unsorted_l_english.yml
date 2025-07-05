@@ -1,6 +1,7 @@
 ﻿l_english:
  #Dabigsia
  CONFEDERATION_UGUNSMAGIJA_NAME:0 "Ugunsmaģija"
+ 
  d_Ugunszals:0 "Ugunszals"
  d_Ugunsmelns:0 "Ugunsmelns"
  d_Ugunsvioles:0 "Ugunsvioles"
@@ -13,7 +14,7 @@
  d_Ramsmiegs:0 "Rāmsmiegs"
 
  #Doria Norde
- k_Lega_Norde:0 "LEGA_NORDE"
+ #CONFEDERATION_LEGA_NORDE_NAME:0 "LEGA_NORDE"
  
  
  

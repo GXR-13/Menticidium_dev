@@ -17,7 +17,7 @@ Doria_Norde_1001 = { #High Lord Mayor of _7 and Head of the Lega Norde at game s
 	688.10.21 = { #52-22
 		birth=yes
 	}
-	741_1.1 = {#The Lega Norde
+	741.1.1 = {#The Lega Norde
 		effect = { 
 			lega_norde_setup_effect = yes
 		}

@@ -23,31 +23,122 @@ ugunsmagija_setup_effect = {
 }
 
 lega_norde_setup_effect = {
-	this = {
-		create_confederation = {
-			name = LEGA_NORDE_NAME
+	this = { #tributary method
+		set_primary_title_to = title:d_Lega_Norde
+		save_scope_as = league_leader
+		character:Doria_Norde_1002 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
 		}
+		character:Doria_Norde_1003 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1004 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1005 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1006 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1007 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1008 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1009 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1010 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1011 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1012 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1013 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1014 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+		character:Doria_Norde_1015 = {
+			start_tributary = { 
+				contract_group = tributary_northern_league_member 
+				suzerain = scope:league_leader  
+			}
+		}
+	}
 
-		safe_scope_as = lega_norde_leader
-	}
-	scope:lega_norde_leader.confederation = {
-		save_scope_as = lega_norde
-	}
-	scope:lega_norde = {
-		add_confederation_member = character:Doria_Norde_1002
-		add_confederation_member = character:Doria_Norde_1003
-		add_confederation_member = character:Doria_Norde_1004
-		add_confederation_member = character:Doria_Norde_1005
-		add_confederation_member = character:Doria_Norde_1006
-		add_confederation_member = character:Doria_Norde_1007
-		add_confederation_member = character:Doria_Norde_1008
-		add_confederation_member = character:Doria_Norde_1009
-		add_confederation_member = character:Doria_Norde_1010
-		add_confederation_member = character:Doria_Norde_1011
-		add_confederation_member = character:Doria_Norde_1012
-		add_confederation_member = character:Doria_Norde_1013
-		add_confederation_member = character:Doria_Norde_1014
-		add_confederation_member = character:Doria_Norde_1015
-	}
+	# this = { #confederation method
+	# 	create_confederation = {
+	# 		name = CONFEDERATION_LEGA_NORDE_NAME
+	# 	}
+
+	# 	save_scope_as = lega_norde_leader
+	# }
+	# scope:lega_norde_leader.confederation = {
+	# 	save_scope_as = lega_norde
+	# }	
+	# scope:lega_norde = {
+	# 	set_coa = k_england
+	# 	add_confederation_member = character:Doria_Norde_1002
+	# 	add_confederation_member = character:Doria_Norde_1003
+	# 	add_confederation_member = character:Doria_Norde_1004
+	# 	add_confederation_member = character:Doria_Norde_1005
+	# 	add_confederation_member = character:Doria_Norde_1006
+	# 	add_confederation_member = character:Doria_Norde_1007
+	# 	add_confederation_member = character:Doria_Norde_1008
+	# 	add_confederation_member = character:Doria_Norde_1009
+	# 	add_confederation_member = character:Doria_Norde_1010
+	# 	add_confederation_member = character:Doria_Norde_1011
+	# 	add_confederation_member = character:Doria_Norde_1012
+	# 	add_confederation_member = character:Doria_Norde_1013
+	# 	add_confederation_member = character:Doria_Norde_1014
+	# 	add_confederation_member = character:Doria_Norde_1015
+		
+	# }
 }
 			
