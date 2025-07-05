@@ -9,7 +9,7 @@ e_Hiria = {
     capital = c_High_Hiria_1_3
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     k_High_Hiria = {
@@ -18,7 +18,7 @@ e_Hiria = {
         capital = c_High_Hiria__1_3
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_High_Hiria_1 = {
@@ -154,7 +154,7 @@ e_Hiria = {
         capital = c_Reussia_5_3
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Reussia_2 = {
@@ -736,7 +736,7 @@ e_Hiria = {
         capital = c_Old_League_2_3
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Old_League_4 = {
@@ -1112,7 +1112,7 @@ e_Hiria = {
         capital = c_Waltenland_2_4
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Waltenland_5 = {
@@ -1650,7 +1650,7 @@ e_Hiria = {
         capital = c_Weisshugel_4_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Weisshugel_3 = {
@@ -2039,7 +2039,7 @@ e_Hiria = {
         capital = c_Kollon_3_3
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Kollon_3 = {
@@ -2462,7 +2462,7 @@ e_Hiria = {
         capital = c_Kiemlande_2_2
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Kiemlande_5 = {
@@ -3113,7 +3113,7 @@ e_Hiria = {
         capital = c_Dulhecht_4_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Dulhecht_2 = {
@@ -3579,7 +3579,7 @@ e_Hiria = {
         capital = c_Sud_4_2
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Sud_3 = {
@@ -4102,7 +4102,7 @@ e_Hiria = {
         capital = c_Dejois_3_2
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Dejois_3 = {
@@ -4630,7 +4630,7 @@ e_Hiria = {
         capital = c_Epine_4_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Epine_2 = {
@@ -5013,7 +5013,7 @@ e_Hiria = {
         capital = c_Gollowyn_4_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Gollowyn_1 = {
@@ -5541,7 +5541,7 @@ e_Hiria = {
         capital = c_Almaria_3_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Almaria_2 = {
@@ -6027,7 +6027,7 @@ e_Hiria = {
         capital = c_Torquia_4_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Torquia_2 = {
@@ -6664,7 +6664,7 @@ e_Hiria = {
         capital = c_Middlesept_4_2
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Middlesept_4 = {
@@ -7280,7 +7280,7 @@ e_Hiria = {
         capital = c_Imperial_Preserve_1_3
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Imperial_Preserve_1 = {
@@ -7498,7 +7498,7 @@ e_Hiria = {
         capital = c_Alben_3_1
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Alben_1 = {
@@ -7832,7 +7832,7 @@ e_Hiria = {
         capital = c_Intermark_1_4
 
         ai_primary_priority = {
-            add = better_than_the_alternatives_score
+            add = @better_than_the_alternatives_score
         }
 
         d_Intermark_1 = {
@@ -8308,7 +8308,7 @@ k_Doria_Litorale = {
     capital = c_Doria_Litorale_2_2
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Doria_Litorale_1 = {
@@ -9089,7 +9089,7 @@ k_Dabigsia = {
     capital = c_Dabigsia_4_4
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Dabigsia_2 = {
@@ -9714,7 +9714,7 @@ k_Doria_Norde = {
     capital = c_Doria_Norde_7_1
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Doria_Norde_9 = {
@@ -10734,7 +10734,7 @@ k_Senais_Lands = {
     capital = c_Senais_Lands_2_2
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Senais_Lands_5 = {
@@ -11008,7 +11008,7 @@ k_Pomrok = {
     capital = c_Pomrok_2_2
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Pomrok_3 = {
@@ -11251,7 +11251,7 @@ k_Pwaczia = {
     capital = c_Pwaczia_1_4
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Pwaczia_1 = {
@@ -11483,7 +11483,7 @@ k_Jaskowvia = {
     capital = c_Jaskowvia_2_1
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Jaskowvia_3 = {
@@ -11876,7 +11876,7 @@ k_Despotic_Dwilia = {
     capital = c_Despotic_Dwilia_1_2
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Despotic_Dwilia_1 = {
@@ -11944,7 +11944,7 @@ k_Powykac = {
     capital = c_Powykac_2_4
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Powykac_2 = {
@@ -12143,7 +12143,7 @@ k_Pokojowa = {
     capital = c_Pokojowa_3_3
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Pokojowa_3 = {
@@ -12498,7 +12498,7 @@ k_Pavland = {
     capital = c_Pavland_1_1
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Pavland_2 = {
@@ -12732,7 +12732,7 @@ k_Witamia = {
     capital = c_Witamia_1_3
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Witamia_1 = {
@@ -12916,7 +12916,7 @@ k_Sowkovia = {
     capital = c_Sowkovia_2_3
 
     ai_primary_priority = {
-        add = better_than_the_alternatives_score
+        add = @better_than_the_alternatives_score
     }
 
     d_Sowkovia_2 = {
