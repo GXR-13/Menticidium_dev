@@ -100,7 +100,7 @@ weisslander = {
 	ethos = ethos_communal
 	heritage = heritage_manian
 	language = language_nothern_hirian 
-	martial_custom = 
+	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_placeholder1
