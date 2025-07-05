@@ -46,7 +46,7 @@
 ###c_Sud_3_5
 941 = {
     culture = south_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 942 = {
@@ -56,7 +56,7 @@
 }
 943 = {
     culture = south_hirian
-    holding = castle_holding
+    holding = none
     religion = imperial_verita
 }
 

@@ -479,7 +479,7 @@
 ###c_Reussia_5_2
 926 = {
     culture = south_hirian
-    holding = castle_holding
+    holding = none
     religion = imperial_verita
 }
 929 = {
@@ -489,7 +489,7 @@
 }
 935 = {
     culture = south_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 

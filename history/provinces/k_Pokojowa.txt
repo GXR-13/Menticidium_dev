@@ -13,7 +13,7 @@
 }
 1782 = {
     culture = bokojowish
-    holding = castle_holding
+    holding = none
     religion = eastern_ritualism
 }
 1783 = {
@@ -23,7 +23,7 @@
 }
 1784 = {
     culture = bokojowish
-    holding = none
+    holding = castle_holding
     religion = eastern_ritualism
 }
 
