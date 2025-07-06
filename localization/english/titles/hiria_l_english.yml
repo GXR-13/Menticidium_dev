@@ -1,3 +1,246 @@
 ﻿l_english:
  #Hiria
  e_Hiria:0 "Hiria"
+
+ #High Hiria
+ k_High_Hiria:0 "High Hiria"
+
+ d_High_Hiria_1:0 "High Hiria"
+ c_High_Hiria_1_1:0 "Quelle"
+ c_High_Hiria_1_2:0 "Northbank"
+ c_High_Hiria_1_3:0 "City of Hiria"
+ c_High_Hiria_1_4:0 "Narcissa"
+ c_High_Hiria_1_5:0 "Trinton"
+ #Middlesept
+ k_Middlesept:0 "Middlesept"
+
+ d_Middlesept_1:0 "Frankbern"
+
+ d_Middlesept_2:0 "Oxkoppel"
+
+ d_Middlesept_3:0 "Crannon"
+
+ d_Middlesept_4:0 "Stans"
+
+ d_Middlesept_5:0 "Longbruen"
+
+ d_Middlesept_6:0 "Hosin"
+
+ #Hollen and Alderhorn
+ k_Imperial_Preserve:0 "Hollen and Alderhorn"
+
+ d_Imperial_Preserve_1:0 "Hollen"
+
+ d_Imperial_Preserve_2:0 "Alderhorn"
+
+ #Intermark
+ k_Intermark:0 "Intermark"
+
+ d_Intermark_1:0 "Begonia"
+
+ d_Intermark_2:0 "Peuplier"
+
+ d_Intermark_3:0 "Fronbrat"
+
+ d_Intermark_4:0 "Wessain"
+
+ d_Intermark_5:0 "Bronfalen"
+ #The Old League
+ k_Old_League:0 "Concordia"
+
+ d_Old_League_1:0 "Aldennia"
+ c_Old_League_1_1:0 "Obeir"
+ c_Old_League_1_2:0 "Lesser Alden"
+ c_Old_League_1_3:0 "Greater Alden"
+
+ d_Old_League_2:0 "Primary Concordia"
+ c_Old_League_2_1:0 "Galben"
+ c_Old_League_2_2:0 "Fanton-at-North"
+ c_Old_League_2_3:0 "Sheaffield"
+ c_Old_League_2_4:0 "New Fanton"
+ c_Old_League_2_5:0 "Gaywick"
+
+ d_Old_League_3:0 "South Concordia"
+ c_Old_League_3_1:0 "Fanton-at-South"
+ c_Old_League_3_2:0 "Liberton"
+ c_Old_League_3_3:0 "Lambwell"
+ c_Old_League_3_4:0 "Waterbridge"
+ c_Old_League_3_5:0 "Potterham"
+ c_Old_League_3_6:0 "Scaton"
+
+ d_Old_League_4:0 "Secondary Concordia"
+ c_Old_League_4_1:0 "Havenfort"
+ c_Old_League_4_2:0 "Upper Leven"
+ c_Old_League_4_3:0 "Mountain Amicitia"
+ c_Old_League_4_4:0 "Esgate"
+ #Albennia
+ k_Alben:0 "Alben"
+
+ d_Alben_1:0 "Liedorp"
+
+ d_Alben_2:0 "Gutenmart"
+
+ d_Alben_3:0 "Pappelfalen"
+ #Waltenland
+ k_Waltenland:0 "Waltenland"
+
+ d_Waltenland_1:0 "Sattelberg"
+
+ d_Waltenland_2:0 "Weitquelle"
+
+ d_Waltenland_3:0 "Birnbaum"
+
+ d_Waltenland_4:0 "Anholtzen"
+
+ d_Waltenland_5:0 "Kohlrüberg"
+
+ d_Waltenland_6:0 "Saarten"
+ #Weißhugel
+ k_Weisshugel:0 "Weißhugel"
+
+ d_Weisshugel_1:0 "Abendmahl"
+
+ d_Weisshugel_2:0 "Mittenmark"
+
+ d_Weisshugel_3:0 "Hochboden"
+
+ d_Weisshugel_4:0 "Weißruhe"
+ #Kollen
+ k_Kollon:0 "Kollen"
+
+ d_Kollon_1:0 "Duftberg"
+
+ d_Kollon_2:0 "Kroneruhe"
+
+ d_Kollon_3:0 "Ieppenland"
+
+ d_Kollon_4:0 "Paschelen"
+ #Kiemlande
+ k_Kiemlande:0 "Kiemlande"
+
+ d_Kiemlande_1:0 "Goudsbloem"
+
+ d_Kiemlande_2:0 "Trompwoud"
+
+ d_Kiemlande_3:0 "Buisval"
+
+ d_Kiemlande_4:0 "Iepingen"
+
+ d_Kiemlande_5:0 "Osterdam"
+ c_Kiemlande_5_1:0 "Borstwijk"
+ c_Kiemlande_5_2:0 "Eder"
+ c_Kiemlande_5_3:0 "Lossija"
+
+ d_Kiemlande_6:0 "Lebensduur"
+
+ d_Kiemlande_7:0 "Pelledorp"
+ #Dulhecht
+ k_Dulhecht:0 "Dulhecht"
+
+ d_Dulhecht_1:0 "Buitenmaar"
+
+ d_Dulhecht_2:0 "Fellezonnen"
+
+ d_Dulhecht_3:0 "Noordertuin"
+
+ d_Dulhecht_4:0 "Immerkaamp"
+
+ d_Dulhecht_5:0 "Heelbaggeren"
+ #Réussia
+ k_Reussia:0 "Réussia"
+
+ d_Reussia_1:0 "Chevales"
+
+ d_Reussia_2:0 "Terre d'Or"
+
+ d_Reussia_3:0 "Fèvenne"
+
+ d_Reussia_4:0 "Pairanges"
+
+ d_Reussia_5:0 "Vergerie"
+
+ d_Reussia_6:0 "Laemmles"
+ #Sud
+ k_Sud:0 "Sud"
+
+ d_Sud_1:0 "Greater Corvéeuil"
+
+ d_Sud_2:0 "Nouveau-Comté"
+
+ d_Sud_3:0 "Estusine"
+
+ d_Sud_4:0 "Rossignois"
+
+ d_Sud_5:0 "Sûrsons"
+
+ d_Sud_6:0 "Transfondres"
+ #Epiné
+ k_Epine:0 "Epiné"
+
+ d_Epine_1:0 "Palierboue"
+
+ d_Epine_2:0 "Diamane"
+
+ d_Epine_3:0 "Campargues Ultérieure"
+
+ d_Epine_4:0 "Campargues Antérieure"
+
+ d_Epine_5:0 "Sagessols"
+ #Dejois
+ k_Dejois:0 "Dejois"
+
+ d_Dejois_1:0 "Lesser Corvéeuil"
+
+ d_Dejois_2:0 "Robusque"
+
+ d_Dejois_3:0 "Suddamme"
+
+ d_Dejois_4:0 "Sophoran"
+
+ d_Dejois_5:0 "Greater Moutonville"
+ #Gollowyn
+ k_Gollowyn:0 "Gollowyn"
+
+ d_Gollowyn_1:0 "Doburgar"
+
+ d_Gollowyn_2:0 "Subon"
+
+ d_Gollowyn_3:0 "Bouldor"
+
+ d_Gollowyn_4:0 "Ardion"
+
+ d_Gollowyn_5:0 "Ceobrí"
+
+ d_Gollowyn_6:0 "Balla Kudia"
+ #Almaria
+ k_Almaria:0 "Almaria"
+
+ d_Almaria_1:0 "Sinistra"
+
+ d_Almaria_2:0 "Azienda"
+
+ d_Almaria_3:0 "Saluta"
+
+ d_Almaria_4:0 "Cennonia"
+
+ d_Almaria_5:0 "Vinoviolette"
+
+ d_Almaria_6:0 "Unirevente"
+ #Torquia
+ k_Torquia:0 "Torquia"
+
+ d_Torquia_1:0 "Benelucio"
+
+ d_Torquia_2:0 "Umidito"
+
+ d_Torquia_3:0 "Bellezza"
+
+ d_Torquia_4:0 "Mattino"
+
+ d_Torquia_5:0 "Southern Caldo"
+
+ d_Torquia_6:0 "Stretto"
+
+ d_Torquia_7:0 "Northern Caldo"
+
+ d_Torquia_8:0 "Upper Caldo"

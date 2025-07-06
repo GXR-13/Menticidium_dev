@@ -1,5 +1,6 @@
 ﻿l_english:
  #Dabigsia
+ k_Dabigsia:0 "Dabigsia"
  CONFEDERATION_UGUNSMAGIJA_NAME:0 "Ugunsmaģija"
  
  d_Ugunszals:0 "Ugunszals"
@@ -15,7 +16,47 @@
 
  #Doria Norde
  #CONFEDERATION_LEGA_NORDE_NAME:0 "LEGA_NORDE"
+ k_Doria_Norde:0 "Doria Norde"
  d_Lega_Norde:0 "Lega Norde"
+ 
+ d_Doria_Nprde_1:0 "Esteria"
+
+ d_Doria_Nprde_2:0 "Fondo"
+
+ d_Doria_Nprde_3:0 "Reggio Freddia"
+
+ d_Doria_Nprde_4:0 "Sorrisino"
+
+ d_Doria_Nprde_5:0 "Solvitare"
+
+ d_Doria_Nprde_6:0 "Boschore"
+
+ d_Doria_Nprde_7:0 "Domino"
+
+ d_Doria_Nprde_8:0 "Viso"
+
+ d_Doria_Nprde_9:0 "Western Copia"
+
+ d_Doria_Nprde_10:0 "Eastern Copia"
+
+ d_Doria_Nprde_11:0 "Confinia"
 
  #Doria Litorale
  k_Doria_Litorale:0 "Doria Litorale"
+
+ d_Doria_Litorale_1:0 "Trevivo"
+
+ d_Doria_Litorale_2:0 "Nyndia"
+
+ d_Doria_Litorale_3:0 "Pacifio"
+
+ d_Doria_Litorale_4:0 "Campo Grande"
+
+ d_Doria_Litorale_5:0 "Dorian March"
+
+ d_Doria_Litorale_6:0 "Miasmia"
+
+ d_Doria_Litorale_7:0 "Sorcento"
+
+ d_Doria_Litorale_8:0 "Valle d'Mero"
+
