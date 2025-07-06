@@ -1,0 +1,20 @@
+tibutary_has_special_type_gui = {
+	scope = character
+
+	is_valid = {
+		OR = {
+			has_subject_contract_group = tributary_imperial_substate
+			has_subject_contract_group = tributary_northern_league_member
+		}
+	}
+}
+
+tibutary_has_alliance_type_gui = {
+	scope = character
+
+	is_valid = {
+		OR = {
+			has_subject_contract_group = tributary_northern_league_member
+		}
+	}
+}

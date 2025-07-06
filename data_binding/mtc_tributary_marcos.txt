@@ -1,0 +1,17 @@
+﻿macro = {
+	description = "Does this character use custom tributary icon?"
+	definition = "HasCustomTributaryIcon(TargetCharacter)"
+	replace_with = "GetScriptedGui( 'tibutary_has_special_type_gui' ).IsValid( GuiScope.SetRoot( TargetCharacter.MakeScope ).End )"
+}
+
+macro = {
+	description = "Does this character use alliance tributary icon?"
+	definition = "HasAllianceTributaryIcon(TargetCharacter)"
+	replace_with = "GetScriptedGui( 'tibutary_has_alliance_type_gui' ).IsValid( GuiScope.SetRoot( TargetCharacter.MakeScope ).End )"
+}
+
+macro = {
+	description = "Is the character a Herder?"
+	definition = "TestMacro(TargetCharacter)"
+	replace_with = "TargetCharacter.GetGovernment.IsType( 'herder_government' )"
+}
