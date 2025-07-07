@@ -1,19 +1,33 @@
 ﻿l_simp_chinese:
- #Połykać
  k_Powykac:0 "波维卡茨"
- #Pomorok
- k_Pomrok:0 "波莫洛"
- #Jaskołwia
+ d_Powykac_1:0 "多林诺琴"
+ d_Powykac_2:0 "马瓦德沃"
+ k_Pomrok:0 "波莫罗"
+ d_Pomrok_1:0 "拉多维奥斯那"
+ d_Pomrok_2:0 "比亚瓦格沃瓦"
+ d_Pomrok_3:0 "戈维西那"
  k_Jaskowvia:0 "雅斯科维亚"
- #Płaczia
+ d_Jaskowvia_1:0 "亚斯诺莫斯克"
+ d_Jaskowvia_2:0 "瓦佐维施"
+ d_Jaskowvia_3:0 "维戈索瓦"
+ d_Jaskowvia_4:0 "奥特瓦托博兹"
  k_Pwaczia:0 "普瓦琴亚"
- #Sokołwia
+ d_Pwaczia_1:0 "多布罗维采"
+ d_Pwaczia_2:0 "维戈达"
  k_Sowkovia:0 "索科维亚"
- #Pawland
+ d_Sowkovia_1:0 "乌斯卡帕丁那"
+ d_Sowkovia_2:0 "德佩西亚"
  k_Pavland:0 "帕夫兰"
- #Witamia
+ d_Pavland_1:0 "维施坦"
+ d_Pavland_2:0 "大洛多维奇"
+ d_Pavland_3:0 "维克利那"
  k_Witamia:0 "维塔米亚"
- #Bokojowa
+ d_Witamia_1:0 "克鲁佩奇"
+ d_Witamia_2:0 "扎尼泰雷纳"
  k_Pokojowa:0 "博科约瓦"
- #Despotic Dwilia
+ d_Pokojowa_1:0 "扎帕卡德"
+ d_Pokojowa_2:0 "霍拉塔博尔"
+ d_Pokojowa_3:0 "维索科萨尔"
+ d_Pokojowa_4:0 "维霍卡德"
  k_Despotic_Dwilia:0 "德维利亚"
+ d_Despotic_Dwilia_1:0 "希茨霍加"

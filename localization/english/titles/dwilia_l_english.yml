@@ -1,19 +1,65 @@
 ﻿l_english:
  #Połykać
  k_Powykac:0 "Połykać"
+
+ d_Powykac_1:0 "Dolinocień"
+
+ d_Powykac_2:0 "Maładwór"
  #Pomorok
  k_Pomrok:0 "Pomorok"
+
+ d_Pomrok_1:0 "Radowiosna"
+
+ d_Pomrok_2:0 "Białagłowa"
+
+ d_Pomrok_3:0 "Gółysina"
  #Jaskołwia
  k_Jaskowvia:0 "Jaskołwia"
+
+ d_Jaskowvia_1:0 "Jasnomosk"
+
+ d_Jaskowvia_2:0 "Warzowieś"
+
+ d_Jaskowvia_3:0 "Wilgosołwa"
+
+ d_Jaskowvia_4:0 "Otwartobóz"
  #Płaczia
  k_Pwaczia:0 "Płaczia"
+
+ d_Pwaczia_1:0 "Dobrowice"
+
+ d_Pwaczia_2:0 "Wygoda"
  #Sokołwia
  k_Sowkovia:0 "Sokołwia"
+
+ d_Sowkovia_1:0 "Uskapadina"
+
+ d_Sowkovia_2:0 "Depresija"
  #Pawland
  k_Pavland:0 "Pawland"
+
+ d_Pavland_1:0 "Weitstamm"
+
+ d_Pavland_2:0 "Grossrodowitz"
+
+ d_Pavland_3:0 "Wiklina"
  #Witamia
  k_Witamia:0 "Witamia"
+
+ d_Witamia_1:0 "Krupeć"
+
+ d_Witamia_2:0 "Zadnji Terena"
  #Bokojowa
  k_Pokojowa:0 "Bokojowa"
+
+ d_Pokojowa_1:0 "Zápakádě"
+
+ d_Pokojowa_2:0 "Horatábor"
+
+ d_Pokojowa_3:0 "Vysokosál"
+
+ d_Pokojowa_4:0 "Výchokádě"
  #Despotic Dwilia
  k_Despotic_Dwilia:0 "Dwilia"
+
+ d_Despotic_Dwilia_1:0 "Sitz Holga"

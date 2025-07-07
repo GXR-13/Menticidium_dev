@@ -19,27 +19,27 @@
  k_Doria_Norde:0 "Doria Norde"
  d_Lega_Norde:0 "Lega Norde"
  
- d_Doria_Nprde_1:0 "Esteria"
+ d_Doria_Norde_1:0 "Esteria"
 
- d_Doria_Nprde_2:0 "Fondo"
+ d_Doria_Norde_2:0 "Fondo"
 
- d_Doria_Nprde_3:0 "Reggio Freddia"
+ d_Doria_Norde_3:0 "Reggio Freddia"
 
- d_Doria_Nprde_4:0 "Sorrisino"
+ d_Doria_Norde_4:0 "Sorrisino"
 
- d_Doria_Nprde_5:0 "Solvitare"
+ d_Doria_Norde_5:0 "Solvitare"
 
- d_Doria_Nprde_6:0 "Boschore"
+ d_Doria_Norde_6:0 "Boschore"
 
- d_Doria_Nprde_7:0 "Domino"
+ d_Doria_Norde_7:0 "Domino"
 
- d_Doria_Nprde_8:0 "Viso"
+ d_Doria_Norde_8:0 "Viso"
 
- d_Doria_Nprde_9:0 "Western Copia"
+ d_Doria_Norde_9:0 "Western Copia"
 
- d_Doria_Nprde_10:0 "Eastern Copia"
+ d_Doria_Norde_10:0 "Eastern Copia"
 
- d_Doria_Nprde_11:0 "Confinia"
+ d_Doria_Norde_11:0 "Confinia"
 
  #Doria Litorale
  k_Doria_Litorale:0 "Doria Litorale"
@@ -60,3 +60,5 @@
 
  d_Doria_Litorale_8:0 "Valle d'Mero"
 
+ #Senais Lands
+ k_Senais_Lands:0 "Senais Lands"
