@@ -1,0 +1,7 @@
+colors = {
+	# used by coat of arms
+	banlian_red 		= rgb { 95 15 32 }
+	banlian_red_deep    = rgb { 58 5 16 }
+}
+
+	
