@@ -14,6 +14,33 @@
  d_Maltagala:0 "Maltāgaļa"
  d_Ramsmiegs:0 "Rāmsmiegs"
 
+ d_Dabigsia_1:0 "Gaismaleja"
+
+ d_Dabigsia_2:0 "Perkonkani"
+
+ d_Dabigsia_3:0 "Ugunskani"
+
+ d_Dabigsia_4:0 "Mirteleja"
+
+ d_Dabigsia_5:0 "Vētrakani"
+
+ d_Dabigsia_6:0 "Svētazeme"
+
+ d_Dabigsia_7:0 "Asiņzeme"
+
+ #Senais Lands
+ k_Senais_Lands:0 "Senais Lands"
+
+ d_Senais_Lands_1:0 "Tumšsmežs"
+
+ d_Senais_Lands_2:0 "Dārzsmežs"
+
+ d_Senais_Lands_3:0 "Mirtmežs"
+
+ d_Senais_Lands_4:0 "Pārticība"
+
+ d_Senais_Lands_5:0 "Ugunsmežs"
+
  #Doria Norde
  #CONFEDERATION_LEGA_NORDE_NAME:0 "LEGA_NORDE"
  k_Doria_Norde:0 "Doria Norde"
@@ -60,5 +87,3 @@
 
  d_Doria_Litorale_8:0 "Valle d'Mero"
 
- #Senais Lands
- k_Senais_Lands:0 "Senais Lands"
