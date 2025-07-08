@@ -95,6 +95,55 @@ k_Middlesept = {
 
 }
 
+k_Old_League = {
+	pattern="pattern_solid.dds"
+	color1=white
+	color2=red
+	color3=red
+	colored_emblem={
+		color1=red
+		texture="ce_border_shield_engrailed_01.dds"
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_league_red_tower.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+			position={ 0.5 0.46 }
+			depth=1.010000
+		}
+
+	}
+}
+
+c_Old_League_2_3 = {
+	pattern="pattern_solid.dds"
+	color1=white
+	color2=red
+	color3=red
+	colored_emblem={
+		color1=red
+		texture="ce_border_shield_engrailed_01.dds"
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_league_red_tower.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+			position={ 0.5 0.46 }
+			depth=1.010000
+		}
+
+	}
+
+}
+
 k_Intermark = {
 	pattern="pattern_solid.dds"
 	color1=white
@@ -139,8 +188,8 @@ k_Intermark = {
 k_Reussia = {
 
 	pattern="temp_pattern_bendy_special.dds"
-	color1=rgb { 95 15 32 }
-	color2=rgb { 58 5 16 }
+	color1=banlian_red_deep
+	color2=banlian_red
 	color3=blue
 	colored_emblem={
 		color1=yellow
@@ -178,11 +227,10 @@ k_Reussia = {
 
 }
 
-
 k_Dejois = {
 	pattern="pattern_horizontal_split_01.dds"
-	color1=rgb { 95 15 32 }
-	color2=rgb { 58 5 16 }
+	color1=banlian_red
+	color2=banlian_red_deep
 	color3=red
 
 	colored_emblem={
@@ -197,7 +245,7 @@ k_Dejois = {
 	}
 
 	colored_emblem={
-		color1=rgb { 95 15 32 }
+		color1=banlian_red
 		texture="ce_imperial_aster_bold.dds"
 		instance={
 			scale={ 0.5000 0.5000 }
@@ -209,7 +257,7 @@ k_Dejois = {
 	}
 
 	colored_emblem={
-		color1=rgb { 58 5 16 }
+		color1=banlian_red_deep
 		texture="ce_imperial_aster_bold.dds"
 		instance={
 			scale={ 0.5000 0.5000 }
@@ -222,7 +270,7 @@ k_Dejois = {
 
 	colored_emblem={
 		color1=yellow
-		color2=rgb { 95 15 32 }
+		color2=banlian_red
 		texture="ce_imperial_prume.dds"
 		instance = { position = { 0.10 0.00 } scale = { 0.16 0.16 } depth = 1.01 }
 		instance = { position = { 0.30 0.00 } scale = { 0.16 0.16 } depth = 1.01 }
@@ -264,10 +312,10 @@ k_Dejois = {
 k_Sud = {
 	
 	pattern="pattern_solid.dds"
-	color1=rgb { 95 15 32 }
+	color1=banlian_red
 	color2=black
 	colored_emblem={
-		color1=rgb { 58 5 16 }
+		color1=banlian_red_deep
 		color2=white
 		texture="ce_mena_pale.dds"
 		instance={

@@ -24,6 +24,10 @@ ugunsmagija_setup_effect = {
 
 lega_norde_setup_effect = {
 	this = { #tributary method
+		start_tributary = { 
+			contract_group = tributary_imperial_substate
+			suzerain = character:Hiria_1
+		}
 		set_primary_title_to = title:d_Lega_Norde
 		save_scope_as = league_leader
 		character:Doria_Norde_1002 = {
@@ -110,6 +114,7 @@ lega_norde_setup_effect = {
 				suzerain = scope:league_leader  
 			}
 		}
+		
 	}
 
 	# this = { #confederation method
