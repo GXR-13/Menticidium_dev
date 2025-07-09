@@ -1,7 +1,9 @@
 colors = {
 	# used by coat of arms
+	red_light    		= hsv { 0.02 0.7 0.55 }
 	banlian_red 		= rgb { 95 15 32 }
 	banlian_red_deep    = rgb { 58 5 16 }
+	league_grey         = rgb { 55 55 55 }
 }
 
 	

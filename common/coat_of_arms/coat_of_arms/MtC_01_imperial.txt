@@ -379,3 +379,478 @@ k_Sud = {
 
 
 }
+
+k_Old_League = {
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=league_grey
+	color3=black
+	#Red Tower
+	colored_emblem={
+		color1=red
+		color2 = white
+		texture="ce_league_red_tower.dds"
+		instance={
+			scale={ 0.2800000 0.2800000 }
+			depth = 0.1
+		}
+
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_escutcheon.dds"
+		instance={
+			scale={ 0.4500000 0.4500000 }
+			depth = 0.2
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_escutcheon.dds"
+		instance={
+			scale={ 0.500000 0.500000 }
+			depth = 0.3
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			scale={ 1.000000 0.200000 }
+			depth = 0.4
+		}
+		instance={
+			scale={ 0.200000 1.000000 }
+			rotation = 90
+			depth = 0.4
+		}
+	}
+
+
+	#Galben
+	colored_emblem={
+		color1=rgb {55 55 55}
+		color2=yellow
+		texture="ce_bend_decorated.dds"
+		instance={
+			scale={ 0.65 0.65 }
+			position = {0.25 0.75}
+			rotation = 135
+			
+		}
+		mask = {1}
+	}
+	colored_emblem = {
+		color1 = blue
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.15 0.15}
+			position = {0.25 0.75}
+			rotation = 45
+		}
+	}
+	colored_emblem = {
+		color1 = white
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.15 0.15}
+			position = {0.25 0.75}
+			rotation = 315
+		}
+	}
+	colored_emblem = {
+		color1 = red
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.15 0.15}
+			position = {0.25 0.75}
+			rotation = 135
+		}
+	}
+	colored_emblem = {
+		color1 = yellow
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.15 0.15}
+			position = {0.25 0.75}
+			rotation = 225
+		}
+	}
+	#Trevien
+	colored_emblem={
+		color1=yellow
+		color2=rgb { 78 10 0 }
+		color3=rgb { 51 7 0 }
+		texture="ce_imperial_solar_road_splendor.dds"
+		instance={
+			depth=1.010000
+			position = {0.25 0.25}
+			scale = {0.5 0.5}
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		texture="ce_imperial_laurels_thin.dds"
+		instance={
+			rotation=180
+			position = {0.25 0.185}
+			scale = {0.375 0.375}			
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=red
+		texture="ce_per_fess.dds"
+		instance={
+			scale={ 0.500000 0.500000 }
+			position = {0.25 0.25}
+			depth = 5.0
+		}
+		
+
+	}
+	#Feirmia
+	colored_emblem={
+		color1=white
+		texture="ce_bendlet.dds"
+		instance={
+			scale={ 0.5 0.5 }
+			position={ 0.75 0.25 }
+			depth = 2.1
+		}
+		
+
+	}
+	colored_emblem = {
+		texture = "ce_imperial_treasure_winged.dds"
+		color1 = brown
+		color2 = grey
+		color3 = white
+		instance = { 
+			scale = {0.205 0.25}
+			position = {0.75 0.24}
+		}
+	}
+
+	colored_emblem = {
+		color1=league_grey
+		texture = "ce_pentagon.dds"
+		instance = { scale={ 0.1 0.1 } position = {0.75 0.1} depth = 2.0}
+		instance = { scale={ 0.1 0.1 } position = {0.9 0.1} depth = 2.0}
+		instance = { scale={ 0.1 0.1 } position = {0.9 0.25} depth = 2.0}
+	}
+
+	colored_emblem = {
+		color1=red
+		texture = "ce_pentagon.dds"
+		instance = { scale={ 0.1 0.1 } position = {0.6 0.4} depth = 2.0}
+		instance = { scale={ 0.1 0.1 } position = {0.6 0.25} depth = 2.0}
+		instance = { scale={ 0.1 0.1 } position = {0.75 0.4} depth = 2.0}
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_shield_02.dds"
+		instance={
+			position={ 0.75 0.25 }
+			scale={ 0.25000 0.22 }
+			depth = 2.0
+		}
+		
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=league_grey
+		texture="ce_per_bend.dds"
+		instance={
+			scale={ 0.500000 0.500000 }
+			position = {0.75 0.25}
+			depth = 5.0
+		}
+		
+
+	}
+	#Two Aldens
+	colored_emblem={
+		color1=white
+		texture="ce_penta_halo_bold.dds"
+		instance={
+			position={ 0.905000 0.540000 }
+			scale={ 0.060000 0.060000 }
+			depth = 1.2
+		}
+		instance={
+			position={ 0.905000 0.790000 }
+			scale={ 0.060000 0.060000 }
+			depth = 1.2
+		}
+
+	}
+	colored_emblem={
+		color1=league_grey
+		texture="ce_block_02.dds"
+		instance = {
+			position = {0.875 0.625}
+			scale = {0.25 0.25}
+			depth = 1.3
+		}
+	}
+	colored_emblem={
+		color1=red
+		color2 =white
+		color3=yellow
+		texture="ce_hirianne_3_colors.dds"
+		instance = {
+			position = {0.875 0.625}
+			scale = {0.225 0.225}
+			depth = 1.1
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance = {
+			position = {0.875 0.875}
+			scale = {0.25 0.25}
+			depth = 1.3
+		}
+	}
+
+	colored_emblem={
+		color1=league_grey
+		color2 =white
+		color3=yellow
+		texture="ce_hirianne_3_colors.dds"
+		instance = {
+			position = {0.875 0.875}
+			scale = {0.225 0.225}
+			depth = 1.1
+		}
+	}
+
+	colored_emblem={
+		color1=white
+		color2=yellow
+		texture="ce_barruly_10.dds"
+		instance={
+			scale={ 0.500000 0.500000 }
+			position = {0.75 0.75}
+			depth = 5.0
+		}
+		
+
+	}
+}
+
+d_League_Galben = {
+	pattern="pattern__solid_designer.dds"
+	color1=red
+	color2=grey
+	color3=blue
+	colored_emblem={
+		color1=rgb {55 55 55}
+		color2=yellow
+		texture="ce_bend_decorated.dds"
+		instance={
+			scale={ 1.3 1.3 }
+			rotation = 135
+		}
+	}
+	colored_emblem = {
+		color1 = blue
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.3 0.3}
+			rotation = 45
+		}
+	}
+	colored_emblem = {
+		color1 = white
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.3 0.3}
+			rotation = 315
+		}
+	}
+	colored_emblem = {
+		color1 = red
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.3 0.3}
+			rotation = 135
+		}
+	}
+	colored_emblem = {
+		color1 = yellow
+		texture = "ce_galben_component.dds"
+		instance = {
+			scale = {0.3 0.3}
+			rotation = 225
+		}
+	}
+
+}
+
+d_League_Trevien = {
+	pattern="pattern_horizontal_split_01.dds"
+	color1=white
+	color2=red
+	color3=red
+	colored_emblem={
+		color1=yellow
+		color2=rgb { 78 10 0 }
+		color3=rgb { 51 7 0 }
+		texture="ce_imperial_solar_road_splendor.dds"
+		instance={
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		texture="ce_imperial_laurels_thin.dds"
+		instance={
+			rotation=180
+			position = {0.5 0.37}
+			scale = {0.75 0.75}			
+		}
+
+	}
+
+}
+
+d_League_Feirmia = {
+	pattern="pattern_diagonal_split_02.dds"
+	color1=red
+	color2=league_grey
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_bendlet.dds"
+		instance={
+			scale={ 1.0 1.0 }
+			depth = 2.1
+		}
+		
+
+	}
+	colored_emblem = {
+		texture = "ce_imperial_treasure_winged.dds"
+		color1 = brown
+		color2 = grey
+		color3 = white
+		instance = { 
+			scale = {0.41 0.5}
+			position = {0.5 0.48}
+		}
+	}
+
+	colored_emblem = {
+		color1=league_grey
+		texture = "ce_pentagon.dds"
+		instance = { scale={ 0.2 0.2 } position = {0.5 0.2} depth = 2.0}
+		instance = { scale={ 0.2 0.2 } position = {0.8 0.2} depth = 2.0}
+		instance = { scale={ 0.2 0.2 } position = {0.8 0.5} depth = 2.0}
+	}
+
+	colored_emblem = {
+		color1=red
+		texture = "ce_pentagon.dds"
+		instance = { scale={ 0.2 0.2 } position = {0.2 0.8} depth = 2.0}
+		instance = { scale={ 0.2 0.2 } position = {0.2 0.5} depth = 2.0}
+		instance = { scale={ 0.2 0.2 } position = {0.5 0.8} depth = 2.0}
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_shield_02.dds"
+		instance={
+			position={ 0.50 0.50 }
+			scale={ 0.50000 0.440000 }
+			depth = 2.0
+		}
+		
+
+	}
+}
+
+d_League_Two_Aldens = {
+	pattern="pattern_barruly_12.dds"
+	color1=white
+	color2=yellow
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_penta_halo_bold.dds"
+		instance={
+			position={ 0.810000 0.080000 }
+			scale={ 0.120000 0.120000 }
+			depth = 1.2
+		}
+		instance={
+			position={ 0.810000 0.580000 }
+			scale={ 0.120000 0.120000 }
+			depth = 1.2
+		}
+
+	}
+	colored_emblem={
+		color1=league_grey
+		texture="ce_block_02.dds"
+		instance = {
+			position = {0.75 0.25}
+			scale = {0.5 0.5}
+			depth = 1.3
+		}
+	}
+	colored_emblem={
+		color1=red
+		color2 =white
+		color3=yellow
+		texture="ce_hirianne_3_colors.dds"
+		instance = {
+			position = {0.75 0.25}
+			scale = {0.45 0.45}
+			depth = 1.1
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance = {
+			position = {0.75 0.75}
+			scale = {0.5 0.5}
+			depth = 1.3
+		}
+	}
+
+	colored_emblem={
+		color1=league_grey
+		color2 =white
+		color3=yellow
+		texture="ce_hirianne_3_colors.dds"
+		instance = {
+			position = {0.75 0.75}
+			scale = {0.45 0.45}
+			depth = 1.1
+		}
+	}
+
+}
+
+
+
+

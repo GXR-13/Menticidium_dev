@@ -38,6 +38,13 @@ ce_penta_halo.dds = { colors = 1 category = imperial }
 ce_penta_halo_bold.dds = { colors = 1 category = imperial }
 ce_spoon_abstract.dds =  { colors = 1 category = imperial }
 ce_spoon.dds = { colors = 2 category = imperial }
+ce_imperial_league_sun.dds = { colors = 2 category = imperial }
+ce_imperial_league_sun_splendor.dds = { colors = 3 category = imperial }
+ce_imperial_solar_road.dds = { colors = 2 category = imperial }
+ce_imperial_solar_road_splendor.dds = { colors = 3 category = imperial }
+ce_imperial_treasure.dds = { colors = 2 category = imperial }
+ce_imperial_treasure_winged.dds = { colors = 3 category = imperial }
+ce_imperial_laurels_thin.dds = { colors = 1 category = imperial }
 
 
 ce_swallow_abstract.dds = {colors = 2 category = dwilian}
@@ -47,3 +54,4 @@ ce_swallow_3_colors.dds = {colors = 3 category = dwilian}
 
 ce_pentagon.dds = {colors = 1 category = patterns}
 ce_bend_decorated.dds = {colors = 2 category = patterns}
+ce_galben_component.dds = {colors = 1 category = patterns}
