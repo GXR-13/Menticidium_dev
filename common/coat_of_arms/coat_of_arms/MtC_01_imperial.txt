@@ -95,55 +95,6 @@ k_Middlesept = {
 
 }
 
-k_Old_League = {
-	pattern="pattern_solid.dds"
-	color1=white
-	color2=red
-	color3=red
-	colored_emblem={
-		color1=red
-		texture="ce_border_shield_engrailed_01.dds"
-
-	}
-
-	colored_emblem={
-		color1=red
-		color2=white
-		texture="ce_league_red_tower.dds"
-		instance={
-			scale={ 0.650000 0.650000 }
-			position={ 0.5 0.46 }
-			depth=1.010000
-		}
-
-	}
-}
-
-c_Old_League_2_3 = {
-	pattern="pattern_solid.dds"
-	color1=white
-	color2=red
-	color3=red
-	colored_emblem={
-		color1=red
-		texture="ce_border_shield_engrailed_01.dds"
-
-	}
-
-	colored_emblem={
-		color1=red
-		color2=white
-		texture="ce_league_red_tower.dds"
-		instance={
-			scale={ 0.650000 0.650000 }
-			position={ 0.5 0.46 }
-			depth=1.010000
-		}
-
-	}
-
-}
-
 k_Intermark = {
 	pattern="pattern_solid.dds"
 	color1=white
@@ -185,8 +136,56 @@ k_Intermark = {
 	}
 }
 
-k_Reussia = {
+k_Imperial_Preserve = {
 
+
+	pattern="pattern_vertical_split_01.dds"
+	color1=white
+	color2=blue
+	color3=green
+	colored_emblem={
+		color1=red
+		texture="ce_block_01.dds"
+		instance={
+			position = {0.5 0.875}
+			scale={ 1.00000 1.000000 }
+		}
+
+	}
+	colored_emblem={
+		color1=yellow
+		color2 = red
+		color3  = white
+		texture="ce_imperial_river_beast.dds"
+		instance={
+			position = {0.75 0.3}
+			scale={ 0.45 0.45 }
+		}
+
+	}
+	colored_emblem={
+		color1=green_light
+		texture="ce_imperial_ancient_leaf.dds"
+		instance={
+			position = {0.25 0.3}
+			scale={ 0.6 0.6 }
+		}
+
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_imperial_aster.dds"
+		instance={
+			position = {0.5 0.75}
+			scale={ 0.23 0.23 }
+		}
+
+	}
+
+
+}
+
+k_Reussia = {
 	pattern="temp_pattern_bendy_special.dds"
 	color1=banlian_red_deep
 	color2=banlian_red
@@ -380,6 +379,53 @@ k_Sud = {
 
 }
 
+k_Epine={
+	pattern="pattern_solid.dds"
+	color1=banlian_red_deep
+	color2=red
+	color3=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_imperial_ring_of_thorn.dds"
+		instance={
+			scale={ 0.9 0.9 }
+			position = {0.5 0.48}
+		}
+
+	}
+	colored_emblem={
+		color1=yellow
+		color2 = banlian_red_deep
+		texture="ce_imperial_prume.dds"
+		instance={
+			scale={ 0.3 0.3 }
+			position = {0.5 0.47}
+		}
+
+	}
+
+	
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_imperial_aster.dds"
+		instance={scale={ 0.15 0.15 } position = {0.5 0.1}}
+		instance={scale={ 0.15 0.15 } position = {0.138599 0.382573}}
+		instance={scale={ 0.15 0.15 } position = {0.276642 0.807426}}
+		instance={scale={ 0.15 0.15 } position = {0.723358 0.807426}}
+		instance={scale={ 0.15 0.15 } position = {0.861401 0.382573}}
+	}
+
+	colored_emblem={
+		color1=banlian_red
+		texture="ce_african_frame_bg_10.dds"
+		instance = {
+			depth = 2.0
+		}
+	}
+
+}
+
 k_Old_League = {
 	pattern="pattern_checkers_02.dds"
 	color1=red
@@ -410,21 +456,21 @@ k_Old_League = {
 		color1=black
 		texture="ce_escutcheon.dds"
 		instance={
-			scale={ 0.500000 0.500000 }
+			scale={ 0.47 0.47 }
 			depth = 0.3
 		}
 
 	}
 
 	colored_emblem={
-		color1=black
+		color1=white
 		texture="ce_block_05.dds"
 		instance={
-			scale={ 1.000000 0.200000 }
+			scale={ 1.000000 0.100000 }
 			depth = 0.4
 		}
 		instance={
-			scale={ 0.200000 1.000000 }
+			scale={ 0.100000 1.000000 }
 			rotation = 90
 			depth = 0.4
 		}
@@ -653,6 +699,31 @@ k_Old_League = {
 	}
 }
 
+c_Old_League_2_3 = {
+	pattern="pattern_solid.dds"
+	color1=white
+	color2=red
+	color3=red
+	colored_emblem={
+		color1=red
+		texture="ce_border_shield_engrailed_01.dds"
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_league_red_tower.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+			position={ 0.5 0.46 }
+			depth=1.010000
+		}
+
+	}
+
+}
+
 d_League_Galben = {
 	pattern="pattern__solid_designer.dds"
 	color1=red
@@ -850,7 +921,4 @@ d_League_Two_Aldens = {
 	}
 
 }
-
-
-
 
