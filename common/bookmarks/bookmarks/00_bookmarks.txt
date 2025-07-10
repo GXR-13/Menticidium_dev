@@ -7,17 +7,17 @@
 
 	# Guanarigato
 	character = {
-		name = "bookmark_canarias_guanarigato"
+		name = "bookmark_JttW_ma_bowan"
 		dynasty = 100848
 		dynasty_splendor_level = 1
 		type = male
-		birth = 724.7.17
+		birth = 713.1.8
 		title = c_High_Hiria_1_1
 		government = tribal_government
-		culture = ancient_therosian
-		religion = old_therosian_pagan
+		culture = guanghai
+		religion = shiquan_zong
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 20842
+		history_id = JttW_1
 		position = { 250 750 }
 
 		animation = happiness
