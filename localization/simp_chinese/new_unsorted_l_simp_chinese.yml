@@ -9,6 +9,7 @@
  gloss_long_lived_esmael_imperial: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结。他的长寿对帝国人民来讲是自然的常识。"
  gloss_long_lived_esmael_question: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——可如果帝国和它的统治者摒弃神明的力量，[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]又怎能拥有如此漫长的寿命？更奇怪的是，为何帝国中人人都对此视而不见？"
  Esmael: "埃斯迈尔"
+ dynn_failin: "费林"
 
  MtC_test.1.t: "测试，其之一"
  MtC_test.1.desc: "皇帝 vs 神，你们知道吗？"

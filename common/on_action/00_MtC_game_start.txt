@@ -1,4 +1,4 @@
-﻿on_game_start_after_lobby = {
+﻿on_MtC_game_start = {
 	effect = {
 		debug_log = "test test"
 		character:Hiria_1 = { trigger_event = MtC_test.1 }
