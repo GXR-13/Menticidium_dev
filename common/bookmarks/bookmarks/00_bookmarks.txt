@@ -7,8 +7,8 @@
 
 	# Guanarigato
 	character = {
-		name = "bookmark_JttW_ma_bowan"
-		dynasty = 100848
+		name = "bookmark_MtC_Jttw_1"
+		dynasty = ma
 		dynasty_splendor_level = 1
 		type = male
 		birth = 713.1.8

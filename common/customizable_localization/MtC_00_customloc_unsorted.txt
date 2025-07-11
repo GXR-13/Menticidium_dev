@@ -1,0 +1,31 @@
+﻿long_lived_esmael_dynamic = {
+	type = character
+	text = {
+		localization_key = gloss_long_lived_esmael_imperial
+		trigger = {
+			has_variable = knowledge_long_lived_esmael_var
+			var:knowledge_long_lived_esmael_var = 1
+		}
+	}
+	text = {
+		localization_key = gloss_long_lived_esmael_question
+		trigger = {
+			has_variable = knowledge_long_lived_esmael_var
+			var:knowledge_long_lived_esmael_var = 2
+		}
+	}
+	text = {
+		localization_key = gloss_unknown
+		trigger = {
+			OR = {
+				NOT = { has_variable = knowledge_long_lived_esmael_var }
+				AND = {
+					has_variable = knowledge_long_lived_esmael_var
+					var:knowledge_long_lived_esmael_var = 0
+				}
+			}
+			
+		}
+		fallback = yes
+	}
+}

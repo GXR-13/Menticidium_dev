@@ -68,7 +68,7 @@ heritage_near_ludian = {
 	audio_parameter = european
 }
 
-Heritage_di = {#翟 "Germany, but Chinese"
+heritage_di = {#翟 "Germany, but Chinese"
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
@@ -78,7 +78,7 @@ Heritage_di = {#翟 "Germany, but Chinese"
 	audio_parameter = european
 }
 
-Heritage_li = {#离 "English, but Chinese/Japanese"
+heritage_li = {#离 "English, but Chinese/Japanese"
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {

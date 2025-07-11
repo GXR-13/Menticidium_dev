@@ -1,0 +1,80 @@
+﻿namespace = MtC_test
+
+MtC_test.1 = {
+	type = character_event
+	title = MtC_test.1.t
+	desc = MtC_test.1.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.1.a
+		flavor = MtC_test.1.a.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 0
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+	
+	option = {
+		name = MtC_test.1.b
+		flavor = MtC_test.1.b.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 1
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+	
+	option = {
+		name = MtC_test.1.c
+		flavor = MtC_test.1.c.flavour
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 2
+			}
+			trigger_event = MtC_test.2
+		}
+
+		# No stress, no AI.
+	}
+}
+
+MtC_test.2 = {
+	type = character_event
+	title = MtC_test.2.t
+	desc = MtC_test.2.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.2.a
+		flavor = MtC_test.2.a.flavour
+		scope:event_owner = {
+			trigger_event = MtC_test.1
+		}
+	}
+
+	option = {
+		name = MtC_test.2.b
+		flavor = MtC_test.2.b.flavour
+		
+	}
+}
