@@ -15,6 +15,13 @@
 		}
 	}
 	text = {
+		localization_key = gloss_long_lived_esmael_revealed
+		trigger = {
+			has_variable = knowledge_long_lived_esmael_var
+			var:knowledge_long_lived_esmael_var = 4
+		}
+	}
+	text = {
 		localization_key = gloss_unknown
 		trigger = {
 			OR = {

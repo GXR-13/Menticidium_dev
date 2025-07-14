@@ -8,6 +8,7 @@
  gloss_unknown: "你尚且不了解这个概念。"
  gloss_long_lived_esmael_imperial: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结。他的长寿对帝国人民来讲是自然的常识。"
  gloss_long_lived_esmael_question: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——可如果帝国和它的统治者摒弃神明的力量，[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]又怎能拥有如此漫长的寿命？更奇怪的是，为何帝国中人人都对此视而不见？"
+ gloss_long_lived_esmael_revealed: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——他的长寿源自【已删改】。尽管【已删改】，人们仍然【已删改】。最终，身居高位的[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]【已删改】：尽管他本不愿，却被【已删改】，成为了【已删改】。"
  Esmael: "埃斯迈尔"
  dynn_failin: "费林"
 
@@ -19,10 +20,12 @@
  MtC_test.1.b.flavour: "作为合格的帝国公民，你当然知道！至少你知道你应该知道的那个版本。"
  MtC_test.1.c: "这又谁跟谁啊？"
  MtC_test.1.c.flavour: "你打开新世界的大门……"
+ MtC_test.1.d: "我早就知道。我全都知道！"
+ MtC_test.1.d.flavour: "你一定是作弊了吧？！"
 
  MtC_test.2.t: "测试，其之二"
- MtC_test.2.desc: "你们听说过，[Glossary( '长生的', 'LONG_LIVED_ESMAEL_GLOSS' )][GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]行的故事吗？渎神二年……"
- MtC_test.2.a: "等等，我还有问题……"
+ MtC_test.2.desc: "你们听说过，[Glossary( '长生', 'LONG_LIVED_ESMAEL_GLOSS' )][GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]行的故事吗？渎神二年……"
+ MtC_test.2.a: "等等，我还有问题。"
  MtC_test.2.a.flavour: "你将重新审视你的知识。"
  MtC_test.2.b: "已经听得够多了，快端下去罢……"
  MtC_test.2.b.flavour: "灭神道，堂堂连载！"

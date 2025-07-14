@@ -2401,7 +2401,7 @@ types MapIcons
 				parentanchor = bottom|hcenter
 				position = { 15 -11 }
 				size = { 20 20 }
-
+				###MtC modifications###
 				icon = {
 					name = "tributary_settled"
 					visible = "And(And(Not(IsNomad( Character )),Not(IsHerder( Character ))),Not(HasCustomTributaryIcon( Character )))"

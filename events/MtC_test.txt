@@ -47,8 +47,23 @@ MtC_test.1 = {
 			}
 			trigger_event = MtC_test.2
 		}
+	}
 
-		# No stress, no AI.
+	option = {
+		name = MtC_test.1.d
+		flavor = MtC_test.1.d.flavour
+
+		trigger = {
+			debug_only = yes
+		}
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 4
+			}
+			trigger_event = MtC_test.2
+		}
 	}
 }
 
