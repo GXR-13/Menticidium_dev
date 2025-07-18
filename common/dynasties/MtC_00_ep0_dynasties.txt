@@ -83,3 +83,11 @@ bianco = {
 	name = dynn_bianco
 	culture = littorian
 }
+
+#埃匹内家族列表
+
+#克莱内家族设置
+dynn_epine_1 = {
+	name = dynn_kleine
+	culture = platian
+}
