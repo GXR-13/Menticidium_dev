@@ -1,4 +1,4 @@
-DEpine_1 = {
+Epine_1 = {
 	name = "Eliside"
 	culture = platian
 	religion = imperial_verita
