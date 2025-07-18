@@ -4,3 +4,10 @@ Epine_1 = {
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }
+
+Epine_2 = {
+	name = "Fenetto"
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
