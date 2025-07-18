@@ -1,0 +1,6 @@
+DEpine_1 = {
+	name = "Eliside"
+	culture = platian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
