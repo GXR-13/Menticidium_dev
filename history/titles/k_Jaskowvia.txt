@@ -35,8 +35,13 @@ c_Jaskowvia_1_4 = {
 }
 #Wilgosołwa
 d_Jaskowvia_3 = {
-	715.9.30 = {
+	550.1.1 = {#Establishment of Pawland?
+		liege = k_Pawland
+	}
+	721.2.13 = {#Treaty of Hettingen
 		liege = k_Jaskowvia
+	}
+	737.9.30 = {
 		holder = Dwilia_1003 
 	}
 }

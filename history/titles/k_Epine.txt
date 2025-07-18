@@ -7,7 +7,6 @@
 #后坎帕热公国
 c_Epine_3_2 = {
     730.2.27 = {
-        liege = k_Epine
         holder = Epine_1
     }
 }
@@ -25,6 +24,9 @@ c_Epine_3_1 = {
 }
 
 d_Epine_3 = {
+    300.1.1 = {
+        liege = k_Epine
+    }
     730.2.27 = {
         holder = Epine_1
     }
@@ -32,6 +34,9 @@ d_Epine_3 = {
 
 #埃匹内王国
 k_Epine = {
+    300.1.1 = {
+        liege = e_Hiria
+    }
     730.2.27 = {
         holder = Epine_2
     }
