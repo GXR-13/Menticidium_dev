@@ -3,35 +3,6 @@
 #    700.1.1 = {holder= xxx}
 #    741.1.1 = {holder = yyy}
 #}
-
-#后坎帕热公国
-c_Epine_3_2 = {
-    730.2.27 = {
-        holder = Epine_1
-    }
-}
-
-c_Epine_3_3 = {
-    730.2.27 = {
-        holder = Epine_1
-    }
-}
-
-c_Epine_3_1 = {
-    730.2.27 = {
-        holder = Epine_1
-    }
-}
-
-d_Epine_3 = {
-    300.1.1 = {
-        liege = k_Epine
-    }
-    730.2.27 = {
-        holder = Epine_1
-    }
-}
-
 #埃匹内王国
 k_Epine = {
     300.1.1 = {
@@ -41,3 +12,42 @@ k_Epine = {
         holder = Epine_2
     }
 }
+#后坎帕热公国
+d_Epine_3 = {
+    300.1.1 = {
+        liege = k_Epine
+    }
+    730.2.27 = {
+        holder = Epine_1
+    }
+}
+
+c_Epine_3_2 = {
+    300.1.1 = {
+        liege = d_Epine_3
+    }
+    730.2.27 = {
+        holder = Epine_1
+    }
+}
+
+c_Epine_3_3 = {
+    300.1.1 = {
+        liege = d_Epine_3
+    }
+    730.2.27 = {
+        holder = Epine_1
+    }
+}
+
+c_Epine_3_1 = {
+    300.1.1 = {
+        liege = d_Epine_3
+    }
+    730.2.27 = {
+        holder = Epine_1
+    }
+}
+
+
+
