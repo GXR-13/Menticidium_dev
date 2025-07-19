@@ -5,6 +5,7 @@ k_Doria_Norde = {
 
 d_Lega_Norde = {
 	719.9.5 = {
+		government = republic_government
 		holder = Doria_Norde_1001
 	}
 }

@@ -6,3 +6,54 @@ k_Pokojowa = {
 		holder = Dwilia_5001
 	}
 }
+
+d_Pokojowa_1 = {
+	738.3.30 = {holder = Dwilia_5005}
+
+	41.1.1 = { liege = k_Pokojowa }
+}
+
+d_Pokojowa_2 = {
+	741.1.1 = { liege = k_Pokojowa}
+}
+c_Pokojowa_2_1 = {
+
+	738.3.30 = {holder = Dwilia_5005}
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+c_Pokojowa_2_2 = {
+	736.11.22 = {holder = Dwilia_5003}
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+c_Pokojowa_2_3 = {
+	150.1.1 = { 
+		liege = k_Pokojowa
+		government = republic_government
+	}
+
+	741.4.20 = { holder = Dwilia_5004 }
+}
+
+c_Pokojowa_2_4 = {
+	722.7.23 = { holder = Dwilia_5002 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+d_Pokojowa_3 = {
+	#150.1.1 = { liege = k_Pokojowa }
+	
+	729.12.16 = { holder = Dwilia_5001 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+d_Pokojowa_4 = {
+	716.10.10 = { holder = Dwilia_5006 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}

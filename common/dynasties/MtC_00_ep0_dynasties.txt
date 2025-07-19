@@ -5,8 +5,18 @@ ma = {
 }
 ###Noble dynasties of Dwilia
 #Kingdom of Bokojowa
-kramenski = {#Historical ruling dynasty of Bokojowa
+kramenski = {#Historical ruling dynasty of Bokojowa, One of the three houses
 	name = dynn_kamenski
+	culture = bokojowish
+}
+
+dusivid = { #One of the three houses
+	name = dynn_dusivid
+	culture = bokojowish
+}
+
+kanevic = { #One of the three houses
+	name = dynn_kanevic
 	culture = bokojowish
 }
 

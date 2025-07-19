@@ -6,7 +6,6 @@
 #埃匹内王国
 k_Epine = {
     300.1.1 = {
-        liege = e_Hiria
         #设置政府
         government = administrative_government
         #后被选项，以防玩家没打dlc
@@ -25,21 +24,23 @@ k_Epine = {
     730.2.27 = {
         holder = Epine_2
     }
+    741.1.1 = {
+        liege = e_Hiria
+    }
 }
 
 d_Epine_4 = {
-    300.1.1 = {
-        liege = k_epine
-    }
     730.2.27 = {
         holder = Epine_2
+    }
+    741.1.1 = {
+        liege = k_Epine
     }
 }
 
 #后坎帕热公国
 d_Epine_3 = {
     300.1.1 = {
-        liege = k_Epine
         #设置政府
         government = administrative_government
         #后被选项，以防玩家没打dlc
@@ -58,39 +59,41 @@ d_Epine_3 = {
     730.2.27 = {
         holder = Epine_1
     }
+    741.1.1 = {
+        liege = k_Epine
+    }
 }
 
 c_Epine_3_2 = {
-    300.1.1 = {
-        liege = d_Epine_3
-    }
     730.2.27 = {
         holder = Epine_1
+    }
+    741.1.1 = {
+        liege = d_Epine_3
     }
 }
 
 c_Epine_3_3 = {
-    300.1.1 = {
-        liege = d_Epine_3
-    }
     730.2.27 = {
         holder = Epine_1
+    }
+    741.1.1 = {
+        liege = d_Epine_3
     }
 }
 
 c_Epine_3_1 = {
-    300.1.1 = {
-        liege = d_Epine_3
-    }
     730.2.27 = {
         holder = Epine_1
+    }
+    741.1.1 = {
+        liege = d_Epine_3
     }
 }
 
 #萨热索斯公国
 d_Epine_5 = {
     300.1.1 = {
-        liege = k_Epine
         #设置政府
         government = administrative_government
         #后被选项，以防玩家没打dlc
@@ -109,32 +112,35 @@ d_Epine_5 = {
     730.2.27 = {
         holder = Epine_3
     }
+    741.1.1 = {
+        liege = k_Epine
+    }
 }
 
 c_Epine_5_2 = {
-    300.1.1 = {
-        liege = d_Epine_5
-    }
     730.2.27 = {
         holder = Epine_3
+    }
+    741.1.1 = {
+        liege = d_Epine_5
     }
 }
 
 c_Epine_5_1 = {
-    300.1.1 = {
-        liege = d_Epine_5
-    }
     730.2.27 = {
         holder = Epine_3
+    }
+    741.1.1 = {
+        liege = d_Epine_5
     }
 }
 
 c_Epine_5_3 = {
-    300.1.1 = {
-        liege = d_Epine_5
-    }
     730.2.27 = {
         holder = Epine_3
+    }
+    741.1.1 = {
+        liege = d_Epine_5
     }
 }
 

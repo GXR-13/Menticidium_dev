@@ -80,6 +80,54 @@ Dwilia_5001 = {
 		birth=yes
 	}
 }
+Dwilia_5002 = {
+	name= "Tista" 
+	religion = eastern_ritualism
+	culture = bokojowish
+	dynasty = kramenski
+	708.2.11 = {
+		birth=yes
+	}
+}
+
+Dwilia_5003 = {
+	name= "VI_tek" 
+	religion = eastern_ritualism
+	culture = bokojowish
+	dynasty = kramenski
+	715.6.22 = {
+		birth=yes
+	}
+}
+
+Dwilia_5004 = {#Miner Guy
+	name= "Domas" 
+	religion = imperial_verita
+	culture = weisslander
+	722.5.1 = {
+		birth=yes
+	}
+}
+
+Dwilia_5005 = {
+	name= " VojtE_c" 
+	religion = eastern_ritualism
+	culture = bokojowish
+	dynasty = kanevic
+	704.3.17 = {
+		birth=yes
+	}
+}
+
+Dwilia_5006 = {
+	name= " BoZ_epor" 
+	religion = eastern_ritualism
+	culture = bokojowish
+	dynasty = dusivid
+	687.4.2 = {
+		birth=yes
+	}
+}
 ###Pavland
 Dwilia_6001 = {
 	name= "Benno"
