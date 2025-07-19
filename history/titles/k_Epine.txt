@@ -7,6 +7,20 @@
 k_Epine = {
     300.1.1 = {
         liege = e_Hiria
+        #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
     }
     730.2.27 = {
         holder = Epine_2
