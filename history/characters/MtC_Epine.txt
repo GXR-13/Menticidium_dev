@@ -1,19 +1,40 @@
 Epine_1 = {
-	name = "Eliside"
+	name = "Eliside" #埃利塞德·克莱内
 	culture = platian
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }
 
 Epine_2 = {
-	name = "Fenetto"
+	name = "Fenetto" #费内托·瑞安
 	culture = high_hirian
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }
 
 Epine_3 = {
-	name = "Eadgar"
+	name = "Eadgar" #埃德加·桑德
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Epine_4 = {
+	name = "Hoven" #霍文·克莱内
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Epine_5 = {
+	name = "Wilbur" #威尔伯·瑞安
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Epine_6 = {
+	name = "Siegfried" #西格弗里德·梅里克
 	culture = high_hirian
 	religion = imperial_verita
 	698.2.1 = { birth = yes }

@@ -29,6 +29,7 @@ k_Epine = {
     }
 }
 
+#前坎帕热公国
 d_Epine_4 = {
     730.2.27 = {
         holder = Epine_2
@@ -144,4 +145,114 @@ c_Epine_5_3 = {
     }
 }
 
+#佩赫西公国（未成立）
+c_Epine_1_3 = { #莱斯诺瓦尔
+    730.2.27 = {holder= Epine_4
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Epine
+    }
+}
 
+c_Epine_1_1 = { #昂贝尔
+    730.2.27 = {holder= Epine_4
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Epine
+    }
+}
+
+c_Epine_1_4 = { #萨拉维纳
+    730.2.27 = {holder= Epine_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Epine
+    }
+}
+
+c_Epine_1_2 = { #法尔斯
+    730.2.27 = {holder= Epine_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Epine
+    }
+}
+
+#弗雷瑞斯公国
+d_Epine_2 = { #弗雷瑞斯
+    730.2.27 = {holder= Epine_6
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Epine
+    }
+}
