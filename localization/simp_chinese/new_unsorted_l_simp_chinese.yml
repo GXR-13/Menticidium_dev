@@ -30,3 +30,267 @@
  MtC_test.2.b: "已经听得够多了，快端下去罢……"
  MtC_test.2.b.flavour: "灭神道，堂堂连载！"
 
+ communiunism_religion: "共融"
+ communiunism_religion_adj: "共融"
+ communiunism_religion_adherent: "共融信徒"
+ communiunism_religion_adherent_plural: "共融信徒"
+ communiunism_religion_desc: "共融主义诞生于消灭旧神明的希里亚起义，主张通过人与人之间的理解与互助达成人民不被暴君与恶神压迫的理想世界。"
+
+ imperial_verita: "帝国正理"
+ imperial_verita_adj: "帝国正理"
+ imperial_verita_adherent: "帝国正信徒"
+ imperial_verita_adherent_plural: "帝国正信徒"
+ imperial_verita_desc: "帝国国教由希里亚议事会领导，基本沿袭了共融主义运动最初的主张，并与希里亚政权密不可分。"
+
+eastern_ritualism: "东仪共融"
+eastern_ritualism_adj: "东仪共融"
+eastern_ritualism_adherent: "东仪信徒"
+eastern_ritualism_adherent_plural: "东仪信徒"
+eastern_ritualism_desc: "在白河东岸，共融信仰帝国掌控之外的东方逐渐背离了其基本教义。比起希里亚的正统理论，东仪派系对世袭统治并不排斥，并且也并不追求将各地人民统一在同一个政权之下。"
+
+southern_ritualism: "南仪共融"
+southern_ritualism_adj: "南仪共融"
+southern_ritualism_adherent: "南仪信徒"
+southern_ritualism_adherent_plural: "南仪信徒"
+southern_ritualism_desc: "南方仪式论脱胎于北多里亚混乱的政治环境，他们仍然认同希里亚方面的权威，但并不主张独立圣职，而是让世俗统治者兼任。"
+
+dabigsian_artificism_religion: "达维西亚器物"
+dabigsian_artificism_religion_adj: "达维西亚器物"
+dabigsian_artificism_religion_adherent: "器物崇拜者"
+dabigsian_artificism_religion_adherent_plural: "器物崇拜者"
+dabigsian_artificism_religion_desc: "TBD"
+
+uzturet: "乌苏莱特"
+uzturet_adj: "乌苏莱特"
+uzturet_adherent: "乌苏莱特教徒"
+uzturet_adherent_plural: "乌苏莱特教徒"
+uzturet_desc: "TBD"
+
+#远东信仰这一块还是待定
+gaozhu_law_religion: "高主之法"
+gaozhu_law_religion_adj: "高主之法"
+gaozhu_law_religion_adherent: "高主信徒"
+gaozhu_law_religion_adherent_plural: "高主信徒"
+gaozhu_law_religion_desc: "TBD"
+
+shiquan_zong: "世全宗"
+shiquan_zong_adj: "世全宗"
+shiquan_zong_adherent: "世全宗徒"
+shiquan_zong_adherent_plural: "世全宗徒"
+shiquan_zong_desc: "TBD"
+
+#宗教组名称待定
+maristellianism_religion: "马里斯泰"
+maristellianism_religion_adj: "马里斯泰"
+maristellianism_religion_adherent: "马里斯泰崇拜者"
+maristellianism_religion_adherent_plural: "马里斯泰崇拜者"
+maristellianism_religion_desc: "TBD"
+
+frazione_del_litorale: "滨海分会"
+frazione_del_litorale_adj: "滨海分会"
+frazione_del_litorale_adherent: "滨海派教徒"
+frazione_del_litorale_adherent_plural: "滨海派教徒"
+frazione_del_litorale_desc: "TBD"
+
+#文化这一块
+#希里亚组
+high_hirian: "高希里亚"
+high_hirian_prefix: "高希里亚"
+high_hirian_collective_noun: "高希里亚"
+
+north_hirian: "北希里亚"
+north_hirian_prefix: "北希里亚"
+north_hirian_collective_noun: "北希里亚"
+
+south_hirian: "南希里亚"
+south_hirian_prefix: "南希里亚"
+south_hirian_collective_noun: "南希里亚"
+
+green_hirian: "绿希里亚"
+green_hirian_prefix: "绿希里亚"
+green_hirian_collective_noun: "绿希里亚"
+
+concordian: "康科迪亚"
+concordian_prefix: "康科迪亚"
+concordian_collective_noun: "康科迪亚"
+
+leaguemen: "联盟民"
+leaguemen_prefix: "联盟民"
+leaguemen_collective_noun: "联盟民"
+
+#北方组
+manian: "曼尼亚"
+manian_prefix: "曼尼亚"
+manian_collective_noun: "曼尼亚"
+
+zurunnish: "祖尔伦"
+zurunnish_prefix: "祖尔伦"
+zurunnish_collective_noun: "祖尔伦"
+
+gronlander: "格隆兰"
+gronlander_prefix: "格隆兰"
+gronlander_collective_noun: "格隆兰"
+
+weisslander: "维斯兰"
+weisslander_prefix: "维斯兰"
+weisslander_collective_noun: "维斯兰"
+
+fretian: "弗雷蒂亚"
+fretian_prefix: "弗雷蒂亚"
+fretian_collective_noun: "弗雷蒂亚"
+
+zuidlander: "随兰"
+zuidlander_prefix: "随兰"
+zuidlander_collective_noun: "随兰"
+
+albennian: "亚贲"
+albennian_prefix: "亚贲"
+albennian_collective_noun: "亚贲"
+
+ostlander: "奥斯特兰"
+ostlander_prefix: "奥斯特兰"
+ostlander_collective_noun: "奥斯特兰"
+
+#南方组
+old_banlian: "古班利亚"
+old_banlian_prefix: "古班利亚"
+old_banlian_collective_noun: "古班利亚"
+
+banlian: "班利亚"
+banlian_prefix: "班利亚"
+banlian_collective_noun: "班利亚"
+
+platian: "普拉提亚"
+platian_prefix: "普拉提亚"
+platian_collective_noun: "普拉提亚"
+
+gollois: "高鲁瓦"
+gollois_prefix: "高鲁瓦"
+gollois_collective_noun: "高鲁瓦"
+
+suditish: "苏蒂特"
+suditish_prefix: "苏蒂特"
+suditish_collective_noun: "苏蒂特"
+
+cotier: "科蒂"
+cotier_prefix: "科蒂"
+cotier_collective_noun: "科蒂"
+
+#海尼亚组
+frindi: "弗林地"
+frindi_prefix: "弗林地"
+frindi_collective_noun: "弗林地"
+
+gollowynian: "高勒汶"
+gollowynian_prefix: "高勒汶"
+gollowynian_collective_noun: "高勒汶"
+
+rupnic: "卢普尼"
+rupnic_prefix: "卢普尼"
+rupnic_collective_noun: "卢普尼"
+
+#多里亚组
+ancient_dorian: "古多里亚"
+ancient_dorian_prefix: "古多里亚"
+ancient_dorian_collective_noun: "古多里亚"
+
+littorian: "利托利亚"
+littorian_prefix: "利托利亚"
+littorian_collective_noun: "利托利亚"
+
+cisfreddian: "河内弗雷底亚"
+cisfreddian_prefix: "河内弗雷底亚"
+cisfreddian_collective_noun: "河内弗雷底亚"
+
+transfreddian: "河外弗雷底亚"
+transfreddian_prefix: "河外弗雷底亚"
+transfreddian_collective_noun: "河外弗雷底亚"
+
+migrarian: "米戈拉利亚"
+migrarian_prefix: "米戈拉利亚"
+migrarian_collective_noun: "米戈拉利亚"
+
+#近卢齐组
+noszian: "诺斯济亚"
+noszian_prefix: "诺斯济亚"
+noszian_collective_noun: "诺斯济亚"
+
+ptaskan: "普塔斯卡"
+ptaskan_prefix: "普塔斯卡"
+ptaskan_collective_noun: "普塔斯卡"
+
+iowician: "约维茨"
+iowician_prefix: "约维茨"
+iowician_collective_noun: "约维茨"
+
+bokojowish: "博科约瓦"
+bokojowish_prefix: "博科约瓦"
+bokojowish_collective_noun: "博科约瓦"
+
+#其他
+varaparian: "瓦拉帕里亚"
+varaparian_prefix: "瓦拉帕里亚"
+varaparian_collective_noun: "瓦拉帕里亚"
+
+ancient_therosian: "古塞罗瑟"
+ancient_therosian_prefix: "古塞罗瑟"
+ancient_therosian_collective_noun: "古塞罗瑟"
+
+unknown1: "未知"
+unknown1_prefix: "未知"
+unknown1_collective_noun: "未知"
+
+unknown2: "未知"
+unknown2_prefix: "未知"
+unknown2_collective_noun: "未知"
+
+guanghai: "广海"
+guanghai_prefix: "广海"
+guanghai_collective_noun: "广海"
+
+#语言
+language_standard_hirian_name: "标准通俗语"
+language_court_hirian_name: "宫廷语"
+language_nothern_hirian_name: "北方通俗语"
+language_inner_southern_hirian_name: "近南通俗语"
+language__outer_southern_hirian_name: "远南通俗语"
+language_coastal_dorian_name: "沿海多里亚语"
+language_inland_dorian_name: "内陆多里亚语"
+language_gollowynian_name: "高勒汶语"
+language_frindian_name: "弗林地语"
+language_dabigsian_name: "达维西亚语"
+language_upper_ludian_name: "上卢齐语"
+language_lower_ludian_name: "下卢齐语"
+language_valley_ludian_name: "谷地卢齐语"
+language_eastern_di_name: "翟人语"
+language_eastern_li_name: "离人语"
+#传承
+heritage_hirian_name: "希里亚"
+heritage_hirian_collective_noun: "希里亚"
+
+heritage_hynian_name: "海尼亚"
+heritage_hynian_collective_noun: "海尼亚"
+
+heritage_dorian_name: "多里亚"
+heritage__collective_noun: "多里亚"
+
+heritage_banlian_name: "南希里亚" #班里亚
+heritage_banlian_collective_noun: "南希里亚"
+
+heritage_dabigsian_name: "达维西亚"
+heritage_dabigsian_collective_noun: "达维西亚"
+
+heritage_manian_name: "北希里亚" #曼尼亚
+heritage_manian_collective_noun: "北希里亚"
+
+heritage_near_ludian_name: "近卢迪亚"
+heritage_near_ludian_collective_noun: "近卢迪亚"
+
+heritage_di_name: "翟"
+heritage_di_collective_noun: "翟"
+
+heritage_li_name: "离"
+heritage_li_collective_noun: "离"
+
+heritage_mao_name: "卯"
+heritage_mao_collective_noun: "卯"

@@ -187,8 +187,6 @@ zuidlander = {
 	}
 }
 
-
-
 #Albennian
 albennian = {
 	color = RGB{ 179 234 139 }

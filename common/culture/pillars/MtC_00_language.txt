@@ -160,7 +160,7 @@ language_frindian = {
 	color = RGB {59 209 130}
 }
 
-language_dabigsian= {
+language_dabigsian = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
@@ -231,8 +231,6 @@ language_valley_ludian = {
 	
 	color = RGB {232 152 48}
 }
-
-
 
 language_eastern_di = {#翟
 	type = language
