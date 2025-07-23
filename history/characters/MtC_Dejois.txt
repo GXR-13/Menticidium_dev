@@ -1,0 +1,36 @@
+﻿#德约瓦地区
+Dejois_1 = {
+	name = "leo" #莱奥·塔西梅
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Dejois_2 = {
+	name = "Mahel" #马埃尔·高利
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Dejois_3 = {
+	name = "Isabel" #伊莎贝尔·卡隆
+	female = yes
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Dejois_4 = {
+	name = "Jules" #朱尔斯·韦德
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Dejois_5 = {
+	name = "Marceau" #马尔索·西里兰
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}

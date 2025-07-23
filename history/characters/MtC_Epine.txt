@@ -1,3 +1,4 @@
+#埃匹内地区
 Epine_1 = {
 	name = "Eliside" #埃利塞德·克莱内
 	culture = platian
@@ -21,7 +22,7 @@ Epine_3 = {
 
 Epine_4 = {
 	name = "Hoven" #霍文·克莱内
-	culture = high_hirian
+	culture = platian
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }
@@ -35,7 +36,7 @@ Epine_5 = {
 
 Epine_6 = {
 	name = "Siegfried" #西格弗里德·梅里克
-	culture = high_hirian
+	culture = platian
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }

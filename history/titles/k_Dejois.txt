@@ -1,0 +1,133 @@
+﻿#k_Epine = {
+#    100.1.1 = {liege = e_Hiria}
+#    700.1.1 = {holder= xxx}
+#    741.1.1 = {holder = yyy}
+#}
+
+#德约瓦王国
+k_Dejois = {
+    300.1.1 = {
+        #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+    730.2.27 = {
+        holder = Dejois_1
+    }
+    741.1.1 = {
+        liege = e_Hiria
+    }
+}
+
+#苏达公国
+d_Dejois_3 = {
+    730.2.27 = {
+        holder = Dejois_1
+    }
+    741.1.1 = {
+        liege = k_Dejois
+    }
+}
+
+#科威尔公国
+d_Dejois_1 = { 
+    730.2.27 = {holder= Dejois_2
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Dejois
+    }
+}
+
+#罗巴斯克公国
+d_Dejois_2 = { 
+    730.2.27 = {holder= Dejois_3
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Dejois
+    }
+}
+
+#索弗昂公国
+d_Dejois_4 = { 
+    730.2.27 = {holder= Dejois_4
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Dejois
+    }
+}
+
+#唐维尔公国
+d_Dejois_5 = { 
+    730.2.27 = {holder= Dejois_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Dejois
+    }
+}

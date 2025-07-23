@@ -98,10 +98,12 @@
  d_Sud_4:0 "罗辛诺瓦"
  d_Sud_5:0 "苏尔松"
  d_Sud_6:0 "外丰德雷斯"
- k_Epine:0 "埃匹内"
-#Epine_1
+
+ #Epine_1
 #Epine_1_1
+#德约瓦王国
 #前坎帕热公国
+ k_Epine:0 "埃匹内"
  d_Epine_4:0 "前坎帕热"
  c_Epine_4_1:0 "帕里西"
  b_Epine_4_1_1:0 "艾格尔堡" #鹰坠之地
@@ -188,12 +190,69 @@
  b_Epine_2_3_2:0 ""
  b_Epine_2_3_3:0 ""
 
+#Dejois_1
+#Dejois_1_1
+#德约瓦王国
+#苏达公国
  k_Dejois:0 "德约瓦"
- d_Dejois_1:0 "小科维尔"
- d_Dejois_2:0 "罗巴斯克"
  d_Dejois_3:0 "苏达"
+ c_Dejois_3_1:0 "罗克比耶尔"
+ b_Dejois_3_1_3:0 "罗克比耶尔"
+ c_Dejois_3_2:0 "尼斯"
+ b_Dejois_3_2_3:0 "克朗"
+ c_Dejois_3_3:0 "韦南松"
+ b_Dejois_3_3_1:0 "韦南松"
+ c_Dejois_3_4:0 "马里耶"
+ b_Dejois_3_4_3:0 "马里耶"
+
+ #科威尔公国
+ d_Dejois_1:0 "科威尔"
+ c_Dejois_1_1:0 "勒维尔内"
+ b_Dejois_1_1_4:0 "勒维尔内"
+ c_Dejois_1_2:0 "德赖"
+ b_Dejois_1_2_3:0 "德赖"
+ c_Dejois_1_3:0 "托阿尔"
+ b_Dejois_1_3_1:0 "托阿尔"
+ c_Dejois_1_4:0 "迪涅塞班"
+ b_Dejois_1_4_3:0 "马尔科"
+
+ #罗巴斯克公国
+ d_Dejois_2:0 "罗巴斯克"
+ c_Dejois_2_1:0 "希南"
+ b_Dejois_2_1_1:0 "希南"
+ c_Dejois_2_2:0 "拉娜瓦尔"
+ b_Dejois_2_2_3:0 "尚贝里"
+ c_Dejois_2_3:0 "图瓦里"
+ b_Dejois_2_3_2:0 "图瓦里"
+ c_Dejois_2_4:0 "勒瓦尔"
+ b_Dejois_2_4_1:0 "勒瓦尔"
+
+ #索弗昂公国
  d_Dejois_4:0 "索弗昂"
- d_Dejois_5:0 "大莫唐维尔"
+ c_Dejois_4_1:0 "布瓦塞"
+ b_Dejois_4_1_3:0 "布瓦塞"
+ c_Dejois_4_2:0 "拉科内特"
+ b_Dejois_4_2_3:0 "拉科内特"
+ c_Dejois_4_3:0 "米内尔夫"
+ b_Dejois_4_3_1:0 "贝济耶"
+ c_Dejois_4_4:0 "艾尼"
+ b_Dejois_4_4_2:0 "艾尼"
+ c_Dejois_4_5:0 "昂热"
+ b_Dejois_4_5_2:0 "昂热"
+
+ #唐维尔公国
+ d_Dejois_5:0 "唐维尔"
+ c_Dejois_5_1:0 "索雷德"
+ b_Dejois_5_1_3:0 "索雷德"
+ c_Dejois_5_2:0 "塞雷"
+ b_Dejois_5_2_4:0 "赛贝尔"
+ c_Dejois_5_3:0 "勒布卢"
+ b_Dejois_5_3_2:0 "勒布卢"
+ c_Dejois_5_4:0 "阿尔勒"
+ b_Dejois_5_4_1:0 "阿尔勒"
+ c_Dejois_5_5:0 "科尔萨维"
+ b_Dejois_5_5_2:0 "科尔萨维"
+
  k_Gollowyn:0 "高勒汶"
  d_Gollowyn_1:0 "多布尔加"
  d_Gollowyn_2:0 "苏旁"
@@ -201,6 +260,7 @@
  d_Gollowyn_4:0 "阿尔迪昂"
  d_Gollowyn_5:0 "克欧布里"
  d_Gollowyn_6:0 "巴拉库迪亚"
+
  k_Almaria:0 "阿马利亚"
  d_Almaria_1:0 "锡尼斯特拉"
  d_Almaria_2:0 "阿齐恩达"
