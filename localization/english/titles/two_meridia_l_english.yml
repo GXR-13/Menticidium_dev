@@ -1,89 +1,89 @@
 ﻿l_english:
  #Dabigsia
- k_Dabigsia:0 "Dabigsia"
- CONFEDERATION_UGUNSMAGIJA_NAME:0 "Ugunsmaģija"
+ k_Dabigsia: "Dabigsia"
+ CONFEDERATION_UGUNSMAGIJA_NAME: "Ugunsmaģija"
  
- d_Ugunszals:0 "Ugunszals"
- d_Ugunsmelns:0 "Ugunsmelns"
- d_Ugunsvioles:0 "Ugunsvioles"
- d_Zimasgaisma:0 "Zimasgaisma"
- d_Vasarasvetra:0 "Vasarasvētra"
- d_Perkonamkonis:0 "Perkonamākonis"
- d_Aizdegsanas:0 "Aizdegšanās"
- d_Mazasaule:0 "Mazāsaule"
- d_Maltagala:0 "Maltāgaļa"
- d_Ramsmiegs:0 "Rāmsmiegs"
+ d_Ugunszals: "Ugunszals"
+ d_Ugunsmelns: "Ugunsmelns"
+ d_Ugunsvioles: "Ugunsvioles"
+ d_Zimasgaisma: "Zimasgaisma"
+ d_Vasarasvetra: "Vasarasvētra"
+ d_Perkonamkonis: "Perkonamākonis"
+ d_Aizdegsanas: "Aizdegšanās"
+ d_Mazasaule: "Mazāsaule"
+ d_Maltagala: "Maltāgaļa"
+ d_Ramsmiegs: "Rāmsmiegs"
 
- d_Dabigsia_1:0 "Gaismaleja"
+ d_Dabigsia_1: "Gaismaleja"
 
- d_Dabigsia_2:0 "Perkonkani"
+ d_Dabigsia_2: "Perkonkani"
 
- d_Dabigsia_3:0 "Ugunskani"
+ d_Dabigsia_3: "Ugunskani"
 
- d_Dabigsia_4:0 "Mirteleja"
+ d_Dabigsia_4: "Mirteleja"
 
- d_Dabigsia_5:0 "Vētrakani"
+ d_Dabigsia_5: "Vētrakani"
 
- d_Dabigsia_6:0 "Svētazeme"
+ d_Dabigsia_6: "Svētazeme"
 
- d_Dabigsia_7:0 "Asiņzeme"
+ d_Dabigsia_7: "Asiņzeme"
 
  #Senais Lands
- k_Senais_Lands:0 "Senais Lands"
+ k_Senais_Lands: "Senais Lands"
 
- d_Senais_Lands_1:0 "Tumšsmežs"
+ d_Senais_Lands_1: "Tumšsmežs"
 
- d_Senais_Lands_2:0 "Dārzsmežs"
+ d_Senais_Lands_2: "Dārzsmežs"
 
- d_Senais_Lands_3:0 "Mirtmežs"
+ d_Senais_Lands_3: "Mirtmežs"
 
- d_Senais_Lands_4:0 "Pārticība"
+ d_Senais_Lands_4: "Pārticība"
 
- d_Senais_Lands_5:0 "Ugunsmežs"
+ d_Senais_Lands_5: "Ugunsmežs"
 
  #Doria Norde
- #CONFEDERATION_LEGA_NORDE_NAME:0 "LEGA_NORDE"
- k_Doria_Norde:0 "Doria Norde"
- d_Lega_Norde:0 "Lega Norde"
+ #CONFEDERATION_LEGA_NORDE_NAME: "LEGA_NORDE"
+ k_Doria_Norde: "Doria Norde"
+ d_Lega_Norde: "Lega Norde"
  
- d_Doria_Norde_1:0 "Esteria"
+ d_Doria_Norde_1: "Esteria"
 
- d_Doria_Norde_2:0 "Fondo"
+ d_Doria_Norde_2: "Fondo"
 
- d_Doria_Norde_3:0 "Reggio Freddia"
+ d_Doria_Norde_3: "Reggio Freddia"
 
- d_Doria_Norde_4:0 "Sorrisino"
+ d_Doria_Norde_4: "Sorrisino"
 
- d_Doria_Norde_5:0 "Solvitare"
+ d_Doria_Norde_5: "Solvitare"
 
- d_Doria_Norde_6:0 "Boschore"
+ d_Doria_Norde_6: "Boschore"
 
- d_Doria_Norde_7:0 "Domino"
+ d_Doria_Norde_7: "Domino"
 
- d_Doria_Norde_8:0 "Viso"
+ d_Doria_Norde_8: "Viso"
 
- d_Doria_Norde_9:0 "Western Copia"
+ d_Doria_Norde_9: "Western Copia"
 
- d_Doria_Norde_10:0 "Eastern Copia"
+ d_Doria_Norde_10: "Eastern Copia"
 
- d_Doria_Norde_11:0 "Confinia"
+ d_Doria_Norde_11: "Confinia"
 
  #Doria Litorale
- k_Doria_Litorale:0 "Doria Litorale"
+ k_Doria_Litorale: "Doria Litorale"
 
- d_Doria_Litorale_1:0 "Trevivo"
+ d_Doria_Litorale_1: "Trevivo"
 
- d_Doria_Litorale_2:0 "Nyndia"
+ d_Doria_Litorale_2: "Nyndia"
 
- d_Doria_Litorale_3:0 "Pacifio"
+ d_Doria_Litorale_3: "Pacifio"
 
- d_Doria_Litorale_4:0 "Campo Grande"
+ d_Doria_Litorale_4: "Campo Grande"
 
- d_Doria_Litorale_5:0 "Dorian March"
+ d_Doria_Litorale_5: "Dorian March"
 
- d_Doria_Litorale_6:0 "Miasmia"
+ d_Doria_Litorale_6: "Miasmia"
 
- d_Doria_Litorale_7:0 "Sorcento"
+ d_Doria_Litorale_7: "Sorcento"
 
- d_Doria_Litorale_8:0 "Valle d'Mero"
+ d_Doria_Litorale_8: "Valle d'Mero"
 

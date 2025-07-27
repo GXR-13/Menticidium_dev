@@ -1,65 +1,65 @@
 ﻿l_english:
  #Połykać
- k_Powykac:0 "Połykać"
+ k_Powykac: "Połykać"
 
- d_Powykac_1:0 "Dolinocień"
+ d_Powykac_1: "Dolinocień"
 
- d_Powykac_2:0 "Maładwór"
+ d_Powykac_2: "Maładwór"
  #Pomorok
- k_Pomrok:0 "Pomorok"
+ k_Pomrok: "Pomorok"
 
- d_Pomrok_1:0 "Radowiosna"
+ d_Pomrok_1: "Radowiosna"
 
- d_Pomrok_2:0 "Białagłowa"
+ d_Pomrok_2: "Białagłowa"
 
- d_Pomrok_3:0 "Gółysina"
+ d_Pomrok_3: "Gółysina"
  #Jaskołwia
- k_Jaskowvia:0 "Jaskołwia"
+ k_Jaskowvia: "Jaskołwia"
 
- d_Jaskowvia_1:0 "Jasnomosk"
+ d_Jaskowvia_1: "Jasnomosk"
 
- d_Jaskowvia_2:0 "Warzowieś"
+ d_Jaskowvia_2: "Warzowieś"
 
- d_Jaskowvia_3:0 "Wilgosołwa"
+ d_Jaskowvia_3: "Wilgosołwa"
 
- d_Jaskowvia_4:0 "Otwartobóz"
+ d_Jaskowvia_4: "Otwartobóz"
  #Płaczia
- k_Pwaczia:0 "Płaczia"
+ k_Pwaczia: "Płaczia"
 
- d_Pwaczia_1:0 "Dobrowice"
+ d_Pwaczia_1: "Dobrowice"
 
- d_Pwaczia_2:0 "Wygoda"
+ d_Pwaczia_2: "Wygoda"
  #Sokołwia
- k_Sowkovia:0 "Sokołwia"
+ k_Sowkovia: "Sokołwia"
 
- d_Sowkovia_1:0 "Uskapadina"
+ d_Sowkovia_1: "Uskapadina"
 
- d_Sowkovia_2:0 "Depresija"
+ d_Sowkovia_2: "Depresija"
  #Pawland
- k_Pavland:0 "Pawland"
+ k_Pavland: "Pawland"
 
- d_Pavland_1:0 "Weitstamm"
+ d_Pavland_1: "Weitstamm"
 
- d_Pavland_2:0 "Großrodowitz"
+ d_Pavland_2: "Großrodowitz"
 
- d_Pavland_3:0 "Wiklina"
+ d_Pavland_3: "Wiklina"
  #Witamia
- k_Witamia:0 "Witamia"
+ k_Witamia: "Witamia"
 
- d_Witamia_1:0 "Krupeć"
+ d_Witamia_1: "Krupeć"
 
- d_Witamia_2:0 "Zadnji Terena"
+ d_Witamia_2: "Zadnji Terena"
  #Bokojowa
- k_Pokojowa:0 "Bokojowa"
+ k_Pokojowa: "Bokojowa"
 
- d_Pokojowa_1:0 "Zápakádě"
+ d_Pokojowa_1: "Zápakádě"
 
- d_Pokojowa_2:0 "Horatábor"
+ d_Pokojowa_2: "Horatábor"
 
- d_Pokojowa_3:0 "Vysokosál"
+ d_Pokojowa_3: "Vysokosál"
 
- d_Pokojowa_4:0 "Výchokádě"
+ d_Pokojowa_4: "Výchokádě"
  #Despotic Dwilia
- k_Despotic_Dwilia:0 "Dwilia"
+ k_Despotic_Dwilia: "Dwilia"
 
- d_Despotic_Dwilia_1:0 "Sitz Holga"
+ d_Despotic_Dwilia_1: "Sitz Holga"

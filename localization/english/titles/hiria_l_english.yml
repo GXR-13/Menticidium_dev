@@ -1,246 +1,246 @@
 ﻿l_english:
  #Hiria
- e_Hiria:0 "Hiria"
+ e_Hiria: "Hiria"
 
  #High Hiria
- k_High_Hiria:0 "High Hiria"
+ k_High_Hiria: "High Hiria"
 
- d_High_Hiria_1:0 "High Hiria"
- c_High_Hiria_1_1:0 "Quelle"
- c_High_Hiria_1_2:0 "Northbank"
- c_High_Hiria_1_3:0 "City of Hiria"
- c_High_Hiria_1_4:0 "Narcissa"
- c_High_Hiria_1_5:0 "Trinton"
+ d_High_Hiria_1: "High Hiria"
+ c_High_Hiria_1_1: "Quelle"
+ c_High_Hiria_1_2: "Northbank"
+ c_High_Hiria_1_3: "City of Hiria"
+ c_High_Hiria_1_4: "Narcissa"
+ c_High_Hiria_1_5: "Trinton"
  #Middlesept
- k_Middlesept:0 "Middlesept"
+ k_Middlesept: "Middlesept"
 
- d_Middlesept_1:0 "Frankbern"
+ d_Middlesept_1: "Frankbern"
 
- d_Middlesept_2:0 "Oxkoppel"
+ d_Middlesept_2: "Oxkoppel"
 
- d_Middlesept_3:0 "Crannon"
+ d_Middlesept_3: "Crannon"
 
- d_Middlesept_4:0 "Stans"
+ d_Middlesept_4: "Stans"
 
- d_Middlesept_5:0 "Longbruen"
+ d_Middlesept_5: "Longbruen"
 
- d_Middlesept_6:0 "Hosin"
+ d_Middlesept_6: "Hosin"
 
  #Hollen and Alderhorn
- k_Imperial_Preserve:0 "Hollen and Alderhorn"
+ k_Imperial_Preserve: "Hollen and Alderhorn"
 
- d_Imperial_Preserve_1:0 "Hollen"
+ d_Imperial_Preserve_1: "Hollen"
 
- d_Imperial_Preserve_2:0 "Alderhorn"
+ d_Imperial_Preserve_2: "Alderhorn"
 
  #Intermark
- k_Intermark:0 "Intermark"
+ k_Intermark: "Intermark"
 
- d_Intermark_1:0 "Begonia"
+ d_Intermark_1: "Begonia"
 
- d_Intermark_2:0 "Peuplier"
+ d_Intermark_2: "Peuplier"
 
- d_Intermark_3:0 "Fronbrat"
+ d_Intermark_3: "Fronbrat"
 
- d_Intermark_4:0 "Wessain"
+ d_Intermark_4: "Wessain"
 
- d_Intermark_5:0 "Bronfalen"
+ d_Intermark_5: "Bronfalen"
  #The Old League
- k_Old_League:0 "Concordia"
+ k_Old_League: "Concordia"
 
- d_Old_League_1:0 "Aldennia"
- c_Old_League_1_1:0 "Obeir"
- c_Old_League_1_2:0 "Lesser Alden"
- c_Old_League_1_3:0 "Greater Alden"
+ d_Old_League_1: "Aldennia"
+ c_Old_League_1_1: "Obeir"
+ c_Old_League_1_2: "Lesser Alden"
+ c_Old_League_1_3: "Greater Alden"
 
- d_Old_League_2:0 "Primary Concordia"
- c_Old_League_2_1:0 "Galben"
- c_Old_League_2_2:0 "Fanton-at-North"
- c_Old_League_2_3:0 "Sheaffield"
- c_Old_League_2_4:0 "New Fanton"
- c_Old_League_2_5:0 "Gaywick"
+ d_Old_League_2: "Primary Concordia"
+ c_Old_League_2_1: "Galben"
+ c_Old_League_2_2: "Fanton-at-North"
+ c_Old_League_2_3: "Sheaffield"
+ c_Old_League_2_4: "New Fanton"
+ c_Old_League_2_5: "Gaywick"
 
- d_Old_League_3:0 "South Concordia"
- c_Old_League_3_1:0 "Fanton-at-South"
- c_Old_League_3_2:0 "Liberton"
- c_Old_League_3_3:0 "Lambwell"
- c_Old_League_3_4:0 "Waterbridge"
- c_Old_League_3_5:0 "Potterham"
- c_Old_League_3_6:0 "Scaton"
+ d_Old_League_3: "South Concordia"
+ c_Old_League_3_1: "Fanton-at-South"
+ c_Old_League_3_2: "Liberton"
+ c_Old_League_3_3: "Lambwell"
+ c_Old_League_3_4: "Waterbridge"
+ c_Old_League_3_5: "Potterham"
+ c_Old_League_3_6: "Scaton"
 
- d_Old_League_4:0 "Secondary Concordia"
- c_Old_League_4_1:0 "Havenfort"
- c_Old_League_4_2:0 "Upper Leven"
- c_Old_League_4_3:0 "Mountain Amicitia"
- c_Old_League_4_4:0 "Esgate"
+ d_Old_League_4: "Secondary Concordia"
+ c_Old_League_4_1: "Havenfort"
+ c_Old_League_4_2: "Upper Leven"
+ c_Old_League_4_3: "Mountain Amicitia"
+ c_Old_League_4_4: "Esgate"
  #Albennia
- k_Alben:0 "Alben"
+ k_Alben: "Alben"
 
- d_Alben_1:0 "Liedorp"
+ d_Alben_1: "Liedorp"
 
- d_Alben_2:0 "Gutenmart"
+ d_Alben_2: "Gutenmart"
 
- d_Alben_3:0 "Pappelfalen"
+ d_Alben_3: "Pappelfalen"
  #Waltenland
- k_Waltenland:0 "Waltenland"
+ k_Waltenland: "Waltenland"
 
- d_Waltenland_1:0 "Sattelberg"
+ d_Waltenland_1: "Sattelberg"
 
- d_Waltenland_2:0 "Weitquelle"
+ d_Waltenland_2: "Weitquelle"
 
- d_Waltenland_3:0 "Birnbaum"
+ d_Waltenland_3: "Birnbaum"
 
- d_Waltenland_4:0 "Anholtzen"
+ d_Waltenland_4: "Anholtzen"
 
- d_Waltenland_5:0 "Kohlrüberg"
+ d_Waltenland_5: "Kohlrüberg"
 
- d_Waltenland_6:0 "Saarten"
+ d_Waltenland_6: "Saarten"
  #Weißhugel
- k_Weisshugel:0 "Weißhugel"
+ k_Weisshugel: "Weißhugel"
 
- d_Weisshugel_1:0 "Abendmahl"
+ d_Weisshugel_1: "Abendmahl"
 
- d_Weisshugel_2:0 "Mittenmark"
+ d_Weisshugel_2: "Mittenmark"
 
- d_Weisshugel_3:0 "Hochboden"
+ d_Weisshugel_3: "Hochboden"
 
- d_Weisshugel_4:0 "Weißruhe"
+ d_Weisshugel_4: "Weißruhe"
  #Kollen
- k_Kollon:0 "Kollen"
+ k_Kollon: "Kollen"
 
- d_Kollon_1:0 "Duftberg"
+ d_Kollon_1: "Duftberg"
 
- d_Kollon_2:0 "Kroneruhe"
+ d_Kollon_2: "Kroneruhe"
 
- d_Kollon_3:0 "Ieppenland"
+ d_Kollon_3: "Ieppenland"
 
- d_Kollon_4:0 "Paschelen"
+ d_Kollon_4: "Paschelen"
  #Kiemlande
- k_Kiemlande:0 "Kiemlande"
+ k_Kiemlande: "Kiemlande"
 
- d_Kiemlande_1:0 "Goudsbloem"
+ d_Kiemlande_1: "Goudsbloem"
 
- d_Kiemlande_2:0 "Trompwoud"
+ d_Kiemlande_2: "Trompwoud"
 
- d_Kiemlande_3:0 "Buisval"
+ d_Kiemlande_3: "Buisval"
 
- d_Kiemlande_4:0 "Iepingen"
+ d_Kiemlande_4: "Iepingen"
 
- d_Kiemlande_5:0 "Osterdam"
- c_Kiemlande_5_1:0 "Borstwijk"
- c_Kiemlande_5_2:0 "Eder"
- c_Kiemlande_5_3:0 "Lossija"
+ d_Kiemlande_5: "Osterdam"
+ c_Kiemlande_5_1: "Borstwijk"
+ c_Kiemlande_5_2: "Eder"
+ c_Kiemlande_5_3: "Lossija"
 
- d_Kiemlande_6:0 "Lebensduur"
+ d_Kiemlande_6: "Lebensduur"
 
- d_Kiemlande_7:0 "Pelledorp"
+ d_Kiemlande_7: "Pelledorp"
  #Dulhecht
- k_Dulhecht:0 "Dulhecht"
+ k_Dulhecht: "Dulhecht"
 
- d_Dulhecht_1:0 "Buitenmaar"
+ d_Dulhecht_1: "Buitenmaar"
 
- d_Dulhecht_2:0 "Fellezonnen"
+ d_Dulhecht_2: "Fellezonnen"
 
- d_Dulhecht_3:0 "Noordertuin"
+ d_Dulhecht_3: "Noordertuin"
 
- d_Dulhecht_4:0 "Immerkaamp"
+ d_Dulhecht_4: "Immerkaamp"
 
- d_Dulhecht_5:0 "Heelbaggeren"
+ d_Dulhecht_5: "Heelbaggeren"
  #Réussia
- k_Reussia:0 "Réussia"
+ k_Reussia: "Réussia"
 
- d_Reussia_1:0 "Chevales"
+ d_Reussia_1: "Chevales"
 
- d_Reussia_2:0 "Terre d'Or"
+ d_Reussia_2: "Terre d'Or"
 
- d_Reussia_3:0 "Fèvenne"
+ d_Reussia_3: "Fèvenne"
 
- d_Reussia_4:0 "Pairanges"
+ d_Reussia_4: "Pairanges"
 
- d_Reussia_5:0 "Vergerie"
+ d_Reussia_5: "Vergerie"
 
- d_Reussia_6:0 "Laemmles"
+ d_Reussia_6: "Laemmles"
  #Sud
- k_Sud:0 "Sud"
+ k_Sud: "Sud"
 
- d_Sud_1:0 "Greater Corvéeuil"
+ d_Sud_1: "Greater Corvéeuil"
 
- d_Sud_2:0 "Nouveau-Comté"
+ d_Sud_2: "Nouveau-Comté"
 
- d_Sud_3:0 "Estusine"
+ d_Sud_3: "Estusine"
 
- d_Sud_4:0 "Rossignois"
+ d_Sud_4: "Rossignois"
 
- d_Sud_5:0 "Sûrsons"
+ d_Sud_5: "Sûrsons"
 
- d_Sud_6:0 "Transfondres"
+ d_Sud_6: "Transfondres"
  #Epiné
- k_Epine:0 "Epiné"
+ k_Epine: "Epiné"
 
- d_Epine_1:0 "Palierboue"
+ d_Epine_1: "Palierboue"
 
- d_Epine_2:0 "Diamane"
+ d_Epine_2: "Diamane"
 
- d_Epine_3:0 "Campargues Ultérieure"
+ d_Epine_3: "Campargues Ultérieure"
 
- d_Epine_4:0 "Campargues Antérieure"
+ d_Epine_4: "Campargues Antérieure"
 
- d_Epine_5:0 "Sagessols"
+ d_Epine_5: "Sagessols"
  #Déjois
- k_Dejois:0 "Déjois"
+ k_Dejois: "Déjois"
 
- d_Dejois_1:0 "Lesser Corvéeuil"
+ d_Dejois_1: "Lesser Corvéeuil"
 
- d_Dejois_2:0 "Robusque"
+ d_Dejois_2: "Robusque"
 
- d_Dejois_3:0 "Suddamme"
+ d_Dejois_3: "Suddamme"
 
- d_Dejois_4:0 "Sophoran"
+ d_Dejois_4: "Sophoran"
 
- d_Dejois_5:0 "Greater Moutonville"
+ d_Dejois_5: "Greater Moutonville"
  #Gollowyn
- k_Gollowyn:0 "Gollowyn"
+ k_Gollowyn: "Gollowyn"
 
- d_Gollowyn_1:0 "Doburgar"
+ d_Gollowyn_1: "Doburgar"
 
- d_Gollowyn_2:0 "Subon"
+ d_Gollowyn_2: "Subon"
 
- d_Gollowyn_3:0 "Bouldor"
+ d_Gollowyn_3: "Bouldor"
 
- d_Gollowyn_4:0 "Ardion"
+ d_Gollowyn_4: "Ardion"
 
- d_Gollowyn_5:0 "Ceobrí"
+ d_Gollowyn_5: "Ceobrí"
 
- d_Gollowyn_6:0 "Balla Kudia"
+ d_Gollowyn_6: "Balla Kudia"
  #Almaria
- k_Almaria:0 "Almaria"
+ k_Almaria: "Almaria"
 
- d_Almaria_1:0 "Sinistra"
+ d_Almaria_1: "Sinistra"
 
- d_Almaria_2:0 "Azienda"
+ d_Almaria_2: "Azienda"
 
- d_Almaria_3:0 "Saluta"
+ d_Almaria_3: "Saluta"
 
- d_Almaria_4:0 "Cennonia"
+ d_Almaria_4: "Cennonia"
 
- d_Almaria_5:0 "Vinoviolette"
+ d_Almaria_5: "Vinoviolette"
 
- d_Almaria_6:0 "Unirevente"
+ d_Almaria_6: "Unirevente"
  #Torquia
- k_Torquia:0 "Torquia"
+ k_Torquia: "Torquia"
 
- d_Torquia_1:0 "Benelucio"
+ d_Torquia_1: "Benelucio"
 
- d_Torquia_2:0 "Umidito"
+ d_Torquia_2: "Umidito"
 
- d_Torquia_3:0 "Bellezza"
+ d_Torquia_3: "Bellezza"
 
- d_Torquia_4:0 "Mattino"
+ d_Torquia_4: "Mattino"
 
- d_Torquia_5:0 "Southern Caldo"
+ d_Torquia_5: "Southern Caldo"
 
- d_Torquia_6:0 "Stretto"
+ d_Torquia_6: "Stretto"
 
- d_Torquia_7:0 "Northern Caldo"
+ d_Torquia_7: "Northern Caldo"
 
- d_Torquia_8:0 "Upper Caldo"
+ d_Torquia_8: "Upper Caldo"
