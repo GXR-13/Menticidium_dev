@@ -206,7 +206,7 @@ c_Dejois_3_4: "马里耶"
 b_Dejois_3_4_3: "马里耶"
 
 #科威尔公国
-d_Dejois_1: "科威尔"
+d_Dejois_1: "小科威尔"
 c_Dejois_1_1: "勒维尔内"
 b_Dejois_1_1_4: "勒维尔内"
 c_Dejois_1_2: "德赖"
@@ -240,8 +240,8 @@ b_Dejois_4_4_2: "艾尼"
 c_Dejois_4_5: "昂热"
 b_Dejois_4_5_2: "昂热"
 
-#唐维尔公国
-d_Dejois_5: "唐维尔"
+#莫唐维尔公国
+d_Dejois_5: "莫唐维尔"
 c_Dejois_5_1: "索雷德"
 b_Dejois_5_1_3: "索雷德"
 c_Dejois_5_2: "塞雷"

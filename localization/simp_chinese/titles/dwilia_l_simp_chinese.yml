@@ -147,22 +147,6 @@ c_Powykac_1_3: "佩夫尼采"
 b_Powykac_1_3_3: "" #(capital)
 b_Powykac_1_3_2: ""
 b_Powykac_1_3_1: ""
-
-k_Jaskowvia: "雅斯科维亚"
-d_Jaskowvia_1: "亚斯诺莫斯克"
-d_Jaskowvia_2: "瓦佐维施"
-d_Jaskowvia_3: "维戈索瓦"
-d_Jaskowvia_4: "奥特瓦托博兹"
-k_Sowkovia: "索科维亚"
-d_Sowkovia_1: "乌斯卡帕丁那"
-d_Sowkovia_2: "德佩西亚"
-k_Pavland: "帕夫兰"
-d_Pavland_1: "维施坦"
-d_Pavland_2: "大洛多维奇"
-d_Pavland_3: "维克利那"
-k_Witamia: "维塔米亚"
-d_Witamia_1: "克鲁佩奇"
-d_Witamia_2: "扎尼泰雷纳"
 #博科约瓦
 k_Pokojowa: "博科约瓦"
 # 扎帕卡德
@@ -241,5 +225,245 @@ b_Pokojowa_4_4_1: ""
 b_Pokojowa_4_4_2: ""
 b_Pokojowa_4_4_3: ""
 
+#Jaskowvia
+k_Jaskowvia: "雅斯科维亚"
+
+d_Jaskowvia_3: "维戈索瓦"
+c_Jaskowvia_3_4: "绍斯沃那"
+b_Jaskowvia_3_4_5: "" #(capital)
+b_Jaskowvia_3_4_4: ""
+b_Jaskowvia_3_4_2: ""
+b_Jaskowvia_3_4_1: ""
+b_Jaskowvia_3_4_3: ""
+c_Jaskowvia_3_2: "波日切"
+b_Jaskowvia_3_2_2: "" #(capital)
+b_Jaskowvia_3_2_4: ""
+b_Jaskowvia_3_2_1: ""
+b_Jaskowvia_3_2_3: ""
+c_Jaskowvia_3_1: "谢夫维茨"
+b_Jaskowvia_3_1_3: "" #(capital)
+b_Jaskowvia_3_1_2: ""
+b_Jaskowvia_3_1_1: ""
+b_Jaskowvia_3_1_4: ""
+c_Jaskowvia_3_3: "皮耶青"
+b_Jaskowvia_3_3_2: "" #(capital)
+b_Jaskowvia_3_3_1: ""
+b_Jaskowvia_3_3_3: ""
+c_Jaskowvia_3_5: "佐格瓦斯"
+b_Jaskowvia_3_5_2: "" #(capital)
+b_Jaskowvia_3_5_3: ""
+b_Jaskowvia_3_5_1: ""
+
+d_Jaskowvia_1: "亚斯诺莫斯克"
+c_Jaskowvia_1_2: "切日查"
+b_Jaskowvia_1_2_2: "" #(capital)
+b_Jaskowvia_1_2_4: ""
+b_Jaskowvia_1_2_3: ""
+b_Jaskowvia_1_2_1: ""
+c_Jaskowvia_1_4: "沃德尼"
+b_Jaskowvia_1_4_2: "" #(capital)
+b_Jaskowvia_1_4_1: ""
+b_Jaskowvia_1_4_4: ""
+b_Jaskowvia_1_4_3: ""
+c_Jaskowvia_1_1: "延达维茨"
+b_Jaskowvia_1_1_3: "" #(capital)
+b_Jaskowvia_1_1_2: ""
+b_Jaskowvia_1_1_1: ""
+c_Jaskowvia_1_3: "奥戴克"
+b_Jaskowvia_1_3_3: "" #(capital)
+b_Jaskowvia_1_3_2: ""
+b_Jaskowvia_1_3_4: ""
+b_Jaskowvia_1_3_1: ""
+
+d_Jaskowvia_4: "奥特瓦托博兹"
+c_Jaskowvia_4_3: "马永克莱"
+b_Jaskowvia_4_3_2: "" #(capital)
+b_Jaskowvia_4_3_4: ""
+b_Jaskowvia_4_3_3: ""
+b_Jaskowvia_4_3_1: ""
+c_Jaskowvia_4_1: "卢茨哈拉"
+b_Jaskowvia_4_1_3: "" #(capital)
+b_Jaskowvia_4_1_2: ""
+b_Jaskowvia_4_1_1: ""
+c_Jaskowvia_4_2: "波斯塔夫"
+b_Jaskowvia_4_2_1: "" #(capital)
+b_Jaskowvia_4_2_2: ""
+b_Jaskowvia_4_2_3: ""
+
+d_Jaskowvia_2: "瓦佐维施"
+c_Jaskowvia_2_1: "依莱科夫"
+b_Jaskowvia_2_1_3: "" #(capital)
+b_Jaskowvia_2_1_4: ""
+b_Jaskowvia_2_1_2: ""
+b_Jaskowvia_2_1_1: ""
+c_Jaskowvia_2_4: "米斯茨"
+b_Jaskowvia_2_4_2: "" #(capital)
+b_Jaskowvia_2_4_3: ""
+b_Jaskowvia_2_4_1: ""
+c_Jaskowvia_2_2: "克莱斯卡"
+b_Jaskowvia_2_2_2: "" #(capital)
+b_Jaskowvia_2_2_1: ""
+b_Jaskowvia_2_2_3: ""
+b_Jaskowvia_2_2_4: ""
+c_Jaskowvia_2_3: "慕茨波扎尔"
+b_Jaskowvia_2_3_2: "" #(capital)
+b_Jaskowvia_2_3_4: ""
+b_Jaskowvia_2_3_3: ""
+b_Jaskowvia_2_3_1: ""
+
+#Despotic Dwilia
 k_Despotic_Dwilia: "德维利亚"
+
 d_Despotic_Dwilia_1: "希茨霍加"
+c_Despotic_Dwilia_1_2: "布拉沃"
+b_Despotic_Dwilia_1_2_1: "北城区" #(capital)
+b_Despotic_Dwilia_1_2_2: "南城区"
+c_Despotic_Dwilia_1_1: "米恩佐"
+b_Despotic_Dwilia_1_1_1: "" #(capital)
+b_Despotic_Dwilia_1_1_2: ""
+b_Despotic_Dwilia_1_1_3: ""
+c_Despotic_Dwilia_1_3: "查沃皮诺"
+b_Despotic_Dwilia_1_3_3: "" #(capital)
+b_Despotic_Dwilia_1_3_1: ""
+b_Despotic_Dwilia_1_3_2: ""
+
+#Pavland
+k_Pavland: "帕夫兰"
+
+d_Pavland_2: "大洛多维奇"
+c_Pavland_2_1: "洛多沃"
+b_Pavland_2_1_3: "" #(capital)
+b_Pavland_2_1_1: ""
+b_Pavland_2_1_5: ""
+b_Pavland_2_1_2: ""
+b_Pavland_2_1_4: ""
+
+d_Pavland_3: "维克利那"
+c_Pavland_3_4: "武琴科沃"
+b_Pavland_3_4_2: "" #(capital)
+b_Pavland_3_4_3: ""
+b_Pavland_3_4_1: ""
+c_Pavland_3_2: "菲奥克莱茨"
+b_Pavland_3_2_3: "" #(capital)
+b_Pavland_3_2_5: ""
+b_Pavland_3_2_2: ""
+b_Pavland_3_2_1: ""
+b_Pavland_3_2_4: ""
+c_Pavland_3_1: "扎索沃"
+b_Pavland_3_1_2: "" #(capital)
+b_Pavland_3_1_1: ""
+b_Pavland_3_1_4: ""
+b_Pavland_3_1_3: ""
+c_Pavland_3_3: "罗扎"
+b_Pavland_3_3_3: "" #(capital)
+b_Pavland_3_3_4: ""
+b_Pavland_3_3_2: ""
+b_Pavland_3_3_1: ""
+
+d_Pavland_1: "维施坦"
+c_Pavland_1_2: "维索斯塔夫"
+b_Pavland_1_2_2: "" #(capital)
+b_Pavland_1_2_3: ""
+b_Pavland_1_2_1: ""
+c_Pavland_1_1: "拉多哥罗德"
+b_Pavland_1_1_3: "" #(capital)
+b_Pavland_1_1_1: ""
+b_Pavland_1_1_2: ""
+b_Pavland_1_1_4: ""
+c_Pavland_1_3: "比利斯科沃"
+b_Pavland_1_3_3: "" #(capital)
+b_Pavland_1_3_1: ""
+b_Pavland_1_3_2: ""
+c_Pavland_1_4: "维亚兹丁诺"
+b_Pavland_1_4_2: "" #(capital)
+b_Pavland_1_4_3: ""
+b_Pavland_1_4_1: ""
+
+#Witamia
+k_Witamia: "维塔米亚"
+
+d_Witamia_1: "克鲁佩奇"
+c_Witamia_1_1: "扎帕普罗季"
+b_Witamia_1_1_1: ""
+b_Witamia_1_1_3: ""
+b_Witamia_1_1_2: ""
+c_Witamia_1_2: "塞丹西那"
+b_Witamia_1_2_2: "" #(capital)
+b_Witamia_1_2_3: ""
+b_Witamia_1_2_1: ""
+c_Witamia_1_3: "韦帕西尔"
+b_Witamia_1_3_2: "" #(capital)
+b_Witamia_1_3_4: ""
+b_Witamia_1_3_3: ""
+b_Witamia_1_3_1: ""
+c_Witamia_1_4: "波洛拉尼亚"
+b_Witamia_1_4_3: "" #(capital)
+b_Witamia_1_4_2: ""
+b_Witamia_1_4_1: ""
+
+d_Witamia_2: "扎尼泰雷纳"
+c_Witamia_2_4: "穆德拉察"
+b_Witamia_2_4_2: "" #(capital)
+b_Witamia_2_4_3: ""
+b_Witamia_2_4_1: ""
+c_Witamia_2_3: "策文盖"
+b_Witamia_2_3_2: "" #(capital)
+b_Witamia_2_3_3: ""
+b_Witamia_2_3_1: ""
+c_Witamia_2_1: "斯托斯维采"
+b_Witamia_2_1_3: "" #(capital)
+b_Witamia_2_1_1: ""
+b_Witamia_2_1_4: ""
+b_Witamia_2_1_2: ""
+c_Witamia_2_2: "佩比科瓦"
+b_Witamia_2_2_2: "" #(capital)
+b_Witamia_2_2_1: ""
+b_Witamia_2_2_3: ""
+
+#Sowkovia
+k_Sowkovia: "索科维亚"
+
+d_Sowkovia_2: "德佩西亚"
+c_Sowkovia_2_2: "查帕斯拉瓦"
+b_Sowkovia_2_2_2: "" #(capital)
+b_Sowkovia_2_2_4: ""
+b_Sowkovia_2_2_3: ""
+b_Sowkovia_2_2_1: ""
+c_Sowkovia_2_4: "尼谢列那"
+b_Sowkovia_2_4_2: "" #(capital)
+b_Sowkovia_2_4_3: ""
+b_Sowkovia_2_4_1: ""
+c_Sowkovia_2_3: "多布罗尤特洛"
+b_Sowkovia_2_3_4: "" #(capital)
+b_Sowkovia_2_3_2: ""
+b_Sowkovia_2_3_3: ""
+b_Sowkovia_2_3_1: ""
+c_Sowkovia_2_1: "扎尼莫斯特"
+b_Sowkovia_2_1_3: "" #(capital)
+b_Sowkovia_2_1_1: ""
+b_Sowkovia_2_1_4: ""
+b_Sowkovia_2_1_2: ""
+
+d_Sowkovia_1: "乌斯卡帕丁那"
+c_Sowkovia_1_5: "东柳托佐沃"
+b_Sowkovia_1_5_1: "" #(capital)
+b_Sowkovia_1_5_3: ""
+b_Sowkovia_1_5_4: ""
+b_Sowkovia_1_5_2: ""
+c_Sowkovia_1_4: "奥赫瓦拉"
+b_Sowkovia_1_4_1: "" #(capital)
+b_Sowkovia_1_4_3: ""
+b_Sowkovia_1_4_2: ""
+c_Sowkovia_1_1: "博加蒂卡"
+b_Sowkovia_1_1_2: "" #(capital)
+b_Sowkovia_1_1_1: ""
+b_Sowkovia_1_1_3: ""
+b_Sowkovia_1_1_4: ""
+c_Sowkovia_1_2: "潘齐万"
+b_Sowkovia_1_2_2: "" #(capital)
+b_Sowkovia_1_2_1: ""
+b_Sowkovia_1_2_3: ""
+c_Sowkovia_1_3: "西柳托佐沃"
+b_Sowkovia_1_3_2: "" #(capital)
+b_Sowkovia_1_3_1: ""
+b_Sowkovia_1_3_3: ""
