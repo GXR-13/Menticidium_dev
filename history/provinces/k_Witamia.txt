@@ -8,7 +8,7 @@
 }
 1874 = {
     culture = iowician
-    holding = none
+    holding = castle_holding
     religion = eastern_ritualism
 }
 1875 = {

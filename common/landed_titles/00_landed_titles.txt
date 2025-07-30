@@ -1,6 +1,6 @@
 @correct_culture_primary_score = 100
 @better_than_the_alternatives_score = 50
-@always_primary_score = 100000
+@always_primary_score = 1000
 @never_primary_score = -1000
 
 e_Hiria = {
@@ -11248,7 +11248,7 @@ k_Pomrok = {
 k_Pwaczia = {
     color = { 208 55 35 }
 
-    capital = c_Pwaczia_1_4
+    capital = c_Pwaczia_2_5
 
     ai_primary_priority = {
         add = @better_than_the_alternatives_score
@@ -11368,8 +11368,8 @@ k_Pwaczia = {
         c_Pwaczia_2_4 = {
             color = { 174 57 42 }
 
-            b_Pwaczia_2_4_2 = {
-                province = 1700
+            b_Pwaczia_2_4_4 = {
+                province = 1688
                 color = { 174 57 42 }
             }
 
@@ -11383,8 +11383,8 @@ k_Pwaczia = {
                 color = { 170 53 38 }
             }
 
-            b_Pwaczia_2_4_4 = {
-                province = 1688
+            b_Pwaczia_2_4_2 = {
+                province = 1700
                 color = { 168 51 36 }
             }
         }
@@ -11941,7 +11941,7 @@ k_Despotic_Dwilia = {
 k_Powykac = {
     color = { 222 91 73 }
 
-    capital = c_Powykac_2_4
+    capital = c_Powykac_2_2
 
     ai_primary_priority = {
         add = @better_than_the_alternatives_score
@@ -11950,7 +11950,7 @@ k_Powykac = {
     d_Powykac_2 = {
         color = { 222 91 73 }
 
-        capital = c_Powykac_2_4
+        capital = c_Powykac_2_2
 
         c_Powykac_2_4 = {
             color = { 222 91 73 }
@@ -12539,7 +12539,7 @@ k_Pavland = {
     d_Pavland_3 = {
         color = { 227 152 149 }
 
-        capital = c_Pavland_3_2
+        capital = c_Pavland_3_3
 
         c_Pavland_3_4 = {
             color = { 198 133 130 }
@@ -12743,13 +12743,13 @@ k_Witamia = {
         c_Witamia_1_1 = {
             color = { 224 119 83 }
 
-            b_Witamia_1_1_1 = {
-                province = 1873
+            b_Witamia_1_1_3 = {
+                province = 1874
                 color = { 224 119 83 }
             }
 
-            b_Witamia_1_1_3 = {
-                province = 1874
+            b_Witamia_1_1_1 = {
+                province = 1873
                 color = { 222 117 81 }
             }
 

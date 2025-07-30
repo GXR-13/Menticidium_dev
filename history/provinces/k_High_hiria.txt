@@ -8,27 +8,27 @@
 }
 19 = {
     culture = high_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 20 = {
     culture = high_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 21 = {
     culture = high_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 22 = {
     culture = high_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 23 = {
     culture = high_hirian
-    holding = none
+    holding = castle_holding
     religion = imperial_verita
 }
 

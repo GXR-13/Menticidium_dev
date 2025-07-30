@@ -30,17 +30,17 @@
 ##d_Pavland_3
 ###c_Pavland_3_4
 1844 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1864 = {
-    culture = iowician
+    culture = ostlander
     holding = castle_holding
     religion = eastern_ritualism
 }
 1868 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
@@ -74,44 +74,44 @@
 
 ###c_Pavland_3_1
 1853 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1854 = {
-    culture = iowician
+    culture = ostlander
     holding = castle_holding
     religion = eastern_ritualism
 }
 1870 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1871 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 
 ###c_Pavland_3_3
 1865 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1866 = {
-    culture = iowician
+    culture = ostlander
     holding = castle_holding
     religion = eastern_ritualism
 }
 1869 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1872 = {
-    culture = iowician
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }

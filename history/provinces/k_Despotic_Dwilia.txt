@@ -8,7 +8,7 @@
 }
 1714 = {
     culture = ostlander
-    holding = none
+    holding = castle_holding
     religion = eastern_ritualism
 }
 

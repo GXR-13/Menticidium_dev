@@ -152,17 +152,17 @@
 
 ###c_Jaskowvia_1_1
 1970 = {
-    culture = ptaskan
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1982 = {
-    culture = ptaskan
+    culture = ostlander
     holding = none
     religion = eastern_ritualism
 }
 1983 = {
-    culture = ptaskan
+    culture = ostlander
     holding = castle_holding
     religion = eastern_ritualism
 }
@@ -249,22 +249,22 @@
 ##d_Jaskowvia_2
 ###c_Jaskowvia_2_1
 1938 = {
-    culture = ostlander
+    culture = ptaskan
     holding = castle_holding
     religion = eastern_ritualism
 }
 1939 = {
-    culture = ostlander
+    culture = ptaskan
     holding = none
     religion = eastern_ritualism
 }
 1954 = {
-    culture = ostlander
+    culture = ptaskan
     holding = none
     religion = eastern_ritualism
 }
 1968 = {
-    culture = ostlander
+    culture = ptaskan
     holding = none
     religion = eastern_ritualism
 }

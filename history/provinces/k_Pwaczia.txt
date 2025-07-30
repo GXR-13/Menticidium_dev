@@ -8,14 +8,14 @@
 }
 1674 = {
     culture = noszian
-    holding = castle_holding
+    holding = tribal_holding
     religion = eastern_ritualism
 }
 
 ###c_Pwaczia_1_3
 1766 = {
     culture = noszian
-    holding = castle_holding
+    holding = tribal_holding
     religion = eastern_ritualism
 }
 1767 = {
@@ -36,23 +36,23 @@
 
 ###c_Pwaczia_1_2
 1769 = {
-    culture = zurunnish
+    culture = noszian
     holding = none
     religion = eastern_ritualism
 }
 1770 = {
-    culture = zurunnish
+    culture = noszian
     holding = none
     religion = eastern_ritualism
 }
 1771 = {
-    culture = zurunnish
+    culture = noszian
     holding = none
     religion = eastern_ritualism
 }
 1775 = {
-    culture = zurunnish
-    holding = castle_holding
+    culture = noszian
+    holding = tribal_holding
     religion = eastern_ritualism
 }
 
@@ -104,12 +104,12 @@
 }
 1688 = {
     culture = noszian
-    holding = none
+    holding = tribal_holding
     religion = eastern_ritualism
 }
 1700 = {
     culture = noszian
-    holding = castle_holding
+    holding = none
     religion = eastern_ritualism
 }
 
@@ -160,7 +160,7 @@
 }
 1759 = {
     culture = noszian
-    holding = castle_holding
+    holding = tribal_holding
     religion = eastern_ritualism
 }
 1760 = {

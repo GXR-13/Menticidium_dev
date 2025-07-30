@@ -20,7 +20,7 @@ Dwilia_1002 = { #Pavel, Elder son of Leszek
 	}
 }
 
-Dwilia_1003 = { #Pioter, Second son of Leszek
+Dwilia_1003 = { #Piotr, Second son of Leszek
 	name= "Piotr" 
 	religion = eastern_ritualism
 	culture = ptaskan
@@ -71,7 +71,7 @@ Dwilia_4001 = {
 	}
 }
 ###Bokojowa###
-Dwilia_5001 = {
+Dwilia_5001 = { #King Hynek
 	name= "Hynek" 
 	religion = eastern_ritualism
 	culture = bokojowish
@@ -80,7 +80,7 @@ Dwilia_5001 = {
 		birth=yes
 	}
 }
-Dwilia_5002 = {
+Dwilia_5002 = { #Count Tista
 	name= "Tista" 
 	religion = eastern_ritualism
 	culture = bokojowish
@@ -89,8 +89,7 @@ Dwilia_5002 = {
 		birth=yes
 	}
 }
-
-Dwilia_5003 = {
+Dwilia_5003 = { #Count Vitek
 	name= "VI_tek" 
 	religion = eastern_ritualism
 	culture = bokojowish
@@ -99,8 +98,7 @@ Dwilia_5003 = {
 		birth=yes
 	}
 }
-
-Dwilia_5004 = {#Miner Guy
+Dwilia_5004 = { #Domas, Lusko Rep
 	name= "Domas" 
 	religion = imperial_verita
 	culture = weisslander
@@ -108,8 +106,7 @@ Dwilia_5004 = {#Miner Guy
 		birth=yes
 	}
 }
-
-Dwilia_5005 = {
+Dwilia_5005 = { #Vojtec, head of kanevic in the west
 	name= " VojtE_c" 
 	religion = eastern_ritualism
 	culture = bokojowish
@@ -118,8 +115,7 @@ Dwilia_5005 = {
 		birth=yes
 	}
 }
-
-Dwilia_5006 = {
+Dwilia_5006 = { #Bozepor, head of dusivid in the east
 	name= " BoZ_epor" 
 	religion = eastern_ritualism
 	culture = bokojowish
@@ -129,7 +125,7 @@ Dwilia_5006 = {
 	}
 }
 ###Pavland
-Dwilia_6001 = {
+Dwilia_6001 = { #King Benno
 	name= "Benno"
 	religion = eastern_ritualism
 	culture = ostlander
@@ -139,7 +135,7 @@ Dwilia_6001 = {
 	}
 }
 
-Dwilia_6002 = {
+Dwilia_6002 = { #
 	name= "Magnus"
 	religion = eastern_ritualism
 	culture = ostlander
