@@ -84,13 +84,6 @@ d_Dulhecht_2: "费勒佐讷"
 d_Dulhecht_3: "诺德陶因"
 d_Dulhecht_4: "伊默坎普"
 d_Dulhecht_5: "西尔巴赫伦"
-k_Reussia: "留西亚"
-d_Reussia_1: "夏瓦勒斯"
-d_Reussia_2: "泰尔多"
-d_Reussia_3: "费汶"
-d_Reussia_4: "佩朗"
-d_Reussia_5: "维吉"
-d_Reussia_6: "莱姆勒斯"
 k_Sud: "南省"
 d_Sud_1: "大科维尔"
 d_Sud_2: "诺武孔泰"
@@ -193,8 +186,8 @@ b_Epine_2_3_3: ""
 #Dejois_1
 #Dejois_1_1
 #德约瓦王国
-#苏达公国
 k_Dejois: "德约瓦"
+#苏达公国
 d_Dejois_3: "苏达"
 c_Dejois_3_1: "罗克比耶尔"
 b_Dejois_3_1_3: "罗克比耶尔"
@@ -277,3 +270,132 @@ d_Torquia_5: "南卡尔多"
 d_Torquia_6: "斯特莱多"
 d_Torquia_7: "北卡尔多"
 d_Torquia_8: "上卡尔多"
+
+#Reussia_1
+#Reussia_1_1
+#留西亚王国
+k_Reussia: "留西亚"
+#泰尔多公国
+d_Reussia_2: "泰尔多"
+c_Reussia_2_1: "布洛涅"
+b_Reussia_2_1_4: "伊斯克" #(capital)
+b_Reussia_2_1_2: ""
+b_Reussia_2_1_1: ""
+b_Reussia_2_1_3: ""
+c_Reussia_2_2: "加莱"
+b_Reussia_2_2_3: "科凯勒" #(capital)
+b_Reussia_2_2_4: ""
+b_Reussia_2_2_1: ""
+b_Reussia_2_2_2: ""
+c_Reussia_2_3: "奥梅尔"
+b_Reussia_2_3_2: "阿尔克" #(capital)
+b_Reussia_2_3_3: ""
+b_Reussia_2_3_1: ""
+b_Reussia_2_3_4: ""
+c_Reussia_2_4: "刻尔克"
+b_Reussia_2_4_1: "贝尔格" #(capital)
+b_Reussia_2_4_4: ""
+b_Reussia_2_4_2: ""
+b_Reussia_2_4_3: ""
+c_Reussia_2_5: "蒙特勒伊"
+b_Reussia_2_5_4: "勒图凯" #(capital)
+b_Reussia_2_5_2: ""
+b_Reussia_2_5_1: ""
+b_Reussia_2_5_3: ""
+#夏瓦勒斯公国
+d_Reussia_1: "夏瓦勒斯"
+c_Reussia_1_4: "迪耶普"
+b_Reussia_1_4_3: "托尔西" #(capital)
+b_Reussia_1_4_1: ""
+b_Reussia_1_4_2: ""
+c_Reussia_1_1: "鲁昂"
+b_Reussia_1_1_2: "马罗姆" #(capital)
+b_Reussia_1_1_1: ""
+b_Reussia_1_1_3: ""
+c_Reussia_1_2: "勒阿弗尔"
+b_Reussia_1_2_3: "罗曼" #(capital)
+b_Reussia_1_2_1: ""
+b_Reussia_1_2_2: ""
+c_Reussia_1_3: "马蒂厄"
+b_Reussia_1_3_3: "阿尼西" #(capital)
+b_Reussia_1_3_4: ""
+b_Reussia_1_3_1: ""
+b_Reussia_1_3_2: ""
+#佩朗公国
+d_Reussia_4: "佩朗"
+c_Reussia_4_1: "诺让"
+b_Reussia_4_1_2: "布吕内莱" #(capital)
+b_Reussia_4_1_1: ""
+b_Reussia_4_1_3: ""
+c_Reussia_4_3: "孔布勒"
+b_Reussia_4_3_1: "马尔代" #(capital)
+b_Reussia_4_3_4: ""
+b_Reussia_4_3_2: ""
+b_Reussia_4_3_3: ""
+c_Reussia_4_2: "萨勒丁"
+b_Reussia_4_2_3: "当诺" #(capital)
+b_Reussia_4_2_1: ""
+b_Reussia_4_2_2: ""
+c_Reussia_4_4: "沙托丹"
+b_Reussia_4_4_2: "西弗里" #(capital)
+b_Reussia_4_4_3: ""
+b_Reussia_4_4_4: ""
+b_Reussia_4_4_1: ""
+#莱姆勒斯公国
+d_Reussia_6: "莱姆勒斯"
+c_Reussia_6_3: "兰瑟"
+b_Reussia_6_3_3: "库尔西" #(capital)
+b_Reussia_6_3_2: ""
+b_Reussia_6_3_1: ""
+b_Reussia_6_3_4: ""
+c_Reussia_6_2: "雷泰勒"
+b_Reussia_6_2_4: "芒尔" #(capital)
+b_Reussia_6_2_1: ""
+b_Reussia_6_2_3: ""
+b_Reussia_6_2_2: ""
+c_Reussia_6_1: "维尔万"
+b_Reussia_6_1_1: "利亚尔" #(capital)
+b_Reussia_6_1_3: ""
+b_Reussia_6_1_2: ""
+#费汶公国
+d_Reussia_3: "费汶"
+c_Reussia_3_3: "努瓦耶尔"
+b_Reussia_3_3_4: "勒夫雷" #(capital)
+b_Reussia_3_3_2: ""
+b_Reussia_3_3_1: ""
+b_Reussia_3_3_3: ""
+c_Reussia_3_1: "鲁贝利尔"
+b_Reussia_3_1_3: "埃姆" #(capital)
+b_Reussia_3_1_2: ""
+b_Reussia_3_1_1: ""
+c_Reussia_3_2: "罗斯勒"
+b_Reussia_3_2_4: "卢赛" #(capital)
+b_Reussia_3_2_3: ""
+b_Reussia_3_2_2: ""
+b_Reussia_3_2_1: ""
+#维吉公国
+d_Reussia_5: "维吉"
+c_Reussia_5_4: "蒂尔特"
+b_Reussia_5_4_2: "埃克" #(capital)
+b_Reussia_5_4_1: ""
+b_Reussia_5_4_3: ""
+b_Reussia_5_4_4: ""
+c_Reussia_5_3: "卡塞勒"
+b_Reussia_5_3_4: "斯科贝克" #(capital)
+b_Reussia_5_3_3: ""
+b_Reussia_5_3_1: ""
+b_Reussia_5_3_2: ""
+c_Reussia_5_5: "斯滕福德"
+b_Reussia_5_5_2: "伯舍普" #(capital)
+b_Reussia_5_5_4: ""
+b_Reussia_5_5_3: ""
+b_Reussia_5_5_1: ""
+c_Reussia_5_1: "阿维那"
+b_Reussia_5_1_3: "莫伯日" #(capital)
+b_Reussia_5_1_4: ""
+b_Reussia_5_1_1: ""
+b_Reussia_5_1_2: ""
+c_Reussia_5_2: "沙勒维尔"
+b_Reussia_5_2_2: "勒万" #(capital)
+b_Reussia_5_2_3: ""
+b_Reussia_5_2_1: ""

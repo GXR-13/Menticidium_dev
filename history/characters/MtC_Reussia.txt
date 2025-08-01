@@ -1,0 +1,91 @@
+﻿#留西亚地区
+Reussia_1 = {
+	name = "Abel" #埃布尔·卡尔
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_2 = {
+	name = "Alphonse" #阿方斯·马尔利
+	culture = high_hirian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_3 = {
+	name = "Bertrand" #伯特兰·萨姆鲁斯
+	culture = gollois
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_4 = {
+	name = "Christophe" #克里斯托夫·崔森
+	culture = banlian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_6 = {
+	name = "Ignace" #伊格纳斯·费勒
+	culture = banlian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_8 = {
+	name = "Patrice" #帕特里斯·卡尔
+	culture = banlian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_9 = {
+	name = "Raoul" #劳尔·伯里
+	culture = banlian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+Reussia_13 = {
+	name = "Ismaël" #伊斯梅尔·兰德里
+	culture = banlian
+	religion = imperial_verita
+	698.2.1 = { birth = yes }
+}
+
+#Reussia_10 = {
+#	name = "Serge" #塞尔日·罗什
+#	culture = high_hirian
+#	religion = imperial_verita
+#	698.2.1 = { birth = yes }
+#}
+
+#Reussia_11 = {
+#	name = "Thierry" #蒂埃里·马亚尔
+#	culture = high_hirian
+#	religion = imperial_verita
+#	698.2.1 = { birth = yes }
+#}
+
+#Reussia_12 = {
+#	name = "Wilfred" #威尔弗雷德·康斯
+#	culture = high_hirian
+#	religion = imperial_verita
+#	698.2.1 = { birth = yes }
+#}
+
+#Reussia_7 = {
+#	name = "Joël" #乔埃尔·迪尔波利
+#	culture = high_hirian
+#	religion = imperial_verita
+#	698.2.1 = { birth = yes }
+#}
+
+#Reussia_5 = {
+#	name = "Gérard" #杰拉尔德·桑迪拿
+#	culture = high_hirian
+#	religion = imperial_verita
+#	698.2.1 = { birth = yes }
+#}

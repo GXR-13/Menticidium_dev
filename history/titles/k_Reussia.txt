@@ -1,0 +1,461 @@
+﻿#k_Epine = {
+#    100.1.1 = {liege = e_Hiria}
+#    700.1.1 = {holder= xxx}
+#    741.1.1 = {holder = yyy}
+#}
+
+#留西亚王国
+k_Reussia = {
+    300.1.1 = {
+        #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = e_Hiria
+    }
+}
+
+#维吉公国
+d_Reussia_5 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_5_1 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = d_Reussia_5
+    }
+}
+
+c_Reussia_5_2 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = d_Reussia_5
+    }
+}
+
+c_Reussia_5_3 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = d_Reussia_5
+    }
+}
+
+c_Reussia_5_4 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = d_Reussia_5
+    }
+}
+
+c_Reussia_5_5 = {
+    730.2.27 = {
+        holder = Reussia_1
+    }
+    741.1.1 = {
+        liege = d_Reussia_5
+    }
+}
+
+#泰尔多公国
+d_Reussia_2 = {
+    300.1.1 = {
+        #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_2_1 = {
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = d_Reussia_2
+    }
+}
+
+c_Reussia_2_2 = {
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = d_Reussia_2
+    }
+}
+
+c_Reussia_2_3 = {
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = d_Reussia_2
+    }
+}
+
+c_Reussia_2_4 = {
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = d_Reussia_2
+    }
+}
+
+c_Reussia_2_5 = {
+    730.2.27 = {
+        holder = Reussia_2
+    }
+    741.1.1 = {
+        liege = d_Reussia_2
+    }
+}
+
+#夏瓦勒斯公国
+d_Reussia_1 = {
+    300.1.1 = {
+        #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+    730.2.27 = {
+        holder = Reussia_3
+    }
+    741.1.1 = {
+        liege = e_Hiria
+    }
+}
+
+c_Reussia_1_1 = {
+    730.2.27 = {
+        holder = Reussia_3
+    }
+    741.1.1 = {
+        liege = d_Reussia_1
+    }
+}
+
+c_Reussia_1_2 = {
+    730.2.27 = {
+        holder = Reussia_3
+    }
+    741.1.1 = {
+        liege = d_Reussia_1
+    }
+}
+
+c_Reussia_1_3 = {
+    730.2.27 = {
+        holder = Reussia_3
+    }
+    741.1.1 = {
+        liege = d_Reussia_1
+    }
+}
+
+c_Reussia_1_4 = {
+    730.2.27 = {
+        holder = Reussia_3
+    }
+    741.1.1 = {
+        liege = d_Reussia_1
+    }
+}
+
+#费汶公国（未成立）
+#d_Reussia_3 = {
+#    730.2.27 = {holder= Epine_4
+#    #设置政府
+#        #后被选项，以防玩家没打dlc
+#		effect = {
+#			if = {
+#				limit = {
+#					exists = holder
+#					NOT = { has_dlc_feature = roads_to_power }
+#				}
+#				holder = {
+#					change_government = feudal_government
+#				}
+#			}
+#		}
+#}
+#    741.1.1 = {
+#        liege = k_Epine
+#    }
+#}
+
+c_Reussia_3_1 = { #鲁贝利尔
+    730.2.27 = {holder= Reussia_4
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_3_2 = { #罗斯勒
+    730.2.27 = {holder= Reussia_6
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_3_3 = { #努瓦耶尔
+    730.2.27 = {holder= Reussia_6
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_4_1 = { #诺让
+    730.2.27 = {holder= Reussia_4
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_4_2 = { #萨勒丁
+    730.2.27 = {holder= Reussia_8
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_4_3 = { #孔布勒
+    730.2.27 = {holder= Reussia_9
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_4_4 = { #沙托丹
+    730.2.27 = {holder= Reussia_8
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_6_1 = { #维尔万
+    730.2.27 = {holder= Reussia_13
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_6_2 = { #雷泰勒
+    730.2.27 = {holder= Reussia_9
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
+
+c_Reussia_6_3 = { #兰瑟
+    730.2.27 = {holder= Reussia_13
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+}
+    741.1.1 = {
+        liege = k_Reussia
+    }
+}
