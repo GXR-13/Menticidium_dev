@@ -38,6 +38,12 @@ z_loL_a = {##Historical ruling dynasty of Pwaczia
 	culture = noszian
 }
 
+von_roztau = {
+	prefix = dynnp_von
+	name = dynn_roztau
+	culture = zurunnish
+}
+
 #Kingdom of Pawland
 witte = {#Historical ruling dynasty of Pawland
 	name = dynn_witte

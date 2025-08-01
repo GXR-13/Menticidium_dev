@@ -6,3 +6,69 @@ k_Powykac = {
 		holder = Dwilia_2001
 	}
 }
+
+d_Powykac_1 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_1_1 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_1_2 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_1_3 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_1_4 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+d_Powykac_2 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_2_1 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_2_2 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_2_3 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}
+
+c_Powykac_2_4 = {
+	741.1.1 = { 
+		liege = k_Powykac
+	}
+}

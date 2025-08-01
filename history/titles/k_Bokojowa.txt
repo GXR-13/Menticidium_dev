@@ -13,6 +13,30 @@ d_Pokojowa_1 = {
 	41.1.1 = { liege = k_Pokojowa }
 }
 
+c_Pokojowa_1_1 = {
+	738.3.30 = {holder = Dwilia_5005}
+
+	41.1.1 = { liege = d_Pokojowa_1 }
+}
+
+c_Pokojowa_1_2 = {
+	738.3.30 = {holder = Dwilia_5005}
+
+	41.1.1 = { liege = d_Pokojowa_1 }
+}
+
+c_Pokojowa_1_3 = {
+	738.3.30 = {holder = Dwilia_5005}
+
+	41.1.1 = { liege = d_Pokojowa_1 }
+}
+
+c_Pokojowa_1_4 = {
+	738.3.30 = {holder = Dwilia_5005}
+
+	41.1.1 = { liege = d_Pokojowa_1 }
+}
+
 d_Pokojowa_2 = {
 	741.1.1 = { liege = k_Pokojowa}
 }
@@ -20,7 +44,7 @@ c_Pokojowa_2_1 = {
 
 	738.3.30 = {holder = Dwilia_5005}
 
-	741.1.1 = { liege = k_Pokojowa }
+	741.1.1 = { liege = d_Pokojowa_1 }
 }
 
 c_Pokojowa_2_2 = {
@@ -52,8 +76,56 @@ d_Pokojowa_3 = {
 	741.1.1 = { liege = k_Pokojowa }
 }
 
+c_Pokojowa_3_1 = {
+	#150.1.1 = { liege = k_Pokojowa }
+	
+	729.12.16 = { holder = Dwilia_5001 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+c_Pokojowa_3_2 = {
+	#150.1.1 = { liege = k_Pokojowa }
+	
+	729.12.16 = { holder = Dwilia_5001 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
+c_Pokojowa_3_3 = {
+	#150.1.1 = { liege = k_Pokojowa }
+	
+	729.12.16 = { holder = Dwilia_5001 }
+
+	741.1.1 = { liege = k_Pokojowa }
+}
+
 d_Pokojowa_4 = {
 	716.10.10 = { holder = Dwilia_5006 }
 
 	741.1.1 = { liege = k_Pokojowa }
+}
+
+c_Pokojowa_4_1 = {
+	716.10.10 = { holder = Dwilia_5006 }
+
+	741.1.1 = { liege = d_Pokojowa_4 }
+}
+
+c_Pokojowa_4_2 = {
+	716.10.10 = { holder = Dwilia_5006 }
+
+	741.1.1 = { liege = d_Pokojowa_4 }
+}
+
+c_Pokojowa_4_3 = {
+	716.10.10 = { holder = Dwilia_5006 }
+
+	741.1.1 = { liege = d_Pokojowa_4 }
+}
+
+c_Pokojowa_4_4 = {
+	716.10.10 = { holder = Dwilia_5006 }
+
+	741.1.1 = { liege = d_Pokojowa_4 }
 }

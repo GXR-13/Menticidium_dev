@@ -32,7 +32,7 @@ Dwilia_1003 = { #Piotr, Second son of Leszek
 }
 
 ###WIP Characters，name and dynasty TBD###
-Dwilia_1004 = { #Duke at Jaskowvia_4
+Dwilia_1004 = { #Duke of Otwartoboz
 	name= "TBD" 
 	religion = eastern_ritualism
 	culture = ptaskan
@@ -51,8 +51,38 @@ Dwilia_2001 = {
 		birth=yes
 	}
 }
+
+Dwilia_2002 = { #Count of Półnobóz and Końpadow
+	name = "KreS_imir"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	691.12.3 = {
+		birth=yes
+	}
+}
+
+Dwilia_2003 = { #count bischop of Czerwobóg
+	name = "Strasz"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	724.1.23 = {
+		birth=yes
+	}
+}
+
+Dwilia_2004 = { #count of Górnogrota 
+	name = "Zbyslav"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	704.6.20 = {
+		birth=yes
+	}
+}
 ###Pwaczia###
-Dwilia_3001 = {
+Dwilia_3001 = { #King Szczepan
 	name = "Szczepan"
 	religion = eastern_ritualism
 	culture = noszian
@@ -61,12 +91,98 @@ Dwilia_3001 = {
 		birth=yes
 	}
 }
+
+Dwilia_3002 = { #tribe man
+	name = "MS_ciwO_j"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	714.6.17 = {
+		birth=yes
+	}
+}
+
+Dwilia_3003 = { #tribe man
+	name = "Mateusz"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	705.4.10 = {
+		birth=yes
+	}
+}
+
+Dwilia_3004 = { #tribe woman
+	name = "BoZ_ena"
+	religion = eastern_ritualism
+	culture = noszian
+	#dynasty = 
+	718.9.5 = {
+		birth=yes
+	}
+}
+
+Dwilia_3005 = { #count of Womiech
+	name = "GaweL_"
+	religion = eastern_ritualism
+	culture = noszian
+	dynasty = z_loL_a
+	701.6.7 = {
+		birth=yes
+	}
+}
+
+Dwilia_3006 = { #setteler of Roztwów
+	name = "Wernhard"
+	religion = imperial_verita
+	culture = zurunnish
+	dynasty = von_roztau
+	695.4.23 = {
+		birth=yes
+	}
+}
 ###Pomrok###
-Dwilia_4001 = {
+Dwilia_4001 = {#General Ludolf
 	name = "Ludolf"
 	religion = eastern_ritualism
 	culture = ostlander
 	700.8.27 = {
+		birth=yes
+	}
+}
+
+Dwilia_4002 = { #West Borderwatch
+	name = "Gyro"
+	religion = eastern_ritualism
+	culture = ostlander
+	701.3.16 = {
+		birth=yes
+	}
+}
+
+Dwilia_4003 = { #East Borderwatch
+	name = "Humfried"
+	religion = eastern_ritualism
+	culture = ostlander
+	706.6.25 = {
+		birth=yes
+	}
+}
+
+Dwilia_4004 = { #count of Wiernedzy
+	name = "Kajetan"
+	religion = eastern_ritualism
+	culture = noszian
+	720.10.8 = {
+		birth=yes
+	}
+}
+
+Dwilia_4005 = { #count of Dobrze
+	name = "Ryszard"
+	religion = eastern_ritualism
+	culture = noszian
+	688.5.14 = {
 		birth=yes
 	}
 }
@@ -135,7 +251,7 @@ Dwilia_6001 = { #King Benno
 	}
 }
 
-Dwilia_6002 = { #
+Dwilia_6002 = { #Duke Magnus
 	name= "Magnus"
 	religion = eastern_ritualism
 	culture = ostlander

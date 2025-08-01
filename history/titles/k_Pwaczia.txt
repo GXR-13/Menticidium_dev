@@ -6,3 +6,126 @@ k_Pwaczia = {
 		holder = Dwilia_3001
 	}
 }
+
+d_Pwaczia_1 = {
+	684.3.22 = { 
+		holder = Dwilia_3001
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_1_1 = {
+	730.1.11 = { 
+		holder = Dwilia_3006
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_1_2 = {
+	100.1.1 = {
+		government = tribal_government
+	}
+	727.5.5 = {
+		holder = Dwilia_3003
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_1_3 = {
+	100.1.1 = {
+		government = tribal_government
+	}
+	737.11.10 = {
+		holder = Dwilia_3004
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_1_4 = {
+	684.3.22 = { 
+		holder = Dwilia_3001
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_1_5 = {
+	100.1.1 = {
+		government = tribal_government
+	}
+	727.5.5 = {
+		holder = Dwilia_3003
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+d_Pwaczia_2 = {
+	684.3.22 = { 
+		holder = Dwilia_3001
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_2_1 = {
+	684.3.22 = { 
+		holder = Dwilia_3001
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_2_2 = {
+	100.1.1 = {
+		government = tribal_government
+	}
+	731.7.28 = {
+		holder = Dwilia_3002
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_2_3 = {
+	734.6.1 = {
+		holder = Dwilia_3005
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_2_4 = {
+	100.1.1 = {
+		government = tribal_government
+	}
+	731.7.28 = {
+		holder = Dwilia_3002
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
+
+c_Pwaczia_2_5 = {
+	684.3.22 = { 
+		holder = Dwilia_3001
+	}
+	741.1.1 = {
+		liege = k_Pwaczia
+	}
+}
