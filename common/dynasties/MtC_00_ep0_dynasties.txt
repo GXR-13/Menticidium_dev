@@ -103,7 +103,7 @@ bianco = {
 #埃匹内家族列表
 
 #克莱内家族设置
-Kleine = {
+kleine = {
 	name = dynn_kleine
 	culture = platianD
 }
