@@ -115,6 +115,7 @@ Dwilia_3003 = { #tribe man
 Dwilia_3004 = { #tribe woman
 	name = "BoZ_ena"
 	religion = eastern_ritualism
+	female = yes
 	culture = noszian
 	#dynasty = 
 	718.9.5 = {

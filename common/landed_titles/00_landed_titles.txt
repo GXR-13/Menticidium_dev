@@ -5538,7 +5538,7 @@ e_Hiria = {
     k_Almaria = {
         color = { 228 119 196 }
 
-        capital = c_Almaria_3_1
+        capital = c_Almaria_4_2
 
         ai_primary_priority = {
             add = @better_than_the_alternatives_score

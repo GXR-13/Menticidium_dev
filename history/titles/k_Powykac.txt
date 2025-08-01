@@ -17,24 +17,36 @@ d_Powykac_1 = {
 }
 
 c_Powykac_1_1 = {
+	723.3.7 = {
+		holder = Dwilia_2002
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
 }
 
 c_Powykac_1_2 = {
+	723.3.7 = {
+		holder = Dwilia_2002
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
 }
 
 c_Powykac_1_3 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
 }
 
 c_Powykac_1_4 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
@@ -50,24 +62,40 @@ d_Powykac_2 = {
 }
 
 c_Powykac_2_1 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
 }
 
 c_Powykac_2_2 = {
+	740.10.3 = { 
+		holder = Dwilia_2001
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
 }
 
 c_Powykac_2_3 = {
+	450.1.1 = {
+		government = theocracy_government
+	}
+	738.2.22 = {
+		holder = Dwilia_2003
+	}
 	741.1.1 = { 
 		liege = k_Powykac
 	}
+	
 }
 
 c_Powykac_2_4 = {
+	712.8.21 = {
+		holder = Dwilia_2004
+	} 
 	741.1.1 = { 
 		liege = k_Powykac
 	}
