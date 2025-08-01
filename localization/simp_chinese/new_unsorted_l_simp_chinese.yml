@@ -295,7 +295,8 @@ heritage_li_collective_noun: "离"
 heritage_mao_name: "卯"
 heritage_mao_collective_noun: "卯"
 
-#埃匹内地区
+#埃匹内地区人物
+
 Eliside: "埃利塞德"
 
 Fenetto: "费内托"
@@ -308,8 +309,12 @@ Wilbur: "威尔伯"
 
 Siegfried: "西格弗里德"
 
+#埃匹内地区家族
 
-#德约瓦地区
+dynn_Kleine: "克莱内"
+
+#德约瓦地区人物
+
 leo: "莱奥"
 
 Mahel: "马埃尔"
@@ -319,3 +324,21 @@ Isabel: "伊莎贝尔"
 Jules: "朱尔斯"
 
 Marceau: "马尔索"
+
+#留西亚地区人物
+
+Abel: "埃布尔"
+
+Alphonse: "阿方斯"
+
+Bertrand: "伯特兰"
+
+Christophe: "克里斯托夫"
+
+Ignace: "伊格纳斯"
+
+Patrice: "帕特里斯"
+
+Raoul: "劳尔"
+
+Ismaël: "伊斯梅尔"

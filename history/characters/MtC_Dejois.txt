@@ -16,14 +16,14 @@ Dejois_2 = {
 Dejois_3 = {
 	name = "Isabel" #伊莎贝尔·卡隆
 	female = yes
-	culture = high_hirian
+	culture = suditish
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }
 
 Dejois_4 = {
 	name = "Jules" #朱尔斯·韦德
-	culture = high_hirian
+	culture = suditish
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }

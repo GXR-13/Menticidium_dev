@@ -3,6 +3,7 @@ Epine_1 = {
 	name = "Eliside" #埃利塞德·克莱内
 	culture = platian
 	religion = imperial_verita
+	dynasty = dynn_Kleine
 	698.2.1 = { birth = yes }
 }
 

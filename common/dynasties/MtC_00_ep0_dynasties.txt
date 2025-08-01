@@ -97,7 +97,7 @@ bianco = {
 #埃匹内家族列表
 
 #克莱内家族设置
-dynn_epine_1 = {
+Kleine = {
 	name = dynn_kleine
-	culture = platian
+	culture = platianD
 }
