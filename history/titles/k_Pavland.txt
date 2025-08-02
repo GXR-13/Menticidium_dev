@@ -6,22 +6,113 @@ k_Pavland = {
 		holder = Dwilia_6001
 	}
 }
-#Pawland_1 
-d_Pavland_3 = {
-	650.1.1 = { 
+d_Pavland_1 = {
+	702.1.23 = { 
+		holder = Dwilia_6001
+	}
+	741.1.1 = { 
 		liege = k_Pavland
 	}
+}
+
+c_Pavland_1_1 = {
+	702.1.23 = { 
+		holder = Dwilia_6001
+	}
+	741.1.1 = { 
+		liege = d_Pavland_1
+	}
+}
+
+c_Pavland_1_2 = {
+	702.1.23 = { 
+		holder = Dwilia_6001
+	}
+	741.1.1 = { 
+		liege = d_Pavland_1
+	}
+}
+
+c_Pavland_1_3 = {
+	702.1.23 = { 
+		holder = Dwilia_6001
+	}
+	741.1.1 = { 
+		liege = d_Pavland_1
+	}
+}
+
+c_Pavland_1_4 = {
+	702.1.23 = { 
+		holder = Dwilia_6001
+	}
+	741.1.1 = { 
+		liege = d_Pavland_1
+	}
+}
+
+d_Pavland_2 = {
+	721.2.23 = {
+		holder = Dwilia_6003
+	}
+	741.1.1 = { 
+		liege = k_Pavland
+	}
+}
+
+c_Pavland_2_1 = {
+	721.2.23 = {
+		holder = Dwilia_6003
+	}
+	741.1.1 = { 
+		liege = d_Pavland_2
+	}
+}
+d_Pavland_3 = {
 	739.2.15 = {
 		holder = Dwilia_6002
+	}
+	741.1.1 = { 
+		liege = k_Pavland
 	}
 }
 
 c_Pavland_3_1 = {
-	650.1.1 = { 
-		liege = k_Pavland
-	}
 	702.1.23 = { 
 		holder = Dwilia_6001
 	}
+	741.1.1 = { 
+		liege = k_Pavland
+	}
 }
+
+c_Pavland_3_2 = {
+	739.2.15 = {
+		holder = Dwilia_6002
+	}
+	741.1.1 = { 
+		liege = d_Pavland_3
+	}
+}
+
+
+c_Pavland_3_3 = {
+	739.2.15 = {
+		holder = Dwilia_6002
+	}
+	741.1.1 = { 
+		liege = d_Pavland_3
+	}
+}
+
+
+c_Pavland_3_4 = {
+	739.2.15 = {
+		holder = Dwilia_6002
+	}
+	741.1.1 = { 
+		liege = d_Pavland_3
+	}
+}
+
 

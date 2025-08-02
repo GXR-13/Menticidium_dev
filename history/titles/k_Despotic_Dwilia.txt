@@ -2,7 +2,34 @@
 k_Despotic_Dwilia = {
 	741.1.1 = { change_development_level = 24 }
 
-	738.1.21 = { 
+	741.7.16 = { 
 		holder = Dwilia_9001
+	}
+}
+
+c_Despotic_Dwilia_1_1 = {
+	741.1.1 = {
+		liege = k_Despotic_Dwilia
+	}
+	741.7.16 = { 
+		holder = Dwilia_9001
+	}
+}
+
+c_Despotic_Dwilia_1_2 = {
+	741.1.1 = {
+		liege = k_Despotic_Dwilia
+	}
+	741.7.16 = { 
+		holder = Dwilia_9001
+	}
+}
+
+c_Despotic_Dwilia_1_3 = {
+	741.1.1 = {
+		liege = k_Despotic_Dwilia
+	}
+	741.7.16 = { 
+		holder = Dwilia_9003
 	}
 }

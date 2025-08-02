@@ -7,30 +7,90 @@ k_Jaskowvia = {
 	}
 }
 #Jaskowvia_1 
-d_Jaskowvia_1 = {
-	715.9.30 = { 
-		holder = Dwilia_1001 
-	}
-}
+# d_Jaskowvia_1 = {
+# 	715.9.30 = { 
+# 		holder = Dwilia_1001 
+# 	}
+# 	741.1.1 = {
+# 		liege = k_Jaskowvia
+# 	}
+# }
 
 c_Jaskowvia_1_1 = {
-	715.9.30 = { 
-		holder = Dwilia_1001 
+	728.11.10 = {
+		holder = Dwilia_1002
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
 	}
 }
 c_Jaskowvia_1_2 = {
-	715.9.30 = { 
-		holder = Dwilia_1001 
+	717.3.19 = {
+		holder = Dwilia_1004
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_4
 	}
 }
 c_Jaskowvia_1_3 = {
-	715.9.30 = { 
-		holder = Dwilia_1001 
+	728.11.10 = {
+		holder = Dwilia_1002
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
 	}
 }
 c_Jaskowvia_1_4 = {
 	715.9.30 = { 
 		holder = Dwilia_1001 
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
+	}
+}
+
+d_Jaskowvia_2 = {
+	715.9.30 = { 
+ 		holder = Dwilia_1001 
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
+	}
+}
+
+c_Jaskowvia_2_1 = {
+	715.9.30 = { 
+ 		holder = Dwilia_1001 
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_2
+	}
+}
+
+c_Jaskowvia_2_2 = {
+	728.11.10 = {
+		holder = Dwilia_1002
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
+	}
+}
+
+c_Jaskowvia_2_3 = {
+	715.9.30 = { 
+ 		holder = Dwilia_1001 
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_2
+	}
+}
+
+c_Jaskowvia_2_4 = {
+	715.9.30 = { 
+ 		holder = Dwilia_1001 
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_2
 	}
 }
 #Wilgosołwa
@@ -44,13 +104,53 @@ d_Jaskowvia_3 = {
 	737.9.30 = {
 		holder = Dwilia_1003 
 	}
-}
-c_Jaskowvia_3_4 = {
-	679.1.1 = { 
-		liege = k_Despotic_Dwilia
+	741.1.1 = {#Treaty of Hettingen
+		liege = k_Jaskowvia
 	}
-	738.1.21 = { 
-		holder = Dwilia_9001
+}
+
+
+d_Jaskowvia_4 = {
+	717.3.19 = {
+		holder = Dwilia_1004
+	}
+	741.1.1 = {
+		liege = k_Jaskowvia
+	}
+}
+c_Jaskowvia_4_1 = {
+	717.3.19 = {
+		holder = Dwilia_1004
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_4
+	}
+}
+
+c_Jaskowvia_4_2 = {
+	717.3.19 = {
+		holder = Dwilia_1004
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_4
+	}
+}
+
+c_Jaskowvia_4_3 = {
+	717.3.19 = {
+		holder = Dwilia_1004
+	}
+	741.1.1 = {
+		liege = d_Jaskowvia_4
+	}
+}
+#Wschósłona goes to Despotic Dwilia
+c_Jaskowvia_3_4 = {
+	741.7.16 = { 
+		holder = Dwilia_9002
+	}
+	741.1.1 = { 
+		liege = k_Despotic_Dwilia
 	}
 }
 

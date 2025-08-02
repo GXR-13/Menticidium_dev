@@ -33,7 +33,8 @@ Dwilia_1003 = { #Piotr, Second son of Leszek
 
 ###WIP Characters，name and dynasty TBD###
 Dwilia_1004 = { #Duke of Otwartoboz
-	name= "TBD" 
+	name= "Wszebora" 
+	female = yes
 	religion = eastern_ritualism
 	culture = ptaskan
 	709.6.12 = {
@@ -262,6 +263,16 @@ Dwilia_6002 = { #Duke Magnus
 	}
 }
 
+Dwilia_6003 = { #Duchess Bisina
+	name= "Bisina"
+	female = yes
+	religion = eastern_ritualism
+	culture = ostlander
+	708.4.17 = {
+		birth = yes
+	}
+}
+
 
 ###Sowkovia###
 Dwilia_7001 = {
@@ -288,6 +299,24 @@ Dwilia_9001 = {
 	religion = eastern_ritualism
 	culture = ostlander
 	717.10.18 = {
+		birth=yes
+	}
+}
+
+Dwilia_9002 = {
+	name= "Tymmeke" 
+	religion = eastern_ritualism
+	culture = ostlander
+	718.7.30 = {
+		birth=yes
+	}
+}
+
+Dwilia_9003 = {
+	name= "Hans" 
+	religion = eastern_ritualism
+	culture = ostlander
+	717.12.28 = {
 		birth=yes
 	}
 }
