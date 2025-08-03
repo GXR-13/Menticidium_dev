@@ -6,3 +6,94 @@ k_Sowkovia = {
 		holder = Dwilia_7001
 	}
 }
+
+#d_Sowkovia_1
+c_Sowkovia_1_1 = {
+	738.7.30 = { 
+		holder = Dwilia_7002
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_1_2 = {
+	715.3.27 = { 
+		holder = Dwilia_7003
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_1_3 = {
+	738.7.30 = { 
+		holder = Dwilia_7002
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_1_4 = {
+	715.3.27 = { 
+		holder = Dwilia_7003
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_1_5 = {
+	737.4.15 = { 
+		holder = Dwilia_7005
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+d_Sowkovia_2 = {
+	737.4.15 = { 
+		holder = Dwilia_7001
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_2_1 = {
+	737.4.15 = { 
+		holder = Dwilia_7001
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_2_2 = {
+	737.4.15 = { 
+		holder = Dwilia_7005
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_2_3 = {
+	737.4.15 = { 
+		holder = Dwilia_7001
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}
+
+c_Sowkovia_2_4 = {
+	722.9.12 = { 
+		holder = Dwilia_7004
+	}
+	741.1.1 = {
+		liege = k_Sowkovia
+	}
+}

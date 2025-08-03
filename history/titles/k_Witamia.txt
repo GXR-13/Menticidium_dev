@@ -6,3 +6,73 @@ k_Witamia = {
 		holder = Dwilia_8001
 	}
 }
+
+d_Witamia_1 = {
+	718.12.2 = { 
+		holder = Dwilia_8001
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_1_1 = {
+	736.2.11 = {
+		holder = Dwilia_8002
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_1_2 = {
+	718.12.2 = { 
+		holder = Dwilia_8001
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_1_3 = {
+	718.12.2 = { 
+		holder = Dwilia_8001
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_1_4 = {
+	718.12.2 = { 
+		holder = Dwilia_8001
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+d_Witamia_2 = {
+	709.3.21 = {
+		holder = Dwilia_8003
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_2_1 = {
+	736.2.11 = {
+		holder = Dwilia_8002
+	}
+	741.1.1 = { liege = k_Witamia  }
+}
+
+c_Witamia_2_2 = {
+	709.3.21 = {
+		holder = Dwilia_8003
+	}
+	741.1.1 = { liege = d_Witamia_2  }
+}
+
+c_Witamia_2_3 = {
+	709.3.21 = {
+		holder = Dwilia_8003
+	}
+	741.1.1 = { liege = d_Witamia_2  }
+}
+
+c_Witamia_2_4 = {
+	709.3.21 = {
+		holder = Dwilia_8003
+	}
+	741.1.1 = { liege = d_Witamia_2  }
+}

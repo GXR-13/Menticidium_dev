@@ -216,7 +216,7 @@ Dwilia_5003 = { #Count Vitek
 		birth=yes
 	}
 }
-Dwilia_5004 = { #Domas, Lusko Rep
+Dwilia_5004 = { #Domas, Lusko Representative
 	name= "Domas" 
 	religion = imperial_verita
 	culture = weisslander
@@ -275,7 +275,7 @@ Dwilia_6003 = { #Duchess Bisina
 
 
 ###Sowkovia###
-Dwilia_7001 = {
+Dwilia_7001 = { #yong king Berbat. Poor him
 	name = "Berbat"
 	religion = eastern_ritualism
 	culture = iowician
@@ -284,8 +284,41 @@ Dwilia_7001 = {
 		birth = yes
 	}
 }
+Dwilia_7002 = { #Count Goran
+	name = "Goran"
+	religion = eastern_ritualism
+	culture = iowician
+	704.1.20 = {
+		birth = yes
+	}
+}
+Dwilia_7003 = { #Count Zvonimir
+	name = "Zvonimir"
+	religion = eastern_ritualism
+	culture = iowician
+	710.2.26 = {
+		birth = yes
+	}
+}
+Dwilia_7004 = { #Count Godimir
+	name = "Godimir"
+	religion = eastern_ritualism
+	culture = iowician
+	695.1.15 = {
+		birth = yes
+	}
+}
+Dwilia_7005 = { #Berbat's younger brother
+	name = "Martin"
+	religion = eastern_ritualism
+	culture = iowician
+	dynasty = grodija
+	735.12.14 = {
+		birth = yes
+	}
+}
 ###Witamia###
-Dwilia_8001 = {
+Dwilia_8001 = { #General Werner
 	name = "Werner"
 	religion = eastern_ritualism
 	culture = ostlander
@@ -293,17 +326,34 @@ Dwilia_8001 = {
 		birth = yes
 	}
 }
-###Despotic Dwilia###
-Dwilia_9001 = {
-	name= "Ludael" 
+Dwilia_8002 = { #Liutgard of the Neulande Rigment
+	name = "Luitgard"
+	female = yes
 	religion = eastern_ritualism
 	culture = ostlander
-	717.10.18 = {
+	716.6.15 = {
+		birth = yes
+	}
+}
+Dwilia_8003 = { #Duke Josip, the local
+	name = "Josip"
+	religion = eastern_ritualism
+	culture = iowician
+	691.8.22 = {
+		birth = yes
+	}
+}
+###Despotic Dwilia###
+Dwilia_9001 = { #Ludael, ur the general now!
+	name= "Ludael" 
+	religion = eastern_ritualism
+	culture = iowician
+	695.5.30 = {
 		birth=yes
 	}
 }
 
-Dwilia_9002 = {
+Dwilia_9002 = { #Ludael's homie
 	name= "Tymmeke" 
 	religion = eastern_ritualism
 	culture = ostlander
@@ -312,7 +362,7 @@ Dwilia_9002 = {
 	}
 }
 
-Dwilia_9003 = {
+Dwilia_9003 = { #Ludael's another homie
 	name= "Hans" 
 	religion = eastern_ritualism
 	culture = ostlander
@@ -320,5 +370,3 @@ Dwilia_9003 = {
 		birth=yes
 	}
 }
-
-#WIP Characters，name and dynasty TBD

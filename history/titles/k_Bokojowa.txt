@@ -10,38 +10,25 @@ k_Pokojowa = {
 d_Pokojowa_1 = {
 	738.3.30 = {holder = Dwilia_5005}
 
-	41.1.1 = { liege = k_Pokojowa }
+	741.1.1 = { liege = k_Pokojowa }
 }
 
 c_Pokojowa_1_1 = {
 	738.3.30 = {holder = Dwilia_5005}
-
-	41.1.1 = { liege = d_Pokojowa_1 }
+	741.1.1 = { liege = d_Pokojowa_1 }
 }
 
 c_Pokojowa_1_2 = {
 	738.3.30 = {holder = Dwilia_5005}
-
-	41.1.1 = { liege = d_Pokojowa_1 }
+	741.1.1 = { liege = d_Pokojowa_1 }
 }
 
 c_Pokojowa_1_3 = {
 	738.3.30 = {holder = Dwilia_5005}
-
-	41.1.1 = { liege = d_Pokojowa_1 }
+	741.1.1 = { liege = d_Pokojowa_1 }
 }
 
-c_Pokojowa_1_4 = {
-	738.3.30 = {holder = Dwilia_5005}
-
-	41.1.1 = { liege = d_Pokojowa_1 }
-}
-
-d_Pokojowa_2 = {
-	741.1.1 = { liege = k_Pokojowa}
-}
 c_Pokojowa_2_1 = {
-
 	738.3.30 = {holder = Dwilia_5005}
 
 	741.1.1 = { liege = d_Pokojowa_1 }
