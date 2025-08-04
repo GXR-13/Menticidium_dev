@@ -12,8 +12,8 @@
 		dynasty_splendor_level = 1
 		type = male
 		birth = 713.1.8
-		title = c_High_Hiria_1_1
-		government = tribal_government
+		title = d_laamp_JttW
+		government = landless_adventurer_government
 		culture = guanghai
 		religion = shiquan_zong
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"

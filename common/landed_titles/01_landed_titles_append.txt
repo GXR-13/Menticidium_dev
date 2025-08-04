@@ -226,3 +226,18 @@ d_Ramsmiegs = { #Peace Rest
 	destroy_if_invalid_heir = yes
 	can_use_nomadic_naming = no
 }
+
+#Landless
+d_laamp_JttW = { # Travellers from the East
+	color = { 100 100 100 }
+	capital = c_Pokojowa_4_2
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}

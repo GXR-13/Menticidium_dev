@@ -1,11 +1,15 @@
 ﻿###Major Characters###
 JttW_1 = { #马泊宛
 	name= "Bowan" 
+	dna = ma_bowan
 	religion = shiquan_zong
 	culture = guanghai
 	dynasty = ma
 	713.1.8 = {
 		birth=yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
 	}
 }
 
