@@ -3,6 +3,6 @@
 		debug_log = "MtC game start effect triggered"
 
 		#Starting eventss
-		character:Hiria_1 = { trigger_event = MtC_test.1 }
+		#character:Hiria_1 = { trigger_event = MtC_test.1 }
 	}
 }

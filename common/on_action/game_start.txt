@@ -163,6 +163,7 @@ on_game_start = {
 on_game_start_after_lobby = {
 	on_actions = {
 		on_MtC_game_start
+		on_MtC_game_start_setup_dwilia
 	}
 	effect = {
 

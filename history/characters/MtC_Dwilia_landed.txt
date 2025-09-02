@@ -225,7 +225,7 @@ Dwilia_5004 = { #Domas, Lusko Representative
 	}
 }
 Dwilia_5005 = { #Vojtec, head of kanevic in the west
-	name= " VojtE_c" 
+	name= "VojtE_ch" 
 	religion = eastern_ritualism
 	culture = bokojowish
 	dynasty = kanevic
@@ -234,11 +234,21 @@ Dwilia_5005 = { #Vojtec, head of kanevic in the west
 	}
 }
 Dwilia_5006 = { #Bozepor, head of dusivid in the east
-	name= " BoZ_epor" 
+	name= "BoZ_epor" 
 	religion = eastern_ritualism
 	culture = bokojowish
 	dynasty = dusivid
 	687.4.2 = {
+		birth=yes
+	}
+}
+Dwilia_5007 = {#Jena, court chronicler of Hynek
+	name= "Jana" 
+	religion = eastern_ritualism
+	culture = bokojowish
+	female = yes
+	dynasty = kramenski
+	681.5.17 = {
 		birth=yes
 	}
 }

@@ -3,8 +3,9 @@
  bookmark_MtC_Jttw_1_desc: "马泊宛，易藩九世侯马高的第四子，自幼便展现出了对知识与学术的兴趣。成年后，他无意同他的几位兄弟一般，投身于封建贵族的权力角逐当中，而是背井离乡，成为了一名云游四方的流浪学者。\n\n一年前，他开始了自己人生中最有野心的旅途：前往从未有人到访过的遥远西方，并撰写自己对此处的详细记述。\n\n#bold 面对未知的世界，马泊宛不懈求知。但要小心：知识亦有其代价。 #"
  bm_the_journey_to_the_west: "远方来客"
  bm_the_journey_to_the_west_desc: "对于东方人而言，荒原与群山之外的西方是不为人知的神秘领域。远洋商人带来过些许流言：财富、宏伟的城市、还有那摒弃神明的永恒帝国；但从未有人亲眼见证过这一切，还得以将自身见闻带回家乡。\n\n而当一位探索者不期而至，以好奇的目光审视这片土地上的一切，他又会看到什么？\n\n#bold 去探索这个世界，了解它的历史吧：选择你的道路，填补未知的空白，以新颖的视角见证“灭神”的世界。 #"
+
  test_1_loc: "[Glossary( '长生的', 'LONG_LIVED_ESMAEL_GLOSS' )][GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]"
- LONG_LIVED_ESMAEL_GLOSS: "[GetPlayer.Custom('long_lived_esmael_dynamic')]"
+ LONG_LIVED_ESMAEL_GLOSS: "[GetPlayer.Custom('gloss_long_lived_esmael_dynamic')]"
  gloss_unknown: "你尚且不了解这个概念。"
  gloss_long_lived_esmael_imperial: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结。他的长寿对帝国人民来讲是自然的常识。"
  gloss_long_lived_esmael_question: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——可如果帝国和它的统治者摒弃神明的力量，[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]又怎能拥有如此漫长的寿命？更奇怪的是，为何帝国中人人都对此视而不见？"
@@ -29,6 +30,75 @@
  MtC_test.2.a.flavour: "你将重新审视你的知识。"
  MtC_test.2.b: "已经听得够多了，快端下去罢……"
  MtC_test.2.b.flavour: "灭神道，堂堂连载！"
+
+ MtC_test.3.t: "测试二，其之一"
+ MtC_test.3.desc: "帝国 vs 东境人，你们知道吗"
+ MtC_test.3.a: "我不到啊！"
+ MtC_test.3.a.flavour: "你还是不知道。"
+ MtC_test.3.b: "我听说帝国被东人打败了。"
+ MtC_test.3.b.flavour: "这是那个没什么细节的基础版本。"
+ MtC_test.3.c: "我听说邪恶的帕夫兰带路党屠光了整个伊莱科夫城。"
+ MtC_test.3.c.flavour: "这是卢齐人普遍传播的版本。"
+ MtC_test.3.d: "我听说帕夫兰人被帝国胁迫着加入了战争，在战后背了黑锅。"
+ MtC_test.3.d.flavour: "这是帕夫兰人普遍传播的版本。"
+
+ MtC_test.4.t: "测试二，其之二"
+ MtC_test.4.desc: "[Glossary( '东境战争', 'EASTERN_WAR_GLOSS' )]是这样的（请查看词汇解释），是否如此？"
+ MtC_test.4.a: "对……对吗？"
+ MtC_test.4.a.flavour: "最好再看看。"
+ MtC_test.4.b: "哦对的对的。"
+ MtC_test.4.b.flavour: "你觉得是，那就是。"
+
+ EASTERN_WAR_GLOSS: "[GetPlayer.Custom('gloss_eastern_war_dynamic')]"
+ gloss_eastern_war_generic: "719年，帝国曾举兵进攻[Glossary( '东境', 'THE_EAST_GLOSS' )]，但随后被击退。"
+ gloss_eastern_war_jaskowvian: "719年，帝国曾举兵进攻[Glossary( '东境', 'THE_EAST_GLOSS' )]。在这场战争中，[GetTitleByKey('k_Pavland').GetBaseNameNoTier]的奥斯特兰人倒戈向帝国，并与其一同对[Glossary( '东境', 'THE_EAST_GLOSS' )]的卢齐人犯下了令人发指的罪行，例如对[GetTitleByKey('c_Jaskowvia_2_1').GetBaseNameNoTier]的劫掠。最终，[Glossary( '东境', 'THE_EAST_GLOSS' )]诸国联合起来击败了帝国的军队。"
+ gloss_eastern_war_pavlander: "719年，帝国曾举兵进攻[Glossary( '东境', 'THE_EAST_GLOSS' )]。在这场战争中，[GetTitleByKey('k_Pavland').GetBaseNameNoTier]的奥斯特兰人在帝国的胁迫下被卷入了战争。最终，[Glossary( '东境', 'THE_EAST_GLOSS' )]诸国联合起来击败了帝国的军队。在这之后，在战争期间受损最严重的[GetTitleByKey('k_Jaskowvia').GetBaseNameNoTier]人开始指责奥斯特兰人在战争中的参与，并把许多帝国军队犯下的罪行扣在他们头上。"
+
+ MtC_demo.1.t: "在山之王的宫殿里"
+ MtC_demo.1.desc: "听闻我的回答，[bokojowish_king.GetTitledFirstName]开始用意味深长的眼神打量着我。“你这样的人可不多见。[bokojowish_king.GetPrimaryTitle.GetBaseNameNoTier]是个富饶的地方，人们来来去去，为世俗的名利争得头破血流；但是学者！哪怕放眼整个[Glossary( '东境', 'THE_EAST_GLOSS' )]，我都找不到这么有趣的人。你可以在[GetTitleByKey('c_Pokojowa_3_3').GetBaseNameNoTier]多留几天——我会给你一些必要的资助。”\n\n这位[bokojowish_king.GetTitleAsName]开始大笑着滔滔不绝；我的回答很明显打动了[bokojowish_king.GetSheHe]。这让我有些受宠若惊。\n\n“在你出发之前，记得去找我的史官老[chronicler.GetFirstName]聊聊。她大概能给你做一些最基本的功课”\n\n——不论如何，在这片陌生的土地上，谁会拒绝一些友善的帮助呢？"
+ MtC_demo.1.a: "“你刚刚说“[chronicler.GetFirstName]”，我该去哪找[chronicler.GetSheHe]？”"
+ MtC_demo.1.a.flavour: "你会借此机会对初步了解未知的西方世界。"
+ THE_EAST_GLOSS: "对德维利亚的俗称。"
+
+ MtC_demo.2.t: "山中暗影"
+ MtC_demo.2.desc: "这些矿工的口音与我近来熟悉的德维利亚语言并不相同。他们是外来者。领头的那人告诉我，他带领的这支队伍来自[GetTitleByKey('e_Hiria').GetBaseNameNoTier]的[GetTitleByKey('k_Waltenland').GetBaseNameNoTier]行省——似乎近些年来有许多帝国人来到这里，山中寻宝貌似是一门火热的生意。\n\n当我问起他们日常的活计时，这些人却全都闭口不谈。在山中的工作就好像一种禁忌，无论是从中获利的贵族还是在洞窟中出入的矿工都不愿对此多谈。“石头，还有黑暗。”有几个人敷衍了事地向我回答。\n\n可他们的行头却暗示着更丰富的故事。这些“穿山者”——他们穿戴着覆盖全身的锁甲，戴着金属头盔。他们手中的工具比起矿镐更像是战锤，有些人还手持可以刺穿铠甲的尖锥。很明显，这里的矿工和我在家乡所熟知的那种大不相同……"
+ MtC_demo.2.a: "真是有趣。"
+ MtC_demo.2.b: "山里面到底有什么？我一定要知道。"
+
+ MtC_demo.3.t: "阴魂不散"
+ MtC_demo.3.desc: "“我们这里的长辈有这种传说。他们说[Glossary( '恶魔', 'DEVIL_GLOSS' )]仍在山中阴魂不散。那些古老战争的冤魂，或是幸存者。贵族老爷们笃信帝国那一套，他们说这是封建迷信。”\n\n“过去了几百年，人们快把这些东西忘光了——但[Glossary( '恶魔', 'DEVIL_GLOSS' )]统治过这里。[GetTitleByKey('c_Pokojowa_3_3').GetBaseNameNoTier]，[GetTitleByKey('c_Pokojowa_2_3').GetBaseNameNoTier]，这些城市都建立在它们打下的地基上。几乎在每一个村子周边都有它们建造的引水渠。尽管它们的帝国早已荡然无存，我们却依仗着它的遗产过活。”\n\n“我们不会打扰他们的安息。祖上传下来的规矩——不过现在都没人听了。那些希里亚人进山，发财，靠的是死人钱。遗产，陪葬品。赚这笔钱总有一天要遭报应的。”\n\n老人望向天际，陷入了沉思。他显然没心思继续说下去了。"
+ MtC_demo.3.a: "这可真是……有意思。我得记下来。"
+ DEVIL_GLOSS: "在远古时期，世界仍由“旧帝国”统治时，曾经从北方发动过入侵的某个民族。"
+
+ MtC_demo.4.t: "三兄弟之歌"
+ MtC_demo.4.desc: "“从绿林到原野\n从山涧到河畔\n三兄弟在呼唤\n不愿屈服的伙计\n拿起武器来\n赶走袍子兵！”\n\n踏入[GetTitleByKey('k_Powykac').GetBaseNameNoTier]的领土后，我不止一次听到本地人传唱这首民谣。德维利亚英雄驱赶某位侵略者的故事已经成了脍炙人口的传说——这一定对他们有重大意义。我可以以此为切入点了解这里的历史。\n\n“看那三兄弟\n又一次擎起反抗的火把\n看那三兄弟\n把长胡子的暴君拉下马！”"
+ MtC_demo.4.a: "“三兄弟”和“长胡子的暴君”？"
+
+ MtC_demo.5.t: "红神"
+ MtC_demo.5.desc: "人们在[GetTitleByKey('c_Powykac_2_3').GetBaseNameNoTier]的“神庙”里来来去去——考虑到他们的信仰否定了所有神明，这场景显得格外耐人寻味。\n\n人们不在此处祭祀任何神明或先祖，而是在这里寻求“共融”。虽说如此，这场祭典中的许多活动都能让人产生既视感。他们为空无一物的神坛献上祭品，点燃巨大的火堆，将“共融”作为伟大存在而歌颂。\n\n这种情景自然能激起我的好奇心，可是在当地人载歌载舞的当下，还是不要擅自破坏他们的兴致了。"
+ MtC_demo.5.a: "大祭司应该会乐意回答我的一些问题。"
+ MtC_demo.5.b: "把这段经历记录下来就继续上路吧。"
+
+ MtC_demo.6.t: "雅斯科维亚编年史，第15节"
+ MtC_demo.6.desc: "“……719年夏，帕夫兰王国背弃战前盟约，倒戈向帝国……11月，帕夫兰与帝国联军开进伊莱科夫，不分青红皂白地屠杀平民，死伤者甚众。”\n\n这本雅斯科维亚史书中的记载似乎能解释我在之前旅途中看到的现象——人们对奥斯特兰人在战争中的背叛耿耿于怀，而一场屠杀更是将这种分歧上升到了敌视。尤其是在北方，私刑和各种暴力层出不穷。而在南方，尽管现状更为和平，积怨的爆发也只是时间问题。\n\n看来哪怕在陌生的西方世界，我所熟悉的战争和仇恨也未曾改变……"
+ MtC_demo.6.a: "我们并没什么不同。"
+
+ MtC_demo.7.t: "次子"
+ MtC_demo.7.desc: "“我的兄弟有些……偏执。”“那场战争一定深深影响了他。他母亲，以及[GetTitleByKey('c_Jaskowvia_2_1').GetBaseNameNoTier]沦陷后的惨剧，他把这一切归结于奥斯特兰人。”\n\n“我向你保证，事情并不如它看上去那般简单。这背后的个中缘由无法用一两句话论说；奥斯特兰人是帝国的弃子，被夹在了一场冲突的中间。他们与你见过的任何民族并无不同，只是他们的国王在错误的时间站错了队。”\n\n“我已无意，也无法让[GetScriptedCharacterByHistoryID( 'Dwilia_1002' ).GetFirstName]回心转意了，但作为公爵，我至少要保护领地内的人民。这是我的请求：在写下任何东西之前，还请避免由一面之词做出过于武断的判断。”\n\n在说出这些话语时，一丝决意似乎暂时盖过了他脸上的忧愁——只有一时。"
+ MtC_demo.7.a: "“这听上去不过是自我开脱。”"
+ MtC_demo.7.b: "“我会考虑的，但没有承诺。”"
+ MtC_demo.7.c: "“我会记录真相，而不是偏执的话语。我向你保证.”"
+
+ JttW_test01_contract: "家族纷争"
+ JttW_test01_desc_title: "所有臣民与旅者注意,"
+ JttW_test01_desc: "[GetTitleByKey('d_Pokojowa_1').GetBaseNameNoTier][GetScriptedCharacterByHistoryID( 'Dwilia_5005' ).GetTitleAsName]急需识字且有学识者为他处理私人事务。有意者请前来面议，提供丰厚报酬。"
+ JttW_test01_request: "该[task_contract|E]可能会将你卷入一段独特的经历……"
+
+ d_laamp_JttW: "外来旅者"
+#  MtC_demo..t: ""
+#  MtC_demo..desc: ""
+#  MtC_demo..a: ""
+#  MtC_demo..b: ""
 
  communiunism_religion: "共融"
  communiunism_religion_adj: "共融"
@@ -295,6 +365,10 @@ heritage_li_collective_noun: "离"
 heritage_mao_name: "卯"
 heritage_mao_collective_noun: "卯"
 
+
+#人
+VojtE_ch: "沃伊捷赫"
+BoZ_epor: "博热波尔"
 #埃匹内地区人物
 
 Eliside: "埃利塞德"

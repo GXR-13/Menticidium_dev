@@ -1,0 +1,124 @@
+namespace = MtC_demo
+
+MtC_demo.1 = {
+	type = character_event
+	title = MtC_demo.1.t
+	desc = MtC_demo.1.desc
+	theme = party
+	override_background = { reference = feast_event }
+	right_portrait = {
+		character = scope:bokojowish_king
+		animation = throne_room_cheer_1
+	}
+	lower_right_portrait = scope:chronicler
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		title:k_Pokojowa = {
+			holder = { save_scope_as = bokojowish_king }
+		}
+		scope:bokojowish_king = {
+			random_court_position_holder = {
+				type = court_physician_court_position
+				save_scope_as = chronicler
+			}
+		}
+
+	}
+
+	option = {
+		name = MtC_demo.1.a
+		flavor = MtC_demo.1.a.flavour
+	}
+}
+
+MtC_demo.2 = {
+	type = character_event
+	title = MtC_demo.2.t
+	desc = MtC_demo.2.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.2.a
+	}
+	option = {
+		name = MtC_demo.2.b
+	}
+}
+
+MtC_demo.3 = {
+	type = character_event
+	title = MtC_demo.3.t
+	desc = MtC_demo.3.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.3.a
+	}
+}
+
+MtC_demo.4 = {
+	type = character_event
+	title = MtC_demo.4.t
+	desc = MtC_demo.4.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.4.a
+	}
+}
+
+MtC_demo.5 = {
+	type = character_event
+	title = MtC_demo.5.t
+	desc = MtC_demo.5.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.5.a
+	}
+	option = {
+		name = MtC_demo.5.b
+	}
+}
+
+MtC_demo.6 = {
+	type = character_event
+	title = MtC_demo.6.t
+	desc = MtC_demo.6.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.6.a
+	}
+}
+
+MtC_demo.7 = {
+	type = character_event
+	title = MtC_demo.7.t
+	desc = MtC_demo.7.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	option = {
+		name = MtC_demo.7.a
+	}
+	option = {
+		name = MtC_demo.7.b
+	}
+	option = {
+		name = MtC_demo.7.c
+	}
+}

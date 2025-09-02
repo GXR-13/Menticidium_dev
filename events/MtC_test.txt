@@ -93,3 +93,97 @@ MtC_test.2 = {
 		
 	}
 }
+
+MtC_test.3 = {
+	type = character_event
+	title = MtC_test.3.t
+	desc = MtC_test.3.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.3.a
+		flavor = MtC_test.3.a.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 0
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+	
+	option = {
+		name = MtC_test.3.b
+		flavor = MtC_test.3.b.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 1
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+	
+	option = {
+		name = MtC_test.3.c
+		flavor = MtC_test.3.c.flavour
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 2
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+
+	option = {
+		name = MtC_test.3.d
+		flavor = MtC_test.3.d.flavour
+
+		trigger = {
+			debug_only = yes
+		}
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 3
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+}
+
+MtC_test.4 = {
+	type = character_event
+	title = MtC_test.4.t
+	desc = MtC_test.4.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.4.a
+		flavor = MtC_test.4.a.flavour
+		scope:event_owner = {
+			trigger_event = MtC_test.3
+		}
+	}
+
+	option = {
+		name = MtC_test.4.b
+		flavor = MtC_test.4.b.flavour
+		
+	}
+}

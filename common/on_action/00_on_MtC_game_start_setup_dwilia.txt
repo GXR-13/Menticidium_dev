@@ -1,0 +1,23 @@
+on_MtC_game_start_setup_dwilia = {
+	effect = {
+		#Bokojowa
+		#Courts
+		character:Dwilia_5001 = {
+			trigger_event = MtC_test.1
+			add_courtier = character:Dwilia_5007
+			appoint_court_position = {
+				recipient = character:Dwilia_5007
+				court_position = court_physician_court_position
+			}
+		}
+		#temp_contracts
+		character:JttW_1 = {
+			create_task_contract = {
+				task_contract_type = JttW_test01
+				task_contract_tier = 1
+				location = character:Dwilia_5005.location
+				task_contract_employer = character:Dwilia_5005
+			}
+		}
+	}
+}

@@ -1,0 +1,180 @@
+﻿##################################################
+# INFO
+# 脚本任务：试着让他们只能通过脚本触发，或是只对拥有特定变量的特定角色触发
+##################################################
+
+
+
+##################################################
+# GROUPS (for populate_task_contracts_for_area)
+
+##################################################
+
+##################################################
+JttW_test01 = {
+	group = laamp_contracts_justicar_group
+	icon = "gfx/interface/icons/scheme_types/war.dds"
+
+	use_diplomatic_range = no
+
+	weight = {
+		value = 0 #不会自动生成
+	}
+
+	# Validity Triggers
+	valid_to_create = {
+		always = yes #当尝试生成时总是会生成
+	}
+	valid_to_accept = {
+		# Standard triggers.
+		valid_laamp_basic_accept_only_trigger = yes
+		valid_laamp_basic_trigger = {
+			EMPLOYER = scope:employer
+			LAAMP = root
+		}
+		scope:employer = { is_landed = yes }
+	}
+	valid_to_continue = {
+		# Standard triggers.
+		valid_laamp_basic_trigger = {
+			EMPLOYER = root.task_contract_employer
+			LAAMP = root.task_contract_taker
+		}
+		task_contract_employer = { is_landed = yes }
+		# Specific flavour triggers.
+		## Effects require a capital county.
+		exists = root.task_contract_employer.capital_county
+		## Make sure that if we've got our recidivist, then they've not died at any time other than when they're _specifically_ allowed to.
+		OR = {
+			NOT = { has_variable = recidivist }
+			var:recidivist ?= {
+				OR = {
+					is_alive = yes
+					root = { has_variable = duel_engaged }
+				}
+				is_imprisoned = no
+			}
+		}
+	}
+	valid_to_keep = {
+		# Standard triggers.
+		valid_laamp_basic_trigger = {
+			EMPLOYER = root.task_contract_employer
+			LAAMP = root.task_contract_taker
+		}
+		task_contract_employer = { is_landed = yes }
+	}
+
+	# On_actions
+	on_accepted = { #占位
+		task_contract_taker = { play_sound_effect = "event:/DLC/EP3/SFX/UI/Contracts/ep3_ui_contracts_accept_contract" }
+		# For the intro event.
+		save_scope_as = task_contract
+		task_contract_employer = { save_scope_as = employer }
+		# Then we start the travel.
+		task_contract_taker ?= { trigger_event = laamp_base_contract_schemes.1004 }
+		# Track our score/encounters.
+		increment_variable_effect = {
+			VAR = encounters_tally
+			VAL = 0
+		}
+		# & numbers of chars checked for loc.
+		increment_variable_effect = {
+			VAR = wins_tally
+			VAL = 0
+		}
+	}
+	on_create = { #占位
+		scope:contract = {
+			# Make our gold rewards static.
+			grab_gold_fuzz_number_effect = yes
+			save_scope_as = task_contract
+			set_variable = {
+				name = gold_success_standard
+				value = task_contract_taker.task_contract_success_gold_gain_full_value
+			}
+		}
+	}
+
+	# Rewards
+	task_contract_reward = { #占位
+		success_standard = {
+			should_print_on_complete = yes
+			effect = {
+				task_contract_taker = { play_sound_effect = "event:/DLC/EP3/SFX/UI/Contracts/ep3_ui_contracts_success_on_contract" }
+				
+				save_scope_value_as = { name = extra_reward value = flag:no }
+				# Standard Rewards.
+				laamp_rewards_disburse_ordinary_currency_effect = {
+					GOLD = scope:task_contract.var:gold_success_standard
+					PRESTIGE = task_contract_success_prestige_gain_half_value
+					PIETY = 0
+					PROVISIONS = task_contract_success_provisions_gain_minor_value
+					OPINION = task_contract_opinion_standard_reward_value
+					OPINION_TYPE = succeeded_task_contract_opinion
+					CONTACT = yes
+					CONTACT_HOOK = no
+					EXTRA_REWARD = scope:extra_reward
+				}
+				task_contract_taker = { task_successful_noncrim_contract_count_effect = yes }
+				# Update Knight-Errant score.
+				task_contract_taker = {
+					laamp_rewards_apply_knight_errant_xp_effect = {
+						XP_MAX = knight_errant_xp_major_gain
+						XP_MIN = knight_errant_xp_major_gain
+					}
+					task_contract_justicar_contract_tracker_effect = yes
+				}
+			}
+		}
+		failure_standard = {
+			positive = no
+			should_print_on_complete = yes
+			effect = {
+				task_contract_taker = { play_sound_effect = "event:/DLC/EP3/SFX/UI/Contracts/ep3_ui_contracts_failure_on_contract" }
+				save_scope_value_as = { name = extra_reward value = flag:no }
+				# Standard Penalties.
+				laamp_rewards_disburse_ordinary_currency_effect = {
+					GOLD = 0
+					PRESTIGE = task_contract_failure_prestige_loss_full_value
+					PIETY = 0
+					PROVISIONS = task_contract_failure_provisions_gain_minor_value
+					OPINION = task_contract_opinion_standard_failure_value
+					OPINION_TYPE = failed_task_contract_opinion
+					CONTACT = no
+					CONTACT_HOOK = no
+					EXTRA_REWARD = scope:extra_reward
+				}
+			}
+		}
+		failure_recruitment = {
+			positive = no
+			visible = no
+			should_print_on_complete = yes
+			effect = {
+				task_contract_taker = { play_sound_effect = "event:/DLC/EP3/SFX/UI/Contracts/ep3_ui_contracts_failure_on_contract" }
+				save_scope_value_as = { name = extra_reward value = flag:no }
+				# Standard Penalties.
+				laamp_rewards_disburse_ordinary_currency_effect = {
+					GOLD = 0
+					PRESTIGE = 0
+					PIETY = 0
+					PROVISIONS = task_contract_failure_provisions_gain_minor_value
+					OPINION = task_contract_opinion_critical_failure_value
+					OPINION_TYPE = failed_task_contract_opinion
+					CONTACT = no
+					CONTACT_HOOK = no
+					EXTRA_REWARD = scope:extra_reward
+				}
+				# Update gallowsbait score.
+				task_contract_taker = {
+					laamp_rewards_apply_criminal_xp_effect = {
+						TRACK = bandit
+						XP_MAX = gallowsbait_xp_medium_gain
+						XP_MIN = gallowsbait_xp_medium_gain
+					}
+				}
+			}
+		}
+	}
+}
