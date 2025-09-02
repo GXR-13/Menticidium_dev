@@ -53,6 +53,7 @@ ce_imperial_ancient_leaf.dds = { colors = 1 category = imperial }
 ce_swallow_abstract.dds = {colors = 2 category = dwilian}
 ce_swallow_2_colors.dds = {colors = 2 category = dwilian}
 ce_swallow_3_colors.dds = {colors = 3 category = dwilian}
+ce_pav_feather.dds = {colors = 3 category = dwilian}
 
 
 ce_pentagon.dds = {colors = 1 category = patterns}
