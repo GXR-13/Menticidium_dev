@@ -1,0 +1,110 @@
+﻿#Template
+# Old_League_ = {
+# 	name= ""
+# 	religion = imperial_verita
+# 	culture = leaguemen
+# 	dynasty = 
+# 	 = {
+# 		birth = yes
+# 	}
+# }
+
+Old_League_1 = { #兰舍恩·维罗，联盟长
+	name= "Lahmschon"
+	religion = imperial_verita
+	culture = leaguemen
+	dynasty = veiro
+	699.7.21 = {
+		birth = yes
+	}
+}
+
+Old_League_2 = { #路易斯·加农三世，维斯普利亚领主
+	name= "Lewis"
+	religion = imperial_verita
+	culture = leaguemen
+	dynasty = cannon
+	689.9.7 = { #1970年
+		birth = yes
+	}
+}
+
+Old_League_3 = { #慢羊羊首领
+	name= "Doch"
+	religion = imperial_verita
+	culture = leaguemen
+	738.9.11 = {
+		birth = yes
+	}
+}
+
+Old_League_4 = { #拉尔夫·杨，高级学监
+	name= "Ralph"
+	religion = imperial_verita
+	culture = leaguemen
+	dynasty = jung
+	706.3.8 = {
+		birth = yes
+	}
+}
+
+Old_League_5 = { #托马斯·尤尼安，大奥登领主
+	name= "Thomas"
+	religion = imperial_verita
+	culture = concordian
+	dynasty = yunian_kinhall
+	694.6.4 = {
+		birth = yes
+	}
+}
+
+Old_League_6 = { #休·尤尼安，小奥登领主
+	name= "Huges"
+	religion = imperial_verita
+	culture = concordian
+	dynasty = yunian_obwester
+	701.8.10 = {
+		birth = yes
+	}
+}
+
+Old_League_ = { #茉吉亚·安瑟恩（茅革），特莱维恩领主
+	name= "Moghia"
+	religion = imperial_verita
+	culture = concordian
+	dynasty = anthern 
+	715.6.22 = {
+		birth = yes
+	}
+}
+
+Old_League_ = { #柏斯·冯·坦宁，费尔米亚首席角斗士
+	name= "Berth"
+	religion = imperial_verita
+	culture = leaguemen
+	dynasty = von_tanning
+	710.5.6 = {
+		birth = yes
+	}
+}
+
+Old_League_ = { #玛丽亚·迪·阿西亚，盖威克代表
+	name= "Maria"
+	religion = imperial_verita
+	culture = cisfreddian
+	dynasty = di_assia
+	691.12.23 = {
+		birth = yes
+	}
+}
+
+Old_League_ = { #布鲁斯·奥斯滕，科尔尼森总督
+	name= "Bruce"
+	religion = imperial_verita
+	culture = leaguemen
+	dynasty = Osten
+	700.7.25 = {
+		birth = yes
+	}
+}
+
