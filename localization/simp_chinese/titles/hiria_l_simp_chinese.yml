@@ -23,29 +23,91 @@ d_Intermark_2: "佩普利埃"
 d_Intermark_3: "弗罗布拉特"
 d_Intermark_4: "维桑"
 d_Intermark_5: "布朗法伦"
+
+#Old_League
 k_Old_League: "康科迪亚"
+
+d_Old_League_4: "第二康科迪亚"
+
+c_Old_League_4_3: "阿米希缇亚山"
+b_Old_League_4_3_1: "阿米希缇亚" #(capital)
+c_Old_League_4_4: "埃斯盖特"
+b_Old_League_4_4_1: "格雷菲尔德" #(capital)
+b_Old_League_4_4_2: "北艾森德"
+c_Old_League_4_1: "海文福特"
+b_Old_League_4_1_3: "海文福特" #(capital)
+b_Old_League_4_1_4: "雷克豪斯"
+b_Old_League_4_1_1: "斯塔汉姆"
+b_Old_League_4_1_2: "康斯坦特"
+c_Old_League_4_2: "上黎文"
+b_Old_League_4_2_1: "朗格希尔" #(capital)
+b_Old_League_4_2_2: "斯塔特希尔"
+b_Old_League_4_2_3: "穆德福特"
+
+d_Old_League_3: "南康科迪亚"
+c_Old_League_3_6: "斯盖顿"
+b_Old_League_3_6_2: "南艾森德" #(capital)
+b_Old_League_3_6_1: "雷德菲尔德"
+c_Old_League_3_5: "波特汉姆"
+b_Old_League_3_5_2: "波特伍德" #(capital)
+b_Old_League_3_5_3: "安瑟劳"
+b_Old_League_3_5_1: "安瑟伍德"
+c_Old_League_3_4: "沃特布雷吉"
+b_Old_League_3_4_2: "沃特布雷吉" #(capital)
+b_Old_League_3_4_3: "阿兰伍德"
+b_Old_League_3_4_1: "迪耶莫罗"
+c_Old_League_3_1: "纽伍德"
+b_Old_League_3_1_2: "纽伍德" #(capital)
+b_Old_League_3_1_1: "南范顿"
+b_Old_League_3_1_3: "巴斯克福"
+c_Old_League_3_3: "兰卜维尔"
+b_Old_League_3_3_3: "兰卜维尔" #(capital)
+b_Old_League_3_3_1: "里尔"
+b_Old_League_3_3_2: "纽坎普"
+c_Old_League_3_2: "利伯顿"
+b_Old_League_3_2_2: "利伯福特" #(capital)
+b_Old_League_3_2_1: 莱戈罗恩""
+b_Old_League_3_2_3: "怀特斯"
+
+d_Old_League_2: "第一康科迪亚"
+c_Old_League_2_3: "希菲尔德"
+b_Old_League_2_3_3: "红塔" #(capital)
+b_Old_League_2_3_5: "格雷特韦"
+b_Old_League_2_3_4: "帕瑟"
+b_Old_League_2_3_2: "格雷斯"
+b_Old_League_2_3_1: "保普利亚"
+c_Old_League_2_5: "盖威克"
+b_Old_League_2_5_1: "西盖威克" #(capital)
+b_Old_League_2_5_3: "新范顿"
+b_Old_League_2_5_2: "东盖威克"
+c_Old_League_2_4: "旧利梅斯"
+b_Old_League_2_4_2: "利梅斯" #(capital)
+b_Old_League_2_4_1: "诺森德"
+b_Old_League_2_4_3: "阿里尔"
+c_Old_League_2_1: "高尔本"
+b_Old_League_2_1_3: "高尔本" #(capital)
+b_Old_League_2_1_4: "卡德隆"
+b_Old_League_2_1_1: "达卡"
+b_Old_League_2_1_2: "埃文特"
+c_Old_League_2_2: "范顿"
+b_Old_League_2_2_3: "北范顿" #(capital)
+b_Old_League_2_2_1: "昆弗洛斯"
+b_Old_League_2_2_2: "卢特芬"
+
 d_Old_League_1: "奥登尼亚"
 c_Old_League_1_1: "奥贝尔"
-c_Old_League_1_2: "小奥登"
+b_Old_League_1_1_4: "奥贝尔" #(capital)
+b_Old_League_1_1_1: "维森德"
+b_Old_League_1_1_2: "维尔姆"
+b_Old_League_1_1_3: "安科斯"
 c_Old_League_1_3: "大奥登"
-d_Old_League_2: "第一康科迪亚"
-c_Old_League_2_1: "高尔本"
-c_Old_League_2_2: "北范顿"
-c_Old_League_2_3: "希菲尔德"
-c_Old_League_2_4: "新范顿"
-c_Old_League_2_5: "盖威克"
-d_Old_League_3: "南康科迪亚"
-c_Old_League_3_1: "南范顿"
-c_Old_League_3_2: "利伯顿"
-c_Old_League_3_3: "兰卜维尔"
-c_Old_League_3_4: "沃特布雷吉"
-c_Old_League_3_5: "波特汉姆"
-c_Old_League_3_6: "斯盖顿"
-d_Old_League_4: "第二康科迪亚"
-c_Old_League_4_1: "海文福特"
-c_Old_League_4_2: "上黎文"
-c_Old_League_4_3: "阿米希缇亚山"
-c_Old_League_4_4: "埃斯盖特"
+b_Old_League_1_3_2: "曼斯" #(capital)
+b_Old_League_1_3_3: "奥布韦斯特"
+b_Old_League_1_3_1: "特莱菲尔德"
+c_Old_League_1_2: "小奥登"
+b_Old_League_1_2_2: "金霍尔" #(capital)
+b_Old_League_1_2_1: "特隆普敦"
+
 k_Alben: "亚贲"
 d_Alben_1: "黎多尔普"
 d_Alben_2: "古腾马尔特"
@@ -277,12 +339,12 @@ d_Torquia_8: "上卡尔多"
 k_Reussia: "留西亚"
 #泰尔多公国
 d_Reussia_2: "泰尔多"
-c_Reussia_2_1: "布洛涅"
-b_Reussia_2_1_4: "伊斯克" #(capital)
-b_Reussia_2_1_2: ""
-b_Reussia_2_1_1: ""
+c_Reussia_2_1: "科尔尼斯"
+b_Reussia_2_1_4: "伊斯克门" #(capital)
+b_Reussia_2_1_2: "穆里亚"
+b_Reussia_2_1_1: "罗姆" 
 b_Reussia_2_1_3: ""
-c_Reussia_2_2: "加莱"
+c_Reussia_2_2: "罗克" #Loque
 b_Reussia_2_2_3: "科凯勒" #(capital)
 b_Reussia_2_2_4: ""
 b_Reussia_2_2_1: ""

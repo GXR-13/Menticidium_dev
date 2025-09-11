@@ -7,6 +7,86 @@
 @always_primary_score = 100000
 @never_primary_score = -1000
 
+#Old League
+d_Wespuria = {
+	color = { 229 65 65 } #红色
+	capital = c_Old_League_3_1
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+d_Trevien = {
+	color = { 5 152 52 } #绿色
+
+	capital = c_Old_League_4_1
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+d_Feirmia = {
+	color = { 164 23 181 } #紫衣杀人狂
+
+	capital = c_Old_League_4_3
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+d_Gaywick = {
+	color = { 218 190 129 }	#反正不能是灰色系
+
+	capital = c_Old_League_2_5
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
 #Doria Norde
 d_Lega_Norde = {
 	color = { 143 113 208 }
