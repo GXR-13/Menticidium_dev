@@ -5,24 +5,305 @@ d_High_Hiria_1: "高希里亚"
 c_High_Hiria_1_1: "奎勒"
 c_High_Hiria_1_2: "诺斯班克"
 c_High_Hiria_1_3: "希里亚城"
+b_High_Hiria_1_3_1: "马歇尔"
+b_High_Hiria_1_3_2: "维西"
+b_High_Hiria_1_3_3: "宫城"
+b_High_Hiria_1_3_4: "绍斯坎普"
+b_High_Hiria_1_3_5: "古城"
+b_High_Hiria_1_3_6: "维森瑞特"
 c_High_Hiria_1_4: "纳西萨"
 c_High_Hiria_1_5: "特林顿"
+
+
+
+#Middlesept
 k_Middlesept: "米德赛普"
-d_Middlesept_1: "法兰克本"
-d_Middlesept_2: "奥克斯科佩尔"
-d_Middlesept_3: "克莱农"
+
 d_Middlesept_4: "史丹斯"
-d_Middlesept_5: "朗布鲁恩"
+c_Middlesept_4_3: "雷瑟芬"
+b_Middlesept_4_3_4: "" #(capital)
+b_Middlesept_4_3_3: ""
+b_Middlesept_4_3_2: ""
+b_Middlesept_4_3_1: ""
+c_Middlesept_4_1: "鲁姆维尔"
+b_Middlesept_4_1_2: "" #(capital)
+b_Middlesept_4_1_4: ""
+b_Middlesept_4_1_1: ""
+b_Middlesept_4_1_3: ""
+c_Middlesept_4_4: "哈隆"
+b_Middlesept_4_4_2: "" #(capital)
+b_Middlesept_4_4_1: ""
+b_Middlesept_4_4_3: ""
+c_Middlesept_4_2: "勒泰"
+b_Middlesept_4_2_4: "" #(capital)
+b_Middlesept_4_2_2: ""
+b_Middlesept_4_2_3: ""
+b_Middlesept_4_2_1: ""
+
 d_Middlesept_6: "霍辛"
+c_Middlesept_6_1: "默尔泰"
+b_Middlesept_6_1_2: "" #(capital)
+b_Middlesept_6_1_1: ""
+b_Middlesept_6_1_3: ""
+b_Middlesept_6_1_4: ""
+c_Middlesept_6_4: "尤尔根"
+b_Middlesept_6_4_2: "" #(capital)
+b_Middlesept_6_4_3: ""
+b_Middlesept_6_4_4: ""
+b_Middlesept_6_4_1: ""
+c_Middlesept_6_2: "希尔派恩"
+b_Middlesept_6_2_2: "" #(capital)
+b_Middlesept_6_2_3: ""
+b_Middlesept_6_2_1: ""
+c_Middlesept_6_3: "奥德温"
+b_Middlesept_6_3_2: "" #(capital)
+b_Middlesept_6_3_3: ""
+b_Middlesept_6_3_1: ""
+
+d_Middlesept_2: "奥克斯科佩尔"
+c_Middlesept_2_2: "莫肯"
+b_Middlesept_2_2_3: "" #(capital)
+b_Middlesept_2_2_4: ""
+b_Middlesept_2_2_2: ""
+b_Middlesept_2_2_1: ""
+c_Middlesept_2_4: "汤达尔"
+b_Middlesept_2_4_1: "" #(capital)
+b_Middlesept_2_4_2: ""
+b_Middlesept_2_4_4: ""
+b_Middlesept_2_4_3: ""
+c_Middlesept_2_3: "雷安"
+b_Middlesept_2_3_1: "" #(capital)
+b_Middlesept_2_3_3: ""
+b_Middlesept_2_3_2: ""
+c_Middlesept_2_1: "纽森"
+b_Middlesept_2_1_1: "" #(capital)
+b_Middlesept_2_1_4: ""
+b_Middlesept_2_1_2: ""
+b_Middlesept_2_1_3: ""
+
+d_Middlesept_1: "法兰克本"
+c_Middlesept_1_3: "莫森"
+b_Middlesept_1_3_3: "" #(capital)
+b_Middlesept_1_3_4: ""
+b_Middlesept_1_3_1: ""
+b_Middlesept_1_3_2: ""
+c_Middlesept_1_4: "格林肖"
+b_Middlesept_1_4_3: "" #(capital)
+b_Middlesept_1_4_4: ""
+b_Middlesept_1_4_2: ""
+b_Middlesept_1_4_1: ""
+c_Middlesept_1_5: "库尔森"
+b_Middlesept_1_5_2: "" #(capital)
+b_Middlesept_1_5_4: ""
+b_Middlesept_1_5_3: ""
+b_Middlesept_1_5_1: ""
+c_Middlesept_1_2: "萨姆雷"
+b_Middlesept_1_2_4: "" #(capital)
+b_Middlesept_1_2_3: ""
+b_Middlesept_1_2_1: ""
+b_Middlesept_1_2_2: ""
+c_Middlesept_1_1: "伊利亚"
+b_Middlesept_1_1_3: "" #(capital)
+b_Middlesept_1_1_4: ""
+b_Middlesept_1_1_2: ""
+b_Middlesept_1_1_1: ""
+
+d_Middlesept_3: "克莱农"
+c_Middlesept_3_2: "阿法雷尔"
+b_Middlesept_3_2_2: "" #(capital)
+b_Middlesept_3_2_1: ""
+b_Middlesept_3_2_3: ""
+c_Middlesept_3_4: "汤达尔"
+b_Middlesept_3_4_4: "" #(capital)
+b_Middlesept_3_4_3: ""
+b_Middlesept_3_4_2: ""
+b_Middlesept_3_4_1: ""
+c_Middlesept_3_3: "留丁"
+b_Middlesept_3_3_3: "" #(capital)
+b_Middlesept_3_3_4: ""
+b_Middlesept_3_3_2: ""
+b_Middlesept_3_3_1: ""
+c_Middlesept_3_1: "格兰希尔"
+b_Middlesept_3_1_3: "" #(capital)
+b_Middlesept_3_1_1: ""
+b_Middlesept_3_1_2: ""
+b_Middlesept_3_1_4: ""
+
+d_Middlesept_5: "朗布鲁恩"
+c_Middlesept_5_1: "拉维顿"
+b_Middlesept_5_1_4: "" #(capital)
+b_Middlesept_5_1_2: ""
+b_Middlesept_5_1_3: ""
+b_Middlesept_5_1_1: ""
+c_Middlesept_5_4: "苏托"
+b_Middlesept_5_4_4: "" #(capital)
+b_Middlesept_5_4_3: ""
+b_Middlesept_5_4_2: ""
+b_Middlesept_5_4_1: ""
+c_Middlesept_5_3: "纽泰"
+b_Middlesept_5_3_1: "" #(capital)
+b_Middlesept_5_3_4: ""
+b_Middlesept_5_3_3: ""
+b_Middlesept_5_3_2: ""
+c_Middlesept_5_2: "图安利尔"
+b_Middlesept_5_2_1: "" #(capital)
+b_Middlesept_5_2_2: ""
+b_Middlesept_5_2_3: ""
+
+#Imperial_Preserve
 k_Imperial_Preserve: "霍伦与阿德霍恩"
+
 d_Imperial_Preserve_1: "霍伦"
+c_Imperial_Preserve_1_2: "惠林"
+b_Imperial_Preserve_1_2_3: "" #(capital)
+b_Imperial_Preserve_1_2_1: ""
+b_Imperial_Preserve_1_2_4: ""
+b_Imperial_Preserve_1_2_2: ""
+c_Imperial_Preserve_1_1: "丹夏"
+b_Imperial_Preserve_1_1_3: "" #(capital)
+b_Imperial_Preserve_1_1_2: ""
+b_Imperial_Preserve_1_1_1: ""
+c_Imperial_Preserve_1_4: "派伦斯劳"
+b_Imperial_Preserve_1_4_2: "" #(capital)
+b_Imperial_Preserve_1_4_4: ""
+b_Imperial_Preserve_1_4_3: ""
+b_Imperial_Preserve_1_4_1: ""
+c_Imperial_Preserve_1_3: "露娜迈尔"
+b_Imperial_Preserve_1_3_2: "" #(capital)
+b_Imperial_Preserve_1_3_1: ""
+b_Imperial_Preserve_1_3_3: ""
+
 d_Imperial_Preserve_2: "奥德霍恩"
+c_Imperial_Preserve_2_5: "怀特福特"
+b_Imperial_Preserve_2_5_3: "" #(capital)
+b_Imperial_Preserve_2_5_1: ""
+b_Imperial_Preserve_2_5_4: ""
+b_Imperial_Preserve_2_5_2: ""
+c_Imperial_Preserve_2_1: "兰辛"
+b_Imperial_Preserve_2_1_1: "" #(capital)
+b_Imperial_Preserve_2_1_2: ""
+b_Imperial_Preserve_2_1_3: ""
+c_Imperial_Preserve_2_2: "旧望林"
+b_Imperial_Preserve_2_2_4: "" #(capital)
+b_Imperial_Preserve_2_2_2: ""
+b_Imperial_Preserve_2_2_1: ""
+b_Imperial_Preserve_2_2_3: ""
+c_Imperial_Preserve_2_4: "梅利豪斯"
+b_Imperial_Preserve_2_4_2: "" #(capital)
+b_Imperial_Preserve_2_4_4: ""
+b_Imperial_Preserve_2_4_3: ""
+b_Imperial_Preserve_2_4_1: ""
+c_Imperial_Preserve_2_3: "埃利斯伍德"
+b_Imperial_Preserve_2_3_1: "" #(capital)
+b_Imperial_Preserve_2_3_2: ""
+b_Imperial_Preserve_2_3_3: ""
+
+
+
+#Intermark
 k_Intermark: "因特马克"
+
 d_Intermark_1: "贝戈尼亚"
+c_Intermark_1_1: ""
+b_Intermark_1_1_2: "" #(capital)
+b_Intermark_1_1_3: ""
+b_Intermark_1_1_1: ""
+c_Intermark_1_2: ""
+b_Intermark_1_2_1: "" #(capital)
+b_Intermark_1_2_3: ""
+b_Intermark_1_2_2: ""
+c_Intermark_1_4: ""
+b_Intermark_1_4_3: "" #(capital)
+b_Intermark_1_4_2: ""
+b_Intermark_1_4_1: ""
+b_Intermark_1_4_4: ""
+c_Intermark_1_3: ""
+b_Intermark_1_3_2: "" #(capital)
+b_Intermark_1_3_1: ""
+b_Intermark_1_3_3: ""
+
 d_Intermark_2: "佩普利埃"
-d_Intermark_3: "弗罗布拉特"
+c_Intermark_2_1: ""
+b_Intermark_2_1_3: "" #(capital)
+b_Intermark_2_1_1: ""
+b_Intermark_2_1_2: ""
+c_Intermark_2_3: ""
+b_Intermark_2_3_2: "" #(capital)
+b_Intermark_2_3_1: ""
+b_Intermark_2_3_3: ""
+b_Intermark_2_3_4: ""
+c_Intermark_2_4: ""
+b_Intermark_2_4_1: ""
+b_Intermark_2_4_3: ""
+b_Intermark_2_4_2: ""
+b_Intermark_2_4_4: ""
+c_Intermark_2_2: ""
+b_Intermark_2_2_2: "" #(capital)
+b_Intermark_2_2_3: ""
+b_Intermark_2_2_1: ""
+
 d_Intermark_4: "维桑"
+c_Intermark_4_1: ""
+b_Intermark_4_1_2: "" #(capital)
+b_Intermark_4_1_1: ""
+b_Intermark_4_1_3: ""
+b_Intermark_4_1_4: ""
+c_Intermark_4_4: ""
+b_Intermark_4_4_2: "" #(capital)
+b_Intermark_4_4_1: ""
+b_Intermark_4_4_4: ""
+b_Intermark_4_4_3: ""
+c_Intermark_4_3: ""
+b_Intermark_4_3_1: "" #(capital)
+b_Intermark_4_3_3: ""
+b_Intermark_4_3_2: ""
+c_Intermark_4_2: ""
+b_Intermark_4_2_2: "" #(capital)
+b_Intermark_4_2_1: ""
+b_Intermark_4_2_3: ""
+
+d_Intermark_3: "弗罗布拉特"
+c_Intermark_3_1: ""
+b_Intermark_3_1_3: "" #(capital)
+b_Intermark_3_1_1: ""
+b_Intermark_3_1_2: ""
+c_Intermark_3_2: ""
+b_Intermark_3_2_2: "" #(capital)
+b_Intermark_3_2_1: ""
+b_Intermark_3_2_3: ""
+c_Intermark_3_3: ""
+b_Intermark_3_3_3: "" #(capital)
+b_Intermark_3_3_1: ""
+b_Intermark_3_3_2: ""
+c_Intermark_3_4: ""
+b_Intermark_3_4_3: "" #(capital)
+b_Intermark_3_4_1: ""
+b_Intermark_3_4_2: ""
+
 d_Intermark_5: "布朗法伦"
+c_Intermark_5_3: ""
+b_Intermark_5_3_2: "" #(capital)
+b_Intermark_5_3_1: ""
+b_Intermark_5_3_3: ""
+c_Intermark_5_5: ""
+b_Intermark_5_5_3: "" #(capital)
+b_Intermark_5_5_4: ""
+b_Intermark_5_5_1: ""
+b_Intermark_5_5_2: ""
+c_Intermark_5_1: ""
+b_Intermark_5_1_2: "" #(capital)
+b_Intermark_5_1_1: ""
+b_Intermark_5_1_3: ""
+c_Intermark_5_4: ""
+b_Intermark_5_4_4: "" #(capital)
+b_Intermark_5_4_1: ""
+b_Intermark_5_4_3: ""
+b_Intermark_5_4_2: ""
+c_Intermark_5_2: ""
+b_Intermark_5_2_2: "" #(capital)
+b_Intermark_5_2_1: ""
+b_Intermark_5_2_3: ""
+
 
 #Old_League
 k_Old_League: "康科迪亚"
