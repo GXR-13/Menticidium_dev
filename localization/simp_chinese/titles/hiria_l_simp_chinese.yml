@@ -1,9 +1,9 @@
 ﻿l_simp_chinese:
 e_Hiria: "希里亚"
+#High_Hiria
 k_High_Hiria: "高希里亚"
+
 d_High_Hiria_1: "高希里亚"
-c_High_Hiria_1_1: "奎勒"
-c_High_Hiria_1_2: "诺斯班克"
 c_High_Hiria_1_3: "希里亚城"
 b_High_Hiria_1_3_1: "马歇尔"
 b_High_Hiria_1_3_2: "维西"
@@ -11,8 +11,25 @@ b_High_Hiria_1_3_3: "宫城"
 b_High_Hiria_1_3_4: "绍斯坎普"
 b_High_Hiria_1_3_5: "古城"
 b_High_Hiria_1_3_6: "维森瑞特"
-c_High_Hiria_1_4: "纳西萨"
+c_High_Hiria_1_2: "诺斯班克"
+b_High_Hiria_1_2_2: "" #(capital)
+b_High_Hiria_1_2_1: ""
+b_High_Hiria_1_2_3: ""
+b_High_Hiria_1_2_4: ""
 c_High_Hiria_1_5: "特林顿"
+b_High_Hiria_1_5_2: "" #(capital)
+b_High_Hiria_1_5_3: ""
+b_High_Hiria_1_5_1: ""
+c_High_Hiria_1_4: "纳西萨"
+b_High_Hiria_1_4_3: ""
+b_High_Hiria_1_4_2: ""
+b_High_Hiria_1_4_1: ""
+c_High_Hiria_1_1: "奎勒"
+b_High_Hiria_1_1_3: "" #(capital)
+b_High_Hiria_1_1_4: ""
+b_High_Hiria_1_1_2: ""
+b_High_Hiria_1_1_1: ""
+
 
 
 
