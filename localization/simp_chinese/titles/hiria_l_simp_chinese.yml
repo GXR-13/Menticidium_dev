@@ -204,102 +204,102 @@ b_Imperial_Preserve_2_3_3: ""
 k_Intermark: "因特马克"
 
 d_Intermark_1: "贝戈尼亚"
-c_Intermark_1_1: ""
+c_Intermark_1_1: "特雷弗洛斯"
 b_Intermark_1_1_2: "" #(capital)
 b_Intermark_1_1_3: ""
 b_Intermark_1_1_1: ""
-c_Intermark_1_2: ""
+c_Intermark_1_2: "艾弗泰"
 b_Intermark_1_2_1: "" #(capital)
 b_Intermark_1_2_3: ""
 b_Intermark_1_2_2: ""
-c_Intermark_1_4: ""
+c_Intermark_1_4: "纽莱特"
 b_Intermark_1_4_3: "" #(capital)
 b_Intermark_1_4_2: ""
 b_Intermark_1_4_1: ""
 b_Intermark_1_4_4: ""
-c_Intermark_1_3: ""
+c_Intermark_1_3: "诺沃特"
 b_Intermark_1_3_2: "" #(capital)
 b_Intermark_1_3_1: ""
 b_Intermark_1_3_3: ""
 
 d_Intermark_2: "佩普利埃"
-c_Intermark_2_1: ""
+c_Intermark_2_1: "布尔德罗瓦"
 b_Intermark_2_1_3: "" #(capital)
 b_Intermark_2_1_1: ""
 b_Intermark_2_1_2: ""
-c_Intermark_2_3: ""
+c_Intermark_2_3: "蒙特诺德"
 b_Intermark_2_3_2: "" #(capital)
 b_Intermark_2_3_1: ""
 b_Intermark_2_3_3: ""
 b_Intermark_2_3_4: ""
-c_Intermark_2_4: ""
+c_Intermark_2_4: "乌纳尔博"
 b_Intermark_2_4_1: ""
 b_Intermark_2_4_3: ""
 b_Intermark_2_4_2: ""
 b_Intermark_2_4_4: ""
-c_Intermark_2_2: ""
+c_Intermark_2_2: "勒库尔"
 b_Intermark_2_2_2: "" #(capital)
 b_Intermark_2_2_3: ""
 b_Intermark_2_2_1: ""
 
 d_Intermark_4: "维桑"
-c_Intermark_4_1: ""
+c_Intermark_4_1: "朗夫"
 b_Intermark_4_1_2: "" #(capital)
 b_Intermark_4_1_1: ""
 b_Intermark_4_1_3: ""
 b_Intermark_4_1_4: ""
-c_Intermark_4_4: ""
+c_Intermark_4_4: "上彭特"
 b_Intermark_4_4_2: "" #(capital)
 b_Intermark_4_4_1: ""
 b_Intermark_4_4_4: ""
 b_Intermark_4_4_3: ""
-c_Intermark_4_3: ""
+c_Intermark_4_3: "邦布瓦"
 b_Intermark_4_3_1: "" #(capital)
 b_Intermark_4_3_3: ""
 b_Intermark_4_3_2: ""
-c_Intermark_4_2: ""
+c_Intermark_4_2: "阿热维尔"
 b_Intermark_4_2_2: "" #(capital)
 b_Intermark_4_2_1: ""
 b_Intermark_4_2_3: ""
 
 d_Intermark_3: "弗罗布拉特"
-c_Intermark_3_1: ""
+c_Intermark_3_1: "大奥斯特"
 b_Intermark_3_1_3: "" #(capital)
 b_Intermark_3_1_1: ""
 b_Intermark_3_1_2: ""
-c_Intermark_3_2: ""
+c_Intermark_3_2: "布雷亨加尔滕"
 b_Intermark_3_2_2: "" #(capital)
 b_Intermark_3_2_1: ""
 b_Intermark_3_2_3: ""
-c_Intermark_3_3: ""
+c_Intermark_3_3: "罗斯腾"
 b_Intermark_3_3_3: "" #(capital)
 b_Intermark_3_3_1: ""
 b_Intermark_3_3_2: ""
-c_Intermark_3_4: ""
+c_Intermark_3_4: "鲁亨维瑟"
 b_Intermark_3_4_3: "" #(capital)
 b_Intermark_3_4_1: ""
 b_Intermark_3_4_2: ""
 
 d_Intermark_5: "布朗法伦"
-c_Intermark_5_3: ""
+c_Intermark_5_3: "鲁根坎普"
 b_Intermark_5_3_2: "" #(capital)
 b_Intermark_5_3_1: ""
 b_Intermark_5_3_3: ""
-c_Intermark_5_5: ""
+c_Intermark_5_5: "马勒瓦尔德"
 b_Intermark_5_5_3: "" #(capital)
 b_Intermark_5_5_4: ""
 b_Intermark_5_5_1: ""
 b_Intermark_5_5_2: ""
-c_Intermark_5_1: ""
+c_Intermark_5_1: "富斯特哈勒"
 b_Intermark_5_1_2: "" #(capital)
 b_Intermark_5_1_1: ""
 b_Intermark_5_1_3: ""
-c_Intermark_5_4: ""
+c_Intermark_5_4: "奥夫农"
 b_Intermark_5_4_4: "" #(capital)
 b_Intermark_5_4_1: ""
 b_Intermark_5_4_3: ""
 b_Intermark_5_4_2: ""
-c_Intermark_5_2: ""
+c_Intermark_5_2: "罗特豪斯"
 b_Intermark_5_2_2: "" #(capital)
 b_Intermark_5_2_1: ""
 b_Intermark_5_2_3: ""
@@ -624,7 +624,7 @@ c_Reussia_2_1: "科尔尼斯"
 b_Reussia_2_1_4: "伊斯克门" #(capital)
 b_Reussia_2_1_2: "穆里亚"
 b_Reussia_2_1_1: "罗姆" 
-b_Reussia_2_1_3: ""
+b_Reussia_2_1_3: "雷提亚"
 c_Reussia_2_2: "罗克" #Loque
 b_Reussia_2_2_3: "科凯勒" #(capital)
 b_Reussia_2_2_4: ""

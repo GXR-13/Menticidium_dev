@@ -316,8 +316,8 @@ k_Despotic_Dwilia: "德维利亚"
 
 d_Despotic_Dwilia_1: "希茨霍加"
 c_Despotic_Dwilia_1_2: "布拉沃"
-b_Despotic_Dwilia_1_2_1: "北城区" #(capital)
-b_Despotic_Dwilia_1_2_2: "南城区"
+b_Despotic_Dwilia_1_2_1: "北城" #(capital)
+b_Despotic_Dwilia_1_2_2: "南城"
 c_Despotic_Dwilia_1_1: "米恩佐"
 b_Despotic_Dwilia_1_1_1: "米恩佐"
 b_Despotic_Dwilia_1_1_2: "米恩佐"
