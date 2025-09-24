@@ -94,7 +94,7 @@ platian = {
 
 #Gollois
 gollois = {
-	color = RGB{ 216 207 212 }
+	color = RGB{ 151 114 134 }
 	created = 250.1.1
 	parents = { banlian gollowynian }#now the went to civilize others
 

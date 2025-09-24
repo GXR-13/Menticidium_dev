@@ -607,12 +607,119 @@ c_Dejois_5_5: "科尔萨维"
 b_Dejois_5_5_2: "科尔萨维"
 
 k_Gollowyn: "高勒汶"
+
 d_Gollowyn_1: "多布尔加"
-d_Gollowyn_2: "苏旁"
-d_Gollowyn_3: "鲍尔多"
-d_Gollowyn_4: "阿尔迪昂"
-d_Gollowyn_5: "克欧布里"
+c_Gollowyn_1_4: "德拉克维克"
+b_Gollowyn_1_4_2: "" #(capital)
+b_Gollowyn_1_4_1: ""
+b_Gollowyn_1_4_3: ""
+b_Gollowyn_1_4_4: ""
+c_Gollowyn_1_1: "希亚艾尔"
+b_Gollowyn_1_1_3: "" #(capital)
+b_Gollowyn_1_1_1: ""
+b_Gollowyn_1_1_2: ""
+c_Gollowyn_1_3: "奥尔法兰"
+b_Gollowyn_1_3_1: "" #(capital)
+b_Gollowyn_1_3_3: ""
+b_Gollowyn_1_3_4: ""
+b_Gollowyn_1_3_2: ""
+c_Gollowyn_1_2: "芬南特"
+b_Gollowyn_1_2_4: "" #(capital)
+b_Gollowyn_1_2_1: ""
+b_Gollowyn_1_2_2: ""
+b_Gollowyn_1_2_3: ""
+
 d_Gollowyn_6: "巴拉库迪亚"
+c_Gollowyn_6_1: "多布洛"
+b_Gollowyn_6_1_2: "" #(capital)
+b_Gollowyn_6_1_1: ""
+b_Gollowyn_6_1_3: ""
+c_Gollowyn_6_3: "班努洛"
+b_Gollowyn_6_3_1: ""
+b_Gollowyn_6_3_2: ""
+b_Gollowyn_6_3_3: ""
+c_Gollowyn_6_2: "威尔希"
+b_Gollowyn_6_2_3: "" #(capital)
+b_Gollowyn_6_2_1: ""
+b_Gollowyn_6_2_2: ""
+c_Gollowyn_6_4: "德赖基什利"
+b_Gollowyn_6_4_3: "" #(capital)
+b_Gollowyn_6_4_1: ""
+b_Gollowyn_6_4_2: ""
+
+d_Gollowyn_2: "苏旁"
+c_Gollowyn_2_1: "玛达赫"
+b_Gollowyn_2_1_3: "" #(capital)
+b_Gollowyn_2_1_1: ""
+b_Gollowyn_2_1_2: ""
+c_Gollowyn_2_2: "巴盖梅"
+b_Gollowyn_2_2_2: "" #(capital)
+b_Gollowyn_2_2_1: ""
+b_Gollowyn_2_2_3: ""
+c_Gollowyn_2_3: "塞罗赫"
+b_Gollowyn_2_3_1: "" #(capital)
+b_Gollowyn_2_3_3: ""
+b_Gollowyn_2_3_2: ""
+b_Gollowyn_2_3_4: ""
+c_Gollowyn_2_4: "摩特尔"
+b_Gollowyn_2_4_1: "" #(capital)
+b_Gollowyn_2_4_2: ""
+b_Gollowyn_2_4_3: ""
+
+d_Gollowyn_4: "阿尔迪昂"
+c_Gollowyn_4_1: "雷戈兰"
+b_Gollowyn_4_1_4: "" #(capital)
+b_Gollowyn_4_1_3: ""
+b_Gollowyn_4_1_2: ""
+b_Gollowyn_4_1_1: ""
+c_Gollowyn_4_4: "塞尔加"
+b_Gollowyn_4_4_3: "" #(capital)
+b_Gollowyn_4_4_2: ""
+b_Gollowyn_4_4_1: ""
+c_Gollowyn_4_2: "希尔加"
+b_Gollowyn_4_2_4: "" #(capital)
+b_Gollowyn_4_2_1: ""
+b_Gollowyn_4_2_2: ""
+b_Gollowyn_4_2_3: ""
+c_Gollowyn_4_3: "阿德雷梅尔"
+b_Gollowyn_4_3_1: "" #(capital)
+b_Gollowyn_4_3_3: ""
+b_Gollowyn_4_3_2: ""
+
+d_Gollowyn_3: "鲍尔多"
+c_Gollowyn_3_1: "阿尔加"
+b_Gollowyn_3_1_1: "" #(capital)
+b_Gollowyn_3_1_2: ""
+b_Gollowyn_3_1_3: ""
+c_Gollowyn_3_2: "斯雷多"
+b_Gollowyn_3_2_1: "" #(capital)
+b_Gollowyn_3_2_3: ""
+b_Gollowyn_3_2_2: ""
+c_Gollowyn_3_3: "霍芬菲尔"
+b_Gollowyn_3_3_3: "" #(capital)
+b_Gollowyn_3_3_2: ""
+b_Gollowyn_3_3_1: ""
+
+d_Gollowyn_5: "克欧布里"
+c_Gollowyn_5_2: "雷赫敦"
+b_Gollowyn_5_2_3: "" #(capital)
+b_Gollowyn_5_2_2: ""
+b_Gollowyn_5_2_1: ""
+b_Gollowyn_5_2_4: ""
+c_Gollowyn_5_1: "恺敦"
+b_Gollowyn_5_1_2: "" #(capital)
+b_Gollowyn_5_1_1: ""
+b_Gollowyn_5_1_4: ""
+b_Gollowyn_5_1_3: ""
+c_Gollowyn_5_3: "费尔马拉"
+b_Gollowyn_5_3_3: "" #(capital)
+b_Gollowyn_5_3_1: ""
+b_Gollowyn_5_3_2: ""
+b_Gollowyn_5_3_4: ""
+c_Gollowyn_5_4: "罗赫多"
+b_Gollowyn_5_4_1: "" #(capital)
+b_Gollowyn_5_4_2: ""
+b_Gollowyn_5_4_3: ""
 
 k_Almaria: "阿马利亚"
 d_Almaria_1: "锡尼斯特拉"

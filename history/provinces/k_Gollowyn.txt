@@ -120,34 +120,34 @@
 
 ###c_Gollowyn_6_2
 840 = {
-    culture = gollois
+    culture = gollowynian
     holding = castle_holding
     religion = imperial_verita
 }
 841 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 842 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 
 ###c_Gollowyn_6_4
 846 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 847 = {
-    culture = gollois
+    culture = gollowynian
     holding = castle_holding
     religion = imperial_verita
 }
 1036 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
@@ -229,22 +229,22 @@
 ##d_Gollowyn_4
 ###c_Gollowyn_4_1
 795 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 796 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 797 = {
-    culture = gollois
+    culture = gollowynian
     holding = castle_holding
     religion = imperial_verita
 }
 800 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
@@ -426,17 +426,17 @@
 
 ###c_Gollowyn_5_4
 836 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 838 = {
-    culture = gollois
+    culture = gollowynian
     holding = none
     religion = imperial_verita
 }
 839 = {
-    culture = gollois
+    culture = gollowynian
     holding = castle_holding
     religion = imperial_verita
 }

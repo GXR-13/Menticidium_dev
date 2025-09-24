@@ -30,7 +30,7 @@ frindi = {
 
 #Gollowynian
 gollowynian = {
-	color = RGB{ 16 181 109 }
+	color = RGB{ 57 175 123 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_hynian
