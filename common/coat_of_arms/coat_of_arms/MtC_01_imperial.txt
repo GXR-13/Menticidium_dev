@@ -922,3 +922,41 @@ d_League_Two_Aldens = {
 
 }
 
+k_New_League = {
+	pattern="pattern__solid_designer.dds"
+	color1=red
+	color2=black
+	color3=black
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_wheel_new_league_7.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+			position={ 0.50000 0.47000 }
+		}
+
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_escutcheon.dds"
+		instance={
+			position={ 0.50000 0.49000 }
+			scale={ 0.420000 0.420000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_imperial_aster.dds"
+		instance={
+			position={ 0.50000 0.47000 }
+			scale={ 0.170000 0.170000 }
+		}
+
+	}
+
+}
+
+

@@ -1,0 +1,10 @@
+﻿#New League
+c_Sud_3_5 = {
+    718.3.21 = {
+        holder = New_League_1
+    }
+    741.1.1 = {
+        liege = k_New_League
+        government = republic_government
+    }
+}

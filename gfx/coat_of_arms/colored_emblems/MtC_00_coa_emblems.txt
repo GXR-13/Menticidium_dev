@@ -48,6 +48,7 @@ ce_imperial_laurels_thin.dds = { colors = 1 category = imperial }
 ce_imperial_ring_of_thorn.dds = { colors = 1 category = imperial }
 ce_imperial_river_beast.dds = { colors = 3 category = imperial }
 ce_imperial_ancient_leaf.dds = { colors = 1 category = imperial }
+ce_wheel_new_league_7.dds = { colors = 2 category = imperial }
 
 #"tempest cult" stuff, grouped with empire for now
 ce_tempest_wings.dds = { colors = 1 category = imperial }

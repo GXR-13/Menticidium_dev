@@ -58,7 +58,7 @@ littorian = {
 cisfreddian = {
 	color = RGB{ 192 98 172 }
 	created = 0.1.1
-	parents = { platian littorian }#influenced by the empire
+	parents = { platian ancient_dorian }#influenced by the empire
 
 	ethos = ethos_courtly
 	heritage = heritage_dorian
@@ -82,7 +82,6 @@ cisfreddian = {
 		10 = mediterranean
 	}
 }
-
 
 #Transfreddian
 transfreddian = {

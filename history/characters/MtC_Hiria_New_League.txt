@@ -1,0 +1,9 @@
+﻿New_League_1 = { #西科·米尔斯
+	name= "Sico" 
+	religion = imperial_verita
+	culture = cotier
+	dynasty = mirth
+	676.11.1 = {
+		birth=yes
+	}
+}

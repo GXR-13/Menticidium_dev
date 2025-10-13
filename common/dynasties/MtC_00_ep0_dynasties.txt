@@ -94,11 +94,19 @@ von_erfalen = { #Noble family originated from Weisshugel
 	culture = gronlander
 }
 
+#New League
+mirth = {
+	name = dynn_mirth
+	culture = cisfreddian
+}
+
 ##Two Meridia
 bianco = {
 	name = dynn_bianco
 	culture = littorian
 }
+
+#
 
 #埃匹内家族列表
 
