@@ -1,0 +1,204 @@
+﻿#League Direct Control
+k_Old_League = {
+	720.10.1 = {
+		holder = Old_League_1
+	}
+	741.1.1 = {
+		change_development_level = 25
+        liege = e_Hiria
+    }
+	
+}
+c_Old_League_2_2 = {
+	720.10.1 = {
+		holder = Old_League_1
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_2_3 = {
+	720.10.1 = {
+		holder = Old_League_1
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_3_6 = {
+	720.10.1 = {
+		holder = Old_League_1
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_4_4 = {
+	720.10.1 = {
+		holder = Old_League_1
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+#Wespuria
+d_Wespuria = {
+	720.10.1 = {
+		holder = Old_League_2
+	} 
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_1_1 = {
+	720.10.1 = {
+		holder = Old_League_2
+	} 
+	741.1.1 = {
+        liege = d_Wespuria
+    }
+}
+c_Old_League_3_1 = {
+	720.10.1 = {
+		holder = Old_League_2
+	} 
+	741.1.1 = {
+        liege = d_Wespuria
+    }
+}
+c_Old_League_3_3 = {
+	734.10.25 = {
+		holder = Old_League_3
+	} 
+	741.1.1 = {
+        liege = d_Wespuria
+    }
+}
+
+#Trevien
+d_Trevien = {
+	740.1.7 = {
+		holder = Old_League_7
+	} 
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_3_2 = {
+	740.1.7 = {
+		holder = Old_League_7
+	} 
+	741.1.1 = {
+        liege = d_Trevien
+    }
+}
+c_Old_League_3_4 = {
+	740.1.7 = {
+		holder = Old_League_7
+	} 
+	741.1.1 = {
+        liege = d_Trevien
+    }
+}
+c_Old_League_3_5 = {
+	740.1.7 = {
+		holder = Old_League_7
+	} 
+	741.1.1 = {
+        liege = d_Trevien
+    }
+}
+c_Old_League_4_1 = {
+	740.1.7 = {
+		holder = Old_League_7
+	} 
+	741.1.1 = {
+        liege = d_Trevien
+    }
+}
+
+#Feirmia
+d_Feirmia = {
+	729.7.8 = {
+		holder = Old_League_8
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+c_Old_League_4_3 = {
+	729.7.8 = {
+		holder = Old_League_8
+	}
+	741.1.1 = {
+        liege = d_Feirmia
+    }
+}
+c_Old_League_4_2 = {
+	729.7.8 = {
+		holder = Old_League_8
+	}
+	741.1.1 = {
+        liege = d_Feirmia
+    }
+}
+
+#Gaywick
+d_Gaywick = {
+	726.2.11 = {
+		holder = Old_League_9
+	}
+	741.1.1 = {
+        liege = k_Old_League
+		government = republic_government
+    }
+}
+c_Old_League_2_4 = {
+	726.2.11 = {
+		holder = Old_League_9
+	}
+	741.1.1 = {
+        liege = d_Gaywick
+		government = republic_government
+    }
+}
+c_Old_League_2_5 = {
+	726.2.11 = {
+		holder = Old_League_9
+	}
+	741.1.1 = {
+        liege = d_Gaywick
+		government = republic_government
+    }
+}
+
+#Others
+##Greater Alden
+c_Old_League_1_3 = {
+	725.4.4 = {
+		holder = Old_League_5
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+
+##Lesser Alden
+c_Old_League_1_2 = {
+	739.9.24 = {
+		holder = Old_League_6
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+##Galben
+c_Old_League_2_1 = {
+	737.1.18 = {
+		holder = Old_League_4
+	}
+	741.1.1 = {
+        liege = k_Old_League
+    }
+}
+##Kornis--see Reussia files

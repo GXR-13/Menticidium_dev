@@ -111,12 +111,13 @@ d_Reussia_2 = {
     }
 }
 
+#Transferred to Old League
 c_Reussia_2_1 = {
-    730.2.27 = {
-        holder = Reussia_2
+    740.5.18 = {
+        holder = Old_League_10
     }
     741.1.1 = {
-        liege = d_Reussia_2
+        liege = k_Old_League
     }
 }
 

@@ -94,6 +94,48 @@ von_erfalen = { #Noble family originated from Weisshugel
 	culture = gronlander
 }
 
+#Old League
+veiro = {
+	name = dynn_veiro
+	culture = concordian
+}
+
+cannon = {
+	name = dynn_cannon
+	culture = leaguemen
+}
+
+jung = {
+	name = dynn_jung
+	culture = high_hirian
+}
+
+yunian_kinhall = {
+	name = dynn_yunian_kinhall
+	culture = concordian
+}
+
+yunian_obwester = {
+	name = dynn_yunian_obwester
+	culture = concordian
+}
+
+anthern = {
+	name = dynn_anthern
+	culture = concordian
+}
+
+von_tanning = { 
+	prefix = dynnp_von
+	name = dynn_tanning
+	culture = leaguemen
+}
+
+osten = {
+	name = dynn_osten
+	culture = leaguemen
+}
+
 #New League
 mirth = {
 	name = dynn_mirth
