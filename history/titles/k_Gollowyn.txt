@@ -8,3 +8,662 @@ c_Gollowyn_1_4 = {
         government = republic_government
     }
 }
+k_Gollowyn = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_4 = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_4_1 = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_4_2 = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_4_3 = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_4_4 = {
+    733.10.26 = {
+        holder = Gollowyn_1
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_1 = {
+    708.12.22 = {
+        holder = Gollowyn_2
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_1_1 = {
+    708.12.22 = {
+        holder = Gollowyn_2
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_1_2 = {
+    708.12.22 = {
+        holder = Gollowyn_2
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_1_3 = {
+    708.12.22 = {
+        holder = Gollowyn_2
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_1_4 = {
+    708.12.22 = {
+        holder = Gollowyn_2
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_2 = {
+    726.6.1 = {
+        holder = Gollowyn_3
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_2_1 = {
+    726.6.1 = {
+        holder = Gollowyn_3
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_2_2 = {
+    726.6.1 = {
+        holder = Gollowyn_3
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_2_3 = {
+    726.6.1 = {
+        holder = Gollowyn_3
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_2_4 = {
+    726.6.1 = {
+        holder = Gollowyn_3
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_3 = {
+    718.1.18 = {
+        holder = Gollowyn_4
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_3_1 = {
+    718.1.18 = {
+        holder = Gollowyn_4
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_3_2 = {
+    718.1.18 = {
+        holder = Gollowyn_4
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_3_3 = {
+    718.1.18 = {
+        holder = Gollowyn_4
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_5 = {
+    740.9.10 = {
+        holder = Gollowyn_5
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_5_1 = {
+    740.9.10 = {
+        holder = Gollowyn_5
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_5_2 = {
+    740.9.10 = {
+        holder = Gollowyn_5
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_5_3 = {
+    740.9.10 = {
+        holder = Gollowyn_5
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_5_4 = {
+    740.9.10 = {
+        holder = Gollowyn_5
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Gollowyn_6 = {
+    733.3.2 = {
+        holder = Gollowyn_6
+    }
+
+    741.1.1 = {
+        liege = k_Gollowyn
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_6_1 = {
+    733.3.2 = {
+        holder = Gollowyn_6
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_6_2 = {
+    733.3.2 = {
+        holder = Gollowyn_6
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_6_3 = {
+    733.3.2 = {
+        holder = Gollowyn_6
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Gollowyn_6_4 = {
+    733.3.2 = {
+        holder = Gollowyn_6
+    }
+
+    741.1.1 = {
+        liege = d_Gollowyn_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}

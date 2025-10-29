@@ -1,8 +1,34 @@
 ﻿on_MtC_game_start = {
 	effect = {
-		debug_log = "MtC game start effect triggered"
+		debug_log = "MtC game start effect triggered before lobby"
+		
+		#####MAP COLORS#####
+		title:c_Old_League_1_2 = {
+			set_color_from_title = title:c_L_Alden_Blue
+		}
 
-		#Starting eventss
+		title:c_Old_League_1_3 = {
+			set_color_from_title = title:c_G_Alden_Blue
+		}
+
+		title:c_Old_League_2_1 = {
+			set_color_from_title = title:c_Galben_White
+		}
+
+		title:c_Reussia_2_1 = {
+			set_color_from_title = title:c_Picklnia_Colored
+		}
+	}
+}
+
+on_MtC_game_start_after_lobby = {
+	on_actions = {
+		on_MtC_game_start_setup_dwilia
+	}
+	effect = {
+		debug_log = "MtC game start effect triggered after lobby"
+		
+		#Starting events
 		#character:Hiria_1 = { trigger_event = MtC_test.1 }
 	}
 }

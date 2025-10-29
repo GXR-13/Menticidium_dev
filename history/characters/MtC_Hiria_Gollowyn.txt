@@ -1,0 +1,63 @@
+﻿Gollowyn_1 = {#Governor of Gollowyn
+    name = "Airmedach"
+    religion = imperial_verita
+    culture = gollowynian
+    dynasty = eilginn
+    688.9.30  = {
+        birth = yes
+    }
+}
+
+Gollowyn_2 = {# 
+    name = "Edward"
+    religion = imperial_verita
+    culture = leaguemen
+    dynasty = dan
+    678.4.28 = {
+        birth = yes
+    }
+}
+
+Gollowyn_3 = {# 
+    name = "Cormac"
+    religion = imperial_verita
+    culture = gollowynian
+    dynasty = neail
+    694.6.29 = {
+        birth = yes
+    }
+}
+
+Gollowyn_4 = {# 
+    name = "Emma"
+    female = yes
+    religion = imperial_verita
+    culture = leaguemen
+    dynasty = roswin
+    691.4.13 = {
+        birth = yes
+    }
+}
+
+Gollowyn_5 = {# 
+    name = "Elinion"
+    female = yes
+    religion = imperial_verita
+    culture = gollowynian
+    dynasty = llyn
+    712.3.6 = {
+        birth = yes
+    }
+}
+
+Gollowyn_6 = {# 
+    name = "Selyf"
+    religion = imperial_verita
+    culture = gollowynian
+    dynasty = a_fey
+    701.3.4 = {
+        birth = yes
+    }
+}
+
+

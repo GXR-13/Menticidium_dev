@@ -240,7 +240,7 @@ d_Epine_2 = { #弗雷瑞斯
     730.2.27 = {holder= Epine_6
     #设置政府
         government = administrative_government
-        #后被选项，以防玩家没打dlc
+        #后备选项，以防玩家没打dlc
 		effect = {
 			if = {
 				limit = {

@@ -148,7 +148,37 @@ bianco = {
 	culture = littorian
 }
 
-#
+#Gollowyn
+eilginn = {
+	name = dynn_eilginn
+	culture = gollowynian
+}
+
+dan = {
+	name = dynn_dan
+	culture = leaguemen
+}
+
+neail = {
+	name = dynn_neail
+	culture = gollowynian
+}
+
+roswin = {
+	name = dynn_roswin
+	culture = gollowynian
+}
+
+llyn = {
+	name = dynn_llyn
+	culture = gollowynian
+}
+
+a_fey = {
+	prefix = dynn_a
+	name = dynn_fey
+	culture = gollowynian
+}
 
 #埃匹内家族列表
 

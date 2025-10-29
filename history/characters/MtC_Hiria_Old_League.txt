@@ -38,7 +38,7 @@ Old_League_3 = { #慢羊羊首领
 	}
 }
 
-Old_League_4 = { #拉尔夫·杨，高级学监
+Old_League_4 = { #拉尔夫·杨，高级学监-High Chancellor
 	name= "Ralph"
 	religion = imperial_verita
 	culture = high_hirian

@@ -87,6 +87,205 @@ d_Gaywick = {
 	can_use_nomadic_naming = no
 }
 
+c_G_Alden_Init = { #dummy title for coloring
+	color = { 115 110 110 }
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_G_Alden_Blue = { #dummy title for coloring
+	color = { 64 54 231 }
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_L_Alden_Init = { #dummy title for coloring
+	color = { 126 120 120 }
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_L_Alden_Blue = { #dummy title for coloring
+	color = { 32 165 213 }	
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+d_2_Alden_Init = { #dummy title for coloring
+	color = { 126 120 120 }
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+d_2_Alden_Blue = { #dummy title for coloring
+	color = {36 42 174}
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_Galben_Init = { #dummy title for coloring
+	color = { 108 103 103 }
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_Galben_White = { #dummy title for coloring
+	color = { 217 217 217 }	
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_Picklnia_Init = { #dummy title for coloring
+	color = { 146 123 134 }	
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+c_Picklnia_Colored = { #dummy title for coloring
+	color = rgb{ 25 25 25 }	
+
+	capital = c_Hiria_1_1
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = 0
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
 #New League
 k_New_League = {
 	color = { 232 202 35 } #金金金金金
