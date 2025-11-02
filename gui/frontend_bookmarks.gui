@@ -990,6 +990,7 @@
 				position = { -45 -70 }
 				size = { 400 195 }
 				scale = 0.8
+				
                 ###MtC modifications###
 				visible = "[InDebugMode]"
 				enabled = "[GameSetup.IsCurrentBookmarkPlayable]"

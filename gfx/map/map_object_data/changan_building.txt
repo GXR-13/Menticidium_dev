@@ -6,4 +6,4 @@
 	layer="temp_layer"
 	pdxmesh="tgp_building_special_changan_mesh"
 	count=0
-	transform=""}
+}

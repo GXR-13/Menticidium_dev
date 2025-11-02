@@ -16,7 +16,46 @@
 #	These groups are mutually exclusive on the same tier & should cover every part of the map
 ###########################################################################
 
-# Vanilla regions are kept until further changes
+# world_europe
+# > world_europe_west
+# >> world_europe_west_britannia
+# >> world_europe_west_germania
+# >> world_europe_west_francia
+# >> world_europe_west_iberia
+# > world_europe_north
+# > world_europe_south
+# >> world_europe_south_east
+# >> world_europe_south_italy
+# > world_europe_east
+
+# world_asia_minor
+
+# world_middle_east
+# > world_middle_east_jerusalem
+# > world_middle_east_arabia
+# > world_middle_east_persia
+
+# world_india
+# > world_india_deccan
+# > world_india_bengal
+# > world_india_rajastan
+
+# world_africa
+# > world_africa_north
+# >> world_africa_north_west
+# >> world_africa_north_east
+# > world_africa_west
+# > world_africa_east
+
+# world_steppe
+# > world_steppe_tarim
+# > world_steppe_west
+# > world_steppe_east
+
+# world_tibet
+
+# world_burma
+
 world_europe_west_britannia = {}
 world_europe_west_germania = {}
 world_europe_west_francia = {}
@@ -34,13 +73,25 @@ world_middle_east_persia = {}
 world_india_deccan = {}
 world_india_bengal = {}
 world_india_rajastan = {}
-world_africa_north_west = {}
+world_africa_north_west = {
+	duchies = {
+		d_canarias
+	}
+}
 world_africa_north_east = {}
 world_africa_sahara = {}
-world_africa_north = {}
+world_africa_north = {
+	regions = {
+		world_africa_north_west
+	}
+}
 world_africa_west = {}
 world_africa_east = {}
-world_africa = {}
+world_africa = {
+	regions = {
+		world_africa_north
+	}
+}
 world_steppe_tarim = {}
 world_steppe_west = {}
 world_steppe_east = {}
@@ -51,14 +102,6 @@ world_steppe = {}
 world_europe = {}
 world_middle_east = {}
 world_india = {}
-
-
-# Hiria
-
-# Dwilia
-# Duo Meridia
-# Therosia
-world_therosia = {}
 
 ###########################################################################
 # Material Regions
@@ -92,12 +135,20 @@ material_woods_ebony = {}
 material_wood_yew = {}
 
 # Regional - Mediterranean
-material_woods_mediterranean = {}
+material_woods_mediterranean = {
+	regions = {
+		world_africa_north
+	}
+}
 
 # Regional - Sri Lanka
 material_woods_sri_lanka = {}
 
-material_cloth_no_silk = {}
+material_cloth_no_silk = {
+	regions = {
+		world_africa_west
+	}
+}
 
 material_cloth_linen = {}
 
@@ -109,21 +160,46 @@ material_metal_damascus = {}
 
 material_metal_bulat = {}
 
-material_hsb_camel_bone = {}
+material_hsb_camel_bone = {
+	regions = {
+		world_africa_north
+		world_africa_west
+	}
+}
 
 material_hsb_deer_antler = {}
 
 material_hsb_boar_tusk = {}
 
-material_hsb_ivory_imported = {}
+material_hsb_ivory_imported = {
+	regions = {
+		world_africa_north
+	}
+}
 
-material_hsb_ivory_native = {}
+material_hsb_ivory_native = {
+	regions = {
+		world_africa_west
+	}
+}
 
-material_hsb_mother_of_pearl = {}
+material_hsb_mother_of_pearl = {
+	regions = {
+		world_africa_north
+	}
+}
 
-material_hsb_tortoiseshell = {}
+material_hsb_tortoiseshell = {
+	regions = {
+		world_africa_north
+	}
+}
 
-material_hsb_seashell = {}
+material_hsb_seashell = {
+	regions = {
+		world_africa_north
+	}
+}
 
 ###########################################################################
 # Custom Regions
@@ -206,7 +282,13 @@ custom_iceland = {}
 
 graphical_western = {}
 
-graphical_mena = {}
+graphical_mena = {
+	graphical = yes
+	color = { 255 255 0 }
+	regions = {
+		world_africa
+	}
+}
 
 graphical_india = {}
 
@@ -220,7 +302,12 @@ graphical_steppe = {}
 
 world_innovation_elephants = {}
 
-world_innovation_camels = {}
+world_innovation_camels = {
+	generate_modifiers = yes
+	regions = {
+		world_africa_north
+	}
+}
 
 world_horse_buildings_in_hills_and_mountains = {}
 
@@ -340,8 +427,18 @@ ghw_region_north_eastern_india = {}
 islamic_heartlands = {}
 
 dlc_fp1_region_core_north_sea = {
-	duchies = {}
-	counties = {}
+	duchies = {
+		#k_norway
+		d_viken d_agder d_vestlandi d_trandalog
+		#k_england
+		d_york d_norfolk d_bedford d_canterbury
+		#k_denmark
+		d_sjaelland d_slesvig d_jylland
+	}
+	counties = {
+		#k_england
+		c_huntingdonshire c_northamptonshire c_leicestershire c_nottinghamshire
+	}
 }
 
 #####################
@@ -410,7 +507,11 @@ dlc_ep1_levant_trade_region = {}
 dlc_ep1_arab_trade_region = {}
 dlc_ep1_persian_trade_region = {}
 
-dlc_ep1_north_africa_trade_region = {}
+dlc_ep1_north_africa_trade_region = {
+	regions = {
+		world_africa_north_west
+	}
+}
 
 dlc_ep1_east_africa_trade_region = {}
 dlc_ep1_west_africa_trade_region = {}
@@ -419,7 +520,9 @@ dlc_ep1_southwest_silk_road_trade_region = {}
 ### END RC Regions
 
 divergence_island_regions = {
-	provinces = 1241
+	duchies = {
+		d_canarias
+	}
 }
 
 ### SEAZONES ###

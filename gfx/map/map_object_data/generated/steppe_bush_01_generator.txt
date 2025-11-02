@@ -6,5 +6,4 @@
 	layer="grass_layer"
 	pdxmesh="steppe_bush_01_mesh"
 	count=0
-	transform=""
 }

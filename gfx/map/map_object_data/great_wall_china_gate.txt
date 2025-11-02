@@ -5,4 +5,5 @@
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="tgp_great_wall_gate_01_mesh"
-	count=0}
+	count=0
+}
