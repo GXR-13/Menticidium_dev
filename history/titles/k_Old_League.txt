@@ -6,6 +6,7 @@ k_Old_League = {
 	741.1.1 = {
 		change_development_level = 25
         liege = e_Hiria
+		government = feudal_government
     }
 	
 }
@@ -15,6 +16,7 @@ c_Old_League_2_2 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_2_3 = {
@@ -23,6 +25,7 @@ c_Old_League_2_3 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_3_6 = {
@@ -31,6 +34,7 @@ c_Old_League_3_6 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_4_4 = {
@@ -39,6 +43,7 @@ c_Old_League_4_4 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 #Wespuria
@@ -48,6 +53,7 @@ d_Wespuria = {
 	} 
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_1_1 = {
@@ -56,6 +62,7 @@ c_Old_League_1_1 = {
 	} 
 	741.1.1 = {
         liege = d_Wespuria
+		government = feudal_government
     }
 }
 c_Old_League_3_1 = {
@@ -64,6 +71,7 @@ c_Old_League_3_1 = {
 	} 
 	741.1.1 = {
         liege = d_Wespuria
+		government = feudal_government
     }
 }
 c_Old_League_3_3 = {
@@ -72,6 +80,7 @@ c_Old_League_3_3 = {
 	} 
 	741.1.1 = {
         liege = d_Wespuria
+		government = feudal_government
     }
 }
 
@@ -82,6 +91,7 @@ d_Trevien = {
 	} 
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_3_2 = {
@@ -90,6 +100,7 @@ c_Old_League_3_2 = {
 	} 
 	741.1.1 = {
         liege = d_Trevien
+		government = feudal_government
     }
 }
 c_Old_League_3_4 = {
@@ -98,6 +109,7 @@ c_Old_League_3_4 = {
 	} 
 	741.1.1 = {
         liege = d_Trevien
+		government = feudal_government
     }
 }
 c_Old_League_3_5 = {
@@ -106,6 +118,7 @@ c_Old_League_3_5 = {
 	} 
 	741.1.1 = {
         liege = d_Trevien
+		government = feudal_government
     }
 }
 c_Old_League_4_1 = {
@@ -114,6 +127,7 @@ c_Old_League_4_1 = {
 	} 
 	741.1.1 = {
         liege = d_Trevien
+		government = feudal_government
     }
 }
 
@@ -124,6 +138,7 @@ d_Feirmia = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 c_Old_League_4_3 = {
@@ -132,6 +147,7 @@ c_Old_League_4_3 = {
 	}
 	741.1.1 = {
         liege = d_Feirmia
+		government = feudal_government
     }
 }
 c_Old_League_4_2 = {
@@ -140,6 +156,7 @@ c_Old_League_4_2 = {
 	}
 	741.1.1 = {
         liege = d_Feirmia
+		government = feudal_government
     }
 }
 
@@ -180,6 +197,7 @@ c_Old_League_1_3 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 
@@ -190,6 +208,7 @@ c_Old_League_1_2 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 ##Galben
@@ -199,6 +218,7 @@ c_Old_League_2_1 = {
 	}
 	741.1.1 = {
         liege = k_Old_League
+		government = feudal_government
     }
 }
 ##Kornis--see Reussia files

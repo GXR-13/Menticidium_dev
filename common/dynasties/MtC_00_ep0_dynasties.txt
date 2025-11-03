@@ -136,6 +136,17 @@ osten = {
 	culture = leaguemen
 }
 
+#Imp_Preseerve
+rael = {
+	name = dynn_rael
+	culture = gronlander
+}
+
+mayer = {
+	name = dynn_mayer
+	culture = north_hirian
+}
+
 #New League
 mirth = {
 	name = dynn_mirth

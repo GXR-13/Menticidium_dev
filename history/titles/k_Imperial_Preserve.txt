@@ -1,0 +1,263 @@
+﻿k_Imperial_Preserve = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Imperial_Preserve_1 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Imperial_Preserve_2 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_1_1 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_1_3 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_2_1 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_2_2 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_2_3 = {
+    735.9.12 = {
+        holder = Imperial_Preserve_1
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_1_4 = {
+    741.1.17 = {
+        holder = Imperial_Preserve_2
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_1_2 = {
+    741.1.17 = {
+        holder = Imperial_Preserve_2
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_2_4 = {
+    740.4.7 = {
+        holder = Imperial_Preserve_3
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Imperial_Preserve_2_5 = {
+    740.4.7 = {
+        holder = Imperial_Preserve_3
+    }
+
+    741.1.1 = {
+        liege = k_Imperial_Preserve
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
