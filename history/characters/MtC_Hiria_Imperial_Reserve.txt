@@ -1,6 +1,6 @@
 ﻿Imperial_Preserve_1 = {# 
     name = "Oscar"
-    religion = Imperial_Verita
+    religion = imperial_verita
     culture = gronlander
     dynasty = rael
     699.6.8 = {
@@ -10,7 +10,7 @@
 
 Imperial_Preserve_2 = {# 
     name = "Rudolph"
-    religion = Imperial_Verita
+    religion = imperial_verita
     culture = north_hirian
     dynasty = mayer
     721.9.13 = {
@@ -20,7 +20,7 @@ Imperial_Preserve_2 = {#
 
 Imperial_Preserve_3 = {# 
     name = "Albert"
-    religion = Imperial_Verita
+    religion = imperial_verita
     culture = north_hirian
     dynasty = mayer
     721.9.13 = {
