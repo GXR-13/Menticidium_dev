@@ -1,0 +1,9 @@
+﻿High_Hiria_1 = {# 
+    name = "Hilbert"
+    religion = imperial_verita
+    culture = leaguemen
+    dynasty = verio
+    697.3.14 = {
+        birth = yes
+    }
+}

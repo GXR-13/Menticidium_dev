@@ -135,6 +135,31 @@ osten = {
 	name = dynn_osten
 	culture = leaguemen
 }
+#Middlesept
+marley = {
+	name = dynn_marley
+	culture = high_hirian
+}
+
+prestre = {
+	name = dynn_prestre
+	culture = south_hirian
+}
+
+bloch = {
+	name = dynn_bloch
+	culture = north_hirian
+}
+
+norr = {
+	name = dynn_norr
+	culture = north_hirian
+}
+
+landar = {
+	name = dynn_landar
+	culture = north_hirian
+}
 
 #Imp_Preseerve
 rael = {
@@ -145,6 +170,27 @@ rael = {
 mayer = {
 	name = dynn_mayer
 	culture = north_hirian
+}
+
+#Intermark
+hayles = {
+	name = dynn_hayles
+	culture = green_hirian
+}
+
+emlyn = {
+	name = dynn_emlyn
+	culture = frindi
+}
+
+perry = {
+	name = dynn_perry
+	culture = high_hirian
+}
+
+kylar = {
+	name = dynn_kylar
+	culture = high_hirian
 }
 
 #New League

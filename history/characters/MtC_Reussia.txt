@@ -9,6 +9,7 @@ Reussia_1 = {
 Reussia_2 = {
 	name = "Alphonse" #阿方斯·马尔利
 	culture = high_hirian
+	dynasty = marley
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
 }

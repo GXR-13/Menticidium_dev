@@ -1,0 +1,154 @@
+﻿k_High_Hiria = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_High_Hiria_1 = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = k_High_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_High_Hiria_1_1 = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = k_High_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_High_Hiria_1_2 = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = k_High_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_High_Hiria_1_3 = {
+    719.11.15 = {
+        holder = Hiria_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_High_Hiria_1_4 = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = k_High_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_High_Hiria_1_5 = {
+    731.5.12 = {
+        holder = High_Hiria_1
+    }
+
+    741.1.1 = {
+        liege = k_High_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+

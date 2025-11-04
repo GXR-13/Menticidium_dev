@@ -128,6 +128,6 @@ d_Dejois_5 = {
 		}
 }
     741.1.1 = {
-        liege = k_Dejois
+        liege = e_Hiria
     }
 }

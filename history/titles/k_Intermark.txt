@@ -1,6 +1,6 @@
-﻿k_Middlesept = {
-    738.5.9 = {
-        holder = Middlesept_1
+﻿k_Intermark = {
+    720.5.29 = {
+        holder = Intermark_1
     }
 
     741.1.1 = {
@@ -20,13 +20,13 @@
     }
 }
 
-d_Middlesept_4 = {
-    738.5.9 = {
-        holder = Middlesept_1
+c_Intermark_1_4 = {
+    720.5.29 = {
+        holder = Intermark_1
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = k_Intermark
         government = administrative_government
         effect = {
             if = {
@@ -42,13 +42,79 @@ d_Middlesept_4 = {
     }
 }
 
-c_Middlesept_4_1 = {
-    738.5.9 = {
-        holder = Middlesept_1
+d_Intermark_3 = {
+    669.6.12 = {
+        holder = Intermark_2
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = k_Intermark
+		government = feudal_government
+    }
+}
+
+c_Intermark_1_1 = {
+    669.6.12 = {
+        holder = Intermark_2
+    }
+
+    741.1.1 = {
+        liege = d_Intermark_3
+        government = feudal_government
+    }
+}
+
+c_Intermark_1_2 = {
+    669.6.12 = {
+        holder = Intermark_2
+    }
+
+    741.1.1 = {
+        liege = d_Intermark_3
+        government = feudal_government
+    }
+}
+
+c_Intermark_1_3 = {
+    669.6.12 = {
+        holder = Intermark_2
+    }
+
+    741.1.1 = {
+        liege = d_Intermark_3
+        government = feudal_government
+    }
+}
+
+c_Intermark_2_3 = {
+    669.6.12 = {
+        holder = Intermark_2
+    }
+
+    741.1.1 = {
+        liege = d_Intermark_3
+        government = feudal_government
+    }
+}
+
+c_Intermark_3_1 = {
+    669.6.12 = {
+        holder = Intermark_2
+    }
+
+    741.1.1 = {
+        liege = d_Intermark_3
+        government = feudal_government
+    }
+}
+
+d_Intermark_1 = {
+    738.10.19 = {
+        holder = Intermark_3
+    }
+
+    741.1.1 = {
+        liege = k_Intermark
         government = administrative_government
         effect = {
             if = {
@@ -64,13 +130,13 @@ c_Middlesept_4_1 = {
     }
 }
 
-c_Middlesept_4_2 = {
-    738.5.9 = {
-        holder = Middlesept_1
+c_Intermark_2_1 = {
+    738.10.19 = {
+        holder = Intermark_3
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_1
         government = administrative_government
         effect = {
             if = {
@@ -86,13 +152,13 @@ c_Middlesept_4_2 = {
     }
 }
 
-c_Middlesept_4_3 = {
-    738.5.9 = {
-        holder = Middlesept_1
+c_Intermark_2_2 = {
+    738.10.19 = {
+        holder = Intermark_3
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_1
         government = administrative_government
         effect = {
             if = {
@@ -108,13 +174,13 @@ c_Middlesept_4_3 = {
     }
 }
 
-d_Middlesept_3 = {
-    737.6.7 = {
-        holder = Middlesept_2
+c_Intermark_2_4 = {
+    738.10.19 = {
+        holder = Intermark_3
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_1
         government = administrative_government
         effect = {
             if = {
@@ -130,13 +196,13 @@ d_Middlesept_3 = {
     }
 }
 
-c_Middlesept_3_1 = {
-    737.6.7 = {
-        holder = Middlesept_2
+c_Intermark_4_1 = {
+    738.10.19 = {
+        holder = Intermark_3
     }
 
     741.1.1 = {
-        liege = d_Middlesept_3
+        liege = d_Intermark_1
         government = administrative_government
         effect = {
             if = {
@@ -152,13 +218,13 @@ c_Middlesept_3_1 = {
     }
 }
 
-c_Middlesept_3_3 = {
-    737.6.7 = {
-        holder = Middlesept_2
+c_Intermark_4_2 = {
+    738.10.19 = {
+        holder = Intermark_3
     }
 
     741.1.1 = {
-        liege = d_Middlesept_3
+        liege = d_Intermark_1
         government = administrative_government
         effect = {
             if = {
@@ -174,13 +240,13 @@ c_Middlesept_3_3 = {
     }
 }
 
-c_Middlesept_3_4 = {
-    737.6.7 = {
-        holder = Middlesept_2
+d_Intermark_2 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = d_Middlesept_3
+        liege = k_Intermark
         government = administrative_government
         effect = {
             if = {
@@ -196,13 +262,13 @@ c_Middlesept_3_4 = {
     }
 }
 
-d_Middlesept_2 = {
-    713.12.12 = {
-        holder = Middlesept_3
+c_Intermark_3_2 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_2
         government = administrative_government
         effect = {
             if = {
@@ -218,13 +284,13 @@ d_Middlesept_2 = {
     }
 }
 
-c_Middlesept_2_1 = {
-    713.12.12 = {
-        holder = Middlesept_3
+c_Intermark_3_3 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = d_Middlesept_2
+        liege = d_Intermark_2
         government = administrative_government
         effect = {
             if = {
@@ -240,13 +306,13 @@ c_Middlesept_2_1 = {
     }
 }
 
-c_Middlesept_2_2 = {
-    713.12.12 = {
-        holder = Middlesept_3
+c_Intermark_3_4 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = d_Middlesept_2
+        liege = d_Intermark_2
         government = administrative_government
         effect = {
             if = {
@@ -262,13 +328,13 @@ c_Middlesept_2_2 = {
     }
 }
 
-c_Middlesept_2_3 = {
-    713.12.12 = {
-        holder = Middlesept_3
+c_Intermark_5_1 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = d_Middlesept_2
+        liege = d_Intermark_2
         government = administrative_government
         effect = {
             if = {
@@ -284,13 +350,13 @@ c_Middlesept_2_3 = {
     }
 }
 
-d_Middlesept_1 = {
-    741.3.27 = {
-        holder = Middlesept_4
+c_Intermark_5_3 = {
+    740.2.21 = {
+        holder = Intermark_4
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_2
         government = administrative_government
         effect = {
             if = {
@@ -306,13 +372,13 @@ d_Middlesept_1 = {
     }
 }
 
-c_Middlesept_1_1 = {
-    741.3.27 = {
-        holder = Middlesept_4
+d_Intermark_5 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = d_Middlesept_1
+        liege = k_Intermark
         government = administrative_government
         effect = {
             if = {
@@ -328,13 +394,13 @@ c_Middlesept_1_1 = {
     }
 }
 
-c_Middlesept_1_2 = {
-    741.3.27 = {
-        holder = Middlesept_4
+c_Intermark_5_2 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = d_Middlesept_1
+        liege = d_Intermark_5
         government = administrative_government
         effect = {
             if = {
@@ -350,13 +416,13 @@ c_Middlesept_1_2 = {
     }
 }
 
-c_Middlesept_1_3 = {
-    741.3.27 = {
-        holder = Middlesept_4
+c_Intermark_5_4 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = d_Middlesept_1
+        liege = d_Intermark_5
         government = administrative_government
         effect = {
             if = {
@@ -372,13 +438,13 @@ c_Middlesept_1_3 = {
     }
 }
 
-c_Middlesept_1_4 = {
-    741.3.27 = {
-        holder = Middlesept_4
+c_Intermark_5_5 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = d_Middlesept_1
+        liege = d_Intermark_5
         government = administrative_government
         effect = {
             if = {
@@ -394,13 +460,13 @@ c_Middlesept_1_4 = {
     }
 }
 
-c_Middlesept_1_5 = {
-    741.3.27 = {
-        holder = Middlesept_4
+c_Intermark_4_3 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = d_Middlesept_1
+        liege = d_Intermark_5
         government = administrative_government
         effect = {
             if = {
@@ -416,13 +482,13 @@ c_Middlesept_1_5 = {
     }
 }
 
-d_Middlesept_5 = {
-    740.8.19 = {
-        holder = Middlesept_5
+c_Intermark_4_4 = {
+    735.6.17 = {
+        holder = Intermark_5
     }
 
     741.1.1 = {
-        liege = k_Middlesept
+        liege = d_Intermark_5
         government = administrative_government
         effect = {
             if = {
@@ -438,220 +504,3 @@ d_Middlesept_5 = {
     }
 }
 
-c_Middlesept_5_1 = {
-    740.8.19 = {
-        holder = Middlesept_5
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_5
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_5_2 = {
-    740.8.19 = {
-        holder = Middlesept_5
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_5
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_5_3 = {
-    740.8.19 = {
-        holder = Middlesept_5
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_5
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_5_4 = {
-    740.8.19 = {
-        holder = Middlesept_5
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_5
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-d_Middlesept_6 = {
-    729.5.16 = {
-        holder = Middlesept_6
-    }
-
-    741.1.1 = {
-        liege = k_Middlesept
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_6_1 = {
-    729.5.16 = {
-        holder = Middlesept_6
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_6
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_6_2 = {
-    729.5.16 = {
-        holder = Middlesept_6
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_6
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_6_3 = {
-    729.5.16 = {
-        holder = Middlesept_6
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_6
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-c_Middlesept_6_4 = {
-    729.5.16 = {
-        holder = Middlesept_6
-    }
-
-    741.1.1 = {
-        liege = d_Middlesept_6
-        government = administrative_government
-        effect = {
-            if = {
-                limit = {
-                    exists = holder
-                    NOT = { has_dlc_feature = roads_to_power }
-                }
-                holder = {
-                    change_government = feudal_government
-                }
-            }
-        }
-    }
-}
-
-#New League
-c_Middlesept_3_2 = {
-    718.3.21 = {
-        holder = New_League_1
-    }
-    741.1.1 = {
-        liege = k_New_League
-        government = republic_government
-    }
-}
-c_Middlesept_4_4 = {
-    718.3.21 = {
-        holder = New_League_1
-    }
-    741.1.1 = {
-        liege = k_New_League
-        government = republic_government
-    }
-}

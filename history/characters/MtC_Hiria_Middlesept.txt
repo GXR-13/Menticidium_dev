@@ -1,1 +1,61 @@
-﻿#用于角色施工。完成后需要移动到其他文件
+﻿Middlesept_1 = {# 
+    name = "Frida"
+    female = yes
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = marley
+    708.1.31 = {
+        birth = yes
+    }
+}
+
+Middlesept_2 = {# 
+    name = "Wobber"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = prestre
+    702.6.13 = {
+        birth = yes
+    }
+}
+
+Middlesept_3 = {# 
+    name = "Meginhard"
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = bloch
+    680.2.15 = {
+        birth = yes
+    }
+}
+
+Middlesept_4 = {# 
+    name = "Henry"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = jung
+    720.2.16 = {
+        birth = yes
+    }
+}
+
+Middlesept_5 = {# 
+    name = "Austol"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = norr
+    714.1.29 = {
+        birth = yes
+    }
+}
+
+Middlesept_6 = {# 
+    name = "Harvis"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = landar
+    708.4.4 = {
+        birth = yes
+    }
+}
+
