@@ -463,23 +463,23 @@ d_Sud_6: "外丰德雷斯"
 #前坎帕热公国
 k_Epine: "埃匹内"
 d_Epine_4: "前坎帕热"
-c_Epine_4_1: "帕里西"
-b_Epine_4_1_1: "艾格尔堡" #鹰坠之地
+c_Epine_4_1: "帕尔西"
+b_Epine_4_1_1: "艾格尔堡" #Aiglebourg
 b_Epine_4_1_2: ""
 b_Epine_4_1_3: ""
 b_Epine_4_1_4: ""
-c_Epine_4_2: "阿尔卡隆"
-b_Epine_4_2_1: "维利诺" #无含义
+c_Epine_4_2: "卡尔热"
+b_Epine_4_2_1: "维利诺" #Villino
 b_Epine_4_2_2: ""
 b_Epine_4_2_3: ""
-c_Epine_4_3: "弗莱梅"
+c_Epine_4_3: "弗莱梅" #Flemm
 b_Epine_4_3_1: ""
-b_Epine_4_3_2: "维丁利" #无含义
+b_Epine_4_3_2: "万德维尔" #Vendreville
 b_Epine_4_3_3: ""
 b_Epine_4_3_4: ""
-c_Epine_4_4: "法尔让"
+c_Epine_4_4: "奥特让"
 b_Epine_4_4_1: ""
-b_Epine_4_4_2: "撒弥勒" #无含义
+b_Epine_4_4_2: "萨尔布" #Sarboue
 b_Epine_4_4_3: ""
 
 #后坎帕热公国
@@ -487,15 +487,15 @@ d_Epine_3: "后坎帕热"
 c_Epine_3_1: "克莱尔"
 b_Epine_3_1_1: ""
 b_Epine_3_1_2: ""
-b_Epine_3_1_3: "伽里昂" #无含义
+b_Epine_3_1_3: "夏隆" #Charogne
 b_Epine_3_1_4: ""
 c_Epine_3_2: "莫尔索瓦"
-b_Epine_3_2_1: "孔夫朗斯" #河岸地 
+b_Epine_3_2_1: "孔夫朗斯" #Conflans
 b_Epine_3_2_2: ""
 b_Epine_3_2_3: ""
-c_Epine_3_3: "莱赛"
+c_Epine_3_3: "贝尔塞"
 b_Epine_3_3_1: ""
-b_Epine_3_3_2: "艾泽尔那" #无含义 
+b_Epine_3_3_2: "图那瓦" #Tonnevoir
 b_Epine_3_3_3: ""
 b_Epine_3_3_4: ""
 
@@ -503,113 +503,167 @@ b_Epine_3_3_4: ""
 #萨热索斯公国
 d_Epine_5: "萨热索斯"
 c_Epine_5_1: "利涅瓦"
-b_Epine_5_1_1: "波纳尔多" #无含义
+b_Epine_5_1_1: "波纳尔" #Buonart
 b_Epine_5_1_2: ""
 b_Epine_5_1_3: ""
-c_Epine_5_2: "布卢瓦"
-b_Epine_5_2_1: "穆兰" #风车丘陵
+c_Epine_5_2: "朗凡"
+b_Epine_5_2_1: "穆兰" #Moulin
 b_Epine_5_2_2: ""
 b_Epine_5_2_3: ""
-c_Epine_5_3: "忒提拉"
-b_Epine_5_3_1: "特拉孔梅" #无含义
+c_Epine_5_3: "特瓦孔泰"
+b_Epine_5_3_1: "代曼" #Diamane
 b_Epine_5_3_2: ""
 b_Epine_5_3_3: ""
 
 #佩赫西公国
 d_Epine_1: "佩赫西"
-c_Epine_1_1: "昂贝尔"
+c_Epine_1_1: "塞贝尔"
 b_Epine_1_1_2: ""
-b_Epine_1_1_3: "韦拉特" #无含义
-c_Epine_1_2: "法尔斯"
+b_Epine_1_1_3: "韦拉特" #Vierrat
+c_Epine_1_2: "法雷斯"
 b_Epine_1_2_1: ""
 b_Epine_1_2_2: ""
-b_Epine_1_2_3: "马克斯" #无含义
-c_Epine_1_3: "莱斯诺瓦尔"
+b_Epine_1_2_3: "多尔莫瓦" #Dormoi
+c_Epine_1_3: "莱斯诺维尔"
 b_Epine_1_3_1: ""
 b_Epine_1_3_2: ""
-b_Epine_1_3_3: "蒙蒂拉" #无含义
-c_Epine_1_4: "萨拉维纳"
+b_Epine_1_3_3: "蒙蒂拉" #Montilla
+c_Epine_1_4: "萨拉凡"
 b_Epine_1_4_1: ""
-b_Epine_1_4_2: "德菲勒" #隘口，表明是通向西方之隘口
+b_Epine_1_4_2: "帕列波" #Palierboue
 b_Epine_1_4_3: ""
 
 #弗雷瑞斯公国
 d_Epine_2: "弗雷瑞斯"
-c_Epine_2_1: "塔兰多"
-b_Epine_2_1_1: "库尔夫朗" #无含义
+c_Epine_2_1: "塔尔斯特尔"
+b_Epine_2_1_1: "库尔夫朗" #Courflent
 b_Epine_2_1_2: ""
 b_Epine_2_1_3: ""
 c_Epine_2_2: "阿尔让"
 b_Epine_2_2_1: ""
 b_Epine_2_2_2: ""
-b_Epine_2_2_3: "菲莱斯" #山崖，关联南方山脉
+b_Epine_2_2_3: "菲莱斯" #Falaise
 c_Epine_2_3: "罗克里斯"
-b_Epine_2_3_1: "拉罗" #无含义
+b_Epine_2_3_1: "拉鲁斯" #Larus
 b_Epine_2_3_2: ""
 b_Epine_2_3_3: ""
 
-#Dejois_1
-#Dejois_1_1
+
 #德约瓦王国
+#Dejois
 k_Dejois: "德约瓦"
-#苏达公国
+
 d_Dejois_3: "苏达"
-c_Dejois_3_1: "罗克比耶尔"
-b_Dejois_3_1_3: "罗克比耶尔"
-c_Dejois_3_2: "尼斯"
-b_Dejois_3_2_3: "克朗"
 c_Dejois_3_3: "韦南松"
-b_Dejois_3_3_1: "韦南松"
+b_Dejois_3_3_1: "" #(capital)
+b_Dejois_3_3_2: ""
+b_Dejois_3_3_3: ""
 c_Dejois_3_4: "马里耶"
-b_Dejois_3_4_3: "马里耶"
+b_Dejois_3_4_3: "" #(capital)
+b_Dejois_3_4_1: ""
+b_Dejois_3_4_4: ""
+b_Dejois_3_4_2: ""
+c_Dejois_3_2: "阿马特"
+b_Dejois_3_2_3: "克朗" #Couronne
+b_Dejois_3_2_1: ""
+b_Dejois_3_2_2: ""
+b_Dejois_3_2_4: ""
+c_Dejois_3_1: "邦罗歇尔"
+b_Dejois_3_1_3: "" #(capital)
+b_Dejois_3_1_1: ""
+b_Dejois_3_1_2: ""
 
-#科威尔公国
 d_Dejois_1: "小科威尔"
-c_Dejois_1_1: "勒维尔内"
-b_Dejois_1_1_4: "勒维尔内"
-c_Dejois_1_2: "德赖"
-b_Dejois_1_2_3: "德赖"
-c_Dejois_1_3: "托阿尔"
-b_Dejois_1_3_1: "托阿尔"
-c_Dejois_1_4: "迪涅塞班"
-b_Dejois_1_4_3: "马尔科"
+c_Dejois_1_3: "托雷尔"
+b_Dejois_1_3_1: "" #(capital)
+b_Dejois_1_3_2: ""
+b_Dejois_1_3_3: ""
+c_Dejois_1_4: "迪涅塞"
+b_Dejois_1_4_3: "马尔维尔" #Marville
+b_Dejois_1_4_2: ""
+b_Dejois_1_4_1: ""
+c_Dejois_1_1: "勒维尔"
+b_Dejois_1_1_4: "" #(capital)
+b_Dejois_1_1_3: ""
+b_Dejois_1_1_2: ""
+b_Dejois_1_1_1: ""
+c_Dejois_1_2: "莫赖"
+b_Dejois_1_2_3: "" #(capital)
+b_Dejois_1_2_4: ""
+b_Dejois_1_2_1: ""
+b_Dejois_1_2_2: ""
 
-#罗巴斯克公国
-d_Dejois_2: "罗巴斯克"
-c_Dejois_2_1: "希南"
-b_Dejois_2_1_1: "希南"
-c_Dejois_2_2: "拉娜瓦尔"
-b_Dejois_2_2_3: "尚贝里"
-c_Dejois_2_3: "图瓦里"
-b_Dejois_2_3_2: "图瓦里"
-c_Dejois_2_4: "勒瓦尔"
-b_Dejois_2_4_1: "勒瓦尔"
-
-#索弗昂公国
 d_Dejois_4: "索弗昂"
-c_Dejois_4_1: "布瓦塞"
-b_Dejois_4_1_3: "布瓦塞"
 c_Dejois_4_2: "拉科内特"
-b_Dejois_4_2_3: "拉科内特"
-c_Dejois_4_3: "米内尔夫"
-b_Dejois_4_3_1: "贝济耶"
-c_Dejois_4_4: "艾尼"
-b_Dejois_4_4_2: "艾尼"
-c_Dejois_4_5: "昂热"
-b_Dejois_4_5_2: "昂热"
+b_Dejois_4_2_3: "" #(capital)
+b_Dejois_4_2_4: ""
+b_Dejois_4_2_1: ""
+b_Dejois_4_2_2: ""
+c_Dejois_4_5: "佩米勒"
+b_Dejois_4_5_2: "" #(capital)
+b_Dejois_4_5_1: ""
+b_Dejois_4_5_3: ""
+c_Dejois_4_3: "梅尔福"
+b_Dejois_4_3_1: "贝济耶" #Béziers
+b_Dejois_4_3_4: ""
+b_Dejois_4_3_2: ""
+b_Dejois_4_3_3: ""
+c_Dejois_4_1: "邦塞"
+b_Dejois_4_1_3: "" #(capital)
+b_Dejois_4_1_1: ""
+b_Dejois_4_1_4: ""
+b_Dejois_4_1_2: ""
+c_Dejois_4_4: "阿尔内"
+b_Dejois_4_4_2: "" #(capital)
+b_Dejois_4_4_1: ""
+b_Dejois_4_4_3: ""
+b_Dejois_4_4_4: ""
 
-#莫唐维尔公国
+d_Dejois_2: "罗巴斯克"
+c_Dejois_2_1: "希瑙"
+b_Dejois_2_1_1: "" #(capital)
+b_Dejois_2_1_3: ""
+b_Dejois_2_1_2: ""
+c_Dejois_2_2: "拉娜维尔"
+b_Dejois_2_2_3: "" #(capital)
+b_Dejois_2_2_2: ""
+b_Dejois_2_2_1: ""
+b_Dejois_2_2_4: ""
+c_Dejois_2_3: "图瓦里"
+b_Dejois_2_3_2: "" #(capital)
+b_Dejois_2_3_4: ""
+b_Dejois_2_3_1: ""
+b_Dejois_2_3_3: ""
+c_Dejois_2_4: "勒瓦尔"
+b_Dejois_2_4_1: "" #(capital)
+b_Dejois_2_4_2: ""
+b_Dejois_2_4_3: ""
+
 d_Dejois_5: "莫唐维尔"
-c_Dejois_5_1: "索雷德"
-b_Dejois_5_1_3: "索雷德"
-c_Dejois_5_2: "塞雷"
-b_Dejois_5_2_4: "赛贝尔"
-c_Dejois_5_3: "勒布卢"
-b_Dejois_5_3_2: "勒布卢"
-c_Dejois_5_4: "阿尔勒"
-b_Dejois_5_4_1: "阿尔勒"
+c_Dejois_5_1: "豪维尔"
+b_Dejois_5_1_3: "" #(capital)
+b_Dejois_5_1_4: ""
+b_Dejois_5_1_2: ""
+b_Dejois_5_1_1: ""
+c_Dejois_5_2: "卢布瓦"
+b_Dejois_5_2_4: "" #(capital)
+b_Dejois_5_2_3: ""
+b_Dejois_5_2_1: ""
+b_Dejois_5_2_2: ""
 c_Dejois_5_5: "科尔萨维"
-b_Dejois_5_5_2: "科尔萨维"
+b_Dejois_5_5_2: "" #(capital)
+b_Dejois_5_5_3: ""
+b_Dejois_5_5_1: ""
+c_Dejois_5_4: "布兰刻尔克"
+b_Dejois_5_4_1: "" #(capital)
+b_Dejois_5_4_2: ""
+b_Dejois_5_4_3: ""
+c_Dejois_5_3: "布玛格"
+b_Dejois_5_3_2: "" #(capital)
+b_Dejois_5_3_5: ""
+b_Dejois_5_3_4: ""
+b_Dejois_5_3_3: ""
+b_Dejois_5_3_1: ""
 
 k_Gollowyn: "高勒汶"
 
@@ -754,120 +808,120 @@ b_Reussia_2_1_4: "伊斯克门" #(capital)
 b_Reussia_2_1_2: "穆里亚"
 b_Reussia_2_1_1: "罗姆" 
 b_Reussia_2_1_3: "雷提亚"
-c_Reussia_2_2: "罗克" #Loque
-b_Reussia_2_2_3: "科凯勒" #(capital)
+c_Reussia_2_2: "勒卡雷" 
+b_Reussia_2_2_3: "凯勒" #Keller
 b_Reussia_2_2_4: ""
 b_Reussia_2_2_1: ""
 b_Reussia_2_2_2: ""
 c_Reussia_2_3: "奥梅尔"
-b_Reussia_2_3_2: "阿尔克" #(capital)
+b_Reussia_2_3_2: "阿尔克" #Ark
 b_Reussia_2_3_3: ""
 b_Reussia_2_3_1: ""
 b_Reussia_2_3_4: ""
 c_Reussia_2_4: "刻尔克"
-b_Reussia_2_4_1: "贝尔格" #(capital)
+b_Reussia_2_4_1: "蒙特勒伊" #Monte Leu
 b_Reussia_2_4_4: ""
 b_Reussia_2_4_2: ""
 b_Reussia_2_4_3: ""
-c_Reussia_2_5: "蒙特勒伊"
-b_Reussia_2_5_4: "勒图凯" #(capital)
+c_Reussia_2_5: "朗萨尔"
+b_Reussia_2_5_4: "勒奥尔" #le Or
 b_Reussia_2_5_2: ""
 b_Reussia_2_5_1: ""
 b_Reussia_2_5_3: ""
 #夏瓦勒斯公国
 d_Reussia_1: "夏瓦勒斯"
-c_Reussia_1_4: "迪耶普"
-b_Reussia_1_4_3: "托尔西" #(capital)
+c_Reussia_1_4: "托米耶"
+b_Reussia_1_4_3: "托尔西" #Torsea
 b_Reussia_1_4_1: ""
 b_Reussia_1_4_2: ""
-c_Reussia_1_1: "鲁昂"
-b_Reussia_1_1_2: "马罗姆" #(capital)
+c_Reussia_1_1: "维利奥卡斯"
+b_Reussia_1_1_2: "马罗姆" #Marome
 b_Reussia_1_1_1: ""
 b_Reussia_1_1_3: ""
-c_Reussia_1_2: "勒阿弗尔"
-b_Reussia_1_2_3: "罗曼" #(capital)
+c_Reussia_1_2: "马拉"
+b_Reussia_1_2_3: "洛曼" #Louman
 b_Reussia_1_2_1: ""
 b_Reussia_1_2_2: ""
 c_Reussia_1_3: "马蒂厄"
-b_Reussia_1_3_3: "阿尼西" #(capital)
+b_Reussia_1_3_3: "内尔希" #Nelsea
 b_Reussia_1_3_4: ""
 b_Reussia_1_3_1: ""
 b_Reussia_1_3_2: ""
 #佩朗公国
 d_Reussia_4: "佩朗"
 c_Reussia_4_1: "诺让"
-b_Reussia_4_1_2: "布吕内莱" #(capital)
+b_Reussia_4_1_2: "布吕内莱" #Brunelles
 b_Reussia_4_1_1: ""
 b_Reussia_4_1_3: ""
-c_Reussia_4_3: "孔布勒"
-b_Reussia_4_3_1: "马尔代" #(capital)
+c_Reussia_4_3: "孔布热"
+b_Reussia_4_3_1: "马尔代" #Maldier
 b_Reussia_4_3_4: ""
 b_Reussia_4_3_2: ""
 b_Reussia_4_3_3: ""
-c_Reussia_4_2: "萨勒丁"
-b_Reussia_4_2_3: "当诺" #(capital)
+c_Reussia_4_2: "萨热丁"
+b_Reussia_4_2_3: "丹农" #Dannon
 b_Reussia_4_2_1: ""
 b_Reussia_4_2_2: ""
 c_Reussia_4_4: "沙托丹"
-b_Reussia_4_4_2: "西弗里" #(capital)
+b_Reussia_4_4_2: "西弗里" #Siphlier
 b_Reussia_4_4_3: ""
 b_Reussia_4_4_4: ""
 b_Reussia_4_4_1: ""
 #莱姆勒斯公国
 d_Reussia_6: "莱姆勒斯"
 c_Reussia_6_3: "兰瑟"
-b_Reussia_6_3_3: "库尔西" #(capital)
+b_Reussia_6_3_3: "库尔西" #Coursea
 b_Reussia_6_3_2: ""
 b_Reussia_6_3_1: ""
 b_Reussia_6_3_4: ""
-c_Reussia_6_2: "雷泰勒"
-b_Reussia_6_2_4: "芒尔" #(capital)
+c_Reussia_6_2: "泰勒"
+b_Reussia_6_2_4: "芒日" #Moniege
 b_Reussia_6_2_1: ""
 b_Reussia_6_2_3: ""
 b_Reussia_6_2_2: ""
-c_Reussia_6_1: "维尔万"
-b_Reussia_6_1_1: "利亚尔" #(capital)
+c_Reussia_6_1: "弗隆特"
+b_Reussia_6_1_1: "利亚尔" #Rial
 b_Reussia_6_1_3: ""
 b_Reussia_6_1_2: ""
 #费汶公国
 d_Reussia_3: "费汶"
 c_Reussia_3_3: "努瓦耶尔"
-b_Reussia_3_3_4: "勒夫雷" #(capital)
+b_Reussia_3_3_4: "勒夫雷" #le Flay
 b_Reussia_3_3_2: ""
 b_Reussia_3_3_1: ""
 b_Reussia_3_3_3: ""
 c_Reussia_3_1: "鲁贝利尔"
-b_Reussia_3_1_3: "埃姆" #(capital)
+b_Reussia_3_1_3: "埃姆" #Eims
 b_Reussia_3_1_2: ""
 b_Reussia_3_1_1: ""
 c_Reussia_3_2: "罗斯勒"
-b_Reussia_3_2_4: "卢赛" #(capital)
+b_Reussia_3_2_4: "卢赛" #Russe
 b_Reussia_3_2_3: ""
 b_Reussia_3_2_2: ""
 b_Reussia_3_2_1: ""
 #维吉公国
 d_Reussia_5: "维吉"
 c_Reussia_5_4: "蒂尔特"
-b_Reussia_5_4_2: "埃克" #(capital)
+b_Reussia_5_4_2: "埃克" #Ekker
 b_Reussia_5_4_1: ""
 b_Reussia_5_4_3: ""
 b_Reussia_5_4_4: ""
 c_Reussia_5_3: "卡塞勒"
-b_Reussia_5_3_4: "斯科贝克" #(capital)
+b_Reussia_5_3_4: "斯科贝克" #Scorbec
 b_Reussia_5_3_3: ""
 b_Reussia_5_3_1: ""
 b_Reussia_5_3_2: ""
-c_Reussia_5_5: "斯滕福德"
-b_Reussia_5_5_2: "伯舍普" #(capital)
+c_Reussia_5_5: "斯特恩堡"
+b_Reussia_5_5_2: "伯舍普" #Borshep
 b_Reussia_5_5_4: ""
 b_Reussia_5_5_3: ""
 b_Reussia_5_5_1: ""
 c_Reussia_5_1: "阿维那"
-b_Reussia_5_1_3: "莫伯日" #(capital)
+b_Reussia_5_1_3: "莫伯日" #Mobre
 b_Reussia_5_1_4: ""
 b_Reussia_5_1_1: ""
 b_Reussia_5_1_2: ""
-c_Reussia_5_2: "沙勒维尔"
-b_Reussia_5_2_2: "勒万" #(capital)
+c_Reussia_5_2: "夏维尔"
+b_Reussia_5_2_2: "勒万" #le Van
 b_Reussia_5_2_3: ""
 b_Reussia_5_2_1: ""
