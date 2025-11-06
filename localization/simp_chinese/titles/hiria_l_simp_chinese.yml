@@ -449,13 +449,121 @@ d_Dulhecht_2: "费勒佐讷"
 d_Dulhecht_3: "诺德陶因"
 d_Dulhecht_4: "伊默坎普"
 d_Dulhecht_5: "西尔巴赫伦"
+
+#Sud
 k_Sud: "南省"
-d_Sud_1: "大科维尔"
-d_Sud_2: "诺武孔泰"
+
 d_Sud_3: "埃斯图辛"
-d_Sud_4: "罗辛诺瓦"
-d_Sud_5: "苏尔松"
+c_Sud_3_4: "科林托"
+b_Sud_3_4_1: "" #(capital)
+b_Sud_3_4_2: ""
+c_Sud_3_3: "科尔维"
+b_Sud_3_3_1: "" #(capital)
+c_Sud_3_2: "索曼"
+b_Sud_3_2_1: "" #(capital)
+b_Sud_3_2_2: ""
+c_Sud_3_1: "阿努埃尔"
+b_Sud_3_1_2: "" #(capital)
+b_Sud_3_1_1: ""
+c_Sud_3_5: "博纳克斯"
+b_Sud_3_5_3: "" #(capital)
+b_Sud_3_5_2: ""
+b_Sud_3_5_1: ""
+
+d_Sud_2: "诺武孔泰"
+c_Sud_2_4: "塞施维尔"
+b_Sud_2_4_3: "" #(capital)
+b_Sud_2_4_4: ""
+b_Sud_2_4_1: ""
+b_Sud_2_4_2: ""
+c_Sud_2_3: "唐凡"
+b_Sud_2_3_1: "" #(capital)
+b_Sud_2_3_2: ""
+b_Sud_2_3_3: ""
+c_Sud_2_2: "苏弗莱什"
+b_Sud_2_2_2: "" #(capital)
+b_Sud_2_2_3: ""
+b_Sud_2_2_1: ""
+c_Sud_2_1: "彭特菲"
+b_Sud_2_1_3: "" #(capital)
+b_Sud_2_1_4: ""
+b_Sud_2_1_2: ""
+b_Sud_2_1_1: ""
+
+d_Sud_1: "大科维尔"
+c_Sud_1_3: "苏勒申"
+b_Sud_1_3_2: "" #(capital)
+b_Sud_1_3_3: ""
+b_Sud_1_3_4: ""
+b_Sud_1_3_1: ""
+c_Sud_1_4: "里尔斯"
+b_Sud_1_4_2: "" #(capital)
+b_Sud_1_4_1: ""
+b_Sud_1_4_3: ""
+b_Sud_1_4_4: ""
+c_Sud_1_2: "利尚"
+b_Sud_1_2_1: "" #(capital)
+b_Sud_1_2_4: ""
+b_Sud_1_2_3: ""
+b_Sud_1_2_2: ""
+c_Sud_1_1: "迈特库尔"
+b_Sud_1_1_4: "" #(capital)
+b_Sud_1_1_3: ""
+b_Sud_1_1_2: ""
+b_Sud_1_1_1: ""
+
 d_Sud_6: "外丰德雷斯"
+c_Sud_6_2: "富勒奎尔"
+b_Sud_6_2_4: "" #(capital)
+b_Sud_6_2_1: ""
+b_Sud_6_2_3: ""
+b_Sud_6_2_2: ""
+c_Sud_6_1: "兰伯特"
+b_Sud_6_1_2: "" #(capital)
+b_Sud_6_1_1: ""
+b_Sud_6_1_3: ""
+
+d_Sud_4: "罗辛诺瓦"
+c_Sud_4_2: "伊加利库尔"
+b_Sud_4_2_3: "" #(capital)
+b_Sud_4_2_2: ""
+b_Sud_4_2_4: ""
+b_Sud_4_2_1: ""
+c_Sud_4_4: "帕勒萨布"
+b_Sud_4_4_3: "" #(capital)
+b_Sud_4_4_4: ""
+b_Sud_4_4_1: ""
+b_Sud_4_4_2: ""
+c_Sud_4_3: "格兰布什"
+b_Sud_4_3_1: "" #(capital)
+b_Sud_4_3_3: ""
+b_Sud_4_3_4: ""
+b_Sud_4_3_2: ""
+c_Sud_4_1: "宾讷维尔"
+b_Sud_4_1_2: "" #(capital)
+b_Sud_4_1_3: ""
+b_Sud_4_1_1: ""
+b_Sud_4_1_4: ""
+
+d_Sud_5: "苏尔松"
+c_Sud_5_2: "拉苏热"
+b_Sud_5_2_2: "" #(capital)
+b_Sud_5_2_3: ""
+b_Sud_5_2_1: ""
+c_Sud_5_3: "内丰德雷斯"
+b_Sud_5_3_2: "" #(capital)
+b_Sud_5_3_3: ""
+b_Sud_5_3_1: ""
+c_Sud_5_1: "蒙特库尔"
+b_Sud_5_1_4: "" #(capital)
+b_Sud_5_1_3: ""
+b_Sud_5_1_1: ""
+b_Sud_5_1_2: ""
+c_Sud_5_4: "维特努"
+b_Sud_5_4_3: "" #(capital)
+b_Sud_5_4_4: ""
+b_Sud_5_4_1: ""
+b_Sud_5_4_2: ""
 
 #Epine_1
 #Epine_1_1
@@ -474,7 +582,7 @@ b_Epine_4_2_2: ""
 b_Epine_4_2_3: ""
 c_Epine_4_3: "弗莱梅" #Flemm
 b_Epine_4_3_1: ""
-b_Epine_4_3_2: "万德维尔" #Vendreville
+b_Epine_4_3_2: "维尔万德" #Villevendre
 b_Epine_4_3_3: ""
 b_Epine_4_3_4: ""
 c_Epine_4_4: "奥特让"
@@ -524,7 +632,7 @@ c_Epine_1_2: "法雷斯"
 b_Epine_1_2_1: ""
 b_Epine_1_2_2: ""
 b_Epine_1_2_3: "多尔莫瓦" #Dormoi
-c_Epine_1_3: "莱斯诺维尔"
+c_Epine_1_3: "维尔德莱斯诺"
 b_Epine_1_3_1: ""
 b_Epine_1_3_2: ""
 b_Epine_1_3_3: "蒙蒂拉" #Montilla
@@ -579,7 +687,7 @@ b_Dejois_1_3_1: "" #(capital)
 b_Dejois_1_3_2: ""
 b_Dejois_1_3_3: ""
 c_Dejois_1_4: "迪涅塞"
-b_Dejois_1_4_3: "马尔维尔" #Marville
+b_Dejois_1_4_3: "维尔马尔" #Villemar
 b_Dejois_1_4_2: ""
 b_Dejois_1_4_1: ""
 c_Dejois_1_1: "勒维尔"
@@ -624,7 +732,7 @@ c_Dejois_2_1: "希瑙"
 b_Dejois_2_1_1: "" #(capital)
 b_Dejois_2_1_3: ""
 b_Dejois_2_1_2: ""
-c_Dejois_2_2: "拉娜维尔"
+c_Dejois_2_2: "维尔拉娜"
 b_Dejois_2_2_3: "" #(capital)
 b_Dejois_2_2_2: ""
 b_Dejois_2_2_1: ""
@@ -639,8 +747,8 @@ b_Dejois_2_4_1: "" #(capital)
 b_Dejois_2_4_2: ""
 b_Dejois_2_4_3: ""
 
-d_Dejois_5: "莫唐维尔"
-c_Dejois_5_1: "豪维尔"
+d_Dejois_5: "维尔莫唐"
+c_Dejois_5_1: "维尔豪特"
 b_Dejois_5_1_3: "" #(capital)
 b_Dejois_5_1_4: ""
 b_Dejois_5_1_2: ""
@@ -650,7 +758,7 @@ b_Dejois_5_2_4: "" #(capital)
 b_Dejois_5_2_3: ""
 b_Dejois_5_2_1: ""
 b_Dejois_5_2_2: ""
-c_Dejois_5_5: "科尔萨维"
+c_Dejois_5_5: "布玛格"
 b_Dejois_5_5_2: "" #(capital)
 b_Dejois_5_5_3: ""
 b_Dejois_5_5_1: ""
@@ -658,7 +766,7 @@ c_Dejois_5_4: "布兰刻尔克"
 b_Dejois_5_4_1: "" #(capital)
 b_Dejois_5_4_2: ""
 b_Dejois_5_4_3: ""
-c_Dejois_5_3: "布玛格"
+c_Dejois_5_3: "布鲁福"
 b_Dejois_5_3_2: "" #(capital)
 b_Dejois_5_3_5: ""
 b_Dejois_5_3_4: ""
@@ -921,7 +1029,7 @@ b_Reussia_5_1_3: "莫伯日" #Mobre
 b_Reussia_5_1_4: ""
 b_Reussia_5_1_1: ""
 b_Reussia_5_1_2: ""
-c_Reussia_5_2: "夏维尔"
+c_Reussia_5_2: "维尔德夏"
 b_Reussia_5_2_2: "勒万" #le Van
 b_Reussia_5_2_3: ""
 b_Reussia_5_2_1: ""
