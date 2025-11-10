@@ -237,10 +237,87 @@ a_fey = {
 	culture = gollowynian
 }
 
-#埃匹内家族列表
+#Sud
+de_la_ville = {
+	prefix = dynnp_de
+	name = dynn_la_ville
+	culture = suditsh
+}
 
-#克莱内家族设置
+#Epine
 kleine = {
 	name = dynn_kleine
-	culture = platianD
+	culture = platian
+}
+
+ryan = {
+	name = dynn_ryan
+	culture = high_hirian
+}
+
+sundre = {
+	name = dynn_sundre
+	culture = platian
+}
+
+merrick = {
+	name = dynn_merrick
+	culture = north_hirian
+}
+
+#Dejois
+tacimer = {
+	name = dynn_tacimer
+	culture = high_hirian
+}
+
+gawley = {
+	name = dynn_gawley
+	culture = high_hirian
+}
+
+carlon = {
+	name = dynn_carlon
+	culture = suditish
+}
+
+wade = {
+	name = dynn_wade
+	culture = banlian
+}
+
+sirrland = {
+	name = dynn_sirrland
+	culture = south_hirian
+}
+
+#Reussia
+marley = {
+	name = dynn_marley
+	culture = high_hirian
+}
+
+samreuss = {
+	name = dynn_samreuss
+	culture = dejois
+}
+
+trathairn = {
+	name = dynn_trathairn
+	culture = south_hirian
+}
+
+feller = {
+	name = dynn_feller
+	culture = banlian
+}
+
+boure = {
+	name = dynn_boure
+	culture = banlian
+}
+
+landrey = {
+	name = dynn_landrey
+	culture = banlian
 }

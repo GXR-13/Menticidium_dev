@@ -11,13 +11,15 @@ Epine_2 = {
 	name = "Fenetto" #费内托·瑞安
 	culture = high_hirian
 	religion = imperial_verita
+	dynasty = ryan
 	698.2.1 = { birth = yes }
 }
 
 Epine_3 = {
 	name = "Eadgar" #埃德加·桑德
-	culture = high_hirian
+	culture = south_hirian
 	religion = imperial_verita
+	dynasty = sundre
 	698.2.1 = { birth = yes }
 }
 
@@ -25,6 +27,7 @@ Epine_4 = {
 	name = "Hoven" #霍文·克莱内
 	culture = platian
 	religion = imperial_verita
+	dynasty = kleine
 	698.2.1 = { birth = yes }
 }
 
@@ -32,12 +35,14 @@ Epine_5 = {
 	name = "Wilbur" #威尔伯·瑞安
 	culture = high_hirian
 	religion = imperial_verita
+	dynasty = ryan
 	698.2.1 = { birth = yes }
 }
 
 Epine_6 = {
-	name = "Siegfried" #西格弗里德·梅里克
-	culture = platian
+	name = "Sigurd" #西古尔德·梅里克
+	culture = north_hirian
 	religion = imperial_verita
+	dynasty = merrick
 	698.2.1 = { birth = yes }
 }

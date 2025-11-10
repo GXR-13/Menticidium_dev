@@ -1,8 +1,9 @@
 ﻿#留西亚地区
 Reussia_1 = {
-	name = "Abel" #埃布尔·卡尔
-	culture = high_hirian
+	name = "Abel" #埃布尔·卡隆
+	culture = south_hirian
 	religion = imperial_verita
+	dynasty = carlon
 	698.2.1 = { birth = yes }
 }
 
@@ -18,13 +19,15 @@ Reussia_3 = {
 	name = "Bertrand" #伯特兰·萨姆鲁斯
 	culture = gollois
 	religion = imperial_verita
+	dynasty = samreuss
 	698.2.1 = { birth = yes }
 }
 
 Reussia_4 = {
 	name = "Christophe" #克里斯托夫·崔森
-	culture = banlian
+	culture = south_hirian
 	religion = imperial_verita
+	dynasty = trathairn
 	698.2.1 = { birth = yes }
 }
 
@@ -32,20 +35,23 @@ Reussia_6 = {
 	name = "Ignace" #伊格纳斯·费勒
 	culture = banlian
 	religion = imperial_verita
+	dynasty = feller
 	698.2.1 = { birth = yes }
 }
 
 Reussia_8 = {
-	name = "Patrice" #帕特里斯·卡尔
-	culture = banlian
+	name = "Patrice" #帕特里斯·卡隆
+	culture = suditish
 	religion = imperial_verita
+	dynasty = carlon
 	698.2.1 = { birth = yes }
 }
 
 Reussia_9 = {
-	name = "Raoul" #劳尔·伯里
+	name = "Raoul" #劳尔·伯热
 	culture = banlian
 	religion = imperial_verita
+	dynasty = boure
 	698.2.1 = { birth = yes }
 }
 
@@ -53,6 +59,7 @@ Reussia_13 = {
 	name = "Ismaël" #伊斯梅尔·兰德里
 	culture = banlian
 	religion = imperial_verita
+	dynasty = landrey
 	698.2.1 = { birth = yes }
 }
 
