@@ -935,7 +935,7 @@ k_New_League = {
 
 	}
 	colored_emblem={
-		color1=yellow_light
+		color1=white
 		texture="ce_escutcheon.dds"
 		instance={
 			position={ 0.50000 0.49000 }

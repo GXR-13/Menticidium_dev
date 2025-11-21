@@ -1,0 +1,71 @@
+﻿Sud_1 = {#  
+    name = "Karl"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = mayer
+    688.3.3 = {
+        birth = yes
+    }
+}
+
+Sud_2 = {# 
+    name = "Eugene"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = voler
+    709.6.4 = {
+        birth = yes
+    }
+}
+
+Sud_3 = {# 
+    name = "Renne"
+    female = yes
+    religion = imperial_verita
+    culture = suditish
+    dynasty = de_la_ville
+    711.4.10 = {
+        birth = yes
+    }
+}
+
+Sud_4 = {# 
+    name = "William"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = ryan
+    680.5.12 = {
+        birth = yes
+    }
+}
+
+Sud_5 = {# 
+    name = "Alan"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = prestre
+    712.3.30 = {
+        birth = yes
+    }
+}
+
+Sud_6 = {# 
+    name = "Hugo"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = wade
+    704.4.2 = {
+        birth = yes
+    }
+}
+
+Sud_7 = {# 
+    name = "Carine"
+    female = yes
+    religion = imperial_verita
+    culture = suditish
+    dynasty = martiniere
+    715.3.1 = {
+        birth = yes
+    }
+}

@@ -1,4 +1,644 @@
-﻿#New League
+﻿k_Sud = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_1 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_4 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_1_3 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_1_4 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_4_2 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_4_4 = {
+    719.7.27 = {
+        holder = Sud_1
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_2 = {
+    738.10.29 = {
+        holder = Sud_2
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_2_1 = {
+    738.10.29 = {
+        holder = Sud_2
+    }
+
+    741.1.1 = {
+        liege = d_Sud_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_2_2 = {
+    738.10.29 = {
+        holder = Sud_2
+    }
+
+    741.1.1 = {
+        liege = d_Sud_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_2_3 = {
+    738.10.29 = {
+        holder = Sud_2
+    }
+
+    741.1.1 = {
+        liege = d_Sud_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_2_4 = {
+    738.10.29 = {
+        holder = Sud_2
+    }
+
+    741.1.1 = {
+        liege = d_Sud_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_3 = {
+    740.1.12 = {
+        holder = Sud_3
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_3_1 = {
+    740.1.12 = {
+        holder = Sud_3
+    }
+
+    741.1.1 = {
+        liege = d_Sud_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_3_2 = {
+    740.1.12 = {
+        holder = Sud_3
+    }
+
+    741.1.1 = {
+        liege = d_Sud_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_3_3 = {
+    740.1.12 = {
+        holder = Sud_3
+    }
+
+    741.1.1 = {
+        liege = d_Sud_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_3_4 = {
+    740.1.12 = {
+        holder = Sud_3
+    }
+
+    741.1.1 = {
+        liege = d_Sud_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_5 = {
+    730.12.25 = {
+        holder = Sud_4
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_5_1 = {
+    730.12.25 = {
+        holder = Sud_4
+    }
+
+    741.1.1 = {
+        liege = d_Sud_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_5_2 = {
+    730.12.25 = {
+        holder = Sud_4
+    }
+
+    741.1.1 = {
+        liege = d_Sud_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_5_3 = {
+    730.12.25 = {
+        holder = Sud_4
+    }
+
+    741.1.1 = {
+        liege = d_Sud_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_5_4 = {
+    730.12.25 = {
+        holder = Sud_4
+    }
+
+    741.1.1 = {
+        liege = d_Sud_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Sud_6 = {
+    738.5.21 = {
+        holder = Sud_5
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_6_1 = {
+    738.5.21 = {
+        holder = Sud_5
+    }
+
+    741.1.1 = {
+        liege = d_Sud_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_6_2 = {
+    738.5.21 = {
+        holder = Sud_5
+    }
+
+    741.1.1 = {
+        liege = d_Sud_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_1_2 = {
+    724.3.19 = {
+        holder = Sud_6
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_1_1 = {
+    724.3.19 = {
+        holder = Sud_6
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_4_3 = {
+    736.5.17 = {
+        holder = Sud_7
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Sud_4_1 = {
+    736.5.17 = {
+        holder = Sud_7
+    }
+
+    741.1.1 = {
+        liege = k_Sud
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+
+
+#New League
 c_Sud_3_5 = {
     718.3.21 = {
         holder = New_League_1

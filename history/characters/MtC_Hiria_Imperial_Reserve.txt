@@ -10,6 +10,8 @@
 
 Imperial_Preserve_2 = {# 
     name = "Rudolph"
+    trait = twin
+    father = Sud_1
     religion = imperial_verita
     culture = north_hirian
     dynasty = mayer
@@ -20,6 +22,8 @@ Imperial_Preserve_2 = {#
 
 Imperial_Preserve_3 = {# 
     name = "Albert"
+    trait = twin
+    father = Sud_1
     religion = imperial_verita
     culture = north_hirian
     dynasty = mayer
