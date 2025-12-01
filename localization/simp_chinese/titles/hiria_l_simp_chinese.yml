@@ -888,22 +888,252 @@ b_Gollowyn_5_4_1: "" #(capital)
 b_Gollowyn_5_4_2: ""
 b_Gollowyn_5_4_3: ""
 
+#Almaria
 k_Almaria: "阿马利亚"
-d_Almaria_1: "锡尼斯特拉"
+
 d_Almaria_2: "阿齐恩达"
+c_Almaria_2_1: "卢米"
+b_Almaria_2_1_4: "" #(capital)
+b_Almaria_2_1_3: ""
+b_Almaria_2_1_1: ""
+b_Almaria_2_1_2: ""
+c_Almaria_2_3: "诺拉塔"
+b_Almaria_2_3_2: "" #(capital)
+b_Almaria_2_3_1: ""
+b_Almaria_2_3_4: ""
+b_Almaria_2_3_3: ""
+c_Almaria_2_2: "利瓦佛得"
+b_Almaria_2_2_4: "" #(capital)
+b_Almaria_2_2_1: ""
+b_Almaria_2_2_2: ""
+b_Almaria_2_2_3: ""
+
+d_Almaria_1: "锡尼斯特拉"
+c_Almaria_1_1: "贝斯提亚"
+b_Almaria_1_1_3: "" #(capital)
+b_Almaria_1_1_2: ""
+b_Almaria_1_1_1: ""
+c_Almaria_1_2: "卢那波利"
+b_Almaria_1_2_2: "" #(capital)
+b_Almaria_1_2_1: ""
+b_Almaria_1_2_3: ""
+c_Almaria_1_3: "科尔西亚"
+b_Almaria_1_3_2: "" #(capital)
+b_Almaria_1_3_3: ""
+b_Almaria_1_3_1: ""
+
 d_Almaria_3: "萨卢塔"
-d_Almaria_4: "切诺尼亚"
+c_Almaria_3_1: "阿奎波塔"
+b_Almaria_3_1_3: "" #(capital)
+b_Almaria_3_1_1: ""
+b_Almaria_3_1_2: ""
+b_Almaria_3_1_4: ""
+c_Almaria_3_2: "玛卢乔"
+b_Almaria_3_2_2: "" #(capital)
+b_Almaria_3_2_1: ""
+b_Almaria_3_2_3: ""
+b_Almaria_3_2_4: ""
+c_Almaria_3_3: "利瓦加拉"
+b_Almaria_3_3_1: "" #(capital)
+b_Almaria_3_3_4: ""
+b_Almaria_3_3_3: ""
+b_Almaria_3_3_2: ""
+c_Almaria_3_4: "凡戈"
+b_Almaria_3_4_2: "" #(capital)
+b_Almaria_3_4_1: ""
+b_Almaria_3_4_3: ""
+
 d_Almaria_5: "韦诺维奥莱特"
+c_Almaria_5_3: "奥西亚"
+b_Almaria_5_3_3: "" #(capital)
+b_Almaria_5_3_1: ""
+b_Almaria_5_3_2: ""
+c_Almaria_5_1: "纽玛歇"
+b_Almaria_5_1_2: "" #(capital)
+b_Almaria_5_1_3: ""
+b_Almaria_5_1_1: ""
+c_Almaria_5_2: "德塞勒"
+b_Almaria_5_2_3: "" #(capital)
+b_Almaria_5_2_4: ""
+b_Almaria_5_2_2: ""
+b_Almaria_5_2_1: ""
+
 d_Almaria_6: "乌尼内文特"
+c_Almaria_6_2: "富瓦松"
+b_Almaria_6_2_4: "" #(capital)
+b_Almaria_6_2_3: ""
+b_Almaria_6_2_2: ""
+b_Almaria_6_2_1: ""
+c_Almaria_6_3: "崔森努"
+b_Almaria_6_3_4: "" #(capital)
+b_Almaria_6_3_3: ""
+b_Almaria_6_3_2: ""
+b_Almaria_6_3_1: ""
+c_Almaria_6_1: "永布"
+b_Almaria_6_1_1: "" #(capital)
+b_Almaria_6_1_2: ""
+b_Almaria_6_1_3: ""
+
+d_Almaria_4: "切诺尼亚"
+c_Almaria_4_1: "奥尔托卡布"
+b_Almaria_4_1_3: "" #(capital)
+b_Almaria_4_1_1: ""
+b_Almaria_4_1_4: ""
+b_Almaria_4_1_2: ""
+c_Almaria_4_3: "法塔"
+b_Almaria_4_3_1: "" #(capital)
+b_Almaria_4_3_3: ""
+b_Almaria_4_3_2: ""
+c_Almaria_4_2: "里贝拉"
+b_Almaria_4_2_4: "" #(capital)
+b_Almaria_4_2_3: ""
+b_Almaria_4_2_2: ""
+b_Almaria_4_2_1: ""
+c_Almaria_4_4: "索伯勒"
+b_Almaria_4_4_2: "" #(capital)
+b_Almaria_4_4_4: ""
+b_Almaria_4_4_3: ""
+b_Almaria_4_4_1: ""
+
+#Torquia
 k_Torquia: "托尔奎亚"
-d_Torquia_1: "贝内卢乔"
+
 d_Torquia_2: "乌米迪托"
-d_Torquia_3: "贝雷扎"
-d_Torquia_4: "玛蒂诺"
-d_Torquia_5: "南卡尔多"
+c_Torquia_2_1: "雷焦翁达"
+b_Torquia_2_1_4: "" #(capital)
+b_Torquia_2_1_3: ""
+b_Torquia_2_1_2: ""
+b_Torquia_2_1_1: ""
+c_Torquia_2_3: "米诺塞尔瓦"
+b_Torquia_2_3_1: "" #(capital)
+b_Torquia_2_3_2: ""
+b_Torquia_2_3_3: ""
+c_Torquia_2_2: "埃斯塔特"
+b_Torquia_2_2_2: "" #(capital)
+b_Torquia_2_2_1: ""
+b_Torquia_2_2_3: ""
+b_Torquia_2_2_4: ""
+
 d_Torquia_6: "斯特莱多"
+c_Torquia_6_2: "萨雷利查"
+b_Torquia_6_2_2: "" #(capital)
+b_Torquia_6_2_4: ""
+b_Torquia_6_2_3: ""
+b_Torquia_6_2_1: ""
+c_Torquia_6_1: "萨塞迪德拉戈"
+b_Torquia_6_1_3: "" #(capital)
+b_Torquia_6_1_4: ""
+b_Torquia_6_1_2: ""
+b_Torquia_6_1_1: ""
+c_Torquia_6_3: "阿库贝拉"
+b_Torquia_6_3_3: "" #(capital)
+b_Torquia_6_3_4: ""
+b_Torquia_6_3_2: ""
+b_Torquia_6_3_1: ""
+
+d_Torquia_4: "玛蒂诺"
+c_Torquia_4_1: "塞特波利"
+b_Torquia_4_1_2: "" #(capital)
+b_Torquia_4_1_1: ""
+b_Torquia_4_1_4: ""
+b_Torquia_4_1_3: ""
+c_Torquia_4_2: "卡波卡瓦"
+b_Torquia_4_2_2: "" #(capital)
+b_Torquia_4_2_1: ""
+b_Torquia_4_2_3: ""
+b_Torquia_4_2_4: ""
+c_Torquia_4_4: "阿罗讷"
+b_Torquia_4_4_1: "" #(capital)
+b_Torquia_4_4_3: ""
+b_Torquia_4_4_2: ""
+c_Torquia_4_3: "洛讷"
+b_Torquia_4_3_1: "" #(capital)
+b_Torquia_4_3_2: ""
+b_Torquia_4_3_3: ""
+
+d_Torquia_1: "贝内卢乔"
+c_Torquia_1_2: "塞尔塔佛得"
+b_Torquia_1_2_2: "" #(capital)
+b_Torquia_1_2_3: ""
+b_Torquia_1_2_1: ""
+c_Torquia_1_1: "泰拉庞特"
+b_Torquia_1_1_1: "" #(capital)
+b_Torquia_1_1_2: ""
+b_Torquia_1_1_3: ""
+b_Torquia_1_1_4: ""
+c_Torquia_1_3: "罗萨"
+b_Torquia_1_3_1: "" #(capital)
+b_Torquia_1_3_3: ""
+b_Torquia_1_3_2: ""
+b_Torquia_1_3_4: ""
+
+d_Torquia_3: "贝雷扎"
+c_Torquia_3_1: "特雷卢梅"
+b_Torquia_3_1_2: "" #(capital)
+b_Torquia_3_1_1: ""
+b_Torquia_3_1_4: ""
+b_Torquia_3_1_3: ""
+c_Torquia_3_2: "卢斯特里亚"
+b_Torquia_3_2_3: "" #(capital)
+b_Torquia_3_2_1: ""
+b_Torquia_3_2_2: ""
+c_Torquia_3_3: "夸得罗加"
+b_Torquia_3_3_2: "" #(capital)
+b_Torquia_3_3_1: ""
+b_Torquia_3_3_4: ""
+b_Torquia_3_3_3: ""
+
 d_Torquia_7: "北卡尔多"
+c_Torquia_7_2: "特雷卡萨"
+b_Torquia_7_2_3: "" #(capital)
+b_Torquia_7_2_2: ""
+b_Torquia_7_2_4: ""
+b_Torquia_7_2_1: ""
+c_Torquia_7_3: "乔伊亚"
+b_Torquia_7_3_2: "" #(capital)
+b_Torquia_7_3_1: ""
+b_Torquia_7_3_3: ""
+c_Torquia_7_1: "泰拉费马"
+b_Torquia_7_1_2: "" #(capital)
+b_Torquia_7_1_3: ""
+b_Torquia_7_1_1: ""
+
 d_Torquia_8: "上卡尔多"
+c_Torquia_8_1: "卢米诺萨"
+b_Torquia_8_1_3: "" #(capital)
+b_Torquia_8_1_1: ""
+b_Torquia_8_1_4: ""
+b_Torquia_8_1_2: ""
+c_Torquia_8_4: "奥索伦特"
+b_Torquia_8_4_3: "" #(capital)
+b_Torquia_8_4_1: ""
+b_Torquia_8_4_2: ""
+b_Torquia_8_4_4: ""
+c_Torquia_8_3: "卡皮奥罗"
+b_Torquia_8_3_3: "" #(capital)
+b_Torquia_8_3_2: ""
+b_Torquia_8_3_1: ""
+c_Torquia_8_2: "瑞安尼亚"
+b_Torquia_8_2_2: "" #(capital)
+b_Torquia_8_2_4: ""
+b_Torquia_8_2_1: ""
+b_Torquia_8_2_3: ""
+
+d_Torquia_5: "南卡尔多"
+c_Torquia_5_1: "图沃诺"
+b_Torquia_5_1_2: "" #(capital)
+b_Torquia_5_1_1: ""
+b_Torquia_5_1_3: ""
+c_Torquia_5_3: "帕萨乔"
+b_Torquia_5_3_3: "" #(capital)
+b_Torquia_5_3_2: ""
+b_Torquia_5_3_4: ""
+b_Torquia_5_3_1: ""
+c_Torquia_5_2: "马尔齐亚"
+b_Torquia_5_2_3: "" #(capital)
+b_Torquia_5_2_1: ""
+b_Torquia_5_2_2: ""
+b_Torquia_5_2_4: ""
 
 #Reussia_1
 #Reussia_1_1
