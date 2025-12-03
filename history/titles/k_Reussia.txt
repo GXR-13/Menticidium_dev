@@ -1,5 +1,5 @@
 ﻿#k_Epine = {
-#    100.1.1 = {liege = e_Hiria}
+#    100.1.1 = {liege = h_Hiria}
 #    700.1.1 = {holder= xxx}
 #    741.1.1 = {holder = yyy}
 #}
@@ -26,7 +26,7 @@ k_Reussia = {
         holder = Reussia_1
     }
     741.1.1 = {
-        liege = e_Hiria
+        liege = h_Hiria
     }
 }
 

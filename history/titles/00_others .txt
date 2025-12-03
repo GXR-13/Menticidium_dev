@@ -1,7 +1,7 @@
 ﻿#Empires
 
 ##Hirian 
-e_Hiria = {
+h_Hiria = {
 	1.1.1 = {
 		government = administrative_government
 		succession_laws = {
@@ -62,7 +62,7 @@ k_New_League = {
         holder = New_League_1
     }
     741.1.1 = {
-        liege = e_Hiria
+        liege = h_Hiria
 		government = republic_government
     }
 }
@@ -73,7 +73,7 @@ k_Aqueporta = {
     }
 
     741.1.1 = {
-        liege = e_Hiria
+        liege = h_Hiria
         government = administrative_government
         effect = {
             if = {

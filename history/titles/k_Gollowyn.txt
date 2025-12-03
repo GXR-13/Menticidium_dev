@@ -14,7 +14,7 @@ k_Gollowyn = {
     }
 
     741.1.1 = {
-        liege = e_Hiria
+        liege = h_Hiria
         government = administrative_government
         effect = {
             if = {

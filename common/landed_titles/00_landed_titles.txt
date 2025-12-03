@@ -3,7 +3,7 @@
 @always_primary_score = 1000
 @never_primary_score = -1000
 
-e_Hiria = {
+h_Hiria = {
     color = { 234 234 234 }
 
     capital = c_High_Hiria_1_3

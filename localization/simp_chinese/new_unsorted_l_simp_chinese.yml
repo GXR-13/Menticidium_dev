@@ -7,9 +7,9 @@
  test_1_loc: "[Glossary( '长生的', 'LONG_LIVED_ESMAEL_GLOSS' )][GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]"
  LONG_LIVED_ESMAEL_GLOSS: "[GetPlayer.Custom('gloss_long_lived_esmael_dynamic')]"
  gloss_unknown: "你尚且不了解这个概念。"
- gloss_long_lived_esmael_imperial: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结。他的长寿对帝国人民来讲是自然的常识。"
- gloss_long_lived_esmael_question: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——可如果帝国和它的统治者摒弃神明的力量，[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]又怎能拥有如此漫长的寿命？更奇怪的是，为何帝国中人人都对此视而不见？"
- gloss_long_lived_esmael_revealed: "$e_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——他的长寿源自【已删改】。尽管【已删改】，人们仍然【已删改】。最终，身居高位的[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]【已删改】：尽管他本不愿，却被【已删改】，成为了【已删改】。"
+ gloss_long_lived_esmael_imperial: "$h_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结。他的长寿对帝国人民来讲是自然的常识。"
+ gloss_long_lived_esmael_question: "$h_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——可如果帝国和它的统治者摒弃神明的力量，[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]又怎能拥有如此漫长的寿命？更奇怪的是，为何帝国中人人都对此视而不见？"
+ gloss_long_lived_esmael_revealed: "$h_Hiria$的首位皇帝[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]统治了数百年，直到他寿命的终结——他的长寿源自【已删改】。尽管【已删改】，人们仍然【已删改】。最终，身居高位的[GetScriptedCharacterByHistoryID( 'Hiria_h_1' ).GetFirstName]【已删改】：尽管他本不愿，却被【已删改】，成为了【已删改】。"
  Esmael: "埃斯迈尔"
  dynn_failin: "费林"
 
@@ -61,7 +61,7 @@
  THE_EAST_GLOSS: "对德维利亚的俗称。"
 
  MtC_demo.2.t: "山中暗影"
- MtC_demo.2.desc: "这些矿工的口音与我近来熟悉的德维利亚语言并不相同。他们是外来者。领头的那人告诉我，他带领的这支队伍来自[GetTitleByKey('e_Hiria').GetBaseNameNoTier]的[GetTitleByKey('k_Waltenland').GetBaseNameNoTier]行省——似乎近些年来有许多帝国人来到这里，山中寻宝貌似是一门火热的生意。\n\n当我问起他们日常的活计时，这些人却全都闭口不谈。在山中的工作就好像一种禁忌，无论是从中获利的贵族还是在洞窟中出入的矿工都不愿对此多谈。“石头，还有黑暗。”有几个人敷衍了事地向我回答。\n\n可他们的行头却暗示着更丰富的故事。这些“穿山者”——他们穿戴着覆盖全身的锁甲，戴着金属头盔。他们手中的工具比起矿镐更像是战锤，有些人还手持可以刺穿铠甲的尖锥。很明显，这里的矿工和我在家乡所熟知的那种大不相同……"
+ MtC_demo.2.desc: "这些矿工的口音与我近来熟悉的德维利亚语言并不相同。他们是外来者。领头的那人告诉我，他带领的这支队伍来自[GetTitleByKey('h_Hiria').GetBaseNameNoTier]的[GetTitleByKey('k_Waltenland').GetBaseNameNoTier]行省——似乎近些年来有许多帝国人来到这里，山中寻宝貌似是一门火热的生意。\n\n当我问起他们日常的活计时，这些人却全都闭口不谈。在山中的工作就好像一种禁忌，无论是从中获利的贵族还是在洞窟中出入的矿工都不愿对此多谈。“石头，还有黑暗。”有几个人敷衍了事地向我回答。\n\n可他们的行头却暗示着更丰富的故事。这些“穿山者”——他们穿戴着覆盖全身的锁甲，戴着金属头盔。他们手中的工具比起矿镐更像是战锤，有些人还手持可以刺穿铠甲的尖锥。很明显，这里的矿工和我在家乡所熟知的那种大不相同……"
  MtC_demo.2.a: "真是有趣。"
  MtC_demo.2.b: "山里面到底有什么？我一定要知道。"
 
@@ -335,8 +335,8 @@ language_valley_ludian_name: "谷地卢齐语"
 language_eastern_di_name: "翟人语"
 language_eastern_li_name: "离人语"
 #传承
-heritage_hirian_name: "希里亚"
-heritage_hirian_collective_noun: "希里亚"
+heritagh_Hirian_name: "希里亚"
+heritagh_Hirian_collective_noun: "希里亚"
 
 heritage_hynian_name: "海尼亚"
 heritage_hynian_collective_noun: "海尼亚"

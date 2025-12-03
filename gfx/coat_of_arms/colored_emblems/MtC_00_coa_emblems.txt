@@ -32,8 +32,8 @@ ce_imperial_aster.dds = { colors = 1 category = imperial }
 ce_imperial_aster_bold.dds = { colors = 1 category = imperial }
 ce_imperial_prume.dds = { colors = 2 category = imperial }
 ce_league_red_tower.dds = { colors = 2 category = imperial }
-ce_hirianne_2_colors.dds = { colors = 2 category = imperial }
-ce_hirianne_3_colors.dds = { colors = 3 category = imperial }
+ch_Hirianne_2_colors.dds = { colors = 2 category = imperial }
+ch_Hirianne_3_colors.dds = { colors = 3 category = imperial }
 ce_penta_halo.dds = { colors = 1 category = imperial }
 ce_penta_halo_bold.dds = { colors = 1 category = imperial }
 ce_spoon_abstract.dds =  { colors = 1 category = imperial }

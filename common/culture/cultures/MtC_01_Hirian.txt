@@ -7,7 +7,7 @@ high_hirian = {
 	parents = { unknown1 }#diverged from ancient Hirian, also known as Occidian
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -39,7 +39,7 @@ north_hirian = {
 	parents = { manian high_hirian }#merged from ancient Manian and High Hirian
 	
 	ethos = ethos_stoic
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -71,7 +71,7 @@ south_hirian = {
 	parents = { old_banlian high_hirian }#merged from ancient Banlian and High Hirian
 	
 	ethos = ethos_courtly
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -103,7 +103,7 @@ green_hirian = {
 	parents = { frindi high_hirian }#Assimilated Fridi
 	
 	ethos = ethos_spiritual
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -135,7 +135,7 @@ concordian = {
 	parents = { unknown1 }#ancient Hirian
 	
 	ethos = ethos_communal
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -167,7 +167,7 @@ leaguemen = {
 	parents = { unknown1 unknown2 }#concordian and 'various cultures'
 	
 	ethos = ethos_egalitarian
-	heritage = heritage_hirian
+	heritage = heritagh_Hirian
 	language = language_standard_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
