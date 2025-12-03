@@ -31,7 +31,7 @@ Hiria_h_3 = { #Emilian, First of the Wise Three
 	name= "Emiliano"
 	religion = imperial_verita
 	culture = cotier
-	dynasty = di_assia
+	dynasty = de_assia
 	613.12.10 = {
 		birth = yes
 	}

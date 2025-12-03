@@ -1,0 +1,594 @@
+﻿k_Almaria = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_2 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_3 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_2_1 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_2_3 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_3_3 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_3_4 = {
+    733.9.15 = {
+        holder = Almaria_1
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_3_1 = {
+    737.12.5 = {
+        holder = Almaria_2
+    }
+
+    741.1.1 = {
+        liege = k_Aqueporta
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_3_2 = {
+    737.12.5 = {
+        holder = Almaria_2
+    }
+
+    741.1.1 = {
+        liege = k_Aqueporta
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_2_2 = {
+    737.12.5 = {
+        holder = Almaria_2
+    }
+
+    741.1.1 = {
+        liege = k_Aqueporta
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_4 = {
+    732.6.18 = {
+        holder = Almaria_3
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_4_1 = {
+    732.6.18 = {
+        holder = Almaria_3
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_4_2 = {
+    732.6.18 = {
+        holder = Almaria_3
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_4_3 = {
+    732.6.18 = {
+        holder = Almaria_3
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_4_4 = {
+    732.6.18 = {
+        holder = Almaria_3
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_5 = {
+    740.11.11 = {
+        holder = Almaria_4
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_5_1 = {
+    740.11.11 = {
+        holder = Almaria_4
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_5_2 = {
+    740.11.11 = {
+        holder = Almaria_4
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_5_3 = {
+    740.11.11 = {
+        holder = Almaria_4
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_6 = {
+    729.1.17 = {
+        holder = Almaria_5
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_6_1 = {
+    729.1.17 = {
+        holder = Almaria_5
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_6_2 = {
+    729.1.17 = {
+        holder = Almaria_5
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_6_3 = {
+    729.1.17 = {
+        holder = Almaria_5
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Almaria_1 = {
+    739.10.25 = {
+        holder = Almaria_6
+    }
+
+    741.1.1 = {
+        liege = k_Almaria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_1_1 = {
+    739.10.25 = {
+        holder = Almaria_6
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_1_2 = {
+    739.10.25 = {
+        holder = Almaria_6
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Almaria_1_3 = {
+    739.10.25 = {
+        holder = Almaria_6
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+

@@ -306,6 +306,26 @@ k_New_League = {
 	can_use_nomadic_naming = no
 }
 
+#Aqueporta
+k_Aqueporta = {
+	color = { 152 141 252 } #金金金金金
+	capital = c_Almaria_3_1
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
 #Doria Norde
 d_Lega_Norde = {
 	color = { 143 113 208 }

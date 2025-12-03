@@ -1,0 +1,62 @@
+﻿Almaria_1 = {# 
+    name = "Liam"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = jung
+    693.1.19 = {
+        birth = yes
+    }
+}
+
+Almaria_2 = {# 
+    name = "Ethel"
+    female = yes
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = de_fango
+    698.4.1 = {
+        birth = yes
+    }
+}
+
+Almaria_3 = {# 
+    name = "PE_ire-Raimond"
+    religion = imperial_verita
+    culture = cotier
+    dynasty = de_assia
+    705.4.18 = {
+        birth = yes
+    }
+}
+
+Almaria_4 = {# 
+    name = "Guiges"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = ramonda
+    701.4.29 = {
+        birth = yes
+    }
+}
+
+Almaria_5 = {# 
+    name = "TiE_rri"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = sirrland
+    704.11.27 = {
+        birth = yes
+    }
+}
+
+Almaria_6 = {# 
+    name = "Cunigunda"
+    female = yes
+    religion = imperial_verita
+    culture = cisfreddian
+    dynasty = gialla
+    703.2.23 = {
+        birth = yes
+    }
+}
+

@@ -72,8 +72,8 @@ of_ryeland = { #A traditional family originated from weisshugel
 	culture = weisslander
 }
 
-di_assia = { #Local family in Almaria
-	prefix = dynnp_di
+de_assia = { #Local family in Almaria
+	prefix = dynnp_de
 	name = dynn_assia
 	culture = cotier
 }
@@ -320,4 +320,21 @@ boure = {
 landrey = {
 	name = dynn_landrey
 	culture = banlian
+}
+
+#Almaria
+de_fango = {
+	prefix = dynnp_de
+	name = dynn_fango
+	culture = south_hirian
+}
+
+ramonda = {
+	name = dynn_ramonda
+	culture = south_hirian
+}
+
+gialla = {
+	name = dynn_gialla
+	culture = cisfreddian
 }

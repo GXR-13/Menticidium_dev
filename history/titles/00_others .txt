@@ -67,6 +67,28 @@ k_New_League = {
     }
 }
 
+k_Aqueporta = {
+    737.12.5 = {
+        holder = Almaria_2
+    }
+
+    741.1.1 = {
+        liege = e_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
 #Landless
 d_laamp_JttW = { # Ma Bowan
 	741.1.1 = {
