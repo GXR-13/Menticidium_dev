@@ -7,6 +7,90 @@
 @always_primary_score = 100000
 @never_primary_score = -1000
 
+#Hiria court titles
+##Majorpalata
+e_Office_Of_The_Palace = {
+	color = { 234 234 234 }
+
+	capital = c_High_Hiria_1_3
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+##Majorconsul
+e_Office_Of_The_Consul = {
+	color = { 234 234 234 }
+
+	capital = c_High_Hiria_1_3
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+##Magister
+e_Church_of_Communion = {
+	color = { 234 234 234 }
+
+	capital = c_High_Hiria_1_3
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
+##General Inspector
+e_Inspectorate_Of_Army = {
+	color = { 234 234 234 }
+
+	capital = c_High_Hiria_1_3
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
 #Old League
 d_Wespuria = {
 	color = { 229 65 65 } #红色
