@@ -411,44 +411,617 @@ c_Old_League_1_2: "小奥登"
 b_Old_League_1_2_2: "金霍尔" #(capital)
 b_Old_League_1_2_1: "特隆普敦"
 
+#Alben
 k_Alben: "亚贲"
+
 d_Alben_1: "黎多尔普"
+c_Alben_1_1: ""
+b_Alben_1_1_1: "" #(capital)
+b_Alben_1_1_3: ""
+b_Alben_1_1_2: ""
+c_Alben_1_2: ""
+b_Alben_1_2_1: "" #(capital)
+b_Alben_1_2_3: ""
+b_Alben_1_2_2: ""
+b_Alben_1_2_4: ""
+c_Alben_1_4: ""
+b_Alben_1_4_1: "" #(capital)
+b_Alben_1_4_3: ""
+b_Alben_1_4_4: ""
+b_Alben_1_4_2: ""
+c_Alben_1_3: ""
+b_Alben_1_3_1: "" #(capital)
+b_Alben_1_3_3: ""
+b_Alben_1_3_4: ""
+b_Alben_1_3_2: ""
+c_Alben_1_5: ""
+b_Alben_1_5_3: "" #(capital)
+b_Alben_1_5_1: ""
+b_Alben_1_5_2: ""
+
 d_Alben_2: "古腾马尔特"
+c_Alben_2_2: ""
+b_Alben_2_2_2: "" #(capital)
+b_Alben_2_2_1: ""
+b_Alben_2_2_3: ""
+c_Alben_2_1: ""
+b_Alben_2_1_2: "" #(capital)
+b_Alben_2_1_1: ""
+b_Alben_2_1_3: ""
+c_Alben_2_3: ""
+b_Alben_2_3_2: "" #(capital)
+b_Alben_2_3_1: ""
+b_Alben_2_3_3: ""
+c_Alben_2_4: ""
+b_Alben_2_4_3: "" #(capital)
+b_Alben_2_4_1: ""
+b_Alben_2_4_2: ""
+
 d_Alben_3: "巴玻法伦"
+c_Alben_3_1: ""
+b_Alben_3_1_5: "" #(capital)
+b_Alben_3_1_4: ""
+b_Alben_3_1_3: ""
+b_Alben_3_1_2: ""
+b_Alben_3_1_1: ""
+c_Alben_3_3: ""
+b_Alben_3_3_4: "" #(capital)
+b_Alben_3_3_3: ""
+b_Alben_3_3_2: ""
+b_Alben_3_3_1: ""
+c_Alben_3_5: ""
+b_Alben_3_5_3: "" #(capital)
+b_Alben_3_5_1: ""
+b_Alben_3_5_4: ""
+b_Alben_3_5_2: ""
+c_Alben_3_2: ""
+b_Alben_3_2_4: "" #(capital)
+b_Alben_3_2_3: ""
+b_Alben_3_2_2: ""
+b_Alben_3_2_1: ""
+c_Alben_3_4: ""
+b_Alben_3_4_3: "" #(capital)
+b_Alben_3_4_2: ""
+b_Alben_3_4_1: ""
+
+#Waltenland
 k_Waltenland: "瓦尔腾兰"
-d_Waltenland_1: "萨特贝格"
-d_Waltenland_2: "维特奎勒"
-d_Waltenland_3: "贝恩鲍恩"
-d_Waltenland_4: "安霍岑"
+
 d_Waltenland_5: "科鲁贝格"
+c_Waltenland_5_3: ""
+b_Waltenland_5_3_2: "" #(capital)
+b_Waltenland_5_3_1: ""
+b_Waltenland_5_3_3: ""
+c_Waltenland_5_4: ""
+b_Waltenland_5_4_2: "" #(capital)
+b_Waltenland_5_4_3: ""
+b_Waltenland_5_4_1: ""
+c_Waltenland_5_1: ""
+b_Waltenland_5_1_2: "" #(capital)
+b_Waltenland_5_1_3: ""
+b_Waltenland_5_1_1: ""
+c_Waltenland_5_2: ""
+b_Waltenland_5_2_2: "" #(capital)
+b_Waltenland_5_2_1: ""
+b_Waltenland_5_2_3: ""
+
 d_Waltenland_6: "萨尔腾"
+c_Waltenland_6_1: ""
+b_Waltenland_6_1_4: "" #(capital)
+b_Waltenland_6_1_1: ""
+b_Waltenland_6_1_2: ""
+b_Waltenland_6_1_3: ""
+c_Waltenland_6_4: ""
+b_Waltenland_6_4_1: "" #(capital)
+b_Waltenland_6_4_3: ""
+b_Waltenland_6_4_4: ""
+b_Waltenland_6_4_2: ""
+c_Waltenland_6_2: ""
+b_Waltenland_6_2_2: "" #(capital)
+b_Waltenland_6_2_4: ""
+b_Waltenland_6_2_1: ""
+b_Waltenland_6_2_3: ""
+c_Waltenland_6_3: ""
+b_Waltenland_6_3_3: "" #(capital)
+b_Waltenland_6_3_1: ""
+b_Waltenland_6_3_2: ""
+
+d_Waltenland_4: "安霍岑"
+c_Waltenland_4_3: ""
+b_Waltenland_4_3_2: "" #(capital)
+b_Waltenland_4_3_4: ""
+b_Waltenland_4_3_3: ""
+b_Waltenland_4_3_1: ""
+c_Waltenland_4_2: ""
+b_Waltenland_4_2_2: "" #(capital)
+b_Waltenland_4_2_3: ""
+b_Waltenland_4_2_1: ""
+c_Waltenland_4_1: ""
+b_Waltenland_4_1_2: "" #(capital)
+b_Waltenland_4_1_1: ""
+b_Waltenland_4_1_3: ""
+c_Waltenland_4_4: ""
+b_Waltenland_4_4_1: "" #(capital)
+b_Waltenland_4_4_3: ""
+b_Waltenland_4_4_2: ""
+
+d_Waltenland_2: "维特奎勒"
+c_Waltenland_2_2: ""
+b_Waltenland_2_2_4: "" #(capital)
+b_Waltenland_2_2_2: ""
+b_Waltenland_2_2_1: ""
+b_Waltenland_2_2_3: ""
+c_Waltenland_2_4: ""
+b_Waltenland_2_4_3: "" #(capital)
+b_Waltenland_2_4_1: ""
+b_Waltenland_2_4_4: ""
+b_Waltenland_2_4_2: ""
+c_Waltenland_2_3: ""
+b_Waltenland_2_3_3: "" #(capital)
+b_Waltenland_2_3_4: ""
+b_Waltenland_2_3_2: ""
+b_Waltenland_2_3_1: ""
+c_Waltenland_2_1: ""
+b_Waltenland_2_1_2: "" #(capital)
+b_Waltenland_2_1_4: ""
+b_Waltenland_2_1_1: ""
+b_Waltenland_2_1_3: ""
+
+d_Waltenland_3: "贝恩鲍恩"
+c_Waltenland_3_3: ""
+b_Waltenland_3_3_2: "" #(capital)
+b_Waltenland_3_3_3: ""
+b_Waltenland_3_3_1: ""
+c_Waltenland_3_1: ""
+b_Waltenland_3_1_3: "" #(capital)
+b_Waltenland_3_1_4: ""
+b_Waltenland_3_1_2: ""
+b_Waltenland_3_1_1: ""
+c_Waltenland_3_2: ""
+b_Waltenland_3_2_2: "" #(capital)
+b_Waltenland_3_2_1: ""
+b_Waltenland_3_2_3: ""
+b_Waltenland_3_2_4: ""
+c_Waltenland_3_4: ""
+b_Waltenland_3_4_2: "" #(capital)
+b_Waltenland_3_4_1: ""
+b_Waltenland_3_4_3: ""
+
+d_Waltenland_1: "萨特贝格"
+c_Waltenland_1_3: ""
+b_Waltenland_1_3_3: "" #(capital)
+b_Waltenland_1_3_2: ""
+b_Waltenland_1_3_1: ""
+c_Waltenland_1_1: ""
+b_Waltenland_1_1_3: "" #(capital)
+b_Waltenland_1_1_1: ""
+b_Waltenland_1_1_4: ""
+b_Waltenland_1_1_2: ""
+c_Waltenland_1_2: ""
+b_Waltenland_1_2_2: "" #(capital)
+b_Waltenland_1_2_1: ""
+b_Waltenland_1_2_3: ""
+
+#Weisshugel
 k_Weisshugel: "维斯胡格"
-d_Weisshugel_1: "阿本德马尔"
-d_Weisshugel_2: "米腾马克"
+
 d_Weisshugel_3: "霍亨博登"
+c_Weisshugel_3_2: ""
+b_Weisshugel_3_2_4: "" #(capital)
+b_Weisshugel_3_2_6: ""
+b_Weisshugel_3_2_1: ""
+b_Weisshugel_3_2_2: ""
+b_Weisshugel_3_2_5: ""
+b_Weisshugel_3_2_3: ""
+c_Weisshugel_3_3: ""
+b_Weisshugel_3_3_3: "" #(capital)
+b_Weisshugel_3_3_1: ""
+b_Weisshugel_3_3_4: ""
+b_Weisshugel_3_3_2: ""
+c_Weisshugel_3_1: ""
+b_Weisshugel_3_1_3: "" #(capital)
+b_Weisshugel_3_1_2: ""
+b_Weisshugel_3_1_1: ""
+c_Weisshugel_3_4: ""
+b_Weisshugel_3_4_2: "" #(capital)
+b_Weisshugel_3_4_3: ""
+b_Weisshugel_3_4_1: ""
+
+d_Weisshugel_2: "米腾马克"
+c_Weisshugel_2_3: ""
+b_Weisshugel_2_3_2: "" #(capital)
+b_Weisshugel_2_3_3: ""
+b_Weisshugel_2_3_4: ""
+b_Weisshugel_2_3_1: ""
+c_Weisshugel_2_2: ""
+b_Weisshugel_2_2_3: "" #(capital)
+b_Weisshugel_2_2_4: ""
+b_Weisshugel_2_2_2: ""
+b_Weisshugel_2_2_1: ""
+c_Weisshugel_2_1: ""
+b_Weisshugel_2_1_3: "" #(capital)
+b_Weisshugel_2_1_2: ""
+b_Weisshugel_2_1_1: ""
+
 d_Weisshugel_4: "维斯鲁厄"
+c_Weisshugel_4_3: ""
+b_Weisshugel_4_3_2: "" #(capital)
+b_Weisshugel_4_3_1: ""
+b_Weisshugel_4_3_3: ""
+b_Weisshugel_4_3_4: ""
+c_Weisshugel_4_1: ""
+b_Weisshugel_4_1_2: "" #(capital)
+b_Weisshugel_4_1_1: ""
+b_Weisshugel_4_1_4: ""
+b_Weisshugel_4_1_3: ""
+c_Weisshugel_4_4: ""
+b_Weisshugel_4_4_4: "" #(capital)
+b_Weisshugel_4_4_3: ""
+b_Weisshugel_4_4_2: ""
+b_Weisshugel_4_4_1: ""
+c_Weisshugel_4_2: ""
+b_Weisshugel_4_2_2: "" #(capital)
+b_Weisshugel_4_2_3: ""
+b_Weisshugel_4_2_4: ""
+b_Weisshugel_4_2_1: ""
+
+d_Weisshugel_1: "阿本德马尔"
+c_Weisshugel_1_4: ""
+b_Weisshugel_1_4_2: "" #(capital)
+b_Weisshugel_1_4_4: ""
+b_Weisshugel_1_4_3: ""
+b_Weisshugel_1_4_1: ""
+c_Weisshugel_1_1: ""
+b_Weisshugel_1_1_3: "" #(capital)
+b_Weisshugel_1_1_1: ""
+b_Weisshugel_1_1_4: ""
+b_Weisshugel_1_1_2: ""
+c_Weisshugel_1_2: ""
+b_Weisshugel_1_2_2: "" #(capital)
+b_Weisshugel_1_2_1: ""
+b_Weisshugel_1_2_4: ""
+b_Weisshugel_1_2_3: ""
+c_Weisshugel_1_3: ""
+b_Weisshugel_1_3_2: "" #(capital)
+b_Weisshugel_1_3_3: ""
+b_Weisshugel_1_3_4: ""
+b_Weisshugel_1_3_1: ""
+
+#Kollon
 k_Kollon: "科伦"
-d_Kollon_1: "杜夫特贝格"
-d_Kollon_2: "克罗恩鲁厄"
+
 d_Kollon_3: "伊彭兰"
+c_Kollon_3_2: ""
+b_Kollon_3_2_4: "" #(capital)
+b_Kollon_3_2_3: ""
+b_Kollon_3_2_5: ""
+b_Kollon_3_2_2: ""
+b_Kollon_3_2_1: ""
+c_Kollon_3_3: ""
+b_Kollon_3_3_2: "" #(capital)
+b_Kollon_3_3_3: ""
+b_Kollon_3_3_4: ""
+b_Kollon_3_3_1: ""
+c_Kollon_3_4: ""
+b_Kollon_3_4_3: "" #(capital)
+b_Kollon_3_4_2: ""
+b_Kollon_3_4_1: ""
+c_Kollon_3_1: ""
+b_Kollon_3_1_4: "" #(capital)
+b_Kollon_3_1_3: ""
+b_Kollon_3_1_2: ""
+b_Kollon_3_1_1: ""
+
+d_Kollon_1: "杜夫特贝格"
+c_Kollon_1_4: ""
+b_Kollon_1_4_5: "" #(capital)
+b_Kollon_1_4_3: ""
+b_Kollon_1_4_4: ""
+b_Kollon_1_4_2: ""
+b_Kollon_1_4_1: ""
+c_Kollon_1_1: ""
+b_Kollon_1_1_1: "" #(capital)
+b_Kollon_1_1_3: ""
+b_Kollon_1_1_4: ""
+b_Kollon_1_1_2: ""
+c_Kollon_1_2: ""
+b_Kollon_1_2_3: "" #(capital)
+b_Kollon_1_2_4: ""
+b_Kollon_1_2_1: ""
+b_Kollon_1_2_2: ""
+c_Kollon_1_3: ""
+b_Kollon_1_3_4: "" #(capital)
+b_Kollon_1_3_3: ""
+b_Kollon_1_3_1: ""
+b_Kollon_1_3_2: ""
+
 d_Kollon_4: "帕舍伦"
+c_Kollon_4_4: ""
+b_Kollon_4_4_2: "" #(capital)
+b_Kollon_4_4_4: ""
+b_Kollon_4_4_3: ""
+b_Kollon_4_4_1: ""
+c_Kollon_4_2: ""
+b_Kollon_4_2_3: "" #(capital)
+b_Kollon_4_2_2: ""
+b_Kollon_4_2_1: ""
+b_Kollon_4_2_4: ""
+c_Kollon_4_1: ""
+b_Kollon_4_1_3: "" #(capital)
+b_Kollon_4_1_2: ""
+b_Kollon_4_1_1: ""
+b_Kollon_4_1_4: ""
+c_Kollon_4_3: ""
+b_Kollon_4_3_3: "" #(capital)
+b_Kollon_4_3_4: ""
+b_Kollon_4_3_1: ""
+b_Kollon_4_3_2: ""
+
+d_Kollon_2: "克罗恩鲁厄"
+c_Kollon_2_1: ""
+b_Kollon_2_1_4: "" #(capital)
+b_Kollon_2_1_1: ""
+b_Kollon_2_1_3: ""
+b_Kollon_2_1_2: ""
+c_Kollon_2_3: ""
+b_Kollon_2_3_1: "" #(capital)
+b_Kollon_2_3_2: ""
+b_Kollon_2_3_3: ""
+c_Kollon_2_2: ""
+b_Kollon_2_2_4: "" #(capital)
+b_Kollon_2_2_1: ""
+b_Kollon_2_2_2: ""
+b_Kollon_2_2_3: ""
+c_Kollon_2_4: ""
+b_Kollon_2_4_4: "" #(capital)
+b_Kollon_2_4_3: ""
+b_Kollon_2_4_2: ""
+b_Kollon_2_4_1: ""
+b_Kollon_2_4_5: ""
+
+#Kiemlande
 k_Kiemlande: "金姆兰"
-d_Kiemlande_1: "赫特布鲁姆"
-d_Kiemlande_2: "特隆普瓦尔德"
-d_Kiemlande_3: "布伊斯法尔"
-d_Kiemlande_4: "伊平根"
+
 d_Kiemlande_5: "奥斯特丹"
-c_Kiemlande_5_1: "博斯特维克"
 c_Kiemlande_5_2: "埃德"
+b_Kiemlande_5_2_2: "" #(capital)
+b_Kiemlande_5_2_5: ""
+b_Kiemlande_5_2_4: ""
+b_Kiemlande_5_2_3: ""
+b_Kiemlande_5_2_1: ""
 c_Kiemlande_5_3: "罗希亚"
-d_Kiemlande_6: "雷文斯杜尔"
+b_Kiemlande_5_3_2: "" #(capital)
+b_Kiemlande_5_3_1: ""
+b_Kiemlande_5_3_3: ""
+c_Kiemlande_5_1: "博斯特维克"
+b_Kiemlande_5_1_3: "" #(capital)
+b_Kiemlande_5_1_1: ""
+b_Kiemlande_5_1_4: ""
+b_Kiemlande_5_1_2: ""
+
 d_Kiemlande_7: "皮勒多尔普"
+c_Kiemlande_7_3: ""
+b_Kiemlande_7_3_2: "" #(capital)
+b_Kiemlande_7_3_3: ""
+b_Kiemlande_7_3_1: ""
+c_Kiemlande_7_2: ""
+b_Kiemlande_7_2_1: "" #(capital)
+b_Kiemlande_7_2_3: ""
+b_Kiemlande_7_2_2: ""
+c_Kiemlande_7_1: ""
+b_Kiemlande_7_1_1: "" #(capital)
+b_Kiemlande_7_1_2: ""
+b_Kiemlande_7_1_3: ""
+b_Kiemlande_7_1_4: ""
+
+d_Kiemlande_6: "雷文斯杜尔"
+c_Kiemlande_6_5: ""
+b_Kiemlande_6_5_2: "" #(capital)
+b_Kiemlande_6_5_3: ""
+b_Kiemlande_6_5_4: ""
+b_Kiemlande_6_5_1: ""
+c_Kiemlande_6_4: ""
+b_Kiemlande_6_4_2: "" #(capital)
+b_Kiemlande_6_4_4: ""
+b_Kiemlande_6_4_3: ""
+b_Kiemlande_6_4_1: ""
+c_Kiemlande_6_3: ""
+b_Kiemlande_6_3_1: "" #(capital)
+b_Kiemlande_6_3_3: ""
+b_Kiemlande_6_3_4: ""
+b_Kiemlande_6_3_2: ""
+c_Kiemlande_6_1: ""
+b_Kiemlande_6_1_2: "" #(capital)
+b_Kiemlande_6_1_3: ""
+b_Kiemlande_6_1_1: ""
+c_Kiemlande_6_2: ""
+b_Kiemlande_6_2_4: "" #(capital)
+b_Kiemlande_6_2_2: ""
+b_Kiemlande_6_2_3: ""
+b_Kiemlande_6_2_1: ""
+
+d_Kiemlande_4: "伊平根"
+c_Kiemlande_4_3: ""
+b_Kiemlande_4_3_3: "" #(capital)
+b_Kiemlande_4_3_2: ""
+b_Kiemlande_4_3_4: ""
+b_Kiemlande_4_3_1: ""
+c_Kiemlande_4_1: ""
+b_Kiemlande_4_1_1: "" #(capital)
+b_Kiemlande_4_1_2: ""
+b_Kiemlande_4_1_3: ""
+c_Kiemlande_4_2: ""
+b_Kiemlande_4_2_2: "" #(capital)
+b_Kiemlande_4_2_3: ""
+b_Kiemlande_4_2_1: ""
+b_Kiemlande_4_2_4: ""
+
+d_Kiemlande_3: "布伊斯法尔"
+c_Kiemlande_3_4: ""
+b_Kiemlande_3_4_2: "" #(capital)
+b_Kiemlande_3_4_3: ""
+b_Kiemlande_3_4_4: ""
+b_Kiemlande_3_4_1: ""
+c_Kiemlande_3_2: ""
+b_Kiemlande_3_2_3: "" #(capital)
+b_Kiemlande_3_2_4: ""
+b_Kiemlande_3_2_2: ""
+b_Kiemlande_3_2_1: ""
+c_Kiemlande_3_1: ""
+b_Kiemlande_3_1_4: "" #(capital)
+b_Kiemlande_3_1_2: ""
+b_Kiemlande_3_1_3: ""
+b_Kiemlande_3_1_1: ""
+c_Kiemlande_3_3: ""
+b_Kiemlande_3_3_2: "" #(capital)
+b_Kiemlande_3_3_1: ""
+b_Kiemlande_3_3_3: ""
+b_Kiemlande_3_3_4: ""
+
+d_Kiemlande_2: "特隆普瓦尔德"
+c_Kiemlande_2_1: ""
+b_Kiemlande_2_1_3: "" #(capital)
+b_Kiemlande_2_1_2: ""
+b_Kiemlande_2_1_4: ""
+b_Kiemlande_2_1_1: ""
+c_Kiemlande_2_3: ""
+b_Kiemlande_2_3_3: "" #(capital)
+b_Kiemlande_2_3_1: ""
+b_Kiemlande_2_3_4: ""
+b_Kiemlande_2_3_2: ""
+c_Kiemlande_2_2: ""
+b_Kiemlande_2_2_3: "" #(capital)
+b_Kiemlande_2_2_1: ""
+b_Kiemlande_2_2_2: ""
+b_Kiemlande_2_2_4: ""
+c_Kiemlande_2_4: ""
+b_Kiemlande_2_4_3: "" #(capital)
+b_Kiemlande_2_4_1: ""
+b_Kiemlande_2_4_4: ""
+b_Kiemlande_2_4_2: ""
+
+d_Kiemlande_1: "赫特布鲁姆"
+c_Kiemlande_1_3: ""
+b_Kiemlande_1_3_1: "" #(capital)
+b_Kiemlande_1_3_4: ""
+b_Kiemlande_1_3_2: ""
+b_Kiemlande_1_3_3: ""
+c_Kiemlande_1_4: ""
+b_Kiemlande_1_4_2: "" #(capital)
+b_Kiemlande_1_4_3: ""
+b_Kiemlande_1_4_1: ""
+c_Kiemlande_1_2: ""
+b_Kiemlande_1_2_2: "" #(capital)
+b_Kiemlande_1_2_4: ""
+b_Kiemlande_1_2_3: ""
+b_Kiemlande_1_2_1: ""
+c_Kiemlande_1_1: ""
+b_Kiemlande_1_1_1: "" #(capital)
+b_Kiemlande_1_1_4: ""
+b_Kiemlande_1_1_2: ""
+b_Kiemlande_1_1_3: ""
+
+#Dulhecht
 k_Dulhecht: "杜尔赫"
-d_Dulhecht_1: "布维腾马尔"
+
 d_Dulhecht_2: "费勒佐讷"
-d_Dulhecht_3: "诺德陶因"
-d_Dulhecht_4: "伊默坎普"
+c_Dulhecht_2_1: ""
+b_Dulhecht_2_1_3: "" #(capital)
+b_Dulhecht_2_1_1: ""
+b_Dulhecht_2_1_2: ""
+b_Dulhecht_2_1_4: ""
+c_Dulhecht_2_2: ""
+b_Dulhecht_2_2_2: "" #(capital)
+b_Dulhecht_2_2_1: ""
+b_Dulhecht_2_2_3: ""
+c_Dulhecht_2_3: ""
+b_Dulhecht_2_3_3: "" #(capital)
+b_Dulhecht_2_3_2: ""
+b_Dulhecht_2_3_1: ""
+b_Dulhecht_2_3_4: ""
+c_Dulhecht_2_4: ""
+b_Dulhecht_2_4_2: "" #(capital)
+b_Dulhecht_2_4_1: ""
+b_Dulhecht_2_4_3: ""
+
+d_Dulhecht_1: "布维腾马尔"
+c_Dulhecht_1_1: ""
+b_Dulhecht_1_1_3: "" #(capital)
+b_Dulhecht_1_1_5: ""
+b_Dulhecht_1_1_1: ""
+b_Dulhecht_1_1_4: ""
+b_Dulhecht_1_1_2: ""
+c_Dulhecht_1_2: ""
+b_Dulhecht_1_2_3: "" #(capital)
+b_Dulhecht_1_2_1: ""
+b_Dulhecht_1_2_2: ""
+c_Dulhecht_1_3: ""
+b_Dulhecht_1_3_2: "" #(capital)
+b_Dulhecht_1_3_1: ""
+b_Dulhecht_1_3_3: ""
+
 d_Dulhecht_5: "西尔巴赫伦"
+c_Dulhecht_5_2: ""
+b_Dulhecht_5_2_3: "" #(capital)
+b_Dulhecht_5_2_1: ""
+b_Dulhecht_5_2_2: ""
+b_Dulhecht_5_2_4: ""
+c_Dulhecht_5_3: ""
+b_Dulhecht_5_3_2: "" #(capital)
+b_Dulhecht_5_3_3: ""
+b_Dulhecht_5_3_1: ""
+b_Dulhecht_5_3_4: ""
+c_Dulhecht_5_1: ""
+b_Dulhecht_5_1_1: "" #(capital)
+b_Dulhecht_5_1_4: ""
+b_Dulhecht_5_1_3: ""
+b_Dulhecht_5_1_2: ""
+c_Dulhecht_5_4: ""
+b_Dulhecht_5_4_1: "" #(capital)
+b_Dulhecht_5_4_3: ""
+b_Dulhecht_5_4_2: ""
+
+d_Dulhecht_3: "诺德陶因"
+c_Dulhecht_3_1: ""
+b_Dulhecht_3_1_1: "" #(capital)
+b_Dulhecht_3_1_3: ""
+b_Dulhecht_3_1_4: ""
+b_Dulhecht_3_1_2: ""
+c_Dulhecht_3_2: ""
+b_Dulhecht_3_2_3: "" #(capital)
+b_Dulhecht_3_2_2: ""
+b_Dulhecht_3_2_4: ""
+b_Dulhecht_3_2_1: ""
+c_Dulhecht_3_3: ""
+b_Dulhecht_3_3_1: "" #(capital)
+b_Dulhecht_3_3_2: ""
+b_Dulhecht_3_3_3: ""
+b_Dulhecht_3_3_4: ""
+
+d_Dulhecht_4: "伊默坎普"
+c_Dulhecht_4_3: ""
+b_Dulhecht_4_3_2: "" #(capital)
+b_Dulhecht_4_3_1: ""
+b_Dulhecht_4_3_3: ""
+c_Dulhecht_4_1: ""
+b_Dulhecht_4_1_1: "" #(capital)
+b_Dulhecht_4_1_2: ""
+b_Dulhecht_4_1_3: ""
+b_Dulhecht_4_1_4: ""
+c_Dulhecht_4_2: ""
+b_Dulhecht_4_2_3: "" #(capital)
+b_Dulhecht_4_2_2: ""
+b_Dulhecht_4_2_1: ""
+c_Dulhecht_4_4: ""
+b_Dulhecht_4_4_3: "" #(capital)
+b_Dulhecht_4_4_2: ""
+b_Dulhecht_4_4_1: ""
+b_Dulhecht_4_4_4: ""
+c_Dulhecht_4_5: ""
+b_Dulhecht_4_5_1: "" #(capital)
+b_Dulhecht_4_5_4: ""
+b_Dulhecht_4_5_3: ""
+b_Dulhecht_4_5_2: ""
 
 #Sud
 k_Sud: "南省"

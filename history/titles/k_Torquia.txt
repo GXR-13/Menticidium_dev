@@ -19,6 +19,272 @@ c_Torquia_2_1 = {
         government = republic_government
     }
 }
+
+c_Torquia_6_1 = {
+    740.9.10 = {
+        holder = Torquia_1
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_6_3 = {
+    740.9.10 = {
+        holder = Torquia_1
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_3_1 = {
+    740.9.10 = {
+        holder = Torquia_1
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_3_2 = {
+    740.9.10 = {
+        holder = Torquia_1
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_3_3 = {
+    740.9.10 = {
+        holder = Torquia_1
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_2_2 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_2_3 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_4_1 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_4_2 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_4_3 = {
+    739.10.25 = {
+        holder = Almaria_6
+    }
+
+    741.1.1 = {
+        liege = d_Almaria_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_4_4 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Torquia_6_2 = {
+    704.6.1 = {
+        holder = Torquia_2
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+
 #Torquia_5
 d_Torquia_5 = {
 	640.1.1 = { #TBD, refernce of the establishnemt of the southern bulwark?

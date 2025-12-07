@@ -338,3 +338,14 @@ gialla = {
 	name = dynn_gialla
 	culture = cisfreddian
 }
+
+#Torquia
+calaway = {
+	name = dynn_calaway
+	culture = high_hirian
+}
+
+manning = {
+	name = dynn_manning
+	culture = north_hirian
+}

@@ -110,7 +110,7 @@ d_Dejois_4 = {
 }
 
 #唐维尔公国
-d_Dejois_5 = { 
+c_Dejois_5_1 = { 
     730.2.27 = {holder= Dejois_5
     #设置政府
         government = administrative_government
@@ -126,8 +126,97 @@ d_Dejois_5 = {
 				}
 			}
 		}
-}
+	}
     741.1.1 = {
-        liege = h_Hiria
+        liege = k_Hiria_Army_2
     }
 }
+
+c_Dejois_5_2 = { 
+    730.2.27 = {holder= Dejois_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+    741.1.1 = {
+        liege = k_Hiria_Army_2
+    }
+}
+
+c_Dejois_5_3 = { 
+    730.2.27 = {holder= Dejois_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+    741.1.1 = {
+        liege = k_Hiria_Army_2
+    }
+}
+
+c_Dejois_5_4 = { 
+    730.2.27 = {holder= Dejois_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+    741.1.1 = {
+        liege = k_Hiria_Army_2
+    }
+}
+
+c_Dejois_5_5 = { 
+    730.2.27 = {holder= Dejois_5
+    #设置政府
+        government = administrative_government
+        #后被选项，以防玩家没打dlc
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+    741.1.1 = {
+        liege = k_Hiria_Army_2
+    }
+}
+

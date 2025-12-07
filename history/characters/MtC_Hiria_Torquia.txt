@@ -1,0 +1,19 @@
+﻿Torquia_1 = {# 
+    name = "Markus"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = calaway
+    717.5.19 = {
+        birth = yes
+    }
+}
+
+Torquia_2 = {# 
+    name = "Kane"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = manning
+    684.10.30 = {
+        birth = yes
+    }
+}

@@ -71,9 +71,10 @@ e_Church_of_Communion = {
 	can_use_nomadic_naming = no
 }
 
+#Hiria military titles
 ##General Inspector
-e_Inspectorate_Of_Army = {
-	color = { 234 234 234 }
+e_Army_Inspectorate = {
+	color = { 160 39 50 }
 
 	capital = c_High_Hiria_1_3
 	
@@ -91,6 +92,99 @@ e_Inspectorate_Of_Army = {
 	destroy_if_invalid_heir = yes
 	can_use_nomadic_naming = no
 }
+
+##Armies, up to 23
+#武军 The Martials
+# k_Hiria_Army_0 = {
+
+# }
+#（第二）东方军
+# k_Hiria_Army_1 = {
+
+# }
+#南方军 Southern
+k_Hiria_Army_2 = {
+	color = { 109 49 52 } 
+	capital = c_Dejois_5_2
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+#北方军
+# k_Hiria_Army_3 = {
+
+# }
+#西方军 Western
+k_Hiria_Army_4 = {
+	color = { 131 64 67 } #红色
+	capital = c_Torquia_4_1
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+#切诺尼亚步军 Cenonnia Infantry
+k_Hiria_Army_5 = {
+	color = { 170 84 88 } #红色
+	capital = c_Torquia_3_1
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+#
+# k_Hiria_Army_6 = {
+# 	color = { 229 65 65 } #红色
+# 	capital = c_Old_League_3_1
+
+# 	definite_form = yes
+# 	ruler_uses_title_name = no
+# 	landless = yes
+# 	ignore_titularity_for_title_weighting = yes
+
+# 	ai_primary_priority = {
+# 		add = @always_primary_score
+# 	}
+
+# 	no_automatic_claims = yes
+# 	always_follows_primary_heir = yes
+# 	destroy_if_invalid_heir = yes
+# 	can_use_nomadic_naming = no
+# }
+
+
+#
 #Old League
 d_Wespuria = {
 	color = { 229 65 65 } #红色
