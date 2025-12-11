@@ -414,72 +414,72 @@ b_Old_League_1_2_1: "特隆普敦"
 #Alben
 k_Alben: "亚贲"
 
-d_Alben_1: "黎多尔普"
-c_Alben_1_1: ""
+d_Alben_1: "黎多尔夫"
+c_Alben_1_1: "霍茨布隆恩"
 b_Alben_1_1_1: "" #(capital)
 b_Alben_1_1_3: ""
 b_Alben_1_1_2: ""
-c_Alben_1_2: ""
+c_Alben_1_2: "尚恩堡"
 b_Alben_1_2_1: "" #(capital)
 b_Alben_1_2_3: ""
 b_Alben_1_2_2: ""
 b_Alben_1_2_4: ""
-c_Alben_1_4: ""
+c_Alben_1_4: "戈林斯泰因"
 b_Alben_1_4_1: "" #(capital)
 b_Alben_1_4_3: ""
 b_Alben_1_4_4: ""
 b_Alben_1_4_2: ""
-c_Alben_1_3: ""
+c_Alben_1_3: "林德沃特"
 b_Alben_1_3_1: "" #(capital)
 b_Alben_1_3_3: ""
 b_Alben_1_3_4: ""
 b_Alben_1_3_2: ""
-c_Alben_1_5: ""
+c_Alben_1_5: "科恩堡"
 b_Alben_1_5_3: "" #(capital)
 b_Alben_1_5_1: ""
 b_Alben_1_5_2: ""
 
 d_Alben_2: "古腾马尔特"
-c_Alben_2_2: ""
+c_Alben_2_2: "纽哈芬"
 b_Alben_2_2_2: "" #(capital)
 b_Alben_2_2_1: ""
 b_Alben_2_2_3: ""
-c_Alben_2_1: ""
+c_Alben_2_1: "米勒马伦"
 b_Alben_2_1_2: "" #(capital)
 b_Alben_2_1_1: ""
 b_Alben_2_1_3: ""
-c_Alben_2_3: ""
+c_Alben_2_3: "森图尔"
 b_Alben_2_3_2: "" #(capital)
 b_Alben_2_3_1: ""
 b_Alben_2_3_3: ""
-c_Alben_2_4: ""
+c_Alben_2_4: "沃舒讷"
 b_Alben_2_4_3: "" #(capital)
 b_Alben_2_4_1: ""
 b_Alben_2_4_2: ""
 
 d_Alben_3: "巴玻法伦"
-c_Alben_3_1: ""
+c_Alben_3_1: "维斯利夫"
 b_Alben_3_1_5: "" #(capital)
 b_Alben_3_1_4: ""
 b_Alben_3_1_3: ""
 b_Alben_3_1_2: ""
 b_Alben_3_1_1: ""
-c_Alben_3_3: ""
+c_Alben_3_3: "德莱韦尔普"
 b_Alben_3_3_4: "" #(capital)
 b_Alben_3_3_3: ""
 b_Alben_3_3_2: ""
 b_Alben_3_3_1: ""
-c_Alben_3_5: ""
+c_Alben_3_5: "沙茨伯恩"
 b_Alben_3_5_3: "" #(capital)
 b_Alben_3_5_1: ""
 b_Alben_3_5_4: ""
 b_Alben_3_5_2: ""
-c_Alben_3_2: ""
+c_Alben_3_2: "莫尔堡"
 b_Alben_3_2_4: "" #(capital)
 b_Alben_3_2_3: ""
 b_Alben_3_2_2: ""
 b_Alben_3_2_1: ""
-c_Alben_3_4: ""
+c_Alben_3_4: "弗里德霍夫"
 b_Alben_3_4_3: "" #(capital)
 b_Alben_3_4_2: ""
 b_Alben_3_4_1: ""
@@ -488,116 +488,116 @@ b_Alben_3_4_1: ""
 k_Waltenland: "瓦尔腾兰"
 
 d_Waltenland_5: "科鲁贝格"
-c_Waltenland_5_3: ""
+c_Waltenland_5_3: "菲格施塔尔"
 b_Waltenland_5_3_2: "" #(capital)
 b_Waltenland_5_3_1: ""
 b_Waltenland_5_3_3: ""
-c_Waltenland_5_4: ""
+c_Waltenland_5_4: "艾森海因"
 b_Waltenland_5_4_2: "" #(capital)
 b_Waltenland_5_4_3: ""
 b_Waltenland_5_4_1: ""
-c_Waltenland_5_1: ""
+c_Waltenland_5_1: "伊本贝格"
 b_Waltenland_5_1_2: "" #(capital)
 b_Waltenland_5_1_3: ""
 b_Waltenland_5_1_1: ""
-c_Waltenland_5_2: ""
+c_Waltenland_5_2: "柯尼斯豪森"
 b_Waltenland_5_2_2: "" #(capital)
 b_Waltenland_5_2_1: ""
 b_Waltenland_5_2_3: ""
 
 d_Waltenland_6: "萨尔腾"
-c_Waltenland_6_1: ""
+c_Waltenland_6_1: "希尔夫"
 b_Waltenland_6_1_4: "" #(capital)
 b_Waltenland_6_1_1: ""
 b_Waltenland_6_1_2: ""
 b_Waltenland_6_1_3: ""
-c_Waltenland_6_4: ""
+c_Waltenland_6_4: "阿赫布吕肯"
 b_Waltenland_6_4_1: "" #(capital)
 b_Waltenland_6_4_3: ""
 b_Waltenland_6_4_4: ""
 b_Waltenland_6_4_2: ""
-c_Waltenland_6_2: ""
+c_Waltenland_6_2: "恩岑豪森"
 b_Waltenland_6_2_2: "" #(capital)
 b_Waltenland_6_2_4: ""
 b_Waltenland_6_2_1: ""
 b_Waltenland_6_2_3: ""
-c_Waltenland_6_3: ""
+c_Waltenland_6_3: "奥斯特巴赫"
 b_Waltenland_6_3_3: "" #(capital)
 b_Waltenland_6_3_1: ""
 b_Waltenland_6_3_2: ""
 
 d_Waltenland_4: "安霍岑"
-c_Waltenland_4_3: ""
+c_Waltenland_4_3: "法林"
 b_Waltenland_4_3_2: "" #(capital)
 b_Waltenland_4_3_4: ""
 b_Waltenland_4_3_3: ""
 b_Waltenland_4_3_1: ""
-c_Waltenland_4_2: ""
+c_Waltenland_4_2: "维什瓦尔德"
 b_Waltenland_4_2_2: "" #(capital)
 b_Waltenland_4_2_3: ""
 b_Waltenland_4_2_1: ""
-c_Waltenland_4_1: ""
+c_Waltenland_4_1: "瑙格伯伦"
 b_Waltenland_4_1_2: "" #(capital)
 b_Waltenland_4_1_1: ""
 b_Waltenland_4_1_3: ""
-c_Waltenland_4_4: ""
+c_Waltenland_4_4: "劳特瓦尔德"
 b_Waltenland_4_4_1: "" #(capital)
 b_Waltenland_4_4_3: ""
 b_Waltenland_4_4_2: ""
 
 d_Waltenland_2: "维特奎勒"
-c_Waltenland_2_2: ""
+c_Waltenland_2_2: "本齐恩"
 b_Waltenland_2_2_4: "" #(capital)
 b_Waltenland_2_2_2: ""
 b_Waltenland_2_2_1: ""
 b_Waltenland_2_2_3: ""
-c_Waltenland_2_4: ""
+c_Waltenland_2_4: "哈尔多夫"
 b_Waltenland_2_4_3: "" #(capital)
 b_Waltenland_2_4_1: ""
 b_Waltenland_2_4_4: ""
 b_Waltenland_2_4_2: ""
-c_Waltenland_2_3: ""
+c_Waltenland_2_3: "皮茨瓦尔德"
 b_Waltenland_2_3_3: "" #(capital)
 b_Waltenland_2_3_4: ""
 b_Waltenland_2_3_2: ""
 b_Waltenland_2_3_1: ""
-c_Waltenland_2_1: ""
+c_Waltenland_2_1: "夏尔芬堡"
 b_Waltenland_2_1_2: "" #(capital)
 b_Waltenland_2_1_4: ""
 b_Waltenland_2_1_1: ""
 b_Waltenland_2_1_3: ""
 
 d_Waltenland_3: "贝恩鲍恩"
-c_Waltenland_3_3: ""
+c_Waltenland_3_3: "森海姆"
 b_Waltenland_3_3_2: "" #(capital)
 b_Waltenland_3_3_3: ""
 b_Waltenland_3_3_1: ""
-c_Waltenland_3_1: ""
+c_Waltenland_3_1: "沃德林根"
 b_Waltenland_3_1_3: "" #(capital)
 b_Waltenland_3_1_4: ""
 b_Waltenland_3_1_2: ""
 b_Waltenland_3_1_1: ""
-c_Waltenland_3_2: ""
+c_Waltenland_3_2: "瑙曼纳"
 b_Waltenland_3_2_2: "" #(capital)
 b_Waltenland_3_2_1: ""
 b_Waltenland_3_2_3: ""
 b_Waltenland_3_2_4: ""
-c_Waltenland_3_4: ""
+c_Waltenland_3_4: "库堡"
 b_Waltenland_3_4_2: "" #(capital)
 b_Waltenland_3_4_1: ""
 b_Waltenland_3_4_3: ""
 
 d_Waltenland_1: "萨特贝格"
-c_Waltenland_1_3: ""
+c_Waltenland_1_3: "费尔森"
 b_Waltenland_1_3_3: "" #(capital)
 b_Waltenland_1_3_2: ""
 b_Waltenland_1_3_1: ""
-c_Waltenland_1_1: ""
+c_Waltenland_1_1: "德劳恩巴赫"
 b_Waltenland_1_1_3: "" #(capital)
 b_Waltenland_1_1_1: ""
 b_Waltenland_1_1_4: ""
 b_Waltenland_1_1_2: ""
-c_Waltenland_1_2: ""
+c_Waltenland_1_2: "富斯汀瓦尔德"
 b_Waltenland_1_2_2: "" #(capital)
 b_Waltenland_1_2_1: ""
 b_Waltenland_1_2_3: ""
