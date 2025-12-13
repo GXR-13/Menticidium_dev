@@ -1,5 +1,6 @@
 ﻿l_simp_chinese:
 h_Hiria: "希里亚"
+e_Hiria: "希里亚"
 #High_Hiria
 k_High_Hiria: "高希里亚"
 
@@ -606,82 +607,82 @@ b_Waltenland_1_2_3: ""
 k_Weisshugel: "维斯胡格"
 
 d_Weisshugel_3: "霍亨博登"
-c_Weisshugel_3_2: ""
+c_Weisshugel_3_2: "万柏林"
 b_Weisshugel_3_2_4: "" #(capital)
 b_Weisshugel_3_2_6: ""
 b_Weisshugel_3_2_1: ""
 b_Weisshugel_3_2_2: ""
 b_Weisshugel_3_2_5: ""
 b_Weisshugel_3_2_3: ""
-c_Weisshugel_3_3: ""
+c_Weisshugel_3_3: "海斯堡"
 b_Weisshugel_3_3_3: "" #(capital)
 b_Weisshugel_3_3_1: ""
 b_Weisshugel_3_3_4: ""
 b_Weisshugel_3_3_2: ""
-c_Weisshugel_3_1: ""
+c_Weisshugel_3_1: "南马斯"
 b_Weisshugel_3_1_3: "" #(capital)
 b_Weisshugel_3_1_2: ""
 b_Weisshugel_3_1_1: ""
-c_Weisshugel_3_4: ""
+c_Weisshugel_3_4: "斯泰尔拉森"
 b_Weisshugel_3_4_2: "" #(capital)
 b_Weisshugel_3_4_3: ""
 b_Weisshugel_3_4_1: ""
 
 d_Weisshugel_2: "米腾马克"
-c_Weisshugel_2_3: ""
+c_Weisshugel_2_3: "罗森茅尔"
 b_Weisshugel_2_3_2: "" #(capital)
 b_Weisshugel_2_3_3: ""
 b_Weisshugel_2_3_4: ""
 b_Weisshugel_2_3_1: ""
-c_Weisshugel_2_2: ""
+c_Weisshugel_2_2: "博根海姆"
 b_Weisshugel_2_2_3: "" #(capital)
 b_Weisshugel_2_2_4: ""
 b_Weisshugel_2_2_2: ""
 b_Weisshugel_2_2_1: ""
-c_Weisshugel_2_1: ""
+c_Weisshugel_2_1: "瓦瑟巴赫"
 b_Weisshugel_2_1_3: "" #(capital)
 b_Weisshugel_2_1_2: ""
 b_Weisshugel_2_1_1: ""
 
 d_Weisshugel_4: "维斯鲁厄"
-c_Weisshugel_4_3: ""
+c_Weisshugel_4_3: "罗特劳赫"
 b_Weisshugel_4_3_2: "" #(capital)
 b_Weisshugel_4_3_1: ""
 b_Weisshugel_4_3_3: ""
 b_Weisshugel_4_3_4: ""
-c_Weisshugel_4_1: ""
+c_Weisshugel_4_1: "霍施塔特"
 b_Weisshugel_4_1_2: "" #(capital)
 b_Weisshugel_4_1_1: ""
 b_Weisshugel_4_1_4: ""
 b_Weisshugel_4_1_3: ""
-c_Weisshugel_4_4: ""
+c_Weisshugel_4_4: "奥腾拉格"
 b_Weisshugel_4_4_4: "" #(capital)
 b_Weisshugel_4_4_3: ""
 b_Weisshugel_4_4_2: ""
 b_Weisshugel_4_4_1: ""
-c_Weisshugel_4_2: ""
+c_Weisshugel_4_2: "利斯特恩"
 b_Weisshugel_4_2_2: "" #(capital)
 b_Weisshugel_4_2_3: ""
 b_Weisshugel_4_2_4: ""
 b_Weisshugel_4_2_1: ""
 
 d_Weisshugel_1: "阿本德马尔"
-c_Weisshugel_1_4: ""
+c_Weisshugel_1_4: "施瓦尔贝格"
 b_Weisshugel_1_4_2: "" #(capital)
 b_Weisshugel_1_4_4: ""
 b_Weisshugel_1_4_3: ""
 b_Weisshugel_1_4_1: ""
-c_Weisshugel_1_1: ""
+c_Weisshugel_1_1: "施瓦岑埃森"
 b_Weisshugel_1_1_3: "" #(capital)
 b_Weisshugel_1_1_1: ""
 b_Weisshugel_1_1_4: ""
 b_Weisshugel_1_1_2: ""
-c_Weisshugel_1_2: ""
+c_Weisshugel_1_2: "利本弗劳"
 b_Weisshugel_1_2_2: "" #(capital)
 b_Weisshugel_1_2_1: ""
 b_Weisshugel_1_2_4: ""
 b_Weisshugel_1_2_3: ""
-c_Weisshugel_1_3: ""
+c_Weisshugel_1_3: "德莱肯多夫"
 b_Weisshugel_1_3_2: "" #(capital)
 b_Weisshugel_1_3_3: ""
 b_Weisshugel_1_3_4: ""
@@ -691,88 +692,88 @@ b_Weisshugel_1_3_1: ""
 k_Kollon: "科伦"
 
 d_Kollon_3: "伊彭兰"
-c_Kollon_3_2: ""
+c_Kollon_3_2: "莱申福特"
 b_Kollon_3_2_4: "" #(capital)
 b_Kollon_3_2_3: ""
 b_Kollon_3_2_5: ""
 b_Kollon_3_2_2: ""
 b_Kollon_3_2_1: ""
-c_Kollon_3_3: ""
+c_Kollon_3_3: "厄德"
 b_Kollon_3_3_2: "" #(capital)
 b_Kollon_3_3_3: ""
 b_Kollon_3_3_4: ""
 b_Kollon_3_3_1: ""
-c_Kollon_3_4: ""
+c_Kollon_3_4: "宾登菲尔德"
 b_Kollon_3_4_3: "" #(capital)
 b_Kollon_3_4_2: ""
 b_Kollon_3_4_1: ""
-c_Kollon_3_1: ""
+c_Kollon_3_1: "北马斯"
 b_Kollon_3_1_4: "" #(capital)
 b_Kollon_3_1_3: ""
 b_Kollon_3_1_2: ""
 b_Kollon_3_1_1: ""
 
 d_Kollon_1: "杜夫特贝格"
-c_Kollon_1_4: ""
+c_Kollon_1_4: "多施塔尔"
 b_Kollon_1_4_5: "" #(capital)
 b_Kollon_1_4_3: ""
 b_Kollon_1_4_4: ""
 b_Kollon_1_4_2: ""
 b_Kollon_1_4_1: ""
-c_Kollon_1_1: ""
+c_Kollon_1_1: "恩登斯泰因"
 b_Kollon_1_1_1: "" #(capital)
 b_Kollon_1_1_3: ""
 b_Kollon_1_1_4: ""
 b_Kollon_1_1_2: ""
-c_Kollon_1_2: ""
+c_Kollon_1_2: "弗伦堡"
 b_Kollon_1_2_3: "" #(capital)
 b_Kollon_1_2_4: ""
 b_Kollon_1_2_1: ""
 b_Kollon_1_2_2: ""
-c_Kollon_1_3: ""
+c_Kollon_1_3: "沃伦"
 b_Kollon_1_3_4: "" #(capital)
 b_Kollon_1_3_3: ""
 b_Kollon_1_3_1: ""
 b_Kollon_1_3_2: ""
 
 d_Kollon_4: "帕舍伦"
-c_Kollon_4_4: ""
+c_Kollon_4_4: "格拉森巴赫"
 b_Kollon_4_4_2: "" #(capital)
 b_Kollon_4_4_4: ""
 b_Kollon_4_4_3: ""
 b_Kollon_4_4_1: ""
-c_Kollon_4_2: ""
+c_Kollon_4_2: "希尔多夫"
 b_Kollon_4_2_3: "" #(capital)
 b_Kollon_4_2_2: ""
 b_Kollon_4_2_1: ""
 b_Kollon_4_2_4: ""
-c_Kollon_4_1: ""
+c_Kollon_4_1: "沙赫瓦尔德"
 b_Kollon_4_1_3: "" #(capital)
 b_Kollon_4_1_2: ""
 b_Kollon_4_1_1: ""
 b_Kollon_4_1_4: ""
-c_Kollon_4_3: ""
+c_Kollon_4_3: "下黎文"
 b_Kollon_4_3_3: "" #(capital)
 b_Kollon_4_3_4: ""
 b_Kollon_4_3_1: ""
 b_Kollon_4_3_2: ""
 
 d_Kollon_2: "克罗恩鲁厄"
-c_Kollon_2_1: ""
+c_Kollon_2_1: "邵恩贝格"
 b_Kollon_2_1_4: "" #(capital)
 b_Kollon_2_1_1: ""
 b_Kollon_2_1_3: ""
 b_Kollon_2_1_2: ""
-c_Kollon_2_3: ""
+c_Kollon_2_3: "诺尔豪森"
 b_Kollon_2_3_1: "" #(capital)
 b_Kollon_2_3_2: ""
 b_Kollon_2_3_3: ""
-c_Kollon_2_2: ""
+c_Kollon_2_2: "布尔豪芬"
 b_Kollon_2_2_4: "" #(capital)
 b_Kollon_2_2_1: ""
 b_Kollon_2_2_2: ""
 b_Kollon_2_2_3: ""
-c_Kollon_2_4: ""
+c_Kollon_2_4: "布劳菲尔德"
 b_Kollon_2_4_4: "" #(capital)
 b_Kollon_2_4_3: ""
 b_Kollon_2_4_2: ""
