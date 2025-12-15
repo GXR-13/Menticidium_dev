@@ -1,0 +1,41 @@
+﻿Dulhecht_1 = {#  
+    name = "Thomas"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = rosh
+    689.5.12 = {
+        birth = yes
+    }
+}
+
+Dulhecht_2 = {#  
+    name = "Claude"
+    female = yes
+    religion = imperial_verita
+    culture = zuidlander
+    dynasty = van_adant
+    719.1.10 = {
+        birth = yes
+    }
+}
+
+Dulhecht_3 = {#  
+    name = "Herman"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = voler
+    694.5.22 = {
+        birth = yes
+    }
+}
+
+Dulhecht_4 = {#  
+    name = "Sigfried"
+    religion = imperial_verita
+    culture = gronlander
+    dynasty = rael
+    678.7.5 = {
+        birth = yes
+    }
+}
+

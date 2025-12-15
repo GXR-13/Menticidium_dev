@@ -1,0 +1,61 @@
+﻿Kiemlande_1 = {#AB Loans
+    name = "Aalbert"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = lening
+    683.1.11 = {
+        birth = yes
+    }
+}
+
+Kiemlande_2 = {# 
+    name = "Raeddeg"
+    religion = imperial_verita
+    culture = fretian
+    dynasty = van_der_vahen
+    711.3.12 = {
+        birth = yes
+    }
+}
+
+Kiemlande_3 = {# 
+    name = "Sytse"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = tacimer
+    699.3.15 = {
+        birth = yes
+    }
+}
+
+Kiemlande_4 = {# 
+    name = "ET_elwi"
+    religion = imperial_verita
+    culture = fretian
+    dynasty = van_der_vahen
+    707.7.12 = {
+        birth = yes
+    }
+}
+
+Kiemlande_5 = {# 
+    name = "Ymmekine"
+    female = yes
+    religion = imperial_verita
+    culture = fretian
+    dynasty = kote
+    691.2.10 = {
+        birth = yes
+    }
+}
+
+Kiemlande_6 = {# 
+    name = "Bernhard"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = benz
+    719.5.9 = {
+        birth = yes
+    }
+}
+

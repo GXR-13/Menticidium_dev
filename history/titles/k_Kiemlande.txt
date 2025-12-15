@@ -18,3 +18,664 @@ c_Kiemlande_5_3 = {
         government = republic_government
     }
 }
+
+k_Kiemlande = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = h_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_2 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_2_1 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_2_2 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_2_3 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_2_4 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_5_1 = {
+    715.5.8.9 = {
+        holder = Kiemlande_1
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_1 = {
+    740.12.15 = {
+        holder = Kiemlande_2
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_1_1 = {
+    740.12.15 = {
+        holder = Kiemlande_2
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_1_2 = {
+    740.12.15 = {
+        holder = Kiemlande_2
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_1_3 = {
+    740.12.15 = {
+        holder = Kiemlande_2
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_1
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_4 = {
+    730.3.17 = {
+        holder = Kiemlande_3
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_4_1 = {
+    730.3.17 = {
+        holder = Kiemlande_3
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_4_2 = {
+    730.3.17 = {
+        holder = Kiemlande_3
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_4_3 = {
+    730.3.17 = {
+        holder = Kiemlande_3
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_1_4 = {
+    730.3.17 = {
+        holder = Kiemlande_3
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_4
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_3 = {
+    728.7.29 = {
+        holder = Kiemlande_4
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_3_1 = {
+    728.7.29 = {
+        holder = Kiemlande_4
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_3_2 = {
+    728.7.29 = {
+        holder = Kiemlande_4
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_3_3 = {
+    728.7.29 = {
+        holder = Kiemlande_4
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_3_4 = {
+    728.7.29 = {
+        holder = Kiemlande_4
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_6 = {
+    733.8.9 = {
+        holder = Kiemlande_5
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_6_1 = {
+    733.8.9 = {
+        holder = Kiemlande_5
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_6_3 = {
+    733.8.9 = {
+        holder = Kiemlande_5
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_6_4 = {
+    733.8.9 = {
+        holder = Kiemlande_5
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_6_5 = {
+    733.8.9 = {
+        holder = Kiemlande_5
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Kiemlande_7 = {
+    739.10.12 = {
+        holder = Kiemlande_6
+    }
+
+    741.1.1 = {
+        liege = k_Kiemlande
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_7_1 = {
+    739.10.12 = {
+        holder = Kiemlande_6
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_7
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_7_2 = {
+    739.10.12 = {
+        holder = Kiemlande_6
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_7
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Kiemlande_6_2 = {
+    739.10.12 = {
+        holder = Kiemlande_6
+    }
+
+    741.1.1 = {
+        liege = d_Kiemlande_7
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+

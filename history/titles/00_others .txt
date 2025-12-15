@@ -37,7 +37,7 @@ h_Hiria = {
 	1.1.10 = { #Esmael
 		holder = Hiria_h_1
 	}
-	584.9.9 = { #Sellum
+	658.9.9 = { #Sellum
 		holder = Hiria_h_2
 	}
 	663.9.13 = { #Emiliano

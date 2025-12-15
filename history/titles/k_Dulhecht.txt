@@ -47,3 +47,444 @@ c_Dulhecht_5_2 = {
         government = republic_government
     }
 }
+
+k_Dulhecht = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = h_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Dulhecht_4 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_4_1 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_4_2 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_4_3 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_4_4 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_4_5 = {
+    716.12.27 = {
+        holder = Dulhecht_1
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Dulhecht_2 = {
+    740.5.22 = {
+        holder = Dulhecht_2
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_2_1 = {
+    740.5.22 = {
+        holder = Dulhecht_2
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_2_2 = {
+    740.5.22 = {
+        holder = Dulhecht_2
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_2_3 = {
+    740.5.22 = {
+        holder = Dulhecht_2
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_2_4 = {
+    740.5.22 = {
+        holder = Dulhecht_2
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_2
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Dulhecht_3 = {
+    737.8.16 = {
+        holder = Dulhecht_3
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_3_1 = {
+    737.8.16 = {
+        holder = Dulhecht_3
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_3_2 = {
+    737.8.16 = {
+        holder = Dulhecht_3
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_3_3 = {
+    737.8.16 = {
+        holder = Dulhecht_3
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_3
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+d_Dulhecht_5 = {
+    700.10.15 = {
+        holder = Dulhecht_4
+    }
+
+    741.1.1 = {
+        liege = k_Dulhecht
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_5_1 = {
+    700.10.15 = {
+        holder = Dulhecht_4
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_5_3 = {
+    700.10.15 = {
+        holder = Dulhecht_4
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
+c_Dulhecht_5_4 = {
+    700.10.15 = {
+        holder = Dulhecht_4
+    }
+
+    741.1.1 = {
+        liege = d_Dulhecht_5
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+

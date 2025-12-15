@@ -1,6 +1,11 @@
 ﻿#Unlanded
 ma = {
-	name = dynn_Ma
+	name = dynn_ma
+	culture = guanghai
+}
+
+lu = {
+	name = dynn_lu
 	culture = guanghai
 }
 ###Noble dynasties of Dwilia
@@ -292,11 +297,6 @@ sirrland = {
 }
 
 #Reussia
-marley = {
-	name = dynn_marley
-	culture = high_hirian
-}
-
 samreuss = {
 	name = dynn_samreuss
 	culture = dejois
@@ -342,10 +342,44 @@ gialla = {
 #Torquia
 calaway = {
 	name = dynn_calaway
-	culture = high_hirian
+	culture = green_hirian
 }
 
 manning = {
 	name = dynn_manning
 	culture = north_hirian
+}
+
+#Kiemlande
+lening = {
+	name = dynn_lening
+	culture = north_hirian
+}
+
+van_der_vahen = {
+	prefix = dynnp_van
+	name = dynn_der_vahen
+	culture = fretian
+}
+
+kote = {
+	name = dynn_kote
+	culture = fretian
+}
+
+benz = {
+	name = dynn_benz
+	culture = gronlander
+}
+
+#Dulhecht
+rosh = {
+	name = dynn_rosh
+	culture = high_hirian
+}
+
+van_adant = {
+	prefix = dynnp_van
+	name = dynn_adant
+	culture = zuidlander
 }
