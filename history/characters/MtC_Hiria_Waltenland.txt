@@ -1,0 +1,62 @@
+﻿Waltenland_1 = {# 
+    name = "Fulcone"
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = gialla
+    688.4.9 = {
+        birth = yes
+    }
+}
+
+Waltenland_2 = {#
+    name = "Ludolf"
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = garmond
+    706.7.16 = {
+        birth = yes
+    }
+}
+
+Waltenland_3 = {#
+    name = "Baldarich"
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = neiss
+    712.3.3 = {
+        birth = yes
+    }
+}
+
+Waltenland_4 = {#
+    name = "Dieter"
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = bech
+    708.6.9 = {
+        birth = yes
+    }
+}
+
+Waltenland_5 = {#
+    name = "Klementia"
+    female = yes
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = von_schilf
+    682.4.19 = {
+        birth = yes
+    }
+}
+
+Waltenland_6 = {#
+    name = "Gisela"
+    female = yes
+    religion = imperial_verita
+    culture = zurunnish
+    dynasty = eisen
+    716.4.28 = {
+        birth = yes
+    }
+}
+

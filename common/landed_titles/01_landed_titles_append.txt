@@ -163,25 +163,26 @@ k_Hiria_Army_5 = {
 	destroy_if_invalid_heir = yes
 	can_use_nomadic_naming = no
 }
-#
-# k_Hiria_Army_6 = {
-# 	color = { 229 65 65 } #红色
-# 	capital = c_Old_League_3_1
 
-# 	definite_form = yes
-# 	ruler_uses_title_name = no
-# 	landless = yes
-# 	ignore_titularity_for_title_weighting = yes
+#北方次军 Northern Secondary
+k_Hiria_Army_6 = {
+	color = { 170 96 84 } #红色
+	capital = c_Kollon_1_1
 
-# 	ai_primary_priority = {
-# 		add = @always_primary_score
-# 	}
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
 
-# 	no_automatic_claims = yes
-# 	always_follows_primary_heir = yes
-# 	destroy_if_invalid_heir = yes
-# 	can_use_nomadic_naming = no
-# }
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
 
 
 #

@@ -153,6 +153,29 @@ k_Hiria_Army_5 = {
         }
     }
 }
+
+
+k_Hiria_Army_6 = {
+    739.7.11 = {
+        holder = Kollon_5
+    }
+
+    741.1.1 = {
+        liege = h_Hiria
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
 #Landless
 d_laamp_JttW = { # Ma Bowan
 	741.1.1 = {

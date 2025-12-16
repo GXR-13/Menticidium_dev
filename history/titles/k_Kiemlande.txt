@@ -19,6 +19,31 @@ c_Kiemlande_5_3 = {
     }
 }
 
+
+#Army
+
+c_Kiemlande_7_3 = {
+    739.7.11 = {
+        holder = Kollon_5
+    }
+
+    741.1.1 = {
+        liege = k_Hiria_Army_6
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
 k_Kiemlande = {
     715.5.8.9 = {
         holder = Kiemlande_1

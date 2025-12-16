@@ -383,3 +383,78 @@ van_adant = {
 	name = dynn_adant
 	culture = zuidlander
 }
+
+#Weisshugel
+de_char = {
+	prefix = dynnp_de
+	name = dynn_char
+	culture = banlian
+}
+
+lU_tzen = {
+	name = dynn_lU_tzen
+	culture = weisslander
+}
+
+von_heissburg = {
+	prefix = dynnp_von
+	name = dynn_heissburg
+	culture = weisslander
+}
+
+#Waltenland
+garmond = {
+	name = dynn_garmond
+	culture = zurunnish
+}
+
+neiss = {
+	name = dynn_neiss
+	culture = zurunnish
+}
+
+bech = {
+	name = dynn_bech
+	culture = zurunnish
+}
+
+von_schilf = {
+	prefix = dynnp_von
+	name = dynn_schilf
+	culture = zurunnish
+}
+
+eisen = {
+	name = dynn_eisen
+	culture = zurunnish
+}
+
+#Alben
+ross = {
+	name = dynn_ross
+	culture = albennian
+}
+
+von_grasse = {
+	prefix = dynnp_von
+	name = dynn_grasse
+	culture = gronlander
+}
+
+von_kornburg = {
+	prefix = dynnp_von
+	name = dynn_kornburg
+	culture = albennian
+}
+
+#Kollon
+hains = {
+	name = dynn_hains
+	culture = concordian
+}
+
+de_jounebout = {
+	prefix = dynnp_de
+	name = dynn_jounebout
+	culture = cotier
+}

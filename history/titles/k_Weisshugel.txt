@@ -1,17 +1,6 @@
-﻿#New League
-c_Kollon_3_1 = {
-    718.3.21 = {
-        holder = New_League_1
-    }
-    741.1.1 = {
-        liege = k_New_League
-        government = republic_government
-    }
-}
-
-k_Kollon = {
-    730.10.25 = {
-        holder = Kollon_1
+﻿k_Weisshugel = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
@@ -31,13 +20,13 @@ k_Kollon = {
     }
 }
 
-d_Kollon_3 = {
-    730.10.25 = {
-        holder = Kollon_1
+d_Weisshugel_4 = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -53,13 +42,13 @@ d_Kollon_3 = {
     }
 }
 
-c_Kollon_3_2 = {
-    730.10.25 = {
-        holder = Kollon_1
+c_Weisshugel_4_1 = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -75,13 +64,13 @@ c_Kollon_3_2 = {
     }
 }
 
-c_Kollon_3_3 = {
-    730.10.25 = {
-        holder = Kollon_1
+c_Weisshugel_4_2 = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -97,13 +86,13 @@ c_Kollon_3_3 = {
     }
 }
 
-c_Kollon_3_4 = {
-    730.10.25 = {
-        holder = Kollon_1
+c_Weisshugel_4_3 = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -119,13 +108,13 @@ c_Kollon_3_4 = {
     }
 }
 
-d_Kollon_1 = {
-    740.7.18 = {
-        holder = Kollon_2
+c_Weisshugel_4_4 = {
+    723.10.28 = {
+        holder = Weisshugel_1
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -141,13 +130,13 @@ d_Kollon_1 = {
     }
 }
 
-c_Kollon_1_2 = {
-    740.7.18 = {
-        holder = Kollon_2
+d_Weisshugel_2 = {
+    734.4.4 = {
+        holder = Weisshugel_2
     }
 
     741.1.1 = {
-        liege = d_Kollon_1
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -163,13 +152,13 @@ c_Kollon_1_2 = {
     }
 }
 
-c_Kollon_1_3 = {
-    740.7.18 = {
-        holder = Kollon_2
+c_Weisshugel_2_1 = {
+    734.4.4 = {
+        holder = Weisshugel_2
     }
 
     741.1.1 = {
-        liege = d_Kollon_1
+        liege = d_Weisshugel_2
         government = administrative_government
         effect = {
             if = {
@@ -185,13 +174,13 @@ c_Kollon_1_3 = {
     }
 }
 
-d_Kollon_2 = {
-    731.5.12 = {
-        holder = Kollon_3
+c_Weisshugel_2_2 = {
+    734.4.4 = {
+        holder = Weisshugel_2
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = d_Weisshugel_2
         government = administrative_government
         effect = {
             if = {
@@ -207,13 +196,13 @@ d_Kollon_2 = {
     }
 }
 
-c_Kollon_2_1 = {
-    731.5.12 = {
-        holder = Kollon_3
+c_Weisshugel_2_3 = {
+    734.4.4 = {
+        holder = Weisshugel_2
     }
 
     741.1.1 = {
-        liege = d_Kollon_2
+        liege = d_Weisshugel_2
         government = administrative_government
         effect = {
             if = {
@@ -229,13 +218,13 @@ c_Kollon_2_1 = {
     }
 }
 
-c_Kollon_2_2 = {
-    731.5.12 = {
-        holder = Kollon_3
+d_Weisshugel_3 = {
+    740.7.13 = {
+        holder = Weisshugel_3
     }
 
     741.1.1 = {
-        liege = d_Kollon_2
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -251,13 +240,13 @@ c_Kollon_2_2 = {
     }
 }
 
-c_Kollon_2_3 = {
-    731.5.12 = {
-        holder = Kollon_3
+c_Weisshugel_3_1 = {
+    740.7.13 = {
+        holder = Weisshugel_3
     }
 
     741.1.1 = {
-        liege = d_Kollon_2
+        liege = d_Weisshugel_3
         government = administrative_government
         effect = {
             if = {
@@ -273,13 +262,13 @@ c_Kollon_2_3 = {
     }
 }
 
-c_Kollon_2_4 = {
-    731.5.12 = {
-        holder = Kollon_3
+c_Weisshugel_3_2 = {
+    740.7.13 = {
+        holder = Weisshugel_3
     }
 
     741.1.1 = {
-        liege = d_Kollon_2
+        liege = d_Weisshugel_3
         government = administrative_government
         effect = {
             if = {
@@ -295,13 +284,13 @@ c_Kollon_2_4 = {
     }
 }
 
-d_Kollon_4 = {
-    735.4.5 = {
-        holder = Kollon_4
+c_Weisshugel_3_3 = {
+    740.7.13 = {
+        holder = Weisshugel_3
     }
 
     741.1.1 = {
-        liege = k_Kollon
+        liege = d_Weisshugel_3
         government = administrative_government
         effect = {
             if = {
@@ -317,13 +306,13 @@ d_Kollon_4 = {
     }
 }
 
-c_Kollon_4_1 = {
-    735.4.5 = {
-        holder = Kollon_4
+c_Weisshugel_3_4 = {
+    740.7.13 = {
+        holder = Weisshugel_3
     }
 
     741.1.1 = {
-        liege = d_Kollon_4
+        liege = d_Weisshugel_3
         government = administrative_government
         effect = {
             if = {
@@ -339,13 +328,13 @@ c_Kollon_4_1 = {
     }
 }
 
-c_Kollon_4_2 = {
-    735.4.5 = {
-        holder = Kollon_4
+d_Weisshugel_1 = {
+    730.9.16 = {
+        holder = Weisshugel_4
     }
 
     741.1.1 = {
-        liege = d_Kollon_4
+        liege = k_Weisshugel
         government = administrative_government
         effect = {
             if = {
@@ -361,13 +350,13 @@ c_Kollon_4_2 = {
     }
 }
 
-c_Kollon_4_3 = {
-    735.4.5 = {
-        holder = Kollon_4
+c_Weisshugel_1_1 = {
+    730.9.16 = {
+        holder = Weisshugel_4
     }
 
     741.1.1 = {
-        liege = d_Kollon_4
+        liege = d_Weisshugel_1
         government = administrative_government
         effect = {
             if = {
@@ -383,13 +372,13 @@ c_Kollon_4_3 = {
     }
 }
 
-c_Kollon_4_4 = {
-    735.4.5 = {
-        holder = Kollon_4
+c_Weisshugel_1_2 = {
+    730.9.16 = {
+        holder = Weisshugel_4
     }
 
     741.1.1 = {
-        liege = d_Kollon_4
+        liege = d_Weisshugel_1
         government = administrative_government
         effect = {
             if = {
@@ -405,13 +394,13 @@ c_Kollon_4_4 = {
     }
 }
 
-c_Kollon_1_1 = {
-    739.7.11 = {
-        holder = Kollon_5
+c_Weisshugel_1_3 = {
+    730.9.16 = {
+        holder = Weisshugel_4
     }
 
     741.1.1 = {
-        liege = k_Hiria_Army_6
+        liege = d_Weisshugel_1
         government = administrative_government
         effect = {
             if = {
@@ -427,13 +416,13 @@ c_Kollon_1_1 = {
     }
 }
 
-c_Kollon_1_4 = {
-    739.7.11 = {
-        holder = Kollon_5
+c_Weisshugel_1_4 = {
+    730.9.16 = {
+        holder = Weisshugel_4
     }
 
     741.1.1 = {
-        liege = k_Hiria_Army_6
+        liege = d_Weisshugel_1
         government = administrative_government
         effect = {
             if = {

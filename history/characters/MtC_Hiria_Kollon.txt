@@ -1,0 +1,51 @@
+﻿Kollon_1 = {# 
+    name = "Aubrey"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = hains
+    697.5.8 = {
+        birth = yes
+    }
+}
+
+Kollon_2 = {# 
+    name = "Ezzo"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = von_grasse
+    708.4.28 = {
+        birth = yes
+    }
+}
+
+Kollon_3 = {# 
+    name = "William"
+    religion = imperial_verita
+    culture = high_hirian
+    dynasty = tacimer
+    711.11.9 = {
+        birth = yes
+    }
+}
+
+Kollon_4 = {# 
+    name = "Mathias"
+    religion = imperial_verita
+    culture = north_hirian
+    dynasty = lU_tzen
+    702.2.16 = {
+        birth = yes
+    }
+}
+
+Kollon_5 = {# 
+    name = "Jeanne"
+    female = yes
+    religion = imperial_verita
+    culture = south_hirian
+    dynasty = de_jounebout
+    707.1.28 = {
+        birth = yes
+    }
+}
+

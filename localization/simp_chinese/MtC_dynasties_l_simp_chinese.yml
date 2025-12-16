@@ -76,7 +76,7 @@ dynn_landrey: "兰德里"
 
 dynn_fango: "凡戈"
 dynn_ramonda: "拉蒙达"
-dynn_gialla: "基亚拉"
+dynn_gialla: "吉亚拉"
 
 dynn_calaway: "加拉韦"
 dynn_manning: "曼宁"
@@ -89,5 +89,20 @@ dynn_benz: "本茨"
 dynn_rosh: "罗什"
 dynn_adant: "阿丹"
 
+dynn_char: "夏"
+dynn_lU_tzen: "卢岑"
+dynn_heissburg: "海斯堡"
 
+dynn_garmond: "加蒙德"
+dynn_neiss: "内斯"
+dynn_bech: "贝赫"
+dynn_schilf: "希尔夫"
+dynn_eisen: "艾森"
+
+dynn_ross: "罗斯"
+dynn_grasse: "格拉瑟"
+dynn_kornburg: "科恩堡"
+
+dynn_hains: "海因斯"
+dynn_jounebout: "永布"
 #dynn_: ""
