@@ -99,6 +99,11 @@ von_erfalen = { #Noble family originated from Weisshugel
 	culture = gronlander
 }
 
+henning = {
+	name = dynn_henning
+	culture = north_hirian
+}
+
 #Old League
 veiro = {
 	name = dynn_veiro

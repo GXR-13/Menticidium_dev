@@ -78,3 +78,13 @@ Hiria_1 = { #Gamall 'The Bear' von Erfalen
 		birth = yes
 	}
 }
+
+Hiria_2 = {
+	name = "Mark"
+	religion = imperial_verita
+	culture = north_hirian
+	dynasty = henning
+	687.3.11 = {
+		birth = yes
+	}
+}

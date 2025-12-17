@@ -742,6 +742,7 @@ h_Hiria = {
             color = { 93 93 93 }
 
             capital = c_Old_League_2_3
+            ruler_uses_title_name = no
 
             ai_primary_priority = {
                 add = @better_than_the_alternatives_score
@@ -3585,6 +3586,8 @@ h_Hiria = {
             color = { 184 104 126 }
 
             capital = c_Sud_4_2
+            
+            definite_form = yes
 
             ai_primary_priority = {
                 add = @better_than_the_alternatives_score

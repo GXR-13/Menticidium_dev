@@ -18,6 +18,9 @@
 		title:c_Reussia_2_1 = {
 			set_color_from_title = title:c_Picklnia_Colored
 		}
+
+		#####NAME CHANGES####
+		title:k_Old_League = { set_title_name = k_Old_League_League }
 	}
 }
 

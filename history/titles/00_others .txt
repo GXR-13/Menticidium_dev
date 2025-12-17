@@ -88,9 +88,37 @@ k_Aqueporta = {
 }
 
 ##Hirian Army titles
+e_Hiria_Army_Inspectorate = {
+    738.12.29 = {
+        holder = Hiria_2
+    }
+
+    741.1.1 = {
+        liege = h_Hiria
+
+        government = administrative_government
+        effect = {
+            if = {
+                limit = {
+                    exists = holder
+                    NOT = { has_dlc_feature = roads_to_power }
+                }
+                holder = {
+                    change_government = feudal_government
+                }
+            }
+        }
+    }
+}
+
 k_Hiria_Army_2 = { 
-    730.2.27 = {holder= Dejois_5
-    #设置政府
+    730.2.27 = {
+        holder= Dejois_5
+	}
+    741.1.1 = {
+        liege = e_Hiria_Army_Inspectorate
+
+        #设置政府
         government = administrative_government
         #后被选项，以防玩家没打dlc
 		effect = {
@@ -104,9 +132,6 @@ k_Hiria_Army_2 = {
 				}
 			}
 		}
-	}
-    741.1.1 = {
-        liege = h_Hiria
     }
 }
 
@@ -116,7 +141,8 @@ k_Hiria_Army_4 = {
     }
 
     741.1.1 = {
-        liege = h_Hiria
+        liege = e_Hiria_Army_Inspectorate
+
         government = administrative_government
         effect = {
             if = {
@@ -138,7 +164,8 @@ k_Hiria_Army_5 = {
     }
 
     741.1.1 = {
-        liege = h_Hiria
+        liege = e_Hiria_Army_Inspectorate
+        
         government = administrative_government
         effect = {
             if = {
@@ -161,7 +188,7 @@ k_Hiria_Army_6 = {
     }
 
     741.1.1 = {
-        liege = h_Hiria
+        liege = e_Hiria_Army_Inspectorate
         government = administrative_government
         effect = {
             if = {

@@ -73,8 +73,8 @@ e_Church_of_Communion = {
 
 #Hiria military titles
 ##General Inspector
-e_Army_Inspectorate = {
-	color = { 160 39 50 }
+e_Hiria_Army_Inspectorate = {
+	color = { 117 53 59 }
 
 	capital = c_High_Hiria_1_3
 	
@@ -108,7 +108,6 @@ k_Hiria_Army_2 = {
 	capital = c_Dejois_5_2
 
 	definite_form = yes
-	ruler_uses_title_name = no
 	landless = yes
 	ignore_titularity_for_title_weighting = yes
 
@@ -131,7 +130,6 @@ k_Hiria_Army_4 = {
 	capital = c_Torquia_4_1
 
 	definite_form = yes
-	ruler_uses_title_name = no
 	landless = yes
 	ignore_titularity_for_title_weighting = yes
 
@@ -150,7 +148,6 @@ k_Hiria_Army_5 = {
 	capital = c_Torquia_3_1
 
 	definite_form = yes
-	ruler_uses_title_name = no
 	landless = yes
 	ignore_titularity_for_title_weighting = yes
 
@@ -170,7 +167,6 @@ k_Hiria_Army_6 = {
 	capital = c_Kollon_1_1
 
 	definite_form = yes
-	ruler_uses_title_name = no
 	landless = yes
 	ignore_titularity_for_title_weighting = yes
 
@@ -491,7 +487,6 @@ k_Aqueporta = {
 	capital = c_Almaria_3_1
 
 	definite_form = yes
-	ruler_uses_title_name = no
 	landless = yes
 	ignore_titularity_for_title_weighting = yes
 

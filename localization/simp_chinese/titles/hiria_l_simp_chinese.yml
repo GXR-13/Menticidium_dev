@@ -1,6 +1,17 @@
 ﻿l_simp_chinese:
 h_Hiria: "希里亚"
 e_Hiria: "希里亚"
+
+e_Hiria_Army_Inspectorate: "督军府"
+k_Hiria_Army_0: "武军"
+k_Hiria_Army_1: "东方军"
+k_Hiria_Army_2: "南方军"
+k_Hiria_Army_3: "北方军"
+k_Hiria_Army_4: "西方军"
+k_Hiria_Army_5: "切诺尼亚步军"
+k_Hiria_Army_6: "北方次军"
+k_Aqueporta: "阿奎波塔"
+k_New_League: "新联盟"
 #High_Hiria
 k_High_Hiria: "高希里亚"
 
@@ -325,6 +336,7 @@ b_Intermark_5_2_3: "罗特豪斯"
 
 #Old_League
 k_Old_League: "康科迪亚"
+k_Old_League_League: "老联盟"
 
 d_Trevien: "特莱维恩"
 d_Wespuria: "维斯普里亚"

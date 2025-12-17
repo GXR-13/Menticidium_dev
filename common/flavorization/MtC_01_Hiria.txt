@@ -1,0 +1,276 @@
+﻿
+#Emperror
+hiria_emperor_male = {
+	type = character
+	gender = male
+	special = holder
+	titles = { h_Hiria }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	titles = { h_Hiria }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_inspector_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 100
+	governments = { administrative_government }
+	#de_jure_liege = { h_hiria }
+	flavourization_rules = {
+		only_vassals = yes
+		top_liege = no
+		spouse_takes_title = no
+	}
+}
+
+hiria_inspector_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 100
+	governments = { administrative_government }
+	#de_jure_liege = { h_hiria }
+	flavourization_rules = {
+		only_vassals = yes
+		top_liege = no
+		spouse_takes_title = no
+	}
+}
+
+hiria_governor_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 100
+	governments = { administrative_government }
+	#de_jure_liege = { h_hiria }
+	flavourization_rules = {
+		only_vassals = yes
+		top_liege = no
+		spouse_takes_title = no
+	}
+}
+
+hiria_governor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 100
+	governments = { administrative_government }
+	#de_jure_liege = { h_hiria }
+	flavourization_rules = {
+		only_vassals = yes
+		top_liege = no
+		spouse_takes_title = no
+	}
+}
+
+hiria_old_league_master_male = {
+	type = character
+	gender = male
+	special = holder
+	titles = { k_Old_League }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_old_league_master_female = {
+	type = character
+	gender = female
+	special = holder
+	titles = { k_Old_League }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_new_league_chair_male = {
+	type = character
+	gender = male
+	special = holder
+	titles = { k_New_League }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_old_league_master_female = {
+	type = character
+	gender = female
+	special = holder
+	titles = { k_Old_League }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_galben_proctor_male = {
+	type = character
+	gender = male
+	special = holder
+	titles = { c_Old_League_2_1 }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_old_league_master_female = {
+	type = character
+	gender = female
+	special = holder
+	titles = { k_Old_League }
+	priority = 500
+	flavourization_rules = { 
+		spouse_takes_title = no
+	}
+}
+
+hiria_army_general_inspector_male = {
+	type = character
+	gender = male
+	titles = { e_Hiria_Army_Inspectorate }
+	priority = 500
+	flavourization_rules = { 
+		only_holder = yes
+		spouse_takes_title = no
+	}
+}
+
+hiria_army_general_inspector_female = {
+	type = character
+	gender = female
+	titles = { e_Hiria_Army_Inspectorate }
+	priority = 500
+	flavourization_rules = { 
+		only_holder = yes
+		spouse_takes_title = no
+	}
+}
+
+hiria_army_general_male = {
+	type = character
+	gender = male
+	titles = { 
+		k_Hiria_Army_0
+		k_Hiria_Army_1
+		k_Hiria_Army_2
+		k_Hiria_Army_3
+		k_Hiria_Army_4
+		k_Hiria_Army_5
+		k_Hiria_Army_6
+ 	}
+	priority = 500
+	flavourization_rules = { 
+		only_holder = yes
+
+	}
+}
+
+hiria_army_general_female = {
+	type = character
+	gender = female
+	titles = { 
+		k_Hiria_Army_0
+		k_Hiria_Army_1
+		k_Hiria_Army_2
+		k_Hiria_Army_3
+		k_Hiria_Army_4
+		k_Hiria_Army_5
+		k_Hiria_Army_6
+ 	}
+	priority = 500
+	flavourization_rules = { 
+		only_holder = yes
+
+	}
+}
+
+hiria_hegemony = {
+	type = title
+	tier = hegemony
+	priority = 200
+	titles = { h_Hiria }
+	flavourization_rules = { 
+		top_liege = yes
+	}
+}
+
+hiria_empire_dummy = {
+	type = title
+	tier = empire
+	priority = 200
+	titles = { e_Hiria }
+}
+
+hiria_kingdom_province = {
+	type = title
+	tier = kingdom
+	priority = 100
+	governments = { administrative_government }
+	flavourization_rules = { 
+		top_liege = no
+	}
+}
+
+hiria_kingdom_army = {
+	type = title
+	tier = kingdom
+	priority = 110
+	governments = { administrative_government }
+	titles = { 
+		k_Hiria_Army_0
+		k_Hiria_Army_1
+		k_Hiria_Army_2
+		k_Hiria_Army_3
+		k_Hiria_Army_4
+		k_Hiria_Army_5
+		k_Hiria_Army_6
+ 	}
+	flavourization_rules = { 
+		top_liege = no
+	}
+}
+
+hiria_old_league_dummy = {
+	type = title
+	tier = kingdom
+	priority = 200
+	titles = { k_Old_League }
+	governments = { feudal_government }
+	flavourization_rules = {
+		ignore_top_liege_government = yes
+	}
+}
+
+hiria_duchy_prefecture = {
+	type = title
+	tier = duchy
+	priority = 100
+	governments = { administrative_government }
+	flavourization_rules = { 
+		top_liege = no
+	}
+}
