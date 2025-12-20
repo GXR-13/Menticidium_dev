@@ -56,7 +56,7 @@ Reussia_9 = {
 }
 
 Reussia_13 = {
-	name = "Ismaël" #伊斯梅尔·兰德里
+	name = "mael" #梅尔·兰德里
 	culture = banlian
 	religion = imperial_verita
 	dynasty = landrey

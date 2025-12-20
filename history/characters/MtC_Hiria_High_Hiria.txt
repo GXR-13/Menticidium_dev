@@ -2,7 +2,7 @@
     name = "Hilbert"
     religion = imperial_verita
     culture = leaguemen
-    dynasty = verio
+    dynasty = miller
     697.3.14 = {
         birth = yes
     }

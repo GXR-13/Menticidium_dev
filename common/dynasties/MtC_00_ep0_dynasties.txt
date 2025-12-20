@@ -104,6 +104,11 @@ henning = {
 	culture = north_hirian
 }
 
+miller = {
+	name = dynn_miller
+	culture = leaguemen
+}
+
 #Old League
 veiro = {
 	name = dynn_veiro
