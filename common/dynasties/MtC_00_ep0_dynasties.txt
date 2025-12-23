@@ -177,8 +177,8 @@ landar = {
 }
 
 #Imp_Preseerve
-rael = {
-	name = dynn_rael
+lear = {
+	name = dynn_lear
 	culture = gronlander
 }
 

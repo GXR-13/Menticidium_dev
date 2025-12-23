@@ -2,7 +2,7 @@
     name = "Oscar"
     religion = imperial_verita
     culture = gronlander
-    dynasty = rael
+    dynasty = lear
     699.6.8 = {
         birth = yes
     }

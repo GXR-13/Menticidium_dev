@@ -33,7 +33,7 @@ Dulhecht_4 = {#
     name = "Sigfried"
     religion = imperial_verita
     culture = gronlander
-    dynasty = rael
+    dynasty = lear
     678.7.5 = {
         birth = yes
     }

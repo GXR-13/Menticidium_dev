@@ -211,7 +211,6 @@
 	faiths = {
 		imperial_verita = {
 			color = rgb { 230 230 230 }
-			icon = placeholder
 			
 
 			holy_site = c_High_Hiria_1_1
