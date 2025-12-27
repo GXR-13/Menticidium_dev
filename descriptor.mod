@@ -1,8 +1,8 @@
-version="1.4"
+version="0.1"
 tags={
 	"Total Conversion"
 }
-name="Menticidium"
+name="Menticidium Demo "
 replace_path="common/bookmark_portraits"
 replace_path="common/bookmarks"
 replace_path="common/religion/religions"
