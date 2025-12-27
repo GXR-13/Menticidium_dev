@@ -2,3 +2,5 @@
 * text=auto
 *.tga filter=lfs diff=lfs merge=lfs -text
 gfx/map/terrain/colormap.dds filter=lfs diff=lfs merge=lfs -text
+
+descriptor.mod merge = ours
