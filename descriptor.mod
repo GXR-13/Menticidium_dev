@@ -1,6 +1,7 @@
 version="0.1"
 tags={
 	"Total Conversion"
+	"Map"
 }
 name="Menticidium Demo "
 replace_path="common/bookmark_portraits"
