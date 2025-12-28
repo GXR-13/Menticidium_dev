@@ -2,7 +2,7 @@ version="1.4"
 tags={
 	"Total Conversion"
 }
-name="Menticidium"
+name="Menticidium_dev"
 replace_path="common/bookmark_portraits"
 replace_path="common/bookmarks"
 replace_path="common/religion/religions"
@@ -15,4 +15,3 @@ replace_path="history/titles"
 replace_path="map_data"
 picture="thumbnail.png"
 supported_version="1.18.*"
-path="C:/Users/saiji/Documents/Paradox Interactive/Crusader Kings III/mod/Menticidium"
