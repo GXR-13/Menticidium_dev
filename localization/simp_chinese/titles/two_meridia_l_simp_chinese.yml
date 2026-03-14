@@ -1,60 +1,232 @@
 ﻿l_simp_chinese:
- k_Dabigsia: "达维西亚"
- CONFEDERATION_UGUNSMAGIJA_NAME: "乌古斯玛吉亚"
- d_Ugunszals: "乌古斯扎斯"
- d_Ugunsmelns: "乌古斯梅恩斯"
- d_Ugunsvioles: "乌古斯维奥莱斯"
- d_Zimasgaisma: "济玛斯盖斯玛"
- d_Vasarasvetra: "瓦萨拉斯伟特拉"
- d_Perkonamkonis: "佩尔科纳马科尼斯"
- d_Aizdegsanas: "艾斯迪格萨那斯"
- d_Mazasaule: "马扎沙乌勒"
- d_Maltagala: "马尔塔加亚"
- d_Ramsmiegs: "拉姆斯密格斯"
+k_Dabigsia: "达维西亚"
+CONFEDERATION_UGUNSMAGIJA_NAME: "乌古斯玛吉亚"
+d_Ugunszals: "乌古斯扎斯"
+d_Ugunsmelns: "乌古斯梅恩斯"
+d_Ugunsvioles: "乌古斯维奥莱斯"
+d_Zimasgaisma: "济玛斯盖斯玛"
+d_Vasarasvetra: "瓦萨拉斯伟特拉"
+d_Perkonamkonis: "佩尔科纳马科尼斯"
+d_Aizdegsanas: "艾斯迪格萨那斯"
+d_Mazasaule: "马扎沙乌勒"
+d_Maltagala: "马尔塔加亚"
+d_Ramsmiegs: "拉姆斯密格斯"
 
- d_Dabigsia_1: "盖斯玛雷亚"
+d_Dabigsia_1: "盖斯玛雷亚"
 
- d_Dabigsia_2: "佩尔孔卡尼"
+d_Dabigsia_2: "佩尔孔卡尼"
 
- d_Dabigsia_3: "乌古斯卡尼"
+d_Dabigsia_3: "乌古斯卡尼"
 
- d_Dabigsia_4: "密尔特雷亚"
+d_Dabigsia_4: "密尔特雷亚"
 
- d_Dabigsia_5: "伟特拉卡尼"
+d_Dabigsia_5: "伟特拉卡尼"
 
- d_Dabigsia_6: "斯维塔泽姆"
+d_Dabigsia_6: "斯维塔泽姆"
 
- d_Dabigsia_7: "阿辛泽姆"
- k_Doria_Norde: "北多里亚"
- d_Lega_Norde: "北方同盟"
- d_Doria_Norde_1: "埃斯泰里亚"
- d_Doria_Norde_2: "方多"
- d_Doria_Norde_3: "雷焦弗雷底亚"
- d_Doria_Norde_4: "索利西诺"
- d_Doria_Norde_5: "索维塔累"
- d_Doria_Norde_6: "博斯科莱"
- d_Doria_Norde_7: "多米诺"
- d_Doria_Norde_8: "维索"
- d_Doria_Norde_9: "西库庇亚"
- d_Doria_Norde_10: "东库庇亚"
- d_Doria_Norde_11: "康菲尼亚"
- k_Doria_Litorale: "滨海多里亚"
- d_Doria_Litorale_1: "特莱维沃"
- d_Doria_Litorale_2: "宁底亚"
- d_Doria_Litorale_3: "帕西菲奥"
- d_Doria_Litorale_4: "坎波格罗索"
- d_Doria_Litorale_5: "多里亚边区"
- d_Doria_Litorale_6: "弥亚斯米亚"
- d_Doria_Litorale_7: "索尔琴托"
- d_Doria_Litorale_8: "瓦莱德梅洛"
- k_Senais_Lands: "瑟纳伊斯地"
+d_Dabigsia_7: "阿辛泽姆"
+k_Doria_Norde: "北多里亚"
+d_Lega_Norde: "北方同盟"
+d_Doria_Norde_1: "埃斯泰里亚"
+d_Doria_Norde_2: "丰多"
+d_Doria_Norde_3: "雷焦弗雷底亚"
+d_Doria_Norde_4: "索利西诺"
+d_Doria_Norde_5: "索维塔雷"
+d_Doria_Norde_6: "博斯科莱"
+d_Doria_Norde_7: "多米诺"
+d_Doria_Norde_8: "维索"
+d_Doria_Norde_9: "西库庇亚"
+d_Doria_Norde_10: "东库庇亚"
+d_Doria_Norde_11: "康菲尼亚"
 
- d_Senais_Lands_1: "杜施梅施"
 
- d_Senais_Lands_2: "达尔斯梅施"
 
- d_Senais_Lands_3: "密尔特梅施"
 
- d_Senais_Lands_4: "帕尔提西瓦"
 
- d_Senais_Lands_5: "乌古斯梅施"
+
+
+
+
+
+#Doria_Litorale
+k_Doria_Litorale: "滨海多里亚"
+
+d_Doria_Litorale_1: "特莱维沃"
+c_Doria_Litorale_1_1: "埃斯塔波塔"
+b_Doria_Litorale_1_1_2: "" #(capital)
+b_Doria_Litorale_1_1_1: ""
+b_Doria_Litorale_1_1_4: ""
+b_Doria_Litorale_1_1_3: ""
+c_Doria_Litorale_1_2: "大拉盖托"
+b_Doria_Litorale_1_2_2: "" #(capital)
+b_Doria_Litorale_1_2_3: ""
+b_Doria_Litorale_1_2_1: ""
+b_Doria_Litorale_1_2_4: ""
+c_Doria_Litorale_1_3: "弗塔弗朗特"
+b_Doria_Litorale_1_3_3: "" #(capital)
+b_Doria_Litorale_1_3_2: ""
+b_Doria_Litorale_1_3_1: ""
+b_Doria_Litorale_1_3_4: ""
+c_Doria_Litorale_1_4: "特来维尔托"
+b_Doria_Litorale_1_4_1: "" #(capital)
+b_Doria_Litorale_1_4_2: ""
+b_Doria_Litorale_1_4_3: ""
+b_Doria_Litorale_1_4_4: ""
+
+d_Doria_Litorale_2: "宁底亚"
+c_Doria_Litorale_2_1: "特来维尔托"
+b_Doria_Litorale_2_1_2: "" #(capital)
+b_Doria_Litorale_2_1_1: ""
+b_Doria_Litorale_2_1_4: ""
+b_Doria_Litorale_2_1_3: ""
+c_Doria_Litorale_2_2: "内索波利"
+b_Doria_Litorale_2_2_1: "" #(capital)
+b_Doria_Litorale_2_2_3: ""
+b_Doria_Litorale_2_2_2: ""
+c_Doria_Litorale_2_3: "坎波安提柯"
+b_Doria_Litorale_2_3_2: "" #(capital)
+b_Doria_Litorale_2_3_4: ""
+b_Doria_Litorale_2_3_1: ""
+b_Doria_Litorale_2_3_3: ""
+c_Doria_Litorale_2_4: "皮埃德拉戈"
+b_Doria_Litorale_2_4_4: "" #(capital)
+b_Doria_Litorale_2_4_2: ""
+b_Doria_Litorale_2_4_1: ""
+b_Doria_Litorale_2_4_3: ""
+
+d_Doria_Litorale_5: "多里亚边区"
+c_Doria_Litorale_5_5: "兰波通道"
+b_Doria_Litorale_5_5_3: "" #(capital)
+b_Doria_Litorale_5_5_1: ""
+b_Doria_Litorale_5_5_2: ""
+b_Doria_Litorale_5_5_4: ""
+c_Doria_Litorale_5_1: "罗萨玛尔"
+b_Doria_Litorale_5_1_3: "" #(capital)
+b_Doria_Litorale_5_1_1: ""
+b_Doria_Litorale_5_1_2: ""
+b_Doria_Litorale_5_1_4: ""
+c_Doria_Litorale_5_3: "盖迪亚"
+b_Doria_Litorale_5_3_1: "" #(capital)
+b_Doria_Litorale_5_3_4: ""
+b_Doria_Litorale_5_3_3: ""
+b_Doria_Litorale_5_3_2: ""
+c_Doria_Litorale_5_4: "蒙特纽姆"
+b_Doria_Litorale_5_4_1: "" #(capital)
+b_Doria_Litorale_5_4_3: ""
+b_Doria_Litorale_5_4_2: ""
+c_Doria_Litorale_5_2: "坎波迪卢维奥"
+b_Doria_Litorale_5_2_1: "" #(capital)
+b_Doria_Litorale_5_2_4: ""
+b_Doria_Litorale_5_2_2: ""
+b_Doria_Litorale_5_2_3: ""
+
+d_Doria_Litorale_8: "瓦莱德梅洛"
+c_Doria_Litorale_8_2: "蒙特萨索"
+b_Doria_Litorale_8_2_2: "" #(capital)
+b_Doria_Litorale_8_2_1: ""
+b_Doria_Litorale_8_2_3: ""
+c_Doria_Litorale_8_4: "坎迪托雷"
+b_Doria_Litorale_8_4_1: "" #(capital)
+b_Doria_Litorale_8_4_3: ""
+b_Doria_Litorale_8_4_2: ""
+c_Doria_Litorale_8_1: "阿兹洛"
+b_Doria_Litorale_8_1_4: "" #(capital)
+b_Doria_Litorale_8_1_2: ""
+b_Doria_Litorale_8_1_1: ""
+b_Doria_Litorale_8_1_3: ""
+c_Doria_Litorale_8_3: "马尼查"
+b_Doria_Litorale_8_3_2: "" #(capital)
+b_Doria_Litorale_8_3_1: ""
+b_Doria_Litorale_8_3_3: ""
+
+d_Doria_Litorale_4: "坎波格罗索"
+c_Doria_Litorale_4_4: "梅契"
+b_Doria_Litorale_4_4_1: "" #(capital)
+b_Doria_Litorale_4_4_4: ""
+b_Doria_Litorale_4_4_2: ""
+b_Doria_Litorale_4_4_3: ""
+c_Doria_Litorale_4_2: "小拉盖托"
+b_Doria_Litorale_4_2_1: "" #(capital)
+b_Doria_Litorale_4_2_2: ""
+b_Doria_Litorale_4_2_3: ""
+c_Doria_Litorale_4_1: "利加弗切"
+b_Doria_Litorale_4_1_2: "" #(capital)
+b_Doria_Litorale_4_1_4: ""
+b_Doria_Litorale_4_1_1: ""
+b_Doria_Litorale_4_1_3: ""
+c_Doria_Litorale_4_3: "加伊奥罗"
+b_Doria_Litorale_4_3_3: "" #(capital)
+b_Doria_Litorale_4_3_2: ""
+b_Doria_Litorale_4_3_4: ""
+b_Doria_Litorale_4_3_1: ""
+
+d_Doria_Litorale_6: "弥亚斯米亚"
+c_Doria_Litorale_6_4: "戴贝拉科"
+b_Doria_Litorale_6_4_1: "" #(capital)
+b_Doria_Litorale_6_4_3: ""
+b_Doria_Litorale_6_4_2: ""
+c_Doria_Litorale_6_2: "塞斯图利"
+b_Doria_Litorale_6_2_3: "" #(capital)
+b_Doria_Litorale_6_2_2: ""
+b_Doria_Litorale_6_2_1: ""
+c_Doria_Litorale_6_1: "诺斯特罗"
+b_Doria_Litorale_6_1_3: "" #(capital)
+b_Doria_Litorale_6_1_1: ""
+b_Doria_Litorale_6_1_2: ""
+b_Doria_Litorale_6_1_4: ""
+c_Doria_Litorale_6_3: "卡诺加"
+b_Doria_Litorale_6_3_1: "" #(capital)
+b_Doria_Litorale_6_3_3: ""
+b_Doria_Litorale_6_3_4: ""
+b_Doria_Litorale_6_3_2: ""
+
+d_Doria_Litorale_7: "索尔琴托"
+c_Doria_Litorale_7_3: "罗萨瓦"
+b_Doria_Litorale_7_3_1: "" #(capital)
+b_Doria_Litorale_7_3_2: ""
+b_Doria_Litorale_7_3_4: ""
+b_Doria_Litorale_7_3_3: ""
+c_Doria_Litorale_7_1: "卡萨迪梅佐"
+b_Doria_Litorale_7_1_1: "" #(capital)
+b_Doria_Litorale_7_1_4: ""
+b_Doria_Litorale_7_1_3: ""
+b_Doria_Litorale_7_1_2: ""
+c_Doria_Litorale_7_4: "科尔沃"
+b_Doria_Litorale_7_4_2: "" #(capital)
+b_Doria_Litorale_7_4_1: ""
+b_Doria_Litorale_7_4_3: ""
+b_Doria_Litorale_7_4_4: ""
+c_Doria_Litorale_7_2: "文泰斯塔"
+b_Doria_Litorale_7_2_1: "" #(capital)
+b_Doria_Litorale_7_2_4: ""
+b_Doria_Litorale_7_2_3: ""
+b_Doria_Litorale_7_2_2: ""
+
+d_Doria_Litorale_3: "帕西菲奥"
+c_Doria_Litorale_3_1: "马尔图诺"
+b_Doria_Litorale_3_1_2: "" #(capital)
+b_Doria_Litorale_3_1_3: ""
+b_Doria_Litorale_3_1_1: ""
+c_Doria_Litorale_3_2: "坎波加拉"
+b_Doria_Litorale_3_2_1: "" #(capital)
+b_Doria_Litorale_3_2_3: ""
+b_Doria_Litorale_3_2_4: ""
+b_Doria_Litorale_3_2_2: ""
+c_Doria_Litorale_3_3: "柯达卡瓦"
+b_Doria_Litorale_3_3_3: "" #(capital)
+b_Doria_Litorale_3_3_1: ""
+b_Doria_Litorale_3_3_2: ""
+b_Doria_Litorale_3_3_4: ""
+
+
+k_Senais_Lands: "瑟纳伊斯地"
+
+d_Senais_Lands_1: "杜施梅施"
+
+d_Senais_Lands_2: "达尔斯梅施"
+
+d_Senais_Lands_3: "密尔特梅施"
+
+d_Senais_Lands_4: "帕尔提西瓦"
+
+d_Senais_Lands_5: "乌古斯梅施"

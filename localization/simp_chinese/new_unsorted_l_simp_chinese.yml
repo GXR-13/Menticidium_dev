@@ -84,7 +84,7 @@
  MtC_demo.6.a: "我们并没什么不同。"
 
  MtC_demo.7.t: "次子"
- MtC_demo.7.desc: "“我的兄弟有些……偏执。”“那场战争一定深深影响了他。他母亲，以及[GetTitleByKey('c_Jaskowvia_2_1').GetBaseNameNoTier]沦陷后的惨剧，他把这一切归结于奥斯特兰人。”\n\n“我向你保证，事情并不如它看上去那般简单。这背后的个中缘由无法用一两句话论说；奥斯特兰人是帝国的弃子，被夹在了一场冲突的中间。他们与你见过的任何民族并无不同，只是他们的国王在错误的时间站错了队。”\n\n“我已无意，也无法让[GetScriptedCharacterByHistoryID( 'Dwilia_1002' ).GetFirstName]回心转意了，但作为公爵，我至少要保护领地内的人民。这是我的请求：在写下任何东西之前，还请避免由一面之词做出过于武断的判断。”\n\n在说出这些话语时，一丝决意似乎暂时盖过了他脸上的忧愁——只有一时。"
+ MtC_demo.7.desc: "“我的兄弟有些……偏执。”“那场战争一定深深影响了他。他母亲，以及[GetTitleByKey('c_Jaskowvia_2_1').GetBaseNameNoTier]沦陷后的惨剧，他把这一切归结于[GetCultureByKey('ostlander').GetName]人。”\n\n“我向你保证，事情并不如它看上去那般简单。这背后的个中缘由无法用一两句话论说；[GetCultureByKey('ostlander').GetName]人是帝国的弃子，被夹在了一场冲突的中间。他们与你见过的任何民族并无不同，只是他们的国王在错误的时间站错了队。”\n\n“我已无意，也无法让[GetScriptedCharacterByHistoryID( 'Dwilia_1002' ).GetFirstName]回心转意了，但作为公爵，我至少要保护领地内的人民。这是我的请求：在写下任何东西之前，还请避免由一面之词做出过于武断的判断。”\n\n在说出这些话语时，一丝决意似乎暂时盖过了他脸上的忧愁——只有一时。"
  MtC_demo.7.a: "“这听上去不过是自我开脱。”"
  MtC_demo.7.b: "“我会考虑的，但没有承诺。”"
  MtC_demo.7.c: "“我会记录真相，而不是偏执的话语。我向你保证.”"
