@@ -12,40 +12,242 @@ d_Mazasaule: "马扎沙乌勒"
 d_Maltagala: "马尔塔加亚"
 d_Ramsmiegs: "拉姆斯密格斯"
 
-d_Dabigsia_1: "盖斯玛雷亚"
+d_Dabigsia_1: "盖斯迈伊内"
 
-d_Dabigsia_2: "佩尔孔卡尼"
+d_Dabigsia_2: "奥克斯廷"
 
-d_Dabigsia_3: "乌古斯卡尼"
+d_Dabigsia_3: "东卡恩图克施"
 
-d_Dabigsia_4: "密尔特雷亚"
+d_Dabigsia_4: "雷图克施"
 
-d_Dabigsia_5: "伟特拉卡尼"
+d_Dabigsia_5: "西卡恩图克施"
 
-d_Dabigsia_6: "斯维塔泽姆"
+d_Dabigsia_6: "翟拉萨瓦"
 
-d_Dabigsia_7: "阿辛泽姆"
+d_Dabigsia_7: "阿辛加尔斯"
+
+#Doria_Norde
 k_Doria_Norde: "北多里亚"
 d_Lega_Norde: "北方同盟"
-d_Doria_Norde_1: "埃斯泰里亚"
-d_Doria_Norde_2: "丰多"
-d_Doria_Norde_3: "雷焦弗雷底亚"
-d_Doria_Norde_4: "索利西诺"
-d_Doria_Norde_5: "索维塔雷"
-d_Doria_Norde_6: "博斯科莱"
-d_Doria_Norde_7: "多米诺"
-d_Doria_Norde_8: "维索"
+
 d_Doria_Norde_9: "西库庇亚"
+c_Doria_Norde_9_3: "利奥尼亚"
+b_Doria_Norde_9_3_3: "" #(capital)
+b_Doria_Norde_9_3_1: ""
+b_Doria_Norde_9_3_4: ""
+b_Doria_Norde_9_3_2: ""
+c_Doria_Norde_9_1: "特雷索勒"
+b_Doria_Norde_9_1_3: "" #(capital)
+b_Doria_Norde_9_1_1: ""
+b_Doria_Norde_9_1_4: ""
+b_Doria_Norde_9_1_2: ""
+c_Doria_Norde_9_2: "卡斯加塔"
+b_Doria_Norde_9_2_3: "" #(capital)
+b_Doria_Norde_9_2_4: ""
+b_Doria_Norde_9_2_2: ""
+b_Doria_Norde_9_2_1: ""
+
+d_Doria_Norde_6: "博斯科莱"
+c_Doria_Norde_6_3: "米达"
+b_Doria_Norde_6_3_2: "" #(capital)
+b_Doria_Norde_6_3_4: ""
+b_Doria_Norde_6_3_1: ""
+b_Doria_Norde_6_3_3: ""
+c_Doria_Norde_6_1: "格里弗萨"
+b_Doria_Norde_6_1_2: "" #(capital)
+b_Doria_Norde_6_1_4: ""
+b_Doria_Norde_6_1_1: ""
+b_Doria_Norde_6_1_3: ""
+c_Doria_Norde_6_2: "弗切塔"
+b_Doria_Norde_6_2_2: "" #(capital)
+b_Doria_Norde_6_2_1: ""
+b_Doria_Norde_6_2_3: ""
+c_Doria_Norde_6_4: "佛罗西奥"
+b_Doria_Norde_6_4_2: "" #(capital)
+b_Doria_Norde_6_4_1: ""
+b_Doria_Norde_6_4_4: ""
+b_Doria_Norde_6_4_3: ""
+
+d_Doria_Norde_1: "埃斯泰里亚"
+c_Doria_Norde_1_3: "博卡维罗"
+b_Doria_Norde_1_3_3: "" #(capital)
+b_Doria_Norde_1_3_1: ""
+b_Doria_Norde_1_3_4: ""
+b_Doria_Norde_1_3_2: ""
+c_Doria_Norde_1_4: "弗特弗勒"
+b_Doria_Norde_1_4_4: "" #(capital)
+b_Doria_Norde_1_4_1: ""
+b_Doria_Norde_1_4_2: ""
+b_Doria_Norde_1_4_3: ""
+c_Doria_Norde_1_1: "尼托西奥"
+b_Doria_Norde_1_1_3: "" #(capital)
+b_Doria_Norde_1_1_2: ""
+b_Doria_Norde_1_1_1: ""
+c_Doria_Norde_1_2: "皮耶那格兰德"
+b_Doria_Norde_1_2_3: "" #(capital)
+b_Doria_Norde_1_2_1: ""
+b_Doria_Norde_1_2_2: ""
+
 d_Doria_Norde_10: "东库庇亚"
+c_Doria_Norde_10_1: "巴利亚"
+b_Doria_Norde_10_1_3: "" #(capital)
+b_Doria_Norde_10_1_2: ""
+b_Doria_Norde_10_1_4: ""
+b_Doria_Norde_10_1_1: ""
+c_Doria_Norde_10_3: "维塔"
+b_Doria_Norde_10_3_3: "" #(capital)
+b_Doria_Norde_10_3_4: ""
+b_Doria_Norde_10_3_1: ""
+b_Doria_Norde_10_3_2: ""
+c_Doria_Norde_10_2: "科普提亚"
+b_Doria_Norde_10_2_1: "" #(capital)
+b_Doria_Norde_10_2_3: ""
+b_Doria_Norde_10_2_2: ""
+b_Doria_Norde_10_2_4: ""
+
+d_Doria_Norde_3: "雷焦弗雷底亚"
+c_Doria_Norde_3_2: "莫索"
+b_Doria_Norde_3_2_3: "" #(capital)
+b_Doria_Norde_3_2_1: ""
+b_Doria_Norde_3_2_2: ""
+b_Doria_Norde_3_2_4: ""
+c_Doria_Norde_3_1: "卡波拉梅"
+b_Doria_Norde_3_1_2: "" #(capital)
+b_Doria_Norde_3_1_1: ""
+b_Doria_Norde_3_1_3: ""
+c_Doria_Norde_3_4: "奥托雷"
+b_Doria_Norde_3_4_3: "" #(capital)
+b_Doria_Norde_3_4_1: ""
+b_Doria_Norde_3_4_2: ""
+c_Doria_Norde_3_3: "法玛西亚"
+b_Doria_Norde_3_3_1: "" #(capital)
+b_Doria_Norde_3_3_3: ""
+b_Doria_Norde_3_3_2: ""
+b_Doria_Norde_3_3_4: ""
+
 d_Doria_Norde_11: "康菲尼亚"
+c_Doria_Norde_11_3: "奥托杜卡"
+b_Doria_Norde_11_3_1: "" #(capital)
+b_Doria_Norde_11_3_4: ""
+b_Doria_Norde_11_3_2: ""
+b_Doria_Norde_11_3_3: ""
+c_Doria_Norde_11_2: "坦索勒"
+b_Doria_Norde_11_2_2: "" #(capital)
+b_Doria_Norde_11_2_4: ""
+b_Doria_Norde_11_2_3: ""
+b_Doria_Norde_11_2_1: ""
+c_Doria_Norde_11_1: "泰拉比安卡"
+b_Doria_Norde_11_1_2: "" #(capital)
+b_Doria_Norde_11_1_4: ""
+b_Doria_Norde_11_1_1: ""
+b_Doria_Norde_11_1_3: ""
 
+d_Doria_Norde_5: "索维塔雷"
+c_Doria_Norde_5_2: "塞伦尼西亚"
+b_Doria_Norde_5_2_1: "" #(capital)
+b_Doria_Norde_5_2_2: ""
+b_Doria_Norde_5_2_4: ""
+b_Doria_Norde_5_2_3: ""
+c_Doria_Norde_5_4: "巴卡"
+b_Doria_Norde_5_4_3: "" #(capital)
+b_Doria_Norde_5_4_1: ""
+b_Doria_Norde_5_4_2: ""
+c_Doria_Norde_5_1: "乌托皮亚"
+b_Doria_Norde_5_1_3: "" #(capital)
+b_Doria_Norde_5_1_1: ""
+b_Doria_Norde_5_1_4: ""
+b_Doria_Norde_5_1_2: ""
+c_Doria_Norde_5_3: "维内雷"
+b_Doria_Norde_5_3_4: "" #(capital)
+b_Doria_Norde_5_3_2: ""
+b_Doria_Norde_5_3_1: ""
+b_Doria_Norde_5_3_3: ""
 
+d_Doria_Norde_7: "多米诺"
+c_Doria_Norde_7_1: "卡尔多康科迪亚"
+b_Doria_Norde_7_1_2: "" #(capital)
+b_Doria_Norde_7_1_1: ""
+b_Doria_Norde_7_1_4: ""
+b_Doria_Norde_7_1_5: ""
+b_Doria_Norde_7_1_3: ""
+c_Doria_Norde_7_2: "夸托雷"
+b_Doria_Norde_7_2_2: "" #(capital)
+b_Doria_Norde_7_2_4: ""
+b_Doria_Norde_7_2_3: ""
+b_Doria_Norde_7_2_1: ""
+c_Doria_Norde_7_3: "谢莫盖托"
+b_Doria_Norde_7_3_3: "" #(capital)
+b_Doria_Norde_7_3_1: ""
+b_Doria_Norde_7_3_2: ""
+c_Doria_Norde_7_4: "费里西奥"
+b_Doria_Norde_7_4_3: "" #(capital)
+b_Doria_Norde_7_4_1: ""
+b_Doria_Norde_7_4_2: ""
 
+d_Doria_Norde_4: "索利西诺"
+c_Doria_Norde_4_3: "莫塔"
+b_Doria_Norde_4_3_3: "" #(capital)
+b_Doria_Norde_4_3_4: ""
+b_Doria_Norde_4_3_1: ""
+b_Doria_Norde_4_3_2: ""
+c_Doria_Norde_4_1: "多西亚"
+b_Doria_Norde_4_1_1: "" #(capital)
+b_Doria_Norde_4_1_2: ""
+b_Doria_Norde_4_1_3: ""
+b_Doria_Norde_4_1_4: ""
+c_Doria_Norde_4_2: "拉奥尔托"
+b_Doria_Norde_4_2_1: ""
+b_Doria_Norde_4_2_3: ""
+b_Doria_Norde_4_2_2: ""
+b_Doria_Norde_4_2_4: ""
+c_Doria_Norde_4_4: "塔伦托"
+b_Doria_Norde_4_4_2: "" #(capital)
+b_Doria_Norde_4_4_3: ""
+b_Doria_Norde_4_4_1: ""
+b_Doria_Norde_4_4_4: ""
 
+d_Doria_Norde_8: "维索"
+c_Doria_Norde_8_2: "布鲁西亚"
+b_Doria_Norde_8_2_2: "" #(capital)
+b_Doria_Norde_8_2_1: ""
+b_Doria_Norde_8_2_3: ""
+b_Doria_Norde_8_2_4: ""
+c_Doria_Norde_8_1: "摩纳科"
+b_Doria_Norde_8_1_3: "" #(capital)
+b_Doria_Norde_8_1_2: ""
+b_Doria_Norde_8_1_4: ""
+b_Doria_Norde_8_1_1: ""
+c_Doria_Norde_8_4: "梅尔玛"
+b_Doria_Norde_8_4_3: "" #(capital)
+b_Doria_Norde_8_4_4: ""
+b_Doria_Norde_8_4_1: ""
+b_Doria_Norde_8_4_2: ""
+c_Doria_Norde_8_3: "索罗"
+b_Doria_Norde_8_3_1: "" #(capital)
+b_Doria_Norde_8_3_2: ""
+b_Doria_Norde_8_3_3: ""
 
-
-
-
+d_Doria_Norde_2: "丰多"
+c_Doria_Norde_2_1: "科尔吉亚"
+b_Doria_Norde_2_1_4: "" #(capital)
+b_Doria_Norde_2_1_2: ""
+b_Doria_Norde_2_1_1: ""
+b_Doria_Norde_2_1_3: ""
+c_Doria_Norde_2_3: "朱勒莫"
+b_Doria_Norde_2_3_1: "" #(capital)
+b_Doria_Norde_2_3_3: ""
+b_Doria_Norde_2_3_4: ""
+b_Doria_Norde_2_3_2: ""
+c_Doria_Norde_2_2: "拉尔多"
+b_Doria_Norde_2_2_2: "" #(capital)
+b_Doria_Norde_2_2_1: ""
+b_Doria_Norde_2_2_4: ""
+b_Doria_Norde_2_2_3: ""
+c_Doria_Norde_2_4: "凡蒂诺"
+b_Doria_Norde_2_4_2: "" #(capital)
+b_Doria_Norde_2_4_1: ""
+b_Doria_Norde_2_4_3: ""
+b_Doria_Norde_2_4_4: ""
 
 
 #Doria_Litorale
@@ -221,12 +423,12 @@ b_Doria_Litorale_3_3_4: ""
 
 k_Senais_Lands: "瑟纳伊斯地"
 
-d_Senais_Lands_1: "杜施梅施"
+d_Senais_Lands_1: "杜姆施拉斯"
 
-d_Senais_Lands_2: "达尔斯梅施"
+d_Senais_Lands_2: "维尔瑟纳伊斯"
 
-d_Senais_Lands_3: "密尔特梅施"
+d_Senais_Lands_3: "米尔特梅齐"
 
 d_Senais_Lands_4: "帕尔提西瓦"
 
-d_Senais_Lands_5: "乌古斯梅施"
+d_Senais_Lands_5: "利斯凯内"
