@@ -1,31 +1,4 @@
 ﻿l_simp_chinese:
-k_Dabigsia: "达维西亚"
-CONFEDERATION_UGUNSMAGIJA_NAME: "乌古斯玛吉亚"
-d_Ugunszals: "乌古斯扎斯"
-d_Ugunsmelns: "乌古斯梅恩斯"
-d_Ugunsvioles: "乌古斯维奥莱斯"
-d_Zimasgaisma: "济玛斯盖斯玛"
-d_Vasarasvetra: "瓦萨拉斯伟特拉"
-d_Perkonamkonis: "佩尔科纳马科尼斯"
-d_Aizdegsanas: "艾斯迪格萨那斯"
-d_Mazasaule: "马扎沙乌勒"
-d_Maltagala: "马尔塔加亚"
-d_Ramsmiegs: "拉姆斯密格斯"
-
-d_Dabigsia_1: "盖斯迈伊内"
-
-d_Dabigsia_2: "奥克斯廷"
-
-d_Dabigsia_3: "东卡恩图克施"
-
-d_Dabigsia_4: "雷图克施"
-
-d_Dabigsia_5: "西卡恩图克施"
-
-d_Dabigsia_6: "翟拉萨瓦"
-
-d_Dabigsia_7: "阿辛加尔斯"
-
 #Doria_Norde
 k_Doria_Norde: "北多里亚"
 d_Lega_Norde: "北方同盟"
@@ -421,14 +394,212 @@ b_Doria_Litorale_3_3_2: ""
 b_Doria_Litorale_3_3_4: ""
 
 
+k_Dabigsia: "达维西亚"
+CONFEDERATION_UGUNSMAGIJA_NAME: "乌古斯玛吉亚"
+d_Ugunszals: "乌古斯扎斯"
+d_Ugunsmelns: "乌古斯梅恩斯"
+d_Ugunsvioles: "乌古斯维奥莱斯"
+d_Zimasgaisma: "济玛斯盖斯玛"
+d_Vasarasvetra: "瓦萨拉斯伟特拉"
+d_Perkonamkonis: "佩尔科纳马科尼斯"
+d_Aizdegsanas: "艾斯迪格萨那斯"
+d_Mazasaule: "马扎沙乌勒"
+d_Maltagala: "马尔塔加亚"
+d_Ramsmiegs: "拉姆斯密格斯"
+
+
+d_Dabigsia_2: "奥克斯廷"
+c_Dabigsia_2_4: "普雷克萨瓦"
+b_Dabigsia_2_4_1: "" #(capital)
+b_Dabigsia_2_4_3: ""
+b_Dabigsia_2_4_2: ""
+c_Dabigsia_2_3: "克鲁斯拉斯"
+b_Dabigsia_2_3_2: "" #(capital)
+b_Dabigsia_2_3_1: ""
+b_Dabigsia_2_3_3: ""
+c_Dabigsia_2_2: "阿塞维萨瓦"
+b_Dabigsia_2_2_2: "" #(capital)
+b_Dabigsia_2_2_3: ""
+b_Dabigsia_2_2_1: ""
+c_Dabigsia_2_1: "济马西瓦"
+b_Dabigsia_2_1_1: "" #(capital)
+b_Dabigsia_2_1_2: ""
+b_Dabigsia_2_1_4: ""
+b_Dabigsia_2_1_3: ""
+
+d_Dabigsia_3: "东卡恩图克施"
+c_Dabigsia_3_1: "瓦拉帕尔斯"
+b_Dabigsia_3_1_2: "" #(capital)
+b_Dabigsia_3_1_1: ""
+b_Dabigsia_3_1_3: ""
+b_Dabigsia_3_1_4: ""
+c_Dabigsia_3_2: "普利扎卡恩斯"
+b_Dabigsia_3_2_2: "" #(capital)
+b_Dabigsia_3_2_1: ""
+b_Dabigsia_3_2_3: ""
+b_Dabigsia_3_2_4: ""
+c_Dabigsia_3_3: "艾扎卡恩斯"
+b_Dabigsia_3_3_2: "" #(capital)
+b_Dabigsia_3_3_1: ""
+b_Dabigsia_3_3_3: ""
+c_Dabigsia_3_4: "阿布德加瓦"
+b_Dabigsia_3_4_1: "" #(capital)
+b_Dabigsia_3_4_2: ""
+b_Dabigsia_3_4_3: ""
+
+d_Dabigsia_1: "盖斯迈伊内"
+c_Dabigsia_1_1: "列马西瓦"
+b_Dabigsia_1_1_1: "" #(capital)
+b_Dabigsia_1_1_2: ""
+b_Dabigsia_1_1_3: ""
+c_Dabigsia_1_2: "迪恩马西瓦"
+b_Dabigsia_1_2_3: "" #(capital)
+b_Dabigsia_1_2_1: ""
+b_Dabigsia_1_2_2: ""
+c_Dabigsia_1_3: "亚乌达雷亚"
+b_Dabigsia_1_3_1: "" #(capital)
+b_Dabigsia_1_3_3: ""
+b_Dabigsia_1_3_2: ""
+c_Dabigsia_1_4: "阿沃匹尔斯"
+b_Dabigsia_1_4_2: "" #(capital)
+b_Dabigsia_1_4_3: ""
+b_Dabigsia_1_4_1: ""
+b_Dabigsia_1_4_4: ""
+
+d_Dabigsia_4: "雷图克施"
+c_Dabigsia_4_2: "布尔维纳斯"
+b_Dabigsia_4_2_2: "" #(capital)
+b_Dabigsia_4_2_1: ""
+b_Dabigsia_4_2_3: ""
+c_Dabigsia_4_1: "卡布塞塔"
+b_Dabigsia_4_1_1: "" #(capital)
+b_Dabigsia_4_1_2: ""
+b_Dabigsia_4_1_3: ""
+b_Dabigsia_4_1_4: ""
+c_Dabigsia_4_3: "艾斯列戈茨"
+b_Dabigsia_4_3_2: "" #(capital)
+b_Dabigsia_4_3_1: ""
+b_Dabigsia_4_3_3: ""
+c_Dabigsia_4_4: "维耶涅基"
+b_Dabigsia_4_4_3: "" #(capital)
+b_Dabigsia_4_4_1: ""
+b_Dabigsia_4_4_2: ""
+
+d_Dabigsia_5: "西卡恩图克施"
+c_Dabigsia_5_4: "佩罗贝扎"
+b_Dabigsia_5_4_2: "" #(capital)
+b_Dabigsia_5_4_4: ""
+b_Dabigsia_5_4_3: ""
+b_Dabigsia_5_4_1: ""
+c_Dabigsia_5_2: "普利萨瓦斯"
+b_Dabigsia_5_2_2: "" #(capital)
+b_Dabigsia_5_2_3: ""
+b_Dabigsia_5_2_1: ""
+c_Dabigsia_5_1: "弗莱施卡恩斯"
+b_Dabigsia_5_1_3: "" #(capital)
+b_Dabigsia_5_1_4: ""
+b_Dabigsia_5_1_1: ""
+b_Dabigsia_5_1_2: ""
+c_Dabigsia_5_3: "伊罗齐姆斯"
+b_Dabigsia_5_3_1: "" #(capital)
+b_Dabigsia_5_3_2: ""
+b_Dabigsia_5_3_4: ""
+b_Dabigsia_5_3_3: ""
+
+d_Dabigsia_6: "翟拉萨瓦"
+c_Dabigsia_6_2: "兰契纳斯"
+b_Dabigsia_6_2_3: "" #(capital)
+b_Dabigsia_6_2_2: ""
+b_Dabigsia_6_2_1: ""
+b_Dabigsia_6_2_4: ""
+c_Dabigsia_6_1: "莱杜斯卡"
+b_Dabigsia_6_1_3: "" #(capital)
+b_Dabigsia_6_1_1: ""
+b_Dabigsia_6_1_2: ""
+c_Dabigsia_6_3: "西吉埃那"
+b_Dabigsia_6_3_2: "" #(capital)
+b_Dabigsia_6_3_1: ""
+b_Dabigsia_6_3_3: ""
+
+d_Dabigsia_7: "阿辛加尔斯"
+c_Dabigsia_7_1: "塔扎尔马"
+b_Dabigsia_7_1_1: "" #(capital)
+b_Dabigsia_7_1_2: ""
+b_Dabigsia_7_1_3: ""
+c_Dabigsia_7_4: "斯帕基纳斯"
+b_Dabigsia_7_4_2: "" #(capital)
+b_Dabigsia_7_4_4: ""
+b_Dabigsia_7_4_1: ""
+b_Dabigsia_7_4_3: ""
+c_Dabigsia_7_2: "乌茨瓦拉"
+b_Dabigsia_7_2_1: "" #(capital)
+b_Dabigsia_7_2_2: ""
+b_Dabigsia_7_2_4: ""
+b_Dabigsia_7_2_3: ""
+c_Dabigsia_7_3: "斯拉克汀施"
+b_Dabigsia_7_3_2: "" #(capital)
+b_Dabigsia_7_3_1: ""
+b_Dabigsia_7_3_3: ""
+b_Dabigsia_7_3_4: ""
+
 k_Senais_Lands: "瑟纳伊斯地"
 
-d_Senais_Lands_1: "杜姆施拉斯"
+d_Senais_Lands_5: "利斯凯内"
+c_Senais_Lands_5_2: "伊兹格里匹尔斯"
+b_Senais_Lands_5_2_2: "" #(capital)
+b_Senais_Lands_5_2_1: ""
+c_Senais_Lands_5_1: "伊克塞施"
+b_Senais_Lands_5_1_1: "" #(capital)
+c_Senais_Lands_5_3: "阿尔塞施"
+b_Senais_Lands_5_3_1: "" #(capital)
 
-d_Senais_Lands_2: "维尔瑟纳伊斯"
+d_Senais_Lands_4: "帕提希瓦"
+c_Senais_Lands_4_2: "里奥塞施"
+b_Senais_Lands_4_2_1: "" #(capital)
+b_Senais_Lands_4_2_2: ""
+c_Senais_Lands_4_1: "列利斯匹尔斯"
+b_Senais_Lands_4_1_3: "" #(capital)
+b_Senais_Lands_4_1_1: ""
+b_Senais_Lands_4_1_4: ""
+b_Senais_Lands_4_1_2: ""
+c_Senais_Lands_4_3: "齐利塞施"
+b_Senais_Lands_4_3_3: "" #(capital)
+b_Senais_Lands_4_3_1: ""
+b_Senais_Lands_4_3_4: ""
+b_Senais_Lands_4_3_2: ""
+
+d_Senais_Lands_1: "杜姆施拉斯"
+c_Senais_Lands_1_2: "崔扎匹尔斯"
+b_Senais_Lands_1_2_2: "" #(capital)
+b_Senais_Lands_1_2_1: ""
+c_Senais_Lands_1_3: "伊塞施"
+b_Senais_Lands_1_3_1: "" #(capital)
+c_Senais_Lands_1_1: "尤拉塞施"
+b_Senais_Lands_1_1_2: "" #(capital)
+b_Senais_Lands_1_1_1: ""
+b_Senais_Lands_1_1_3: ""
 
 d_Senais_Lands_3: "米尔特梅齐"
+c_Senais_Lands_3_2: "斯塔普利斯特"
+b_Senais_Lands_3_2_1: "" #(capital)
+c_Senais_Lands_3_1: "扬塞施"
+b_Senais_Lands_3_1_1: "" #(capital)
+c_Senais_Lands_3_3: "维塞施"
+b_Senais_Lands_3_3_2: "" #(capital)
+b_Senais_Lands_3_3_3: ""
+b_Senais_Lands_3_3_1: ""
 
-d_Senais_Lands_4: "帕尔提西瓦"
-
-d_Senais_Lands_5: "利斯凯内"
+d_Senais_Lands_2: "维尔瑟纳伊斯"
+c_Senais_Lands_2_3: "森卡维斯"
+b_Senais_Lands_2_3_2: "" #(capital)
+b_Senais_Lands_2_3_3: ""
+b_Senais_Lands_2_3_1: ""
+c_Senais_Lands_2_2: "维卡维斯"
+b_Senais_Lands_2_2_3: "" #(capital)
+b_Senais_Lands_2_2_2: ""
+b_Senais_Lands_2_2_1: ""
+c_Senais_Lands_2_1: "萨佩塞施"
+b_Senais_Lands_2_1_1: "" #(capital)
+b_Senais_Lands_2_1_2: ""
+c_Senais_Lands_2_4: "帕斯莱塞施"
+b_Senais_Lands_2_4_1: "" #(capital)
