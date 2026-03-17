@@ -4,19 +4,19 @@
 		
 		#####MAP COLORS#####
 		title:c_Old_League_1_2 = {
-			set_color_from_title = title:c_L_Alden_Blue
+			set_title_color = { 32 165 213 }	
 		}
 
 		title:c_Old_League_1_3 = {
-			set_color_from_title = title:c_G_Alden_Blue
+			set_title_color = { 64 54 231 }
 		}
 
 		title:c_Old_League_2_1 = {
-			set_color_from_title = title:c_Galben_White
+			set_title_color = { 217 217 217 }	
 		}
 
 		title:c_Reussia_2_1 = {
-			set_color_from_title = title:c_Picklnia_Colored
+			set_title_color = { 25 25 25 }
 		}
 
 		#####NAME CHANGES####
