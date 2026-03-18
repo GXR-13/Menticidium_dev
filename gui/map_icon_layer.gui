@@ -1919,6 +1919,16 @@ flowcontainer_realm_capital = {
 	blockoverride "capital_datacontext" {
 		datacontext = "[CapitalMapIcon.GetOwner]"
 	}
+	#MtC-hide wastelands CoA - Refernce to GH
+	blockoverride "coa_realm_map_small_visible" {
+		visible = "[And( EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)3'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #Count Rank
+	}
+	blockoverride "coa_realm_map_medium_visible" {
+		visible = "[And( EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)4'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #Duke Rank
+	}
+	blockoverride "coa_realm_map_big_visible" {
+		visible = "[And( GreaterThanOrEqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)5'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #King or Empire Rank
+	}
 }
 
 ### TRAVEL PROVINCE
@@ -4666,8 +4676,8 @@ types MapIcons
 			datacontext = "[ProvinceIcon.GetOwner]"
 		}
 
-		coa_realm_map_small = {
-			visible = "[EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)3')]" #Count Rank
+		coa_realm_map_small = { #MtC-hide wastelands CoA - Refernce to GH
+			visible = "[And( EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)3'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #Count Rank
 
 			blockoverride "coa_icon_additions" {
 				glow = {
@@ -4684,8 +4694,8 @@ types MapIcons
 			}
 		}
 
-		coa_realm_map_medium = {
-			visible = "[EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)4')]" #Duke Rank
+		coa_realm_map_medium = { #MtC-hide wastelands CoA - Refernce to GH
+			visible = "[And( EqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)4'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #Duke Rank
 
 			blockoverride "coa_icon_additions" {
 				glow = {
@@ -4702,8 +4712,8 @@ types MapIcons
 			}
 		}
 
-		coa_realm_map_big = {
-			visible = "[GreaterThanOrEqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)5')]" #King or Empire Rank
+		coa_realm_map_big = { #MtC-hide wastelands CoA - Refernce to GH
+			visible = "[And( GreaterThanOrEqualTo_int32(Character.GetPrimaryTitle.GetTierFrame, '(int32)5'), Not(Character.GetGovernment.IsType('wasteland_government')))]" #King or Empire Rank
 
 			blockoverride "coa_icon_additions" {
 				glow = {

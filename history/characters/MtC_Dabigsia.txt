@@ -1,4 +1,4 @@
-﻿###Doria_Litorale
+﻿###Dabigsia
 Dabigsia_1001 = { #Keeper of U.szal
 	name= "TBD" 
 	religion = uzturet
@@ -91,6 +91,15 @@ Dabigsia_1010 = { #Keeper of R.miegs
 	religion = uzturet
 	culture = varaparian
 	698.7.24 = {
+		birth=yes
+	}
+}
+
+Dabigsia_1 = { #Dabigsian Waste
+	name = ""
+	religion = uzturet
+	culture = varaparian
+	1.1.1 = {
 		birth=yes
 	}
 }

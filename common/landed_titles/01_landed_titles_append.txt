@@ -521,6 +521,26 @@ d_Ramsmiegs = { #Peace Rest
 	can_use_nomadic_naming = no
 }
 
+#Dabigsian Waste
+k_Dabigsian_Waste = {
+	capital = c_Senais_Lands_4_1
+	color = { 0 0 0 0  }
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
 #Landless
 d_laamp_JttW = { # Travellers from the East
 	color = { 100 100 100 }

@@ -1,0 +1,30 @@
+﻿wasteland_government = {
+	supply_limit_mult_for_others = -0.5
+	primary_holding = tribal_holding
+	#required_county_holdings = { tribal_holding }
+
+	
+	government_rules = {
+		create_cadet_branches = no
+		rulers_should_have_dynasty = no	
+		council = no
+		court_generate_spouses = no
+	}
+
+	vassal_contract_group = tribal_vassal
+
+	court_generate_commanders = no
+	flag = can_not_be_vassal_or_liege
+	flag = government_is_wasteland
+	flag = government_is_settled
+	
+	ai = {
+		arrange_marriage = no
+		use_goals = no
+		use_scripted_guis = no
+		perform_religious_reformation = no
+		use_legends = no
+	}
+	
+	color = { 0 0 0 0 }
+}

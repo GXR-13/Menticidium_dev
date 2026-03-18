@@ -1,0 +1,111 @@
+﻿#Witamia
+k_Dabigsian_Waste = {
+	741.1.1 = { change_development_level = 4 }
+
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
+c_Senais_Lands_1_1 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_1_2 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_1_3 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
+c_Senais_Lands_2_1 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_2_2 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_2_3 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_2_4 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
+c_Senais_Lands_3_1 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_3_2 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_3_3 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
+c_Senais_Lands_4_1 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_4_2 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_4_3 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
+c_Senais_Lands_5_1 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_5_2 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+c_Senais_Lands_5_3 = {
+	1.1.1 = { 
+		holder = Dabigsia_1
+		government = wasteland_government
+	}
+}
+
