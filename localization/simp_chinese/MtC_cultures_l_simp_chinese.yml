@@ -1,0 +1,159 @@
+﻿l_simp_chinese:
+
+#希里亚组
+high_hirian: "高希里亚"
+high_hirian_prefix: "高希里亚"
+high_hirian_collective_noun: "高希里亚"
+high_hirian_desc: "#size:15 高希里亚文化诞生于帝国政治中心优渥的生活之中。尽管帝都居民往往仅将他们的生活视作一种优越待遇，在许多周围省份的人民看来，这已经为他们赋予了一种不同的身份。高希里亚人对富足的生活习以为常，其繁荣的饮食与娱乐文化汇集了全帝国各处的影响，并且相当一部分高希里亚人都经受过良好教育，或是出身于拥有一定地位的家庭。尽管如此，由于定居政策的影响以及各省经济之间的差异，他们往往被外人视作傲慢的排外者，或是忽视帝国外省血汗的无情剥削者；除此之外，他们还因为在帝政中心沾染的官僚习气而闻名——这进一步加剧了他们与所谓“外省人”之间的隔阂。"
+
+north_hirian: "北希里亚"
+north_hirian_prefix: "北希里亚"
+north_hirian_collective_noun: "北希里亚"
+
+south_hirian: "南希里亚"
+south_hirian_prefix: "南希里亚"
+south_hirian_collective_noun: "南希里亚"
+
+green_hirian: "绿希里亚"
+green_hirian_prefix: "绿希里亚"
+green_hirian_collective_noun: "绿希里亚"
+
+concordian: "康科迪亚"
+concordian_prefix: "康科迪亚"
+concordian_collective_noun: "康科迪亚"
+concordian_desc: "#size:15 康科迪亚人与联盟民构成了老联盟的两面：前者被视作康科迪亚的本地居民，也是该地古老秩序的主要掌权人。康科迪亚人鲜少外出为官，但他们借助世袭的复杂系统牢牢把持着老联盟的政治。他们的文化中保留了许多旧时代的残余，尤其以其血统论倾向闻名。有些时候，康科迪亚人也被称作“旧希里亚人”，暗示了他们在帝国历史上或许还有未被揭示的地位。"
+
+leaguemen: "联盟民"
+leaguemen_prefix: "联盟民"
+leaguemen_collective_noun: "联盟民"
+leaguemen_desc: "#size:15 康科迪亚人与联盟民构成了老联盟的两面：后者与其说是一种文化，不如说是对老联盟中大量流动人口的统称。来自帝国各地，文化背景不同的人民在老联盟的独特体制中得到了融合，并往往以“联盟民”自居；在离开老联盟，成功入仕之后，他们中的大部分人都会弃用这个名号，恢复自己的文化身份，但也有少数人保持了这一认可，并将老联盟视作自己的第二故乡。在帝国之中，不乏有人认为联盟民这种消除地域隔阂，人人之间彼此平等的“文化”代表了帝国，乃至共融信仰的理想形态。"
+
+#北方组
+manian: "曼尼亚"
+manian_prefix: "曼尼亚"
+manian_collective_noun: "曼尼亚"
+
+zurunnish: "祖尔伦"
+zurunnish_prefix: "祖尔伦"
+zurunnish_collective_noun: "祖尔伦"
+
+gronlander: "格隆兰"
+gronlander_prefix: "格隆兰"
+gronlander_collective_noun: "格隆兰"
+
+weisslander: "维斯兰"
+weisslander_prefix: "维斯兰"
+weisslander_collective_noun: "维斯兰"
+
+fretian: "弗雷蒂亚"
+fretian_prefix: "弗雷蒂亚"
+fretian_collective_noun: "弗雷蒂亚"
+
+zuidlander: "随兰"
+zuidlander_prefix: "随兰"
+zuidlander_collective_noun: "随兰"
+
+albennian: "亚贲"
+albennian_prefix: "亚贲"
+albennian_collective_noun: "亚贲"
+
+ostlander: "奥斯特兰"
+ostlander_prefix: "奥斯特兰"
+ostlander_collective_noun: "奥斯特兰"
+
+#南方组
+old_banlian: "古班利亚"
+old_banlian_prefix: "古班利亚"
+old_banlian_collective_noun: "古班利亚"
+
+banlian: "班利亚"
+banlian_prefix: "班利亚"
+banlian_collective_noun: "班利亚"
+
+platian: "普拉提亚"
+platian_prefix: "普拉提亚"
+platian_collective_noun: "普拉提亚"
+
+gollois: "夏瓦利耶"
+gollois_prefix: "夏瓦利耶"
+gollois_collective_noun: "夏瓦利耶"
+
+suditish: "苏蒂特"
+suditish_prefix: "苏蒂特"
+suditish_collective_noun: "苏蒂特"
+
+cotier: "科蒂"
+cotier_prefix: "科蒂"
+cotier_collective_noun: "科蒂"
+
+#海尼亚组
+frindi: "弗林地"
+frindi_prefix: "弗林地"
+frindi_collective_noun: "弗林地"
+
+gollowynian: "高勒汶"
+gollowynian_prefix: "高勒汶"
+gollowynian_collective_noun: "高勒汶"
+
+rupnic: "卢普尼"
+rupnic_prefix: "卢普尼"
+rupnic_collective_noun: "卢普尼"
+
+#多里亚组
+ancient_dorian: "古多里亚"
+ancient_dorian_prefix: "古多里亚"
+ancient_dorian_collective_noun: "古多里亚"
+
+littorian: "利托利亚"
+littorian_prefix: "利托利亚"
+littorian_collective_noun: "利托利亚"
+
+cisfreddian: "河内弗雷底亚"
+cisfreddian_prefix: "河内弗雷底亚"
+cisfreddian_collective_noun: "河内弗雷底亚"
+
+transfreddian: "河外弗雷底亚"
+transfreddian_prefix: "河外弗雷底亚"
+transfreddian_collective_noun: "河外弗雷底亚"
+
+migrarian: "米戈拉利亚"
+migrarian_prefix: "米戈拉利亚"
+migrarian_collective_noun: "米戈拉利亚"
+
+#近卢齐组
+noszian: "诺斯济亚"
+noszian_prefix: "诺斯济亚"
+noszian_collective_noun: "诺斯济亚"
+
+ptaskan: "普塔斯卡"
+ptaskan_prefix: "普塔斯卡"
+ptaskan_collective_noun: "普塔斯卡"
+
+iowician: "约维茨"
+iowician_prefix: "约维茨"
+iowician_collective_noun: "约维茨"
+
+bokojowish: "博科约瓦"
+bokojowish_prefix: "博科约瓦"
+bokojowish_collective_noun: "博科约瓦"
+
+#其他
+varaparian: "瓦拉帕里亚"
+varaparian_prefix: "瓦拉帕里亚"
+varaparian_collective_noun: "瓦拉帕里亚"
+
+ancient_therosian: "古塞罗瑟"
+ancient_therosian_prefix: "古塞罗瑟"
+ancient_therosian_collective_noun: "古塞罗瑟"
+
+unknown1: "未知"
+unknown1_prefix: "未知"
+unknown1_collective_noun: "未知"
+
+unknown2: "未知"
+unknown2_prefix: "未知"
+unknown2_collective_noun: "未知"
+
+guanghai: "广海"
+guanghai_prefix: "广海"
+guanghai_collective_noun: "广海"

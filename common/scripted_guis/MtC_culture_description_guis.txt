@@ -1,0 +1,54 @@
+culture_descriptions = {
+	scope = culture
+	effect = {
+		switch = {
+			#Hirian Group
+			trigger = root
+			culture:high_hirian = { custom_tooltip = high_hirian_desc }
+			culture:north_hirian = { custom_tooltip = north_hirian_desc }
+			culture:south_hirian = { custom_tooltip = south_hirian_desc }
+			culture:green_hirian = { custom_tooltip = green_hirian_desc }
+			culture:concordian = { custom_tooltip = concordian_desc }
+			culture:leaguemen = { custom_tooltip = leaguemen_desc }
+			#Northern Hirian Group
+			culture:manian = { custom_tooltip = manian_desc }
+			culture:zurunnish = { custom_tooltip = zurunnish_desc }
+			culture:gronlander = { custom_tooltip = gronlander_desc }
+			culture:weisslander = { custom_tooltip = weisslander_desc }
+			culture:fretian = { custom_tooltip = fretian_desc }
+			culture:zuidlander = { custom_tooltip = zuidlander_desc }
+			culture:albennian = { custom_tooltip = albennian_desc }
+			culture:ostlander = { custom_tooltip = ostlander_desc }
+			#Southern Hirian Group
+			culture:old_banlian = { custom_tooltip = old_banlian_desc }
+			culture:banlian = { custom_tooltip = banlian_desc }
+			culture:platian = { custom_tooltip = platian_desc }
+			culture:gollois = { custom_tooltip = gollois_desc }
+			culture:suditish = { custom_tooltip = suditish_desc }
+			culture:cotier = { custom_tooltip = cotier_desc }
+			#Hynian
+			culture:frindi = { custom_tooltip = frindi_desc }
+			culture:gollowynian = { custom_tooltip = gollowynian_desc }
+			culture:rupnic = { custom_tooltip = rupnic_desc }
+			#Dorian
+			culture:ancient_dorian = { custom_tooltip = ancient_dorian_desc }
+			culture:littorian = { custom_tooltip = littorian_desc }
+			culture:cisfreddian = { custom_tooltip = cisfreddian_desc }
+			culture:transfreddian = { custom_tooltip = transfreddian_desc }
+			culture:migrarian = { custom_tooltip = migrarian_desc }
+			#Near Ludzian
+			culture:noszian = { custom_tooltip = noszian_desc }
+			culture:ptaskan = { custom_tooltip = ptaskan_desc }
+			culture:iowician = { custom_tooltip = iowician_desc }
+			culture:bokojowish = { custom_tooltip = bokojowish_desc }
+			#Others
+			culture:varaparian = { custom_tooltip = varaparian_desc }
+			culture:ancient_therosian = { custom_tooltip = ancient_therosian_desc }
+			culture:guanghai = { custom_tooltip = guanghai_desc }
+			culture:unknown1 = { custom_tooltip = unknown_desc }
+			culture:unknown2 = { custom_tooltip = unknown_desc }
+
+		}
+	}
+}
+
