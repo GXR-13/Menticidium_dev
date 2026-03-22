@@ -3,10 +3,37 @@ k_Torquia = {
 	741.1.1 = { change_development_level = 15 }
 }
 #Torquia_1
-d_Torquia_1 = {
-	716.8.2 = { 
-		holder = Doria_Litorale_1001
-	}
+c_Torquia_1_1 = {
+    718.3.17 = {
+        holder = Doria_Litorale_1017
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_3
+        government = theocracy_government
+    }
+}
+
+c_Torquia_1_2 = {
+    739.1.21 = {
+        holder = Doria_Litorale_1018
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Torquia_1_3 = {
+    739.1.21 = {
+        holder = Doria_Litorale_1018
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
 }
 
 #New League

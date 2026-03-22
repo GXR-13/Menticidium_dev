@@ -220,6 +220,58 @@ bianco = {
 	culture = littorian
 }
 
+ficetto = {
+	name = dynn_ficetto
+	culture = littorian
+}
+
+tA_lu = {
+	name = dynn_tA_lu
+	culture = varaparian
+}
+
+zagare = {
+	name = dynn_zagare
+	culture = varaparian
+}
+
+meguva = {
+	name = dynn_meguva
+	culture = varaparian
+}
+
+di_merci = {
+	prefix = dynn_di
+	name = dynn_merci
+	culture = littorian
+}
+
+baro = {
+	name = dynn_baro
+	culture = littorian
+}
+
+farra = {
+	name = dynn_farra
+	culture = littorian
+}
+
+di_torre = {
+	prefix = dynn_di
+	name = dynn_torre
+	culture = littorian
+}
+
+leyte = {
+	name = dynn_leyte
+	culture = littorian
+}
+
+sorreno = {
+	name = dynn_sorreno
+	culture = littorian
+}
+
 #Gollowyn
 eilginn = {
 	name = dynn_eilginn

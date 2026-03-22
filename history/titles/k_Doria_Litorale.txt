@@ -1,11 +1,429 @@
-﻿#Doria Lotorale
-k_Doria_Litorale = {
-	741.1.1 = { change_development_level = 16 }
+﻿k_Doria_Litorale = {
+    716.8.2 = {
+        holder = Doria_Litorale_1001
+    }
 
-	611.2.13 = { #The Littorian Uprise
-		government = theocracy_government
-	}
-	716.8.2 = { 
-		holder = Doria_Litorale_1001
-	}
+    741.1.1 = {
+        liege = 0
+        government = theocracy_government
+    }
 }
+
+d_Doria_Litorale_2 = {
+    716.8.2 = {
+        holder = Doria_Litorale_1001
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_2_2 = {
+    716.8.2 = {
+        holder = Doria_Litorale_1001
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_2_3 = {
+    716.8.2 = {
+        holder = Doria_Litorale_1001
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_1_1 = {
+    716.8.2 = {
+        holder = Doria_Litorale_1001
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_2_1 = {
+    730.1.14 = {
+        holder = Doria_Litorale_1002
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = republic_government
+    }
+}
+
+c_Doria_Litorale_1_3 = {
+    733.12.21 = {
+        holder = Doria_Litorale_1003
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_4_1 = {
+    733.12.21 = {
+        holder = Doria_Litorale_1003
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_8_1 = {
+    733.12.21 = {
+        holder = Doria_Litorale_1003
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_1_2 = {
+    729.11.5 = {
+        holder = Doria_Litorale_1004
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = republic_government
+    }
+}
+
+c_Doria_Litorale_1_4 = {
+    740.8.2 = {
+        holder = Doria_Litorale_1005
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_4_3 = {
+    740.8.2 = {
+        holder = Doria_Litorale_1005
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = feudal_government
+    }
+}
+
+d_Doria_Litorale_6 = {
+    737.1.12 = {
+        holder = Doria_Litorale_1006
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_6_1 = {
+    737.1.12 = {
+        holder = Doria_Litorale_1006
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_7_3 = {
+    735.5.1 = {
+        holder = Doria_Litorale_1007
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = tribal_government
+    }
+}
+
+c_Doria_Litorale_6_3 = {
+    700.9.5 = {
+        holder = Doria_Litorale_1008
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = tribal_government
+    }
+}
+
+c_Doria_Litorale_6_2 = {
+    741.5.2 = {
+        holder = Doria_Litorale_1009
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = tribal_government
+    }
+}
+
+c_Doria_Litorale_6_4 = {
+    738.6.15 = {
+        holder = Doria_Litorale_1010
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = tribal_government
+    }
+}
+
+c_Doria_Litorale_8_3 = {
+    721.5.25 = {
+        holder = Doria_Litorale_1011
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_6
+        government = tribal_government
+    }
+}
+
+d_Doria_Litorale_5 = {
+    739.2.12 = {
+        holder = Doria_Litorale_1012
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_4_2 = {
+    739.2.12 = {
+        holder = Doria_Litorale_1012
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_4_4 = {
+    739.2.12 = {
+        holder = Doria_Litorale_1012
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_5_2 = {
+    739.2.12 = {
+        holder = Doria_Litorale_1012
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_8_2 = {
+    738.10.24 = {
+        holder = Doria_Litorale_1013
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_8_4 = {
+    738.10.24 = {
+        holder = Doria_Litorale_1013
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_5_4 = {
+    727.8.18 = {
+        holder = Doria_Litorale_1014
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_5_1 = {
+    740.5.7 = {
+        holder = Doria_Litorale_1015
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_5_3 = {
+    740.5.7 = {
+        holder = Doria_Litorale_1015
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_5
+        government = feudal_government
+    }
+}
+
+d_Doria_Litorale_7 = {
+    730.5.29 = {
+        holder = Doria_Litorale_1016
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_7_1 = {
+    730.5.29 = {
+        holder = Doria_Litorale_1016
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_7
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_7_2 = {
+    730.5.29 = {
+        holder = Doria_Litorale_1016
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_7
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_7_4 = {
+    730.5.29 = {
+        holder = Doria_Litorale_1016
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_7
+        government = feudal_government
+    }
+}
+
+c_Doria_Litorale_2_4 = {
+    730.5.29 = {
+        holder = Doria_Litorale_1016
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_7
+        government = feudal_government
+    }
+}
+
+d_Doria_Litorale_3 = {
+    718.3.17 = {
+        holder = Doria_Litorale_1017
+    }
+
+    741.1.1 = {
+        liege = k_Doria_Litorale
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_3_1 = {
+    718.3.17 = {
+        holder = Doria_Litorale_1017
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_3
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_3_2 = {
+    718.3.17 = {
+        holder = Doria_Litorale_1017
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_3
+        government = theocracy_government
+    }
+}
+
+c_Doria_Litorale_3_3 = {
+    718.3.17 = {
+        holder = Doria_Litorale_1017
+    }
+
+    741.1.1 = {
+        liege = d_Doria_Litorale_3
+        government = theocracy_government
+    }
+}
+
+d_Dorian_Waste = {
+    1.1.1 = {
+        holder = Doria_Litorale_1
+    }
+
+    741.1.1 = {
+        liege = 0
+        government = wasteland_government
+    }
+}
+
+c_Doria_Litorale_5_5 = {
+    1.1.1 = {
+        holder = Doria_Litorale_1
+    }
+
+    741.1.1 = {
+        liege = d_Dorian_Waste
+        government = wasteland_government
+    }
+}
+

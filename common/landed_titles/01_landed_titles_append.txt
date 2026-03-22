@@ -541,6 +541,25 @@ k_Dabigsian_Waste = {
 	can_use_nomadic_naming = no
 }
 
+d_Dorian_Waste = {
+	capital = c_Doria_Litorale_5_5
+	color = { 0 0 0 0  }
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	ignore_titularity_for_title_weighting = yes
+
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_use_nomadic_naming = no
+}
+
 #Landless
 d_laamp_JttW = { # Travellers from the East
 	color = { 100 100 100 }

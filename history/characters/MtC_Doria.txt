@@ -1,12 +1,194 @@
 ﻿###Doria_Litorale
 Doria_Litorale_1001 = { #High Priest Janis
-	name= "Janis" 
-	religion = frazione_del_litorale
-	culture = littorian
-	dynasty = bianco
-	681.12.18 = {
-		birth=yes
-	}
+    name = "Janis"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = bianco
+    681.12.18 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1002 = {##
+    name = "Orazzu"
+    religion = frazione_del_litorale
+    culture = littorian
+    699.8.12 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1003 = {##
+    name = "A_ngilu"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = bianco
+    690.11.7 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1004 = {##
+    name = "Gugghiermu"
+    religion = frazione_del_litorale
+    culture = littorian
+    703.2.11 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1005 = {##
+    name = "Alvisa"
+    female = yes
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = ficetto
+    709.12.11 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1006 = {##
+    name = "Eufemiu"
+    religion = frazione_del_litorale
+    culture = littorian
+    705.5.27 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1007 = {##
+    name = "Meinekinus"
+    religion = uzturet
+    culture = varaparian
+    dynasty = tA_lu
+    714.3.31 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1008 = {##
+    name = "Stegut"
+    religion = uzturet
+    culture = varaparian
+    dynasty = zagare
+    687.3.29 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1009 = {##
+    name = "Laysa"
+    female = yes
+    religion = uzturet
+    culture = varaparian
+    dynasty = meguva
+    723.9.23 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1010 = {##
+    name = "Maija"
+    female = yes
+    religion = uzturet
+    culture = varaparian
+    dynasty = tA_lu
+    706.4.11 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1011 = {##
+    name = "Erasts"
+    religion = uzturet
+    culture = varaparian
+    dynasty = tA_lu
+    696.2.9 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1012 = {##
+    name = "Curneliu"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = di_merci
+    708.5.18 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1013 = {##
+    name = "Marghirita"
+    female = yes
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = baro
+    721.3.4 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1014 = {##
+    name = "Tiudoru"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = di_merci
+    712.2.10 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1015 = {##
+    name = "Cicilia"
+    female = yes
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = farra
+    725.7.5 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1016 = {##
+    name = "Agapitu"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = di_torre
+    699.10.10 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1017 = {##
+    name = "JA_picu"
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = leyte
+    685.6.25 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1018 = {##
+    name = "Biata"
+    female = yes
+    religion = frazione_del_litorale
+    culture = littorian
+    dynasty = sorreno
+    716.9.15 = {
+        birth = yes
+    }
+}
+
+Doria_Litorale_1 = {##
+    name = ""
+    religion = frazione_del_litorale
+    culture = littorian
+    1.1.1 = {
+        birth = yes
+    }
 }
 
 ###Doria Norde
