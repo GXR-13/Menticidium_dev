@@ -32,18 +32,22 @@ leaguemen_desc: "#size:15 康科迪亚人与联盟民构成了老联盟的两面
 manian: "曼尼亚"
 manian_prefix: "曼尼亚"
 manian_collective_noun: "曼尼亚"
+manian_desc: "如今被称作北希里亚的各民族曾经以其他的名号自居：曼尼亚人。他们的起源众说纷纭，有人认为他们是北方土地自古以来的定居者，也有人声称他们是自极北山外废土迁徙而来的部族后裔。不论如何，作为一种独立认同的曼尼亚民族早已不再，他们的后裔大多以希里亚人自居。"
 
 zurunnish: "祖尔伦"
 zurunnish_prefix: "祖尔伦"
 zurunnish_collective_noun: "祖尔伦"
+zurunnish_desc_desc: "#size:15 祖尔伦人是北希里亚各部中最古老的一支——他们现在所主要分布于大希莫瓦尔德森林周围，此处据说便是北希里亚地区文明的发源地。得益于地理环境的庇护，他们的文化保留了许多希里亚，乃至旧帝国之前的习俗。哪怕在北方人中，祖尔伦人也以其豪放与直爽而闻名；但与此同时，这种旧风俗的保留也使得他们被许多自诩更加开化的帝国人视作是一种野蛮习气。"
 
 gronlander: "格隆兰"
 gronlander_prefix: "格隆兰"
 gronlander_collective_noun: "格隆兰"
+gronlander_desc: "#size:15 格隆兰人的名称意为“绿原人”，他们定居在帝国北方最富饶的土地上，相比于其他北方同胞更适应传统的农耕生活，其社会也倾向于稳定与保守。格隆兰人朴素并富有生活智慧，将伊彭兰地区建设成为了帝国的主要支柱之一；他们给人的印象温和且不好战，背井离乡前去参军或是成为冒险者之人鲜少，但近年来在兴起的城市化与北方爆发蓝色瘟疫的共同影响下，他们传统的社会框架也遭到了冲击。"
 
 weisslander: "维斯兰"
 weisslander_prefix: "维斯兰"
 weisslander_collective_noun: "维斯兰"
+weisslander: "#size:15 维斯兰人世代定居在北希里亚中部多丘陵的地区。这里险要的地势磨练了他们的心性：维斯兰人坚定，固执且不畏艰险。他们习惯于简朴的生活，在维斯胡格的岩石山丘中开辟出了许多定居点，并以其精妙的建筑技艺而闻名。据说在历史上，他们的祖先曾第一批起兵与加入希里亚的行伍，共同对抗旧帝国的暴政——在帝国旧勋贵家族中不乏维斯兰人，也是这一传说的有力佐证。"
 
 fretian: "弗雷蒂亚"
 fretian_prefix: "弗雷蒂亚"
@@ -56,15 +60,18 @@ zuidlander_collective_noun: "随兰"
 albennian: "亚贲"
 albennian_prefix: "亚贲"
 albennian_collective_noun: "亚贲"
+albennian_desc: "#size:15 据说亚贲人的祖先在古代北希里亚各部中遭到排挤，一路流浪到当初的边陲之地，在白河岸边定居了下来。且不论这传说的真假，亚贲人的开拓精神确实一贯传承至今。他们主导了对东境的移民还和对因特马克的拓殖，并维持着独特的“武装村落”民兵传统。亚贲人尚武且崇尚纪律，这也使得他们成为了帝国军队关键的兵源。虽然如此，他们重刀兵而轻文艺的习俗也在帝国内外招致了不少非议。"
 
 ostlander: "奥斯特兰"
 ostlander_prefix: "奥斯特兰"
 ostlander_collective_noun: "奥斯特兰"
+ostlander_desc: "#size:15 东境的领土在帝国中兴期的末尾被纳入帝国统治。对这里的征服导致了大量白河西岸北希里亚移民的涌入，这些定居者随后脱离帝国统治，甚至一度建立起了覆盖全东境的霸权，并在此期间中逐渐与当地人融合。他们的文化很大程度上与其故土的亚贲人相似，但在与东境人的交融中失去了曾经的侵略性和尚武精神。他们生活在尴尬的文化困境中：东境本地的卢齐人视他们为侵略者的后裔与曾经的压迫者，尤其是在帝国近来征讨东方未果后，更是对其憎恨有加；而帝国一侧，曾经的政治分离也让希里亚人对他们兴趣索然，并不视他们为同胞。"
 
 #南方组
 old_banlian: "古班利亚"
 old_banlian_prefix: "古班利亚"
 old_banlian_collective_noun: "古班利亚"
+old_banlian_desc: "现如今的帝国南方各民族曾有许多不同的名号。古老王国的遗民称其为亚坎人，所剩无几的旧帝国史料有时将他们统称为南蛮，而现如今的帝国史学界普遍将他们称作古班里亚人。不论称呼如何，这似乎都在暗示现如今将自己视为南希里亚人的各民族在曾经有着更紧密的亲缘关系——乃至曾生活在同一面形势下。"
 
 banlian: "班利亚"
 banlian_prefix: "班利亚"
@@ -141,6 +148,7 @@ bokojowish_collective_noun: "博科约瓦"
 varaparian: "瓦拉帕里亚"
 varaparian_prefix: "瓦拉帕里亚"
 varaparian_collective_noun: "瓦拉帕里亚"
+varaparian_desc: "瓦拉帕里亚人生活在荒凉的达维西亚地区，并将其视作自己的故地。他们的村社制度有着相当的平等主义色彩，并维系着一种在外人看来匪夷所思的集体制度。除此之外，他们还以极端的和平主义为特征：许多瓦拉帕里亚人从未见过兵器，而士兵往往在其社会中遭到隐性的排斥。在本地信仰的影响下，他们能形成具有相当凝聚力的部落——但若非是因为达维西亚历来鲜少受到周围政权的重视，他们恐怕难逃被征服的命运。"
 
 ancient_therosian: "古塞罗瑟"
 ancient_therosian_prefix: "古塞罗瑟"
@@ -157,3 +165,50 @@ unknown2_collective_noun: "未知"
 guanghai: "广海"
 guanghai_prefix: "广海"
 guanghai_collective_noun: "广海"
+
+#语言
+language_standard_hirian_name: "标准通俗语"
+language_court_hirian_name: "宫廷语"
+language_nothern_hirian_name: "北方通俗语"
+language_inner_southern_hirian_name: "近南通俗语"
+language__outer_southern_hirian_name: "远南通俗语"
+language_coastal_dorian_name: "沿海多里亚语"
+language_inland_dorian_name: "内陆多里亚语"
+language_gollowynian_name: "高勒汶语"
+language_frindian_name: "弗林地语"
+language_dabigsian_name: "达维西亚语"
+language_upper_ludian_name: "上卢齐语"
+language_lower_ludian_name: "下卢齐语"
+language_valley_ludian_name: "谷地卢齐语"
+language_eastern_di_name: "翟语"
+language_eastern_li_name: "离语"
+#传承
+heritagh_Hirian_name: "希里亚"
+heritagh_Hirian_collective_noun: "希里亚"
+
+heritage_hynian_name: "海尼亚"
+heritage_hynian_collective_noun: "海尼亚"
+
+heritage_dorian_name: "多里亚"
+heritage__collective_noun: "多里亚"
+
+heritage_banlian_name: "南希里亚" #班里亚
+heritage_banlian_collective_noun: "南希里亚"
+
+heritage_dabigsian_name: "达维西亚"
+heritage_dabigsian_collective_noun: "达维西亚"
+
+heritage_manian_name: "北希里亚" #曼尼亚
+heritage_manian_collective_noun: "北希里亚"
+
+heritage_near_ludian_name: "近卢迪亚"
+heritage_near_ludian_collective_noun: "近卢迪亚"
+
+heritage_di_name: "翟"
+heritage_di_collective_noun: "翟"
+
+heritage_li_name: "离"
+heritage_li_collective_noun: "离"
+
+heritage_mao_name: "卯"
+heritage_mao_collective_noun: "卯"

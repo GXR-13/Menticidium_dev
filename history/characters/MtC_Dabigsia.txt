@@ -102,4 +102,7 @@ Dabigsia_1 = { #Dabigsian Waste
 	1.1.1 = {
 		birth=yes
 	}
+	50.1.1 = {
+		add_trait = MtC_wasteland_trait
+	}
 }

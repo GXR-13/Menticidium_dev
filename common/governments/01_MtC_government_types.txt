@@ -5,10 +5,20 @@
 
 	
 	government_rules = {
-		create_cadet_branches = no
-		rulers_should_have_dynasty = no	
-		council = no
 		court_generate_spouses = no
+		council = no
+		create_cadet_branches = no
+		rulers_should_have_dynasty = no
+		deny_powerful_vassal = yes
+		buildings = no
+	}
+
+	character_modifier = {
+		knight_limit = -100
+		active_accolades = -100
+		county_opinion_add = 100
+		monthly_income_mult = -10
+		domain_limit = 500
 	}
 
 	vassal_contract_group = tribal_vassal
@@ -19,11 +29,13 @@
 	flag = government_is_settled
 	
 	ai = {
+		use_lifestyle = no
 		arrange_marriage = no
 		use_goals = no
+		use_decisions = no
 		use_scripted_guis = no
-		perform_religious_reformation = no
 		use_legends = no
+		perform_religious_reformation = no
 	}
 	
 	color = { 0 0 0 0 }

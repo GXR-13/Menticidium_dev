@@ -162,57 +162,6 @@ frazione_del_litorale_adherent: "滨海派教徒"
 frazione_del_litorale_adherent_plural: "滨海派教徒"
 frazione_del_litorale_desc: "TBD"
 
-#文化这一块
-
-
-#语言
-language_standard_hirian_name: "标准通俗语"
-language_court_hirian_name: "宫廷语"
-language_nothern_hirian_name: "北方通俗语"
-language_inner_southern_hirian_name: "近南通俗语"
-language__outer_southern_hirian_name: "远南通俗语"
-language_coastal_dorian_name: "沿海多里亚语"
-language_inland_dorian_name: "内陆多里亚语"
-language_gollowynian_name: "高勒汶语"
-language_frindian_name: "弗林地语"
-language_dabigsian_name: "达维西亚语"
-language_upper_ludian_name: "上卢齐语"
-language_lower_ludian_name: "下卢齐语"
-language_valley_ludian_name: "谷地卢齐语"
-language_eastern_di_name: "翟人语"
-language_eastern_li_name: "离人语"
-#传承
-heritagh_Hirian_name: "希里亚"
-heritagh_Hirian_collective_noun: "希里亚"
-
-heritage_hynian_name: "海尼亚"
-heritage_hynian_collective_noun: "海尼亚"
-
-heritage_dorian_name: "多里亚"
-heritage__collective_noun: "多里亚"
-
-heritage_banlian_name: "南希里亚" #班里亚
-heritage_banlian_collective_noun: "南希里亚"
-
-heritage_dabigsian_name: "达维西亚"
-heritage_dabigsian_collective_noun: "达维西亚"
-
-heritage_manian_name: "北希里亚" #曼尼亚
-heritage_manian_collective_noun: "北希里亚"
-
-heritage_near_ludian_name: "近卢迪亚"
-heritage_near_ludian_collective_noun: "近卢迪亚"
-
-heritage_di_name: "翟"
-heritage_di_collective_noun: "翟"
-
-heritage_li_name: "离"
-heritage_li_collective_noun: "离"
-
-heritage_mao_name: "卯"
-heritage_mao_collective_noun: "卯"
-
-
 #人
 VojtE_ch: "沃伊捷赫"
 BoZ_epor: "博热波尔"
