@@ -75,3 +75,73 @@ gloss_eastern_war_dynamic = {
 		fallback = yes
 	}
 }
+
+language_inner_southern_hirian_dynamic_name = {
+	type = all
+	text = {
+		localization_key = language_inner_southern_hirian_name_after_game_start
+		trigger = {
+			has_global_variable = game_has_started
+		}
+	}
+	text = {
+		localization_key = language_inner_southern_hirian_name_imperial
+		fallback = yes
+	}
+	
+}
+
+language_inner_southern_hirian_dynamic_name_after_game_start = {
+	type = character
+	text = {
+		localization_key = language_inner_southern_hirian_name_real
+		trigger = {
+			culture = culture:platian
+		}
+	}
+	text = {
+		localization_key = language_inner_southern_hirian_name_imperial
+		trigger = {
+			scope:player = {
+				NOT = { exists = this }
+			}
+		}
+		fallback = yes
+	}
+	
+}
+
+language_outer_southern_hirian_dynamic_name = {
+	type = all
+	text = {
+		localization_key = language_outer_southern_hirian_name_after_game_start
+		trigger = {
+			has_global_variable = game_has_started
+		}
+	}
+	text = {
+		localization_key = language_outer_southern_hirian_name_imperial
+		fallback = yes
+	}
+	
+}
+
+language_outer_southern_hirian_dynamic_name_after_game_start = {
+	type = character
+	text = {
+		localization_key = language_outer_southern_hirian_name_real
+		trigger = {
+			culture = culture:platian
+		}
+	}
+	text = {
+		localization_key = language_outer_southern_hirian_name_imperial
+		trigger = {
+			scope:player = {
+				NOT = { exists = this }
+			}
+		}
+		fallback = yes
+	}
+	
+}
