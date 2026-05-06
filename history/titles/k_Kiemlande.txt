@@ -45,7 +45,7 @@ c_Kiemlande_7_3 = {
 }
 
 k_Kiemlande = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -67,7 +67,7 @@ k_Kiemlande = {
 }
 
 d_Kiemlande_2 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -89,7 +89,7 @@ d_Kiemlande_2 = {
 }
 
 c_Kiemlande_2_1 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -111,7 +111,7 @@ c_Kiemlande_2_1 = {
 }
 
 c_Kiemlande_2_2 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -133,7 +133,7 @@ c_Kiemlande_2_2 = {
 }
 
 c_Kiemlande_2_3 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -155,7 +155,7 @@ c_Kiemlande_2_3 = {
 }
 
 c_Kiemlande_2_4 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 
@@ -177,7 +177,7 @@ c_Kiemlande_2_4 = {
 }
 
 c_Kiemlande_5_1 = {
-    715.5.8.9 = {
+    715.5.8 = {
         holder = Kiemlande_1
     }
 

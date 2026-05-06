@@ -194,7 +194,6 @@ c_Doria_Norde_10_2 = {
 
 c_Doria_Norde_10_3 = {
 	739.3.22 = {
-		liege = Doria_Norde_1009
 		holder = Doria_Norde_1009
 	}
 }

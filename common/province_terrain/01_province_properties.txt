@@ -335,7 +335,7 @@
 334 ={ winter_severity_bias = 0.4 } #Intermark_4_1_4
 335 ={ winter_severity_bias = 0.4 } #Intermark_4_3_2
 336 ={ winter_severity_bias = 0.4 } #Intermark_4_2_3
-337 ={ winter_severity_bias = 0 } #river_74
+337 ={ winter_severity_bias = 0.0} #river_74
 338 ={ winter_severity_bias = 0.45 } #Weisshugel_3_2_1
 339 ={ winter_severity_bias = 0.45 } #Weisshugel_3_2_2
 340 ={ winter_severity_bias = 0.45 } #Weisshugel_3_2_5
@@ -681,7 +681,7 @@
 680 ={ winter_severity_bias = 0.35 } #Dulhecht_4_4_3
 681 ={ winter_severity_bias = 0.35 } #Dulhecht_4_4_2
 682 ={ winter_severity_bias = 0.35 } #Dulhecht_4_4_1
-683 ={ winter_severity_bias = 0 } #river_82
+683 ={ winter_severity_bias = 0.0} #river_82
 684 ={ winter_severity_bias = 0.35 } #Dulhecht_4_5_4
 685 ={ winter_severity_bias = 0.35 } #Dulhecht_4_5_3
 686 ={ winter_severity_bias = 0.35 } #Dulhecht_4_4_4
@@ -705,7 +705,7 @@
 704 ={ winter_severity_bias = 0.4 } #Kollon_4_3_4
 705 ={ winter_severity_bias = 0.1 } #Almaria_1_1_2
 706 ={ winter_severity_bias = 0.35 } #Kollon_4_3_1
-707 ={ winter_severity_bias = 0 } #river_120
+707 ={ winter_severity_bias = 0.0} #river_120
 708 ={ winter_severity_bias = 0.1 } #Almaria_2_1_1
 709 ={ winter_severity_bias = 0.1 } #Almaria_2_1_4
 710 ={ winter_severity_bias = 0.1 } #Almaria_1_2_1
@@ -855,7 +855,7 @@
 854 ={ winter_severity_bias = 0.75 } #Reussia_1_4_1
 855 ={ winter_severity_bias = 0.75 } #Reussia_1_4_2
 856 ={ winter_severity_bias = 0.5 } #Reussia_4_1_1
-857 ={ winter_severity_bias = 0 } #river_123
+857 ={ winter_severity_bias = 0.0} #river_123
 858 ={ winter_severity_bias = 0.29 } #Reussia_6_3_3
 859 ={ winter_severity_bias = 0.5 } #Reussia_1_1_1
 860 ={ winter_severity_bias = 0.25 } #Reussia_1_1_3
@@ -1135,7 +1135,7 @@
 1134 ={ winter_severity_bias = 0.29 } #Dejois_1_4_3
 1135 ={ winter_severity_bias = 0.29 } #Dejois_3_2_2
 1136 ={ winter_severity_bias = 0.29 } #Dejois_3_4_2
-1137 ={ winter_severity_bias = 0 } #sea_lane44
+1137 ={ winter_severity_bias = 0.0} #sea_lane44
 1138 ={ winter_severity_bias = 0.29 } #Dejois_3_2_4
 1139 ={ winter_severity_bias = 0.35 } #Dejois_3_4_3
 1140 ={ winter_severity_bias = 0.35 } #Dejois_4_5_2
@@ -1239,10 +1239,10 @@
 1238 ={ winter_severity_bias = 0.1 } #Torquia_5_2_4
 1239 ={ winter_severity_bias = 0.1 } #Torquia_5_3_3
 1240 ={ winter_severity_bias = 0.1 } #Torquia_8_1_2
-1241 ={ winter_severity_bias = 0 } #Doria_Litorale_1_1_1
-1242 ={ winter_severity_bias = 0 } #Doria_Litorale_2_1_2
-1243 ={ winter_severity_bias = 0 } #Doria_Litorale_2_2_1
-1244 ={ winter_severity_bias = 0 } #Doria_Litorale_2_1_1
+1241 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_1_1
+1242 ={ winter_severity_bias = 0.0} #Doria_Litorale_2_1_2
+1243 ={ winter_severity_bias = 0.0} #Doria_Litorale_2_2_1
+1244 ={ winter_severity_bias = 0.0} #Doria_Litorale_2_1_1
 1245 ={ winter_severity_bias = 0.06 } #Doria_Litorale_2_2_3
 1246 ={ winter_severity_bias = 0.06 } #Doria_Litorale_2_1_4
 1247 ={ winter_severity_bias = 0.06 } #Doria_Litorale_2_2_2
@@ -1268,24 +1268,24 @@
 1267 ={ winter_severity_bias = 0.1 } #Doria_Litorale_8_2_2
 1268 ={ winter_severity_bias = 0.1 } #Doria_Litorale_5_3_3
 1269 ={ winter_severity_bias = 0.1 } #Doria_Litorale_8_1_2
-1270 ={ winter_severity_bias = 0 } #Doria_Litorale_4_4_1
-1271 ={ winter_severity_bias = 0 } #Doria_Litorale_4_4_4
-1272 ={ winter_severity_bias = 0 } #Doria_Litorale_4_4_2
-1273 ={ winter_severity_bias = 0 } #Doria_Litorale_4_4_3
+1270 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_4_1
+1271 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_4_4
+1272 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_4_2
+1273 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_4_3
 1274 ={ winter_severity_bias = 0.1 } #Doria_Litorale_5_1_4
-1275 ={ winter_severity_bias = 0 } #Doria_Litorale_5_1_3
+1275 ={ winter_severity_bias = 0.0} #Doria_Litorale_5_1_3
 1276 ={ winter_severity_bias = 0.1 } #Doria_Litorale_5_3_2
 1277 ={ winter_severity_bias = 0.1 } #Doria_Litorale_5_2_4
-1278 ={ winter_severity_bias = 0 } #Doria_Litorale_5_2_1
-1279 ={ winter_severity_bias = 0 } #Doria_Litorale_5_2_2
-1280 ={ winter_severity_bias = 0 } #Doria_Litorale_5_3_1
-1281 ={ winter_severity_bias = 0 } #Doria_Litorale_5_2_3
-1282 ={ winter_severity_bias = 0 } #Doria_Litorale_4_2_2
-1283 ={ winter_severity_bias = 0 } #Doria_Litorale_4_2_1
-1284 ={ winter_severity_bias = 0 } #Doria_Litorale_4_1_2
-1285 ={ winter_severity_bias = 0 } #Doria_Litorale_4_1_4
-1286 ={ winter_severity_bias = 0 } #Doria_Litorale_4_2_3
-1287 ={ winter_severity_bias = 0 } #Doria_Litorale_4_3_2
+1278 ={ winter_severity_bias = 0.0} #Doria_Litorale_5_2_1
+1279 ={ winter_severity_bias = 0.0} #Doria_Litorale_5_2_2
+1280 ={ winter_severity_bias = 0.0} #Doria_Litorale_5_3_1
+1281 ={ winter_severity_bias = 0.0} #Doria_Litorale_5_2_3
+1282 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_2_2
+1283 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_2_1
+1284 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_1_2
+1285 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_1_4
+1286 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_2_3
+1287 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_3_2
 1288 ={ winter_severity_bias = 0.06 } #Doria_Litorale_4_3_3
 1289 ={ winter_severity_bias = 0.06 } #Doria_Litorale_4_3_4
 1290 ={ winter_severity_bias = 0.06 } #Doria_Litorale_8_1_1
@@ -1295,17 +1295,17 @@
 1294 ={ winter_severity_bias = 0.1 } #Doria_Litorale_8_3_2
 1295 ={ winter_severity_bias = 0.1 } #Doria_Litorale_8_3_3
 1296 ={ winter_severity_bias = 0.1 } #Doria_Litorale_6_4_3
-1297 ={ winter_severity_bias = 0 } #Doria_Litorale_4_1_1
-1298 ={ winter_severity_bias = 0 } #Doria_Litorale_1_2_3
-1299 ={ winter_severity_bias = 0 } #Doria_Litorale_1_1_4
-1300 ={ winter_severity_bias = 0 } #Doria_Litorale_1_1_2
-1301 ={ winter_severity_bias = 0 } #Doria_Litorale_1_2_2
-1302 ={ winter_severity_bias = 0 } #Doria_Litorale_1_1_3
-1303 ={ winter_severity_bias = 0 } #Doria_Litorale_1_2_1
+1297 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_1_1
+1298 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_2_3
+1299 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_1_4
+1300 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_1_2
+1301 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_2_2
+1302 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_1_3
+1303 ={ winter_severity_bias = 0.0} #Doria_Litorale_1_2_1
 1304 ={ winter_severity_bias = 0.06 } #Doria_Litorale_1_2_4
 1305 ={ winter_severity_bias = 0.06 } #Doria_Litorale_4_3_1
-1306 ={ winter_severity_bias = 0 } #Doria_Litorale_4_1_3
-1307 ={ winter_severity_bias = 0 } #river_88
+1306 ={ winter_severity_bias = 0.0} #Doria_Litorale_4_1_3
+1307 ={ winter_severity_bias = 0.0} #river_88
 1308 ={ winter_severity_bias = 0.06 } #Doria_Litorale_1_3_2
 1309 ={ winter_severity_bias = 0.06 } #Doria_Litorale_1_3_1
 1310 ={ winter_severity_bias = 0.06 } #Doria_Litorale_1_4_1
@@ -1359,7 +1359,7 @@
 1358 ={ winter_severity_bias = 0.1 } #Doria_Litorale_7_1_1
 1359 ={ winter_severity_bias = 0.1 } #Doria_Litorale_7_1_2
 1360 ={ winter_severity_bias = 0.1 } #Doria_Litorale_3_3_4
-1361 ={ winter_severity_bias = 0 } #wasteland_1
+1361 ={ winter_severity_bias = 0.0} #wasteland_1
 1362 ={ winter_severity_bias = 0.9 } #wasteland_23
 1363 ={ winter_severity_bias = 0.9 } #wasteland_18
 1364 ={ winter_severity_bias = 0.9 } #wasteland_19
@@ -1573,7 +1573,7 @@
 1572 ={ winter_severity_bias = 0.2 } #Dabigsia_4_1_4
 1573 ={ winter_severity_bias = 0.25 } #Dabigsia_3_4_2
 1574 ={ winter_severity_bias = 0.25 } #Dabigsia_3_4_3
-1575 ={ winter_severity_bias = 0 } #Dabigsia_4_3_1
+1575 ={ winter_severity_bias = 0.0} #Dabigsia_4_3_1
 1576 ={ winter_severity_bias = 0.3 } #Dabigsia_4_2_3
 1577 ={ winter_severity_bias = 0.2 } #Dabigsia_5_4_4
 1578 ={ winter_severity_bias = 0.2 } #Dabigsia_6_2_2
@@ -1624,49 +1624,49 @@
 1623 ={ winter_severity_bias = 0.3 } #Dabigsia_7_3_4
 1624 ={ winter_severity_bias = 0.1 } #Senais_Lands_5_2_1
 1625 ={ winter_severity_bias = 0.1 } #Senais_Lands_5_2_2
-1626 ={ winter_severity_bias = 0 } #Senais_Lands_5_1_1
-1627 ={ winter_severity_bias = 0 } #Senais_Lands_5_3_1
-1628 ={ winter_severity_bias = 0 } #Senais_Lands_4_2_1
-1629 ={ winter_severity_bias = 0 } #sea_lane47
+1626 ={ winter_severity_bias = 0.0} #Senais_Lands_5_1_1
+1627 ={ winter_severity_bias = 0.0} #Senais_Lands_5_3_1
+1628 ={ winter_severity_bias = 0.0} #Senais_Lands_4_2_1
+1629 ={ winter_severity_bias = 0.0} #sea_lane47
 1630 ={ winter_severity_bias = 0.3 } #Senais_Lands_4_1_1
 1631 ={ winter_severity_bias = 0.1 } #Senais_Lands_4_1_4
 1632 ={ winter_severity_bias = 0.3 } #Senais_Lands_4_1_2
 1633 ={ winter_severity_bias = 0.1 } #Senais_Lands_4_1_3
-1634 ={ winter_severity_bias = 0 } #Senais_Lands_4_2_2
+1634 ={ winter_severity_bias = 0.0} #Senais_Lands_4_2_2
 1635 ={ winter_severity_bias = 0.1 } #Senais_Lands_4_3_1
-1636 ={ winter_severity_bias = 0 } #Senais_Lands_4_3_4
-1637 ={ winter_severity_bias = 0 } #Senais_Lands_4_3_3
+1636 ={ winter_severity_bias = 0.0} #Senais_Lands_4_3_4
+1637 ={ winter_severity_bias = 0.0} #Senais_Lands_4_3_3
 1638 ={ winter_severity_bias = 0.1 } #Senais_Lands_4_3_2
 1639 ={ winter_severity_bias = 0.1 } #Senais_Lands_1_2_2
 1640 ={ winter_severity_bias = 0.1 } #Senais_Lands_1_2_1
-1641 ={ winter_severity_bias = 0 } #Senais_Lands_1_3_1
-1642 ={ winter_severity_bias = 0 } #Senais_Lands_1_1_1
-1643 ={ winter_severity_bias = 0 } #Senais_Lands_1_1_3
-1644 ={ winter_severity_bias = 0 } #Senais_Lands_1_1_2
+1641 ={ winter_severity_bias = 0.0} #Senais_Lands_1_3_1
+1642 ={ winter_severity_bias = 0.0} #Senais_Lands_1_1_1
+1643 ={ winter_severity_bias = 0.0} #Senais_Lands_1_1_3
+1644 ={ winter_severity_bias = 0.0} #Senais_Lands_1_1_2
 1645 ={ winter_severity_bias = 0.1 } #Senais_Lands_3_2_1
-1646 ={ winter_severity_bias = 0 } #Senais_Lands_3_1_1
-1647 ={ winter_severity_bias = 0 } #Senais_Lands_3_3_2
-1648 ={ winter_severity_bias = 0 } #Senais_Lands_3_3_3
-1649 ={ winter_severity_bias = 0 } #Senais_Lands_3_3_1
+1646 ={ winter_severity_bias = 0.0} #Senais_Lands_3_1_1
+1647 ={ winter_severity_bias = 0.0} #Senais_Lands_3_3_2
+1648 ={ winter_severity_bias = 0.0} #Senais_Lands_3_3_3
+1649 ={ winter_severity_bias = 0.0} #Senais_Lands_3_3_1
 1650 ={ winter_severity_bias = 0.3 } #Senais_Lands_2_3_2
 1651 ={ winter_severity_bias = 0.5 } #Senais_Lands_2_2_2
 1652 ={ winter_severity_bias = 0.5 } #Senais_Lands_2_2_1
 1653 ={ winter_severity_bias = 0.3 } #Senais_Lands_2_2_3
 1654 ={ winter_severity_bias = 0.3 } #Senais_Lands_2_3_3
 1655 ={ winter_severity_bias = 0.3 } #Senais_Lands_2_3_1
-1656 ={ winter_severity_bias = 0 } #Senais_Lands_2_1_1
-1657 ={ winter_severity_bias = 0 } #Senais_Lands_2_1_2
-1658 ={ winter_severity_bias = 0 } #Senais_Lands_2_4_1
-1659 ={ winter_severity_bias = 0 } #wasteland_4
-1660 ={ winter_severity_bias = 0 } #river_81
-1661 ={ winter_severity_bias = 0 } #wasteland_8
-1662 ={ winter_severity_bias = 0 } #wasteland_5
-1663 ={ winter_severity_bias = 0 } #wasteland_3
-1664 ={ winter_severity_bias = 0 } #wasteland_6
-1665 ={ winter_severity_bias = 0 } #wasteland_7
-1666 ={ winter_severity_bias = 0 } #wasteland_11
-1667 ={ winter_severity_bias = 0 } #wasteland_14
-1668 ={ winter_severity_bias = 0 } #wasteland_13
+1656 ={ winter_severity_bias = 0.0} #Senais_Lands_2_1_1
+1657 ={ winter_severity_bias = 0.0} #Senais_Lands_2_1_2
+1658 ={ winter_severity_bias = 0.0} #Senais_Lands_2_4_1
+1659 ={ winter_severity_bias = 0.0} #wasteland_4
+1660 ={ winter_severity_bias = 0.0} #river_81
+1661 ={ winter_severity_bias = 0.0} #wasteland_8
+1662 ={ winter_severity_bias = 0.0} #wasteland_5
+1663 ={ winter_severity_bias = 0.0} #wasteland_3
+1664 ={ winter_severity_bias = 0.0} #wasteland_6
+1665 ={ winter_severity_bias = 0.0} #wasteland_7
+1666 ={ winter_severity_bias = 0.0} #wasteland_11
+1667 ={ winter_severity_bias = 0.0} #wasteland_14
+1668 ={ winter_severity_bias = 0.0} #wasteland_13
 1669 ={ winter_severity_bias = 0.65 } #Pomrok_3_1_3
 1670 ={ winter_severity_bias = 0.65 } #Pomrok_3_1_1
 1671 ={ winter_severity_bias = 0.65 } #Pomrok_3_1_2
@@ -1833,7 +1833,7 @@
 1832 ={ winter_severity_bias = 0.7 } #Pokojowa_1_3_2
 1833 ={ winter_severity_bias = 0.7 } #Pokojowa_1_2_4
 1834 ={ winter_severity_bias = 0.65 } #wasteland_31
-1835 ={ winter_severity_bias = 0 } #wasteland_30
+1835 ={ winter_severity_bias = 0.0} #wasteland_30
 1836 ={ winter_severity_bias = 0.29 } #wasteland_22
 1837 ={ winter_severity_bias = 0.25 } #wasteland_17
 1838 ={ winter_severity_bias = 0.65 } #wasteland_28
@@ -1987,184 +1987,184 @@
 1986 ={ winter_severity_bias = 0.5 } #wasteland_24
 1987 ={ winter_severity_bias = 0.65 } #wasteland_33
 1988 ={ winter_severity_bias = 0.7 } #wasteland_32
-1989 ={ winter_severity_bias = 0 } #deep_sea_2
+1989 ={ winter_severity_bias = 0.0} #deep_sea_2
 1990 ={ winter_severity_bias = 0.4 } #Kollon_4_3_2
-1991 ={ winter_severity_bias = 0 } #wasteland_2
+1991 ={ winter_severity_bias = 0.0} #wasteland_2
 1992 ={ winter_severity_bias = 0.9 } #wasteland_26
-1993 ={ winter_severity_bias = 0 } #river_78
-1994 ={ winter_severity_bias = 0 } #river_77
-1995 ={ winter_severity_bias = 0 } #river_87
-1996 ={ winter_severity_bias = 0 } #river_76
-1997 ={ winter_severity_bias = 0 } #river_73
-1998 ={ winter_severity_bias = 0 } #river_71
-1999 ={ winter_severity_bias = 0 } #river_67
-2000 ={ winter_severity_bias = 0 } #river_64
-2001 ={ winter_severity_bias = 0 } #river_86
-2002 ={ winter_severity_bias = 0 } #river_79
-2003 ={ winter_severity_bias = 0 } #river_80
-2004 ={ winter_severity_bias = 0 } #river_83
-2005 ={ winter_severity_bias = 0 } #river_84
-2006 ={ winter_severity_bias = 0 } #sea_lane48
-2007 ={ winter_severity_bias = 0 } #river_85
-2008 ={ winter_severity_bias = 0 } #sea_lane51
-2009 ={ winter_severity_bias = 0 } #sea_lane52
-2010 ={ winter_severity_bias = 0 } #sea_lane50
-2011 ={ winter_severity_bias = 0 } #sea_lane53
-2012 ={ winter_severity_bias = 0 } #sea_lane46
-2013 ={ winter_severity_bias = 0 } #sea_lane42
-2014 ={ winter_severity_bias = 0 } #sea_lane43
-2015 ={ winter_severity_bias = 0 } #sea_lane49
-2016 ={ winter_severity_bias = 0 } #sea_lane45
-2017 ={ winter_severity_bias = 0 } #river_89
-2018 ={ winter_severity_bias = 0 } #river_90
-2019 ={ winter_severity_bias = 0 } #river_91
-2020 ={ winter_severity_bias = 0 } #river_92
-2021 ={ winter_severity_bias = 0 } #river_93
-2022 ={ winter_severity_bias = 0 } #river_103
-2023 ={ winter_severity_bias = 0 } #river_97
-2024 ={ winter_severity_bias = 0 } #river_101
-2025 ={ winter_severity_bias = 0 } #river_106
-2026 ={ winter_severity_bias = 0 } #river_117
-2027 ={ winter_severity_bias = 0 } #river_115
-2028 ={ winter_severity_bias = 0 } #river_107
-2029 ={ winter_severity_bias = 0 } #river_112
-2030 ={ winter_severity_bias = 0 } #river_131
-2031 ={ winter_severity_bias = 0 } #river_130
-2032 ={ winter_severity_bias = 0 } #river_129
-2033 ={ winter_severity_bias = 0 } #river_128
-2034 ={ winter_severity_bias = 0 } #river_127
-2035 ={ winter_severity_bias = 0 } #river_126
-2036 ={ winter_severity_bias = 0 } #river_125
-2037 ={ winter_severity_bias = 0 } #river_124
-2038 ={ winter_severity_bias = 0 } #river_121
-2039 ={ winter_severity_bias = 0 } #river_122
-2040 ={ winter_severity_bias = 0 } #river_119
-2041 ={ winter_severity_bias = 0 } #river_118
-2042 ={ winter_severity_bias = 0 } #river_116
-2043 ={ winter_severity_bias = 0 } #river_114
-2044 ={ winter_severity_bias = 0 } #river_110
-2045 ={ winter_severity_bias = 0 } #river_111
-2046 ={ winter_severity_bias = 0 } #river_109
-2047 ={ winter_severity_bias = 0 } #river_113
-2048 ={ winter_severity_bias = 0 } #river_108
-2049 ={ winter_severity_bias = 0 } #river_105
-2050 ={ winter_severity_bias = 0 } #river_98
-2051 ={ winter_severity_bias = 0 } #river_94
-2052 ={ winter_severity_bias = 0 } #river_95
-2053 ={ winter_severity_bias = 0 } #river_96
-2054 ={ winter_severity_bias = 0 } #river_99
-2055 ={ winter_severity_bias = 0 } #river_104
-2056 ={ winter_severity_bias = 0 } #river_102
-2057 ={ winter_severity_bias = 0 } #river_100
-2058 ={ winter_severity_bias = 0 } #river_27
-2059 ={ winter_severity_bias = 0 } #river_32
-2060 ={ winter_severity_bias = 0 } #river_29
-2061 ={ winter_severity_bias = 0 } #river_37
-2062 ={ winter_severity_bias = 0 } #river_42
-2063 ={ winter_severity_bias = 0 } #river_38
-2064 ={ winter_severity_bias = 0 } #river_44
-2065 ={ winter_severity_bias = 0 } #river_47
-2066 ={ winter_severity_bias = 0 } #river_43
-2067 ={ winter_severity_bias = 0 } #river_40
-2068 ={ winter_severity_bias = 0 } #river_33
-2069 ={ winter_severity_bias = 0 } #river_30
-2070 ={ winter_severity_bias = 0 } #river_34
-2071 ={ winter_severity_bias = 0 } #river_39
-2072 ={ winter_severity_bias = 0 } #river_41
-2073 ={ winter_severity_bias = 0 } #river_45
-2074 ={ winter_severity_bias = 0 } #river_49
-2075 ={ winter_severity_bias = 0 } #river_54
-2076 ={ winter_severity_bias = 0 } #river_58
-2077 ={ winter_severity_bias = 0 } #river_60
-2078 ={ winter_severity_bias = 0 } #river_63
-2079 ={ winter_severity_bias = 0 } #river_69
-2080 ={ winter_severity_bias = 0 } #river_72
-2081 ={ winter_severity_bias = 0 } #sea_lane7
-2082 ={ winter_severity_bias = 0 } #river_75
-2083 ={ winter_severity_bias = 0 } #river_59
-2084 ={ winter_severity_bias = 0 } #river_65
-2085 ={ winter_severity_bias = 0 } #river_68
-2086 ={ winter_severity_bias = 0 } #river_62
-2087 ={ winter_severity_bias = 0 } #river_66
-2088 ={ winter_severity_bias = 0 } #river_61
-2089 ={ winter_severity_bias = 0 } #river_55
-2090 ={ winter_severity_bias = 0 } #river_51
-2091 ={ winter_severity_bias = 0 } #river_50
-2092 ={ winter_severity_bias = 0 } #river_53
-2093 ={ winter_severity_bias = 0 } #river_56
-2094 ={ winter_severity_bias = 0 } #river_70
-2095 ={ winter_severity_bias = 0 } #river_31
-2096 ={ winter_severity_bias = 0 } #river_52
-2097 ={ winter_severity_bias = 0 } #river_46
-2098 ={ winter_severity_bias = 0 } #river_48
-2099 ={ winter_severity_bias = 0 } #river_57
-2100 ={ winter_severity_bias = 0 } #river_26
-2101 ={ winter_severity_bias = 0 } #river_23
-2102 ={ winter_severity_bias = 0 } #river_24
-2103 ={ winter_severity_bias = 0 } #river_20
-2104 ={ winter_severity_bias = 0 } #river_12
-2105 ={ winter_severity_bias = 0 } #river_17
-2106 ={ winter_severity_bias = 0 } #river_22
-2107 ={ winter_severity_bias = 0 } #river_21
-2108 ={ winter_severity_bias = 0 } #river_13
-2109 ={ winter_severity_bias = 0 } #river_11
-2110 ={ winter_severity_bias = 0 } #river_10
-2111 ={ winter_severity_bias = 0 } #river_18
-2112 ={ winter_severity_bias = 0 } #river_8
-2113 ={ winter_severity_bias = 0 } #river_9
-2114 ={ winter_severity_bias = 0 } #river_14
-2115 ={ winter_severity_bias = 0 } #river_15
-2116 ={ winter_severity_bias = 0 } #river_16
-2117 ={ winter_severity_bias = 0 } #river_6
-2118 ={ winter_severity_bias = 0 } #river_5
-2119 ={ winter_severity_bias = 0 } #river_4
-2120 ={ winter_severity_bias = 0 } #river_2
-2121 ={ winter_severity_bias = 0 } #river_1
-2122 ={ winter_severity_bias = 0 } #river_3
-2123 ={ winter_severity_bias = 0 } #river_7
-2124 ={ winter_severity_bias = 0 } #river_19
-2125 ={ winter_severity_bias = 0 } #river_36
-2126 ={ winter_severity_bias = 0 } #river_35
-2127 ={ winter_severity_bias = 0 } #river_28
-2128 ={ winter_severity_bias = 0 } #river_25
-2129 ={ winter_severity_bias = 0 } #deep_sea_1
-2130 ={ winter_severity_bias = 0 } #sea_lane38
-2131 ={ winter_severity_bias = 0 } #sea_lane37
-2132 ={ winter_severity_bias = 0 } #sea_lane36
-2133 ={ winter_severity_bias = 0 } #sea_lane41
-2134 ={ winter_severity_bias = 0 } #sea_lane40
-2135 ={ winter_severity_bias = 0 } #sea_lane39
-2136 ={ winter_severity_bias = 0 } #sea_lane35
-2137 ={ winter_severity_bias = 0 } #sea_lane34
-2138 ={ winter_severity_bias = 0 } #sea_lane28
-2139 ={ winter_severity_bias = 0 } #sea_lane24
-2140 ={ winter_severity_bias = 0 } #sea_lane23
-2141 ={ winter_severity_bias = 0 } #sea_lane32
-2142 ={ winter_severity_bias = 0 } #sea_lane33
-2143 ={ winter_severity_bias = 0 } #sea_lane22
-2144 ={ winter_severity_bias = 0 } #sea_lane25
-2145 ={ winter_severity_bias = 0 } #sea_lane27
-2146 ={ winter_severity_bias = 0 } #sea_lane30
-2147 ={ winter_severity_bias = 0 } #sea_lane31
-2148 ={ winter_severity_bias = 0 } #sea_lane29
-2149 ={ winter_severity_bias = 0 } #sea_lane26
-2150 ={ winter_severity_bias = 0 } #sea_lane21
-2151 ={ winter_severity_bias = 0 } #sea_lane20
-2152 ={ winter_severity_bias = 0 } #sea_lane19
-2153 ={ winter_severity_bias = 0 } #sea_lane18
-2154 ={ winter_severity_bias = 0 } #sea_lane15
-2155 ={ winter_severity_bias = 0 } #sea_lane16
-2156 ={ winter_severity_bias = 0 } #sea_lane14
-2157 ={ winter_severity_bias = 0 } #sea_lane11
-2158 ={ winter_severity_bias = 0 } #sea_lane12
-2159 ={ winter_severity_bias = 0 } #sea_lane17
-2160 ={ winter_severity_bias = 0 } #sea_lane13
-2161 ={ winter_severity_bias = 0 } #sea_lane9
-2162 ={ winter_severity_bias = 0 } #sea_lane8
-2163 ={ winter_severity_bias = 0 } #sea_lane4
-2164 ={ winter_severity_bias = 0 } #sea_lane1
-2165 ={ winter_severity_bias = 0 } #sea_lane2
-2166 ={ winter_severity_bias = 0 } #sea_lane3
-2167 ={ winter_severity_bias = 0 } #sea_lane5
-2168 ={ winter_severity_bias = 0 } #sea_lane6
-2169 ={ winter_severity_bias = 0 } #sea_lane10
+1993 ={ winter_severity_bias = 0.0} #river_78
+1994 ={ winter_severity_bias = 0.0} #river_77
+1995 ={ winter_severity_bias = 0.0} #river_87
+1996 ={ winter_severity_bias = 0.0} #river_76
+1997 ={ winter_severity_bias = 0.0} #river_73
+1998 ={ winter_severity_bias = 0.0} #river_71
+1999 ={ winter_severity_bias = 0.0} #river_67
+2000 ={ winter_severity_bias = 0.0} #river_64
+2001 ={ winter_severity_bias = 0.0} #river_86
+2002 ={ winter_severity_bias = 0.0} #river_79
+2003 ={ winter_severity_bias = 0.0} #river_80
+2004 ={ winter_severity_bias = 0.0} #river_83
+2005 ={ winter_severity_bias = 0.0} #river_84
+2006 ={ winter_severity_bias = 0.0} #sea_lane48
+2007 ={ winter_severity_bias = 0.0} #river_85
+2008 ={ winter_severity_bias = 0.0} #sea_lane51
+2009 ={ winter_severity_bias = 0.0} #sea_lane52
+2010 ={ winter_severity_bias = 0.0} #sea_lane50
+2011 ={ winter_severity_bias = 0.0} #sea_lane53
+2012 ={ winter_severity_bias = 0.0} #sea_lane46
+2013 ={ winter_severity_bias = 0.0} #sea_lane42
+2014 ={ winter_severity_bias = 0.0} #sea_lane43
+2015 ={ winter_severity_bias = 0.0} #sea_lane49
+2016 ={ winter_severity_bias = 0.0} #sea_lane45
+2017 ={ winter_severity_bias = 0.0} #river_89
+2018 ={ winter_severity_bias = 0.0} #river_90
+2019 ={ winter_severity_bias = 0.0} #river_91
+2020 ={ winter_severity_bias = 0.0} #river_92
+2021 ={ winter_severity_bias = 0.0} #river_93
+2022 ={ winter_severity_bias = 0.0} #river_103
+2023 ={ winter_severity_bias = 0.0} #river_97
+2024 ={ winter_severity_bias = 0.0} #river_101
+2025 ={ winter_severity_bias = 0.0} #river_106
+2026 ={ winter_severity_bias = 0.0} #river_117
+2027 ={ winter_severity_bias = 0.0} #river_115
+2028 ={ winter_severity_bias = 0.0} #river_107
+2029 ={ winter_severity_bias = 0.0} #river_112
+2030 ={ winter_severity_bias = 0.0} #river_131
+2031 ={ winter_severity_bias = 0.0} #river_130
+2032 ={ winter_severity_bias = 0.0} #river_129
+2033 ={ winter_severity_bias = 0.0} #river_128
+2034 ={ winter_severity_bias = 0.0} #river_127
+2035 ={ winter_severity_bias = 0.0} #river_126
+2036 ={ winter_severity_bias = 0.0} #river_125
+2037 ={ winter_severity_bias = 0.0} #river_124
+2038 ={ winter_severity_bias = 0.0} #river_121
+2039 ={ winter_severity_bias = 0.0} #river_122
+2040 ={ winter_severity_bias = 0.0} #river_119
+2041 ={ winter_severity_bias = 0.0} #river_118
+2042 ={ winter_severity_bias = 0.0} #river_116
+2043 ={ winter_severity_bias = 0.0} #river_114
+2044 ={ winter_severity_bias = 0.0} #river_110
+2045 ={ winter_severity_bias = 0.0} #river_111
+2046 ={ winter_severity_bias = 0.0} #river_109
+2047 ={ winter_severity_bias = 0.0} #river_113
+2048 ={ winter_severity_bias = 0.0} #river_108
+2049 ={ winter_severity_bias = 0.0} #river_105
+2050 ={ winter_severity_bias = 0.0} #river_98
+2051 ={ winter_severity_bias = 0.0} #river_94
+2052 ={ winter_severity_bias = 0.0} #river_95
+2053 ={ winter_severity_bias = 0.0} #river_96
+2054 ={ winter_severity_bias = 0.0} #river_99
+2055 ={ winter_severity_bias = 0.0} #river_104
+2056 ={ winter_severity_bias = 0.0} #river_102
+2057 ={ winter_severity_bias = 0.0} #river_100
+2058 ={ winter_severity_bias = 0.0} #river_27
+2059 ={ winter_severity_bias = 0.0} #river_32
+2060 ={ winter_severity_bias = 0.0} #river_29
+2061 ={ winter_severity_bias = 0.0} #river_37
+2062 ={ winter_severity_bias = 0.0} #river_42
+2063 ={ winter_severity_bias = 0.0} #river_38
+2064 ={ winter_severity_bias = 0.0} #river_44
+2065 ={ winter_severity_bias = 0.0} #river_47
+2066 ={ winter_severity_bias = 0.0} #river_43
+2067 ={ winter_severity_bias = 0.0} #river_40
+2068 ={ winter_severity_bias = 0.0} #river_33
+2069 ={ winter_severity_bias = 0.0} #river_30
+2070 ={ winter_severity_bias = 0.0} #river_34
+2071 ={ winter_severity_bias = 0.0} #river_39
+2072 ={ winter_severity_bias = 0.0} #river_41
+2073 ={ winter_severity_bias = 0.0} #river_45
+2074 ={ winter_severity_bias = 0.0} #river_49
+2075 ={ winter_severity_bias = 0.0} #river_54
+2076 ={ winter_severity_bias = 0.0} #river_58
+2077 ={ winter_severity_bias = 0.0} #river_60
+2078 ={ winter_severity_bias = 0.0} #river_63
+2079 ={ winter_severity_bias = 0.0} #river_69
+2080 ={ winter_severity_bias = 0.0} #river_72
+2081 ={ winter_severity_bias = 0.0} #sea_lane7
+2082 ={ winter_severity_bias = 0.0} #river_75
+2083 ={ winter_severity_bias = 0.0} #river_59
+2084 ={ winter_severity_bias = 0.0} #river_65
+2085 ={ winter_severity_bias = 0.0} #river_68
+2086 ={ winter_severity_bias = 0.0} #river_62
+2087 ={ winter_severity_bias = 0.0} #river_66
+2088 ={ winter_severity_bias = 0.0} #river_61
+2089 ={ winter_severity_bias = 0.0} #river_55
+2090 ={ winter_severity_bias = 0.0} #river_51
+2091 ={ winter_severity_bias = 0.0} #river_50
+2092 ={ winter_severity_bias = 0.0} #river_53
+2093 ={ winter_severity_bias = 0.0} #river_56
+2094 ={ winter_severity_bias = 0.0} #river_70
+2095 ={ winter_severity_bias = 0.0} #river_31
+2096 ={ winter_severity_bias = 0.0} #river_52
+2097 ={ winter_severity_bias = 0.0} #river_46
+2098 ={ winter_severity_bias = 0.0} #river_48
+2099 ={ winter_severity_bias = 0.0} #river_57
+2100 ={ winter_severity_bias = 0.0} #river_26
+2101 ={ winter_severity_bias = 0.0} #river_23
+2102 ={ winter_severity_bias = 0.0} #river_24
+2103 ={ winter_severity_bias = 0.0} #river_20
+2104 ={ winter_severity_bias = 0.0} #river_12
+2105 ={ winter_severity_bias = 0.0} #river_17
+2106 ={ winter_severity_bias = 0.0} #river_22
+2107 ={ winter_severity_bias = 0.0} #river_21
+2108 ={ winter_severity_bias = 0.0} #river_13
+2109 ={ winter_severity_bias = 0.0} #river_11
+2110 ={ winter_severity_bias = 0.0} #river_10
+2111 ={ winter_severity_bias = 0.0} #river_18
+2112 ={ winter_severity_bias = 0.0} #river_8
+2113 ={ winter_severity_bias = 0.0} #river_9
+2114 ={ winter_severity_bias = 0.0} #river_14
+2115 ={ winter_severity_bias = 0.0} #river_15
+2116 ={ winter_severity_bias = 0.0} #river_16
+2117 ={ winter_severity_bias = 0.0} #river_6
+2118 ={ winter_severity_bias = 0.0} #river_5
+2119 ={ winter_severity_bias = 0.0} #river_4
+2120 ={ winter_severity_bias = 0.0} #river_2
+2121 ={ winter_severity_bias = 0.0} #river_1
+2122 ={ winter_severity_bias = 0.0} #river_3
+2123 ={ winter_severity_bias = 0.0} #river_7
+2124 ={ winter_severity_bias = 0.0} #river_19
+2125 ={ winter_severity_bias = 0.0} #river_36
+2126 ={ winter_severity_bias = 0.0} #river_35
+2127 ={ winter_severity_bias = 0.0} #river_28
+2128 ={ winter_severity_bias = 0.0} #river_25
+2129 ={ winter_severity_bias = 0.0} #deep_sea_1
+2130 ={ winter_severity_bias = 0.0} #sea_lane38
+2131 ={ winter_severity_bias = 0.0} #sea_lane37
+2132 ={ winter_severity_bias = 0.0} #sea_lane36
+2133 ={ winter_severity_bias = 0.0} #sea_lane41
+2134 ={ winter_severity_bias = 0.0} #sea_lane40
+2135 ={ winter_severity_bias = 0.0} #sea_lane39
+2136 ={ winter_severity_bias = 0.0} #sea_lane35
+2137 ={ winter_severity_bias = 0.0} #sea_lane34
+2138 ={ winter_severity_bias = 0.0} #sea_lane28
+2139 ={ winter_severity_bias = 0.0} #sea_lane24
+2140 ={ winter_severity_bias = 0.0} #sea_lane23
+2141 ={ winter_severity_bias = 0.0} #sea_lane32
+2142 ={ winter_severity_bias = 0.0} #sea_lane33
+2143 ={ winter_severity_bias = 0.0} #sea_lane22
+2144 ={ winter_severity_bias = 0.0} #sea_lane25
+2145 ={ winter_severity_bias = 0.0} #sea_lane27
+2146 ={ winter_severity_bias = 0.0} #sea_lane30
+2147 ={ winter_severity_bias = 0.0} #sea_lane31
+2148 ={ winter_severity_bias = 0.0} #sea_lane29
+2149 ={ winter_severity_bias = 0.0} #sea_lane26
+2150 ={ winter_severity_bias = 0.0} #sea_lane21
+2151 ={ winter_severity_bias = 0.0} #sea_lane20
+2152 ={ winter_severity_bias = 0.0} #sea_lane19
+2153 ={ winter_severity_bias = 0.0} #sea_lane18
+2154 ={ winter_severity_bias = 0.0} #sea_lane15
+2155 ={ winter_severity_bias = 0.0} #sea_lane16
+2156 ={ winter_severity_bias = 0.0} #sea_lane14
+2157 ={ winter_severity_bias = 0.0} #sea_lane11
+2158 ={ winter_severity_bias = 0.0} #sea_lane12
+2159 ={ winter_severity_bias = 0.0} #sea_lane17
+2160 ={ winter_severity_bias = 0.0} #sea_lane13
+2161 ={ winter_severity_bias = 0.0} #sea_lane9
+2162 ={ winter_severity_bias = 0.0} #sea_lane8
+2163 ={ winter_severity_bias = 0.0} #sea_lane4
+2164 ={ winter_severity_bias = 0.0} #sea_lane1
+2165 ={ winter_severity_bias = 0.0} #sea_lane2
+2166 ={ winter_severity_bias = 0.0} #sea_lane3
+2167 ={ winter_severity_bias = 0.0} #sea_lane5
+2168 ={ winter_severity_bias = 0.0} #sea_lane6
+2169 ={ winter_severity_bias = 0.0} #sea_lane10

@@ -96,7 +96,7 @@ c_Jaskowvia_2_4 = {
 #Wilgosołwa
 d_Jaskowvia_3 = {
 	550.1.1 = {#Establishment of Pawland?
-		liege = k_Pawland
+		liege = k_Pavland
 	}
 	721.2.13 = {#Treaty of Hettingen
 		liege = k_Jaskowvia
