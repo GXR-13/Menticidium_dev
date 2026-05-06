@@ -361,7 +361,7 @@ sirrland = {
 #Reussia
 samreuss = {
 	name = dynn_samreuss
-	culture = dejois
+	culture = south_hirian
 }
 
 trathairn = {

@@ -73,9 +73,10 @@ world_middle_east_persia = {}
 world_india_deccan = {}
 world_india_bengal = {}
 world_india_rajastan = {}
+custom_lanka = {}
 world_africa_north_west = {
 	duchies = {
-		d_canarias
+		d_High_Hiria_1
 	}
 }
 world_africa_north_east = {}
@@ -94,6 +95,7 @@ world_africa = {
 }
 world_steppe_tarim = {}
 world_steppe_west = {}
+world_steppe_central = {}
 world_steppe_east = {}
 world_tibet = {}
 world_himalaya = {}
@@ -102,7 +104,50 @@ world_steppe = {}
 world_europe = {}
 world_middle_east = {}
 world_india = {}
+world_asia = { # East, Southeast, and Northeast Asia
+}
 
+world_asia_east = {
+}
+
+world_asia_shiwei_steppe = {
+}
+
+world_asia_khitan_steppe = {
+}
+
+world_asia_north_east = {
+}
+world_asia_sakhalin_hokkaido = {
+}
+world_asia_japan = {
+}
+world_asia_korea = {
+}
+world_asia_southeast = {
+}
+world_asia_southeast_mainland = {
+}
+world_asia_vietnam = {
+}
+world_asia_cambodia = {
+}
+world_asia_thailand = {
+}
+world_asia_malaysia = {
+}
+world_asia_southeast_islands = {
+}
+world_asia_philippines = {
+}
+world_asia_borneo = {
+}
+world_asia_sulawesi_maluku = {
+}
+world_asia_indonesia = {
+}
+world_asia_china = {
+}
 ###########################################################################
 # Material Regions
 ###########################################################################

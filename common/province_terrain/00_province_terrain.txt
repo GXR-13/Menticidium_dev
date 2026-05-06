@@ -1989,7 +1989,7 @@ default_coastal_sea=coastal_sea
 ##IMPASSABLE
 ##IMPASSABLE
 ##IMPASSABLE
-1989=deep_sea
+1989=plains
 1990=plains
 ##IMPASSABLE
 ##IMPASSABLE
@@ -2129,7 +2129,7 @@ default_coastal_sea=coastal_sea
 ##WATER BODY
 ##WATER BODY
 ##WATER BODY
-2129=deep_sea
+2129=plains
 ##WATER BODY
 ##WATER BODY
 ##WATER BODY
