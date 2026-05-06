@@ -218,7 +218,7 @@
 
 			doctrine = unreformed_faith_doctrine
 
-			holy_site = c_High_Hiria_1_1
+			holy_site = city_of_hiria
 
 			#Generic pagan tenets
 			doctrine = tenet_astrology

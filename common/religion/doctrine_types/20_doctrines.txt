@@ -1591,7 +1591,7 @@ doctrine_monotheist = {
 		if = {
 			limit = { 
 				OR = {
-					has_doctrine = abrahamic_hostility_doctrine
+					has_doctrine = new_beliefs_hostility_doctrine
 					has_doctrine = doctrine_monotheist 
 				}
 			}
@@ -1610,7 +1610,7 @@ doctrine_polytheist = {
 	piety_cost = {
 		value = faith_doctrine_cost_high
 		if = {
-			limit = { has_doctrine = abrahamic_hostility_doctrine }
+			limit = { has_doctrine = new_beliefs_hostility_doctrine }
 			multiply = faith_changed_doctrine_cost_mult_three_step
 		}
 		else_if = {

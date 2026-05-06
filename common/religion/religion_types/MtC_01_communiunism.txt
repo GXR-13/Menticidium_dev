@@ -213,7 +213,7 @@
 			color = rgb { 230 230 230 }
 			
 
-			holy_site = c_High_Hiria_1_1
+			holy_site = city_of_hiria
 
 			#placeholder tenets
 			doctrine = tenet_MtC_placeholder_1
@@ -226,7 +226,7 @@
 			icon = placeholder
 			
 
-			holy_site = c_High_Hiria_1_1
+			holy_site = city_of_hiria
 
 			#placeholder tenets
 			doctrine = tenet_MtC_placeholder_1
@@ -239,7 +239,7 @@
 			icon = placeholder
 			
 
-			holy_site = c_High_Hiria_1_1
+			holy_site = city_of_hiria
 
 			#placeholder tenets
 			doctrine = tenet_MtC_placeholder_1

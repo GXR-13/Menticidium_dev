@@ -27,7 +27,7 @@ tenet_aniconism = {
 	}
 
 	is_shown = {
-		has_doctrine = abrahamic_hostility_doctrine
+		has_doctrine = new_beliefs_hostility_doctrine
 	}
 
 	can_pick = {
