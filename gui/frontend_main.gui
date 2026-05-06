@@ -60,6 +60,7 @@ widget = {
 			}
 		}
 
+		##Characters--removed to fix CTD
 		#icon = {
 		#	name = "shadow_left"
 		#	visible = "[And( FrontEndMainView.ShowSecondaryCharacter, GreaterThan_int32( FrontEndMainView.GetSecondaryCharacterAge, '(int32)1' ) )]"
@@ -484,7 +485,7 @@ widget = {
 				duration = 0.4
 				bezier = { 0.5 0 1 0.5 }
 
-				position_y = 0
+				position_y = -35
 				alpha = 1
 			}
 
@@ -494,7 +495,7 @@ widget = {
 				duration = 0.1
 				bezier = { 0 0.5 0.5 1 }
 
-				position_y = -20
+				position_y = -50
 			}
 
 			state = {
@@ -503,7 +504,7 @@ widget = {
 				duration = 0.1
 				bezier = { 0.5 0 1 0.5 }
 
-				position_y = 0
+				position_y = -30
 			}
 
 			state = {
@@ -512,7 +513,7 @@ widget = {
 				duration = 0.05
 				bezier = { 0 0.5 0.5 1 }
 
-				position_y = -5
+				position_y = -40
 			}
 
 			state = {
@@ -521,7 +522,7 @@ widget = {
 				duration = 0.05
 				bezier = { 0.5 0 1 0.5 }
 
-				position_y = 0
+				position_y = -35
 			}
 
 			# Main Glow Animation
@@ -664,6 +665,8 @@ widget = {
 								enabled = "[Not( SaveGameItem.HasMissingDLCs )]"
 								onclick = "[FrontEndLoadView.OnContinue]"
 								clicksound = "event:/SFX/UI/Generic/sfx_ui_generic_start_game"
+								shortcut = confirm
+								shortcut = confirm_2
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -768,8 +771,10 @@ widget = {
 						button_frontend = {
 							name = "new_game_button"
 							text = "NEW_GAME"
+							tooltip = "NEW_GAME"
 							fontsize = 20
 							onclick = "[FrontEndMainView.OnNewGame]"
+							shortcut = menu_1
 
 							state = {
 								name = _mouse_hierarchy_enter
@@ -799,8 +804,10 @@ widget = {
 								name = "load_game_button"
 								visible = "[FrontEndLoadView.CanDoContinue]"
 								text = "LOAD"
+								tooltip  ="LOAD"
 								fontsize = 20
 								onclick = "[FrontEndMainView.OnLoad]"
+								shortcut = menu_2
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -828,7 +835,7 @@ widget = {
 						}
 
 						vbox = {
-							visible = "[And( POPSStatusIsLoggedIn, Not( POPStatusIsUserNameEmpty ) )]"
+							visible = "[And( StatusIsLoggedIn, Not( StatusIsUserNameEmpty ) )]"
 							spacing = 5
 
 							button_frontend = {
@@ -839,6 +846,7 @@ widget = {
 								onclick = "[RefreshIllustration]"
 								enabled = "[JominiIsMultiplayerAccessible]"
 								tooltip = "[JominiGetMultiplayerAccessibleString]"
+								shortcut = menu_3
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -859,6 +867,7 @@ widget = {
 								onclick = "[RefreshIllustration]"
 								enabled = "[JominiIsMultiplayerAccessible]"
 								tooltip = "[JominiGetMultiplayerAccessibleString]"
+								shortcut = menu_4
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -873,7 +882,7 @@ widget = {
 						}
 
 						vbox = {
-							visible = "[Or( Not( POPSStatusIsLoggedIn ), POPStatusIsUserNameEmpty )]"
+							visible = "[Or( Not( StatusIsLoggedIn ), StatusIsUserNameEmpty )]"
 							spacing = 5
 
 							button_frontend = {
@@ -1047,7 +1056,7 @@ widget = {
 						flowcontainer = {
 							spacing = 18
 
-							pops_login_accountwidget = {
+							sdk_login_accountwidget = {
 								parentanchor = vcenter
 								size = { 25 25 }
 								alpha = 0.7
@@ -1072,6 +1081,7 @@ widget = {
 
 					button_group = {
 						onclick = "[FrontEndMainView.OnSettings]"
+						shortcut = "menu_10"
 
 						flowcontainer = {
 							spacing = 5

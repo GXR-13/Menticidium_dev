@@ -11,7 +11,7 @@ lu = {
 ###Noble dynasties of Dwilia
 #Kingdom of Bokojowa
 kramenski = {#Historical ruling dynasty of Bokojowa, One of the three houses
-	name = dynn_kamenski
+	name = dynn_kramenski
 	culture = bokojowish
 }
 

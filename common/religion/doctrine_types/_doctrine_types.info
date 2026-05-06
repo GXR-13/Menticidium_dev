@@ -1,41 +1,102 @@
-Faith doctrines are what defines how a faith works. All unique faith mechanics are tied to doctrines, rather than involving hardcoding or special parameters on the religion itself.
+﻿### Brief: key ( database key )
+# Name of 'doctrine_type'
+# Faith doctrines are what defines how a faith works. All unique faith mechanics are tied to doctrines, rather than involving hardcoding or special parameters on the religion itself.
+#
+key = {
+	### Brief: icon ( optional string )
+	# To override which icon is used, set its filename here (without file ending).
+	# Required path = DOCTRINE_TYPE_ICON_PATH
+	# Default: Will look for icon in the path with the same name as key
+	#
+	icon = "filename"
 
-== Structure ==
-doctrine_group_key = { # The key will be used for the doctrine icon, combined with the path in the define FAITH_DOCTRINE_ICON_PATH
-	name = dynamic description	# Optional. If not specified, the loc key "doctrine_group_key_name" will be used
-	grouping = "key"			# GUI grouping
-	
-	is_available_on_create = {} # When should this doctrine group be shown when choosing doctrines? If not shown, the group will go away entirely on create if present on the old faith
-	number_of_picks = 3			# How many doctrines within the group does the player get to choose? Defaults to 1. The UI will ensure no duplicates
-	
-	doctrine_key = {
-		name = dynamic description	# Optional. If not specified, the loc key "doctrine_key_name" will be used
-		desc = dynamic description	# Optional. If not specified, the loc key "doctrine_key_desc" will be used
-		visible = yes/no 			# Should be shown on the religion interface
-		parameters = {
-			param_name = yes/no 	# Parameters can take bools
-			param_name = 0.5		# Or fixed point numbers
-		}
-		piety_cost = script value	# How much piety will it cost?
-		
-		is_shown = {} 				# When should this doctrine be shown when choosing doctrines?
-		can_pick = {} 				# When can this doctrine be picked when choosing doctrines?
-		# When doctrines should refer to other selected doctrines when creating a new faith (e.g. for mutually exclusive doctrines), use:
-		#	 flag:required_doctrine = { is_in_list = selected_doctrines }
-		# The "selected_doctrines" list is the list of doctrines currently selected in the UI. (It might be different from the doctrines in
-		# the faith, since the player can change multiple doctrines when creating a faith.)
-		
-		character_modifier = {}		# All characters of this faith get this modifier
-		doctrine_character_modifier = { # All characters of this faith get this modifier if the faith also has the specified doctrine
-			doctrine = ...
-			...
-		}
+	### brief: name ( optional dynamic description )
+	# Dynamic description selecting name of doctrine.
+	# Defaults to: <doctrine_key> + "_name"
+	#
+	# Supported scope:
+	#	root ( Faith )
+	#
+	name = { ... }
 
-		traits = { ... }			# Adds additional sins/virtues. See traits in _religions.info. If a trait is already a sin or virtue in the religion, the doctrine takes precedence.
+	### brief: desc ( optional dynamic description )
+	# Dynamic description selecting description of doctrine.
+	# Defaults to: <doctrine_key> + "_desc"
+	#
+	# Supported scopes:
+	#	root ( Faith )
+	#
+	desc = { ... }
+
+	### brief: visible ( bool )
+	# Will this doctrine show up in gui views?
+	# Defaults to: yes
+	#
+	visible = yes/no
+
+	### Brief: parameters ( parameter list )
+	# Arbitrary parameters where bool types can be checked with the trigger: 'has_doctrine_parameter'
+	# 
+	# Note: The above trigger just checks for existence, so it does not
+	# matter if the value is set to 'yes' or 'no'.
+	#
+	parameters = {
+		param_name = yes/no 	# Parameters can take bools
+		param_name = 0.5		# Or fixed point numbers
 	}
-}
 
-All scopes have the player's faith as root
+	### Brief: piety_cost ( optional scripted cost )
+	# How much does this doctrine cost?
+	#
+	piety_cost = {
+		<scripted_cost>
+	}
+
+	### Brief: is_shown ( trigger )
+	# When should this doctrine be shown when choosing doctrines?
+	#
+	# Supported scopes:
+	#	root ( Faith )
+	#
+	is_shown = {
+		<triggers>
+	}
+
+	### Brief: can_pick ( trigger )
+	# When can this doctrine be picked when choosing doctrines?
+	# When doctrines should refer to other selected doctrines when creating a new faith (e.g. for mutually exclusive doctrines), use:
+	#	 flag:required_doctrine = { is_in_list = selected_doctrines }
+	# The "selected_doctrines" list is the list of doctrines currently selected in the UI. (It might be different from the doctrines in
+	# the faith, since the player can change multiple doctrines when creating a faith.)
+	#
+	# Supported scopes:
+	#	root ( Faith )
+	#
+	can_pick = {
+		<triggers>
+	}
+
+	### Brief: character_modifier ( modifiers )
+	# All characters of this faith get this modifier.
+	# Ex: { monthly_piety_gain_mult = -0.25, same_faith_opinion = -5 }
+	#
+	character_modifier = {
+		<modifier>
+	}
+
+	### Brief: doctrine_character_modifier ( modifiers )
+	# All characters of this faith get this modifier if the faith also has the specified doctrine.
+	#
+	doctrine_character_modifier = {
+		doctrine = ...
+		...
+	}
+
+	### Brief: traits ( database keys )
+	# Adds additional sins/virtues. See traits in _religions.info. If a trait is already a sin or virtue in the religion, the doctrine takes precedence.
+	#
+	traits = { ... }
+}
 
 == Special parameters ==
 Many parameters interact directly with the code. This is a list of all such parameters.
@@ -75,9 +136,8 @@ The name of each hostility level is defined by the define HOSTILITY_LEVEL_NAMES
 Hostility level can be accessed in script. E.G., faith_hostility_level = { target = scope:some_faith value >= 1 }.
 You can also compare to see which faith you're most hostile to. E.G., faith_hostility_level_comparison = { scope:some_faith > scope:some_other_faith }
 
-
 == Precedence ==
-Order of definition; earlier definition, higher precedence.
+Order of definition; later definition, higher precedence.
 
 == Localisation ==
 Effects are localized based on the parameter name. "doctrine_parameter_" plus the name. If the value is "no", that plus "_disabled" will be used. If an integer is used, the game will try to append that integer (E.G., "_1"), and use that loc key. If the key doesn't exist, then the int does not get appended.
