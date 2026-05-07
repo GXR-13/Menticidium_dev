@@ -56,13 +56,13 @@ language_inner_southern_hirian = {#Interie Common
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_southern_hirian
+			LANGUAGE = language_inner_southern_hirian
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_southern_hirian }
+			limit = { has_cultural_pillar = language_inner_southern_hirian }
 			multiply = 10
 		}
 	}
@@ -98,7 +98,7 @@ language_coastal_dorian = {
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_costal_dorian }
+			limit = { has_cultural_pillar = language_coastal_dorian }
 			multiply = 10
 		}
 	}
@@ -182,7 +182,7 @@ language_upper_ludian = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_dolny_ludian
+			LANGUAGE = language_upper_ludian
 		}
 	}
 	ai_will_do = {
