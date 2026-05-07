@@ -1,7 +1,7 @@
 ﻿#留西亚地区
 Reussia_1 = {
 	name = "Abel" #埃布尔·卡隆
-	culture = south_hirian
+	culture = southhirian
 	religion = imperial_verita
 	dynasty = carlon
 	698.2.1 = { birth = yes }
@@ -9,7 +9,7 @@ Reussia_1 = {
 
 Reussia_2 = {
 	name = "Alphonse" #阿方斯·马尔利
-	culture = high_hirian
+	culture = highhirian
 	dynasty = marley
 	religion = imperial_verita
 	698.2.1 = { birth = yes }
@@ -25,7 +25,7 @@ Reussia_3 = {
 
 Reussia_4 = {
 	name = "Christophe" #克里斯托夫·崔森
-	culture = south_hirian
+	culture = southhirian
 	religion = imperial_verita
 	dynasty = trathairn
 	698.2.1 = { birth = yes }
@@ -65,35 +65,35 @@ Reussia_13 = {
 
 #Reussia_10 = {
 #	name = "Serge" #塞尔日·罗什
-#	culture = high_hirian
+#	culture = highhirian
 #	religion = imperial_verita
 #	698.2.1 = { birth = yes }
 #}
 
 #Reussia_11 = {
 #	name = "Thierry" #蒂埃里·马亚尔
-#	culture = high_hirian
+#	culture = highhirian
 #	religion = imperial_verita
 #	698.2.1 = { birth = yes }
 #}
 
 #Reussia_12 = {
 #	name = "Wilfred" #威尔弗雷德·康斯
-#	culture = high_hirian
+#	culture = highhirian
 #	religion = imperial_verita
 #	698.2.1 = { birth = yes }
 #}
 
 #Reussia_7 = {
 #	name = "Joël" #乔埃尔·迪尔波利
-#	culture = high_hirian
+#	culture = highhirian
 #	religion = imperial_verita
 #	698.2.1 = { birth = yes }
 #}
 
 #Reussia_5 = {
 #	name = "Gérard" #杰拉尔德·桑迪拿
-#	culture = high_hirian
+#	culture = highhirian
 #	religion = imperial_verita
 #	698.2.1 = { birth = yes }
 #}

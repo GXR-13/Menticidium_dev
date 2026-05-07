@@ -1,7 +1,7 @@
 ﻿#德约瓦地区
 Dejois_1 = {
 	name = "leo" #莱奥·塔西梅
-	culture = high_hirian
+	culture = highhirian
 	religion = imperial_verita
 	dynasty = tacimer
 	698.2.1 = { birth = yes }
@@ -9,7 +9,7 @@ Dejois_1 = {
 
 Dejois_2 = {
 	name = "Mahel" #马埃尔·高利
-	culture = high_hirian
+	culture = highhirian
 	religion = imperial_verita
 	dynasty = gawley
 	698.2.1 = { birth = yes }
@@ -34,7 +34,7 @@ Dejois_4 = {
 
 Dejois_5 = {
 	name = "Marceau" #马尔索·西里兰
-	culture = south_hirian
+	culture = southhirian
 	religion = imperial_verita
 	dynasty = sirrland
 	698.2.1 = { birth = yes }

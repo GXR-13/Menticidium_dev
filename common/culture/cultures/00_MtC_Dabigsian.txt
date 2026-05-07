@@ -1,6 +1,6 @@
 #Varaparian
 varaparian = {
-	color = RGB{ 40 215 205 }
+	color = rgb{ 40 215 205 }
 	
 	ethos = ethos_spiritual
 	heritage = heritage_dabigsian
@@ -11,9 +11,9 @@ varaparian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 1.0 1.0 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_latgalian

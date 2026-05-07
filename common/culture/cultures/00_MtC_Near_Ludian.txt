@@ -1,6 +1,6 @@
 #Noszian
 noszian = {
-	color = RGB{ 226 76 54 }
+	color = rgb{ 226 76 54 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_near_ludian
@@ -11,9 +11,9 @@ noszian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 1.0 1.0 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_pommeranian
@@ -32,7 +32,7 @@ noszian = {
 }
 #Ptaskan
 ptaskan = {
-	color = RGB{ 232 116 111 }
+	color = rgb{ 232 116 111 }
 	
 	ethos = ethos_communal
 	heritage = heritage_near_ludian
@@ -42,9 +42,9 @@ ptaskan = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_polish
@@ -63,7 +63,7 @@ ptaskan = {
 }
 #Iowician
 iowician = {
-	color = RGB{ 216 87 36 }
+	color = rgb{ 216 87 36 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_near_ludian
@@ -73,9 +73,9 @@ iowician = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_serbian
@@ -94,7 +94,7 @@ iowician = {
 }
 #Bokojowish
 bokojowish = {
-	color = RGB{ 232 161 69 }
+	color = rgb{ 232 161 69 }
 	
 	ethos = ethos_egalitarian
 	heritage = heritage_near_ludian
@@ -104,9 +104,9 @@ bokojowish = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_czech

@@ -1,10 +1,10 @@
 #ancient Hirian(Occidian)
 
 #High Hirian
-high_hirian = {
-	color = RGB{ 236 231 231 }
+highhirian = {
+	color = rgb{ 236 231 231 }
 	created = 0.1.1
-	parents = { unknown1 }#diverged from ancient Hirian, also known as Occidian
+	parents = { unknowna }#diverged from ancient Hirian, also known as Occidian
 	
 	ethos = ethos_bureaucratic
 	heritage = heritagh_Hirian
@@ -15,9 +15,9 @@ high_hirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_english
@@ -36,10 +36,10 @@ high_hirian = {
 }
 
 #North Hirian
-north_hirian = {
-	color = RGB{ 178 188 172 }
+northhirian = {
+	color = rgb{ 178 188 172 }
 	created = 0.1.1
-	parents = { manian high_hirian }#merged from ancient Manian and High Hirian
+	parents = { manian highhirian }#merged from ancient Manian and High Hirian
 	
 	ethos = ethos_stoic
 	heritage = heritagh_Hirian
@@ -50,9 +50,9 @@ north_hirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_german
@@ -71,10 +71,10 @@ north_hirian = {
 }
 
 #South Hirian
-south_hirian = {
-	color = RGB{ 193 172 179 }
+southhirian = {
+	color = rgb{ 193 172 179 }
 	created = 0.1.1
-	parents = { old_banlian high_hirian }#merged from ancient Banlian and High Hirian
+	parents = { oldbanlian highhirian }#merged from ancient Banlian and High Hirian
 	
 	ethos = ethos_courtly
 	heritage = heritagh_Hirian
@@ -85,9 +85,9 @@ south_hirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_late_norman
@@ -106,10 +106,10 @@ south_hirian = {
 }
 
 #Green Hirian
-green_hirian = {
-	color = RGB{ 142 157 153 }
+greenhirian = {
+	color = rgb{ 142 157 153 }
 	created = 1.1.1
-	parents = { frindi high_hirian }#Assimilated Fridi
+	parents = { frindi highhirian }#Assimilated Fridi
 	
 	ethos = ethos_spiritual
 	heritage = heritagh_Hirian
@@ -120,9 +120,9 @@ green_hirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_english
@@ -142,9 +142,9 @@ green_hirian = {
 
 #Concordian
 concordian = { 
-	color = RGB{ 128 128 128 }
+	color = rgb{ 128 128 128 }
 	created = 1.1.1
-	parents = { unknown1 }#ancient Hirian
+	parents = { unknowna }#ancient Hirian
 	
 	ethos = ethos_communal
 	heritage = heritagh_Hirian
@@ -155,9 +155,9 @@ concordian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_english
@@ -177,9 +177,9 @@ concordian = {
 
 #Leaguemen
 leaguemen = { 
-	color = RGB{ 161 161 161 }
+	color = rgb{ 161 161 161 }
 	created = 562.1.1
-	parents = { unknown1 unknown2 }#concordian and 'various cultures'
+	parents = { unknowna unknownb }#concordian and 'various cultures'
 	
 	ethos = ethos_egalitarian
 	heritage = heritagh_Hirian
@@ -190,9 +190,9 @@ leaguemen = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_english

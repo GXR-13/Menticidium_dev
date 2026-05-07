@@ -1,6 +1,6 @@
 #Ancient Banlian
-old_banlian = {
-	color = RGB{ 177 54 121 }
+oldbanlian = {
+	color = rgb{ 177 54 121 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_banlian
@@ -11,9 +11,9 @@ old_banlian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_frankish
@@ -33,9 +33,9 @@ old_banlian = {
 
 #Modern Banlian
 banlian = {
-	color = RGB{ 186 54 100 }
+	color = rgb{ 186 54 100 }
 	created = 0.1.1
-	parents = { old_banlian high_hirian }#barbarians got civilized
+	parents = { oldbanlian highhirian }#barbarians got civilized
 
 	ethos = ethos_courtly
 	heritage = heritage_banlian
@@ -46,9 +46,9 @@ banlian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_french
@@ -68,9 +68,9 @@ banlian = {
 
 #Platian
 platian = {
-	color = RGB{ 154 68 101 }
+	color = rgb{ 154 68 101 }
 	created = 0.1.1
-	parents = { old_banlian }#barbarians got civilized in a different flavor
+	parents = { oldbanlian }#barbarians got civilized in a different flavor
 
 	ethos = ethos_egalitarian
 	heritage = heritage_banlian
@@ -81,9 +81,9 @@ platian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_french
@@ -103,7 +103,7 @@ platian = {
 
 #Gollois
 gollois = {
-	color = RGB{ 151 114 134 }
+	color = rgb{ 151 114 134 }
 	created = 250.1.1
 	parents = { banlian gollowynian }#now the went to civilize others
 
@@ -116,9 +116,9 @@ gollois = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_breton
@@ -138,9 +138,9 @@ gollois = {
 
 #Suditish
 suditish = {
-	color = RGB{ 189 107 138 }
+	color = rgb{ 189 107 138 }
 	created = 100.1.1
-	parents = { banlian high_hirian }#you can always be more hirian
+	parents = { banlian highhirian }#you can always be more hirian
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_banlian
@@ -151,9 +151,9 @@ suditish = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_french
@@ -173,9 +173,9 @@ suditish = {
 
 #Cotier
 cotier = {
-	color = RGB{ 191 81 103 }
+	color = rgb{ 191 81 103 }
 	created = 100.1.1
-	parents = { platian ancient_dorian }#they went too far south
+	parents = { platian ancientdorian }#they went too far south
 	
 	ethos = ethos_communal
 	heritage = heritage_banlian
@@ -186,9 +186,9 @@ cotier = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_occitan

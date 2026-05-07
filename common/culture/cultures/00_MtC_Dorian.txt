@@ -1,6 +1,6 @@
 #ancient_Dorian
-ancient_dorian = {
-    color = RGB{ 159 25 112 }
+ancientdorian = {
+    color = rgb{ 159 25 112 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_dorian
@@ -11,9 +11,9 @@ ancient_dorian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_roman
@@ -30,9 +30,9 @@ ancient_dorian = {
 
 #Littorian
 littorian = {
-	color = RGB{ 143 35 174 }
+	color = rgb{ 143 35 174 }
 	created = 0.1.1
-	parents = { ancient_dorian }#sea people
+	parents = { ancientdorian }#sea people
 
 	ethos = ethos_spiritual
 	heritage = heritage_dorian
@@ -43,9 +43,9 @@ littorian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_sicilian
@@ -62,9 +62,9 @@ littorian = {
 
 #Cisfreddian
 cisfreddian = {
-	color = RGB{ 192 98 172 }
+	color = rgb{ 192 98 172 }
 	created = 0.1.1
-	parents = { platian ancient_dorian }#influenced by the empire
+	parents = { platian ancientdorian }#influenced by the empire
 
 	ethos = ethos_courtly
 	heritage = heritage_dorian
@@ -75,9 +75,9 @@ cisfreddian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_lombard
@@ -94,9 +94,9 @@ cisfreddian = {
 
 #Transfreddian
 transfreddian = {
-	color = RGB{ 207 32 170 }
+	color = rgb{ 207 32 170 }
 	created = 0.1.1
-	parents = { ancient_dorian }#land people
+	parents = { ancientdorian }#land people
 
 	ethos = ethos_communal
 	heritage = heritage_dorian
@@ -107,9 +107,9 @@ transfreddian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_cisalpine
@@ -126,9 +126,9 @@ transfreddian = {
 
 #Migrarian
 migrarian = {
-	color = RGB{ 201 52 255 }
+	color = rgb{ 201 52 255 }
 	created = 0.1.1
-	parents = { ancient_dorian }#to the East, cowboys!
+	parents = { ancientdorian }#to the East, cowboys!
 
 	ethos = ethos_bellicose
 	heritage = heritage_dorian
@@ -139,9 +139,9 @@ migrarian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_placeholdera
+		tradition_placeholderb
+		tradition_placeholderc
 	}
 	
 	name_list = name_list_sardinian

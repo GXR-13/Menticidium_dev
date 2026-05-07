@@ -1,7 +1,7 @@
 ﻿Dulhecht_1 = {#  
     name = "Thomas"
     religion = imperial_verita
-    culture = high_hirian
+    culture = highhirian
     dynasty = rosh
     689.5.12 = {
         birth = yes
@@ -22,7 +22,7 @@ Dulhecht_2 = {#
 Dulhecht_3 = {#  
     name = "Herman"
     religion = imperial_verita
-    culture = north_hirian
+    culture = northhirian
     dynasty = voler
     694.5.22 = {
         birth = yes

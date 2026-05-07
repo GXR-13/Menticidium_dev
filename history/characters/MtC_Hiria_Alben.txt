@@ -2,7 +2,7 @@
     name = "Richenda"
     female = yes
     religion = imperial_verita
-    culture = high_hirian
+    culture = highhirian
     dynasty = norr
     700.2.25 = {
         birth = yes
@@ -22,7 +22,7 @@ Alben_2 = {#
 Alben_3 = {# 
     name = "Gerlach"
     religion = imperial_verita
-    culture = north_hirian
+    culture = northhirian
     dynasty = von_grasse
     714.3.10 = {
         birth = yes
