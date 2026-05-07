@@ -7,6 +7,9 @@ manian = {
 	language = language_nothern_hirian #should be ancient language
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -38,6 +41,9 @@ zurunnish = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -70,6 +76,9 @@ gronlander = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -102,6 +111,9 @@ weisslander = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -134,6 +146,9 @@ fretian = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -166,6 +181,9 @@ zuidlander = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -198,6 +216,9 @@ albennian = {
 	language = language_nothern_hirian 
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -230,6 +251,9 @@ ostlander = {
 	language = language_nothern_hirian #The bastardized language of Ostlanders
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

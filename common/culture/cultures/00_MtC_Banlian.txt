@@ -7,6 +7,9 @@ old_banlian = {
 	language = language_inner_southern_hirian #should be an old language instead
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -39,6 +42,9 @@ banlian = {
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -71,6 +77,9 @@ platian = {
 	language = language_outer_southern_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -103,6 +112,9 @@ gollois = {
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -135,6 +147,9 @@ suditish = {
 	language = language_inner_southern_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
@@ -167,6 +182,9 @@ cotier = {
 	language = language_outer_southern_hirian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_03
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2

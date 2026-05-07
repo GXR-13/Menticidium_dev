@@ -7,6 +7,9 @@ varaparian = {
 	language = language_dabigsian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 	traditions = {
 		tradition_placeholder1
 		tradition_placeholder2
