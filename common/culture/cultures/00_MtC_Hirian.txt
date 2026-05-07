@@ -1,4 +1,4 @@
-#ancient Hirian(Occidian)
+﻿#ancient Hirian(Occidian)
 
 #High Hirian
 highhirian = {
@@ -15,9 +15,7 @@ highhirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_english
@@ -50,9 +48,7 @@ northhirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_german
@@ -85,9 +81,7 @@ southhirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_late_norman
@@ -120,9 +114,7 @@ greenhirian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_english
@@ -155,9 +147,7 @@ concordian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_english
@@ -190,9 +180,7 @@ leaguemen = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_english

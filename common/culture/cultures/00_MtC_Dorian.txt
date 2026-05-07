@@ -1,4 +1,4 @@
-#ancient_Dorian
+﻿#ancient_Dorian
 ancientdorian = {
     color = rgb{ 159 25 112 }
 	
@@ -11,9 +11,7 @@ ancientdorian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_roman
@@ -43,9 +41,7 @@ littorian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_sicilian
@@ -75,9 +71,7 @@ cisfreddian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_lombard
@@ -107,9 +101,7 @@ transfreddian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_cisalpine
@@ -139,9 +131,7 @@ migrarian = {
 	house_coa_mask_offset = { 0.0 0.11 }
 	house_coa_mask_scale = { 0.85 0.85 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_sardinian

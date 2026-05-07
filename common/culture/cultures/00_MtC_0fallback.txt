@@ -1,4 +1,4 @@
-#Ancient Therosian
+﻿#Ancient Therosian
 ancienttherosian = {
 	color = rgb { 18 172 47 }
 	
@@ -11,9 +11,7 @@ ancienttherosian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_gaelic
@@ -43,9 +41,7 @@ unknowna = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 
 	name_list = name_list_cornish
@@ -77,9 +73,7 @@ unknownb = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 		
 	name_list = name_list_pictish

@@ -1,4 +1,4 @@
-#Ancient Banlian
+﻿#Ancient Banlian
 oldbanlian = {
 	color = rgb{ 177 54 121 }
 	
@@ -11,9 +11,7 @@ oldbanlian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_frankish
@@ -46,9 +44,7 @@ banlian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_french
@@ -81,9 +77,7 @@ platian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_french
@@ -116,9 +110,7 @@ gollois = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_breton
@@ -151,9 +143,7 @@ suditish = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_french
@@ -186,9 +176,7 @@ cotier = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_occitan

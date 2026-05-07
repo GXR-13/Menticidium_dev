@@ -13,7 +13,7 @@
 		}
 	}
 	
-	color = RGB {185 185 185}
+	color = rgb {185 185 185}
 }
 
 language_court_hirian = {
@@ -31,7 +31,7 @@ language_court_hirian = {
 		}
 	}
 	
-	color = RGB {236 231 231}
+	color = rgb {236 231 231}
 }
 
 language_nothern_hirian = {
@@ -49,7 +49,7 @@ language_nothern_hirian = {
 		}
 	}
 	
-	color = RGB {70 125 27}
+	color = rgb {70 125 27}
 }
 
 language_inner_southern_hirian = {#Interie Common
@@ -67,7 +67,7 @@ language_inner_southern_hirian = {#Interie Common
 		}
 	}
 	
-	color = RGB {162 52 89}
+	color = rgb {162 52 89}
 }
 
 language_outer_southern_hirian = {#Exterie Common
@@ -85,7 +85,7 @@ language_outer_southern_hirian = {#Exterie Common
 		}
 	}
 	
-	color = RGB {136 60 85}
+	color = rgb {136 60 85}
 }
 
 language_coastal_dorian = {
@@ -103,7 +103,7 @@ language_coastal_dorian = {
 		}
 	}
 	
-	color = RGB {159 70 185}
+	color = rgb {159 70 185}
 }
 
 language_inland_dorian = {
@@ -121,7 +121,7 @@ language_inland_dorian = {
 		}
 	}
 	
-	color = RGB {190 37 158}
+	color = rgb {190 37 158}
 }
 
 language_gollowynian = {
@@ -139,7 +139,7 @@ language_gollowynian = {
 		}
 	}
 	
-	color = RGB {16 181 109}
+	color = rgb {16 181 109}
 }
 
 language_frindian = {
@@ -157,7 +157,7 @@ language_frindian = {
 		}
 	}
 	
-	color = RGB {59 209 130}
+	color = rgb {59 209 130}
 }
 
 language_dabigsian = {
@@ -175,7 +175,7 @@ language_dabigsian = {
 		}
 	}
 	
-	color = RGB {4 81 255}
+	color = rgb {4 81 255}
 }
 
 language_upper_ludian = {
@@ -193,7 +193,7 @@ language_upper_ludian = {
 		}
 	}
 	
-	color = RGB {224 82 76}
+	color = rgb {224 82 76}
 }
 
 language_lower_ludian = {
@@ -211,7 +211,7 @@ language_lower_ludian = {
 		}
 	}
 	
-	color = RGB {224 82 76}
+	color = rgb {224 82 76}
 }
 
 language_valley_ludian = {
@@ -229,7 +229,7 @@ language_valley_ludian = {
 		}
 	}
 	
-	color = RGB {232 152 48}
+	color = rgb {232 152 48}
 }
 
 language_eastern_di = {#翟
@@ -247,7 +247,7 @@ language_eastern_di = {#翟
 		}
 	}
 	
-	color = RGB {230 199 93}
+	color = rgb {230 199 93}
 }
 
 language_eastern_li = {#离
@@ -265,5 +265,5 @@ language_eastern_li = {#离
 		}
 	}
 	
-	color = RGB {215 191 127}
+	color = rgb {215 191 127}
 }

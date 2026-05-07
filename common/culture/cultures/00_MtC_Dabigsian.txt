@@ -1,4 +1,4 @@
-#Varaparian
+﻿#Varaparian
 varaparian = {
 	color = rgb{ 40 215 205 }
 	
@@ -11,9 +11,7 @@ varaparian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 1.0 1.0 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_latgalian

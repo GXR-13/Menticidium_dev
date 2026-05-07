@@ -1,4 +1,4 @@
-#Easterner of Di
+﻿#Easterner of Di
 guanghai = {
 	color = rgb{ 255 111 92 }
 	
@@ -9,9 +9,7 @@ guanghai = {
 	head_determination = head_determination_domain
 	house_coa_frame = house_china
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_han

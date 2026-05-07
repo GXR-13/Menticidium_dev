@@ -1,4 +1,4 @@
-#Noszian
+﻿#Noszian
 noszian = {
 	color = rgb{ 226 76 54 }
 	
@@ -11,9 +11,7 @@ noszian = {
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 1.0 1.0 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_pommeranian
@@ -42,9 +40,7 @@ ptaskan = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_polish
@@ -73,9 +69,7 @@ iowician = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_serbian
@@ -104,9 +98,7 @@ bokojowish = {
 	house_coa_frame = house_frame_21
 	house_coa_mask_offset = { 0.0 0.055 }
 	traditions = {
-		tradition_placeholdera
-		tradition_placeholderb
-		tradition_placeholderc
+		tradition_debug
 	}
 	
 	name_list = name_list_czech
