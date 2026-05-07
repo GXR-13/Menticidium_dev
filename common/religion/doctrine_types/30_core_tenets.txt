@@ -4190,13 +4190,13 @@ tenet_takamin = {
 #############################
 # MtC Placeholder Tenets 	#
 #############################
-tenet_MtC_placeholder_1 = {
+tenet_MtC_placeholder_a = {
 	icon = core_tenet_placeholder
 	is_shown = {
 		always = no
 	}
 	can_pick = {
-		always = no
+		always = yes
 	}
 
 	piety_cost = {
@@ -4211,13 +4211,13 @@ tenet_MtC_placeholder_1 = {
 
 }
 
-tenet_MtC_placeholder_2 = {
+tenet_MtC_placeholder_b = {
 	icon = core_tenet_placeholder
 	is_shown = {
 		always = no
 	}
 	can_pick = {
-		always = no
+		always = yes
 	}
 
 	piety_cost = {
@@ -4232,13 +4232,13 @@ tenet_MtC_placeholder_2 = {
 
 }
 
-tenet_MtC_placeholder_3 = {
+tenet_MtC_placeholder_c = {
 	icon = core_tenet_placeholder
 	is_shown = {
 		always = no
 	}
 	can_pick = {
-		always = no
+		always = yes
 	}
 
 	piety_cost = {

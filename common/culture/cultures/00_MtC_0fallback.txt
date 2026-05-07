@@ -4,7 +4,7 @@ ancienttherosian = {
 	
 	ethos = ethos_communal
 	heritage = heritage_hynian
-	language = language_goidelic
+	language = language_frindian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	house_coa_frame = house_frame_24
@@ -34,7 +34,7 @@ unknowna = {
 
 	ethos = ethos_stoic
 	heritage = heritage_hynian
-	language = language_brythonic
+	language = language_frindian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	house_coa_frame = house_frame_24
@@ -66,7 +66,7 @@ unknownb = {
 
 	ethos = ethos_bellicose
 	heritage = heritage_hynian
-	language = language_brythonic
+	language = language_frindian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	house_coa_frame = house_frame_24

@@ -6,6 +6,7 @@ tags={
 name="Menticidium_dev"
 replace_path="common/bookmark_portraits"
 replace_path="common/bookmarks"
+replace_path="common/culture/cultures"
 replace_path="common/landed_titles"
 replace_path="history/characters"
 replace_path="history/provinces"

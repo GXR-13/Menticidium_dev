@@ -235,9 +235,9 @@
 			holy_site = city_of_hiria
 
 			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_1
-			doctrine = tenet_MtC_placeholder_2
-			doctrine = tenet_MtC_placeholder_3
+			doctrine = tenet_MtC_placeholder_a
+			doctrine = tenet_MtC_placeholder_b
+			doctrine = tenet_MtC_placeholder_c
 		}
 		#圣义宗
 		#至正宗
