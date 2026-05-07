@@ -12,7 +12,7 @@ tradition_placeholder1 = {
 	can_pick_for_hybridization = { always = no }
 
 	parameters = {
-		
+		culture_can_raid_over_land_even_if_feudal = yes
 	}
 
 	cost = { prestige = 300000 }
@@ -34,7 +34,7 @@ tradition_placeholder2 = {
 	can_pick_for_hybridization = { always = no }
 
 	parameters = {
-		
+		culture_can_raid_at_sea_even_if_feudal_no_restrictions = yes
 	}
 
 	cost = { prestige = 300000 }
@@ -56,7 +56,7 @@ tradition_placeholder3 = {
 	can_pick_for_hybridization = { always = no }
 
 	parameters = {
-		
+		culture_can_raid_over_land_even_if_feudal_no_restrictions = yes
 	}
 
 	cost = { prestige = 300000 }
