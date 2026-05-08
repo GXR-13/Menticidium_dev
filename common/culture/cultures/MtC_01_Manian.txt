@@ -1,6 +1,6 @@
 #Ancient Manian
 manian = {
-	color = RGB{ 70 140 36 }
+	color = rgb{ 70 140 36 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_manian
@@ -30,7 +30,7 @@ manian = {
 
 #Zurunnish
 zurunnish = {
-	color = RGB{ 90 135 55 }
+	color = rgb{ 90 135 55 }
 	created = 0.1.1
 	parents = { manian }#diverged from ancient Manian
 	ethos = ethos_stoic
@@ -61,7 +61,7 @@ zurunnish = {
 
 #Gronlander
 gronlander = {
-	color = RGB{ 100 163 95 }
+	color = rgb{ 100 163 95 }
 	created = 0.1.1
 	parents = { zurunnish }#those who left the great woods
 
@@ -93,7 +93,7 @@ gronlander = {
 
 #Weisslander
 weisslander = {
-	color = RGB{ 163 196 130 }
+	color = rgb{ 163 196 130 }
 	created = 0.1.1
 	parents = { zurunnish gronlander }#in between greelanders and the stayed
 
@@ -125,7 +125,7 @@ weisslander = {
 
 #Fretian
 fretian = {
-	color = RGB{ 205 226 95 }
+	color = rgb{ 205 226 95 }
 	created = 0.1.1
 	parents = { manian }#western branch of manian tribes
 
@@ -157,7 +157,7 @@ fretian = {
 
 #Zuidlander
 zuidlander = {
-	color = RGB{ 198 205 113 }
+	color = rgb{ 198 205 113 }
 	created = 0.1.1
 	parents = { zurunnish fretian }#those who left the great woods, and went further west
 
@@ -189,7 +189,7 @@ zuidlander = {
 
 #Albennian
 albennian = {
-	color = RGB{ 179 234 139 }
+	color = rgb{ 179 234 139 }
 	created = 0.1.1
 	parents = { zurunnish unknown1 }#they went south and conquered some those long forgotten
 
@@ -221,7 +221,7 @@ albennian = {
 
 #Ostlander
 ostlander = {
-	color = RGB{ 203 204 172 }
+	color = rgb{ 203 204 172 }
 	created = 600.1.1
 	parents = { zurunnish unknown1 }#they went south and conquered some those long forgotten
 

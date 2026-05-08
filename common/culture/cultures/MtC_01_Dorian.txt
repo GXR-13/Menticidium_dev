@@ -1,6 +1,6 @@
 #ancient_Dorian
 ancient_dorian = {
-    color = RGB{ 159 25 112 }
+    color = rgb{ 159 25 112 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_dorian
@@ -27,7 +27,7 @@ ancient_dorian = {
 
 #Littorian
 littorian = {
-	color = RGB{ 143 35 174 }
+	color = rgb{ 143 35 174 }
 	created = 0.1.1
 	parents = { ancient_dorian }#sea people
 
@@ -56,7 +56,7 @@ littorian = {
 
 #Cisfreddian
 cisfreddian = {
-	color = RGB{ 192 98 172 }
+	color = rgb{ 192 98 172 }
 	created = 0.1.1
 	parents = { platian ancient_dorian }#influenced by the empire
 
@@ -85,7 +85,7 @@ cisfreddian = {
 
 #Transfreddian
 transfreddian = {
-	color = RGB{ 207 32 170 }
+	color = rgb{ 207 32 170 }
 	created = 0.1.1
 	parents = { ancient_dorian }#land people
 
@@ -114,7 +114,7 @@ transfreddian = {
 
 #Migrarian
 migrarian = {
-	color = RGB{ 201 52 255 }
+	color = rgb{ 201 52 255 }
 	created = 0.1.1
 	parents = { ancient_dorian }#to the East, cowboys!
 

@@ -1,6 +1,6 @@
 #Easterner of Di
 guanghai = {
-	color = RGB{ 255 111 92 }
+	color = rgb{ 255 111 92 }
 	
 	ethos = ethos_courtly
 	heritage = heritage_di

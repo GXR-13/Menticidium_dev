@@ -1,6 +1,6 @@
 #Frindi
 frindi = {
-	color = RGB{ 59 209 130}
+	color = rgb{ 59 209 130}
 	
 	ethos = ethos_spiritual
 	heritage = heritage_hynian
@@ -30,7 +30,7 @@ frindi = {
 
 #Gollowynian
 gollowynian = {
-	color = RGB{ 57 175 123 }
+	color = rgb{ 57 175 123 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_hynian
@@ -60,7 +60,7 @@ gollowynian = {
 
 #Rupnic
 rupnic = {
-	color = RGB{ 28 119 255 }
+	color = rgb{ 28 119 255 }
 	
 	ethos = ethos_egalitarian
 	heritage = heritage_hynian

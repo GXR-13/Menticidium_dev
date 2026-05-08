@@ -3,9 +3,12 @@ tags={
 	"Total Conversion"
 }
 name="Menticidium_dev"
+replace_path="common/bookmarks"
 replace_path="common/landed_titles"
 replace_path="common/province_terrain"
 replace_path="common/flavorization/00_flavorization.txt"
+replace_path="common/culture/cultures"
+replace_path="common/religion/religion_types"
 replace_path="history/characters"
 replace_path="history/provinces"
 replace_path="history/titles"

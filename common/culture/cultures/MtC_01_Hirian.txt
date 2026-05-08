@@ -2,7 +2,7 @@
 
 #High Hirian
 high_hirian = {
-	color = RGB{ 236 231 231 }
+	color = rgb{ 236 231 231 }
 	created = 0.1.1
 	parents = { unknown1 }#diverged from ancient Hirian, also known as Occidian
 	
@@ -34,7 +34,7 @@ high_hirian = {
 
 #North Hirian
 north_hirian = {
-	color = RGB{ 178 188 172 }
+	color = rgb{ 178 188 172 }
 	created = 0.1.1
 	parents = { manian high_hirian }#merged from ancient Manian and High Hirian
 	
@@ -66,7 +66,7 @@ north_hirian = {
 
 #South Hirian
 south_hirian = {
-	color = RGB{ 193 172 179 }
+	color = rgb{ 193 172 179 }
 	created = 0.1.1
 	parents = { old_banlian high_hirian }#merged from ancient Banlian and High Hirian
 	
@@ -98,7 +98,7 @@ south_hirian = {
 
 #Green Hirian
 green_hirian = {
-	color = RGB{ 142 157 153 }
+	color = rgb{ 142 157 153 }
 	created = 1.1.1
 	parents = { frindi high_hirian }#Assimilated Fridi
 	
@@ -130,7 +130,7 @@ green_hirian = {
 
 #Concordian
 concordian = { 
-	color = RGB{ 128 128 128 }
+	color = rgb{ 128 128 128 }
 	created = 1.1.1
 	parents = { unknown1 }#ancient Hirian
 	
@@ -162,7 +162,7 @@ concordian = {
 
 #Leaguemen
 leaguemen = { 
-	color = RGB{ 161 161 161 }
+	color = rgb{ 161 161 161 }
 	created = 562.1.1
 	parents = { unknown1 unknown2 }#concordian and 'various cultures'
 	

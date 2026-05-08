@@ -1,6 +1,6 @@
 #Varaparian
 varaparian = {
-	color = RGB{ 40 215 205 }
+	color = rgb{ 40 215 205 }
 	
 	ethos = ethos_spiritual
 	heritage = heritage_dabigsian
