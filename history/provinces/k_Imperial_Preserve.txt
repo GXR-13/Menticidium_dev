@@ -1,0 +1,181 @@
+#k_Imperial_Preserve
+##d_Imperial_Preserve_1
+###c_Imperial_Preserve_1_2
+185 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+189 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+190 = {
+    culture = suditish
+    holding = castle_holding
+    religion = imperial_verita
+}
+191 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_1_1
+186 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+187 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+188 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_1_4
+193 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+194 = {
+    culture = suditish
+    holding = castle_holding
+    religion = imperial_verita
+}
+198 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+199 = {
+    culture = suditish
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_1_3
+197 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+206 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+207 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+##d_Imperial_Preserve_2
+###c_Imperial_Preserve_2_5
+192 = {
+    culture = albennian
+    holding = none
+    religion = imperial_verita
+}
+195 = {
+    culture = albennian
+    holding = castle_holding
+    religion = imperial_verita
+}
+202 = {
+    culture = albennian
+    holding = none
+    religion = imperial_verita
+}
+203 = {
+    culture = albennian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_2_1
+196 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+212 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+214 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_2_2
+200 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+205 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+208 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+209 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_2_4
+201 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+204 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+215 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+216 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+###c_Imperial_Preserve_2_3
+210 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+211 = {
+    culture = green_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+213 = {
+    culture = green_hirian
+    holding = none
+    religion = imperial_verita
+}
+

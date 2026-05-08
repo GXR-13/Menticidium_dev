@@ -68,7 +68,7 @@ grodija = {#Historical ruling dynasty of Sokowia
 ##Imperial Dynasties
 failin = { #Dynasty of old emperor Esmael
 	name = dynn_failin
-	culture = highhirian
+	culture = high_hirian
 }
 
 of_ryeland = { #A traditional family originated from weisshugel
@@ -90,7 +90,7 @@ mulden = { #A traditional trading family in Dulhecht
 
 voler = { #Local family in Middlesept
 	name = dynn_voler
-	culture = southhirian
+	culture = south_hirian
 }
 
 von_erfalen = { #Noble family originated from Weisshugel
@@ -101,7 +101,7 @@ von_erfalen = { #Noble family originated from Weisshugel
 
 henning = {
 	name = dynn_henning
-	culture = northhirian
+	culture = north_hirian
 }
 
 miller = {
@@ -122,7 +122,7 @@ cannon = {
 
 jung = {
 	name = dynn_jung
-	culture = highhirian
+	culture = high_hirian
 }
 
 yunian_kinhall = {
@@ -153,27 +153,27 @@ osten = {
 #Middlesept
 marley = {
 	name = dynn_marley
-	culture = highhirian
+	culture = high_hirian
 }
 
 prestre = {
 	name = dynn_prestre
-	culture = southhirian
+	culture = south_hirian
 }
 
 bloch = {
 	name = dynn_bloch
-	culture = northhirian
+	culture = north_hirian
 }
 
 norr = {
 	name = dynn_norr
-	culture = northhirian
+	culture = north_hirian
 }
 
 landar = {
 	name = dynn_landar
-	culture = northhirian
+	culture = north_hirian
 }
 
 #Imp_Preseerve
@@ -184,13 +184,13 @@ lear = {
 
 mayer = {
 	name = dynn_mayer
-	culture = northhirian
+	culture = north_hirian
 }
 
 #Intermark
 hayles = {
 	name = dynn_hayles
-	culture = greenhirian
+	culture = green_hirian
 }
 
 emlyn = {
@@ -200,12 +200,12 @@ emlyn = {
 
 perry = {
 	name = dynn_perry
-	culture = highhirian
+	culture = high_hirian
 }
 
 kylar = {
 	name = dynn_kylar
-	culture = highhirian
+	culture = high_hirian
 }
 
 #New League
@@ -319,7 +319,7 @@ kleine = {
 
 ryan = {
 	name = dynn_ryan
-	culture = highhirian
+	culture = high_hirian
 }
 
 sundre = {
@@ -329,18 +329,18 @@ sundre = {
 
 merrick = {
 	name = dynn_merrick
-	culture = northhirian
+	culture = north_hirian
 }
 
 #Dejois
 tacimer = {
 	name = dynn_tacimer
-	culture = highhirian
+	culture = high_hirian
 }
 
 gawley = {
 	name = dynn_gawley
-	culture = highhirian
+	culture = high_hirian
 }
 
 carlon = {
@@ -355,18 +355,18 @@ wade = {
 
 sirrland = {
 	name = dynn_sirrland
-	culture = southhirian
+	culture = south_hirian
 }
 
 #Reussia
 samreuss = {
 	name = dynn_samreuss
-	culture = southhirian
+	culture = south_hirian
 }
 
 trathairn = {
 	name = dynn_trathairn
-	culture = southhirian
+	culture = south_hirian
 }
 
 feller = {
@@ -388,12 +388,12 @@ landrey = {
 de_fango = {
 	prefix = dynnp_de
 	name = dynn_fango
-	culture = southhirian
+	culture = south_hirian
 }
 
 ramonda = {
 	name = dynn_ramonda
-	culture = southhirian
+	culture = south_hirian
 }
 
 gialla = {
@@ -404,18 +404,18 @@ gialla = {
 #Torquia
 calaway = {
 	name = dynn_calaway
-	culture = greenhirian
+	culture = green_hirian
 }
 
 manning = {
 	name = dynn_manning
-	culture = northhirian
+	culture = north_hirian
 }
 
 #Kiemlande
 lening = {
 	name = dynn_lening
-	culture = northhirian
+	culture = north_hirian
 }
 
 van_der_vahen = {
@@ -437,7 +437,7 @@ benz = {
 #Dulhecht
 rosh = {
 	name = dynn_rosh
-	culture = highhirian
+	culture = high_hirian
 }
 
 van_adant = {

@@ -1,0 +1,181 @@
+#k_Sowkovia
+##d_Sowkovia_2
+###c_Sowkovia_2_2
+1876 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1891 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1893 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1894 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_2_4
+1877 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1880 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1892 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_2_3
+1881 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1882 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1883 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1886 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_2_1
+1895 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1896 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1897 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1898 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+##d_Sowkovia_1
+###c_Sowkovia_1_5
+1878 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1879 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1885 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1887 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_1_4
+1884 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1900 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1904 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_1_1
+1888 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1889 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1890 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1902 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_1_2
+1899 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1901 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1903 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Sowkovia_1_3
+1905 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1906 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1907 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+

@@ -1,0 +1,4 @@
+﻿b_one = {
+  county = c_one
+  barony = b_one
+}

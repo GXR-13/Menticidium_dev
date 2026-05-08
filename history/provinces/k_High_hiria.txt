@@ -1,0 +1,112 @@
+#k_High_Hiria
+##d_High_Hiria_1
+###c_High_Hiria_1_3
+1 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+19 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+20 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+21 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+22 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+23 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+###c_High_Hiria_1_2
+24 = {
+    culture = north_hirian
+    holding = none
+    religion = imperial_verita
+}
+25 = {
+    culture = north_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+26 = {
+    culture = north_hirian
+    holding = none
+    religion = imperial_verita
+}
+27 = {
+    culture = north_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_High_Hiria_1_5
+28 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+29 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+30 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_High_Hiria_1_4
+31 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+33 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+36 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_High_Hiria_1_1
+32 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+34 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+35 = {
+    culture = high_hirian
+    holding = castle_holding
+    religion = imperial_verita
+}
+37 = {
+    culture = high_hirian
+    holding = none
+    religion = imperial_verita
+}
+

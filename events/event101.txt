@@ -1,0 +1,22 @@
+﻿namespace = example
+example.1 = {
+	desc = example.1.desc
+	
+	option = {
+		name = example.1.a
+		trigger_event = { 
+		id = example.2
+		days = { 1 7 }
+		}
+	}
+}
+
+example.2 = {
+	desc = " testblahblahblah "
+
+	option = {
+		name = example.2.a
+		add_gold = 75
+		add_piety = 100
+	}
+}

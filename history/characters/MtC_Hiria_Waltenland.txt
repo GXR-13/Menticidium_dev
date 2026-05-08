@@ -1,7 +1,7 @@
 ﻿Waltenland_1 = {# 
     name = "Fulcone"
     religion = imperial_verita
-    culture = southhirian
+    culture = south_hirian
     dynasty = gialla
     688.4.9 = {
         birth = yes

@@ -1,0 +1,311 @@
+#k_Old_League
+##d_Old_League_4
+###c_Old_League_4_3
+3 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+###c_Old_League_4_4
+38 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+42 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+###c_Old_League_4_1
+43 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+68 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+71 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+72 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_4_2
+69 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+70 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+73 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+##d_Old_League_3
+###c_Old_League_3_6
+39 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+40 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_3_5
+41 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+61 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+62 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_3_4
+44 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+45 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+60 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_3_1
+52 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+53 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+58 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_3_3
+54 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+55 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+56 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_3_2
+59 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+63 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+64 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+##d_Old_League_2
+###c_Old_League_2_3
+46 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+47 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+48 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+49 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+83 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_2_5
+74 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+75 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+76 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_2_4
+77 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+78 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+90 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_2_1
+82 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+85 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+86 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+87 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_2_2
+84 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+88 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+89 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+
+##d_Old_League_1
+###c_Old_League_1_1
+50 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+51 = {
+    culture = leaguemen
+    holding = castle_holding
+    religion = imperial_verita
+}
+57 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+65 = {
+    culture = leaguemen
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_1_3
+66 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+67 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+80 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+
+###c_Old_League_1_2
+79 = {
+    culture = concordian
+    holding = castle_holding
+    religion = imperial_verita
+}
+81 = {
+    culture = concordian
+    holding = none
+    religion = imperial_verita
+}
+

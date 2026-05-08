@@ -1,4 +1,0 @@
-﻿#6131 Julfar - Bedouin desert
-#6167 = 6131 # impassable desert
-#6173 = 6131 # impassable desert
-#6202 = 6131 # impassable desert

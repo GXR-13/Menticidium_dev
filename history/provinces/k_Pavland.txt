@@ -1,0 +1,192 @@
+#k_Pavland
+##d_Pavland_2
+###c_Pavland_2_1
+1839 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1840 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1841 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1842 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1843 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+
+##d_Pavland_3
+###c_Pavland_3_4
+1844 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1864 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1868 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Pavland_3_2
+1845 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1846 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1847 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1848 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1867 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Pavland_3_1
+1853 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1854 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1870 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1871 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Pavland_3_3
+1865 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1866 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1869 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1872 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+
+##d_Pavland_1
+###c_Pavland_1_2
+1849 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1850 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1862 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+
+###c_Pavland_1_1
+1851 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1852 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1858 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1859 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Pavland_1_3
+1855 = {
+    culture = ostlander
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1860 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+1861 = {
+    culture = ostlander
+    holding = none
+    religion = eastern_ritualism
+}
+
+###c_Pavland_1_4
+1856 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+1857 = {
+    culture = iowician
+    holding = castle_holding
+    religion = eastern_ritualism
+}
+1863 = {
+    culture = iowician
+    holding = none
+    religion = eastern_ritualism
+}
+

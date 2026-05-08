@@ -1,0 +1,42 @@
+blood_offering_decision = {
+    picture = decision_martial
+    desc = blood_offering_decision_desc
+    selection_tooltip = blood_offering_decision_tooltip
+    cooldown = { years = 1 }
+
+    major = yes
+    ai_target_filter = none
+
+    is_shown = {
+        is_adult = yes
+        has_trait = trait_brave # Optional: only brave people offer blood
+        faith = halvranism
+    }
+
+    is_valid = {
+        NOT = { has_character_modifier = blood_offering_cooldown }
+    }
+
+    effect = {
+        add_piety = 150
+        add_character_modifier = {
+            name = blood_offering_cooldown
+            duration = 365
+        }
+        add_character_modifier = {
+            name = tribal_fervor_buff
+            duration = 180
+        }
+        hidden_effect = {
+            narrative_event = { id = blood_offering.0001 }
+        }
+    }
+
+    ai_potential = {
+        faith = halvranism
+    }
+
+    ai_will_do = {
+        base = 50
+    }
+}
