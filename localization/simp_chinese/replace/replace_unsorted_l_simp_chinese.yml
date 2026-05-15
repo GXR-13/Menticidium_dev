@@ -5,6 +5,8 @@
  GAME_DATE_STRING_LONG: "$ERA$$YEAR$年$MONTH$$DAY|O$日"
  GAME_DATE_STRING_ERA_CE: "渎神后"
  GAME_DATE_STRING_ERA_BCE: "渎神前"
-
+ coastal_sea: "可航行水域"
+ sea: "可航行水域"
+ RIVER_PROVINCE_TOOLTIP: "#T [PROVINCE.GetName]#!\n主要河流或其他水域"
  
  
