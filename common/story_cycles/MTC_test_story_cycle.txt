@@ -1,0 +1,55 @@
+﻿story_ma_bowan_storyline_general = { #Used for the Scholarship progress event
+	visible = yes
+	icon = {
+		trigger = {
+			always = yes
+		}
+		reference = "gfx/interface/icons/artifact/artifact_chronicle.dds"
+	}
+	
+	visualization = {
+		custom_string_key = "story_ma_bowan_storyline_general_vis_desc"
+	}
+	on_setup = {
+	}
+
+	on_end = {
+	}
+
+	on_owner_death = {
+		end_story = yes
+	}
+
+	effect_group = {
+	}
+}
+
+story_markus_storyline_0 = { #Used for the Scholarship progress event
+	visible = yes
+	icon = {
+		trigger = {
+			always = yes
+		}
+		reference = "gfx/interface/icons/artifact/artefact_icons_unique_artifact_excalibur.dds"
+	}
+	
+	visualization = {
+		custom_string_key = "story_markus_storyline_0_vis_desc"
+		character = {
+			variable_name = "markus_storyline_0_enemy"
+			label = "marcus_story_enemy"
+		}
+	}
+	on_setup = {
+	}
+
+	on_end = {
+	}
+
+	on_owner_death = {
+		end_story = yes
+	}
+
+	effect_group = {
+	}
+}

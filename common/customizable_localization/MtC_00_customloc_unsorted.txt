@@ -76,6 +76,166 @@ gloss_eastern_war_dynamic = {
 	}
 }
 
+# GetMTCMonth = {
+# 	type = all
+# 	text = {
+# 		localization_key = mtc_date_month_1
+# 		trigger = {
+# 			current_month = 1
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_2
+# 		trigger = {
+# 			current_month = 2
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_3
+# 		trigger = {
+# 			current_month = 3
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_4
+# 		trigger = {
+# 			current_month = 4
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_5
+# 		trigger = {
+# 			current_month = 5
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_6
+# 		trigger = {
+# 			current_month = 6
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_7
+# 		trigger = {
+# 			current_month = 7
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_8
+# 		trigger = {
+# 			current_month = 8
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_9
+# 		trigger = {
+# 			current_month = 9
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_10
+# 		trigger = {
+# 			current_month = 10
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_11
+# 		trigger = {
+# 			current_month = 11
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_12
+# 		trigger = {
+# 			current_month = 12
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_null
+# 		fallback = yes
+# 	}
+# }
+
+# GetMTCMonthShort = {
+# 	type = all
+# 	text = {
+# 		localization_key = mtc_date_month_short_1
+# 		trigger = {
+# 			current_month = 1
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_2
+# 		trigger = {
+# 			current_month = 2
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_3
+# 		trigger = {
+# 			current_month = 3
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_4
+# 		trigger = {
+# 			current_month = 4
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_5
+# 		trigger = {
+# 			current_month = 5
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_6
+# 		trigger = {
+# 			current_month = 6
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_7
+# 		trigger = {
+# 			current_month = 7
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_8
+# 		trigger = {
+# 			current_month = 8
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_9
+# 		trigger = {
+# 			current_month = 9
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_10
+# 		trigger = {
+# 			current_month = 10
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_11
+# 		trigger = {
+# 			current_month = 11
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_12
+# 		trigger = {
+# 			current_month = 12
+# 		}
+# 	}
+# 	text = {
+# 		localization_key = mtc_date_month_short_null
+# 		fallback = yes
+# 	}
+# }
+
 # language_inner_southern_hirian_dynamic_name = {
 # 	type = all
 # 	text = {

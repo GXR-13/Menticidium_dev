@@ -1,0 +1,803 @@
+﻿namespace = MTC_test
+
+scripted_effect create_story_ma_bowan_storyline_general = {
+	create_story = {
+		type = story_ma_bowan_storyline_general
+		save_scope_as = story
+	}
+	random_owned_story = {
+		type = story_ma_bowan_storyline_general
+		save_scope_as = story_ma_bowan_storyline_general
+
+	}
+}
+
+scripted_effect create_story_markus_storyline_0 = {
+	create_story = {
+		type = story_markus_storyline_0
+		save_scope_as = story
+	}
+	random_owned_story = {
+		type = story_markus_storyline_0
+		save_scope_as = story_markus_storyline_0
+		character:Doria_Litorale_1001 = { save_scope_as = markus_enemy }
+
+		set_variable = {
+			name = markus_storyline_0_enemy
+			value = scope:markus_enemy
+		}
+	}
+}
+
+MTC_test.1 = {
+	desc = MTC_test.1.desc
+	
+	option = {
+		name = MTC_test.1.a
+		hidden_effect = {
+			every_ruler = {
+				if = {
+					limit = {
+						faith = faith:imperial_verita
+					}
+					set_character_faith = faith:old_universal_church
+				}
+				
+				every_courtier_or_guest = {
+					if = {
+						limit = {
+							faith = faith:imperial_verita
+						}
+						set_character_faith = faith:old_universal_church
+					}
+				}
+			}
+			every_in_list = {
+				list = pool_characters
+				if = {
+					limit = {
+						faith = faith:imperial_verita
+					}
+					set_character_faith = faith:old_universal_church
+				}
+			}
+			every_county = {
+				limit = { faith = faith:imperial_verita }
+				set_county_faith = faith:old_universal_church
+			}
+			title:k_Weisshugel.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Kiemlande.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Dulhecht.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Almaria.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_New_League.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Alben.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Reussia.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Dejois.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Intermark.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+			title:k_Aqueporta.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:new_universal_church
+				}
+			}
+		}
+		
+	}
+}
+
+MTC_test.2 = {
+	desc = MTC_test.2.desc
+
+	option = {
+		name = MTC_test.2.a
+		hidden_effect = {
+			title:d_Epine_3.holder = {
+				set_character_faith = faith:toozer_dix_dieux
+				every_sub_realm_county = {
+					set_county_faith = faith:toozer_dix_dieux
+				}
+			}
+			title:c_Epine_1_3 = {
+				set_county_faith = faith:toozer_dix_dieux
+			}
+			title:c_Epine_1_4 = {
+				set_county_faith = faith:toozer_dix_dieux
+			}
+			title:c_Epine_4_3 = {
+				set_county_faith = faith:toozer_dix_dieux
+			}
+			title:c_Epine_5_3 = {
+				set_county_faith = faith:toozer_dix_dieux
+			}
+
+			title:c_Gollowyn_1_4 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+			title:c_Gollowyn_2_4 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+			title:c_Gollowyn_2_3 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+			title:c_Gollowyn_5_1 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+			title:c_Gollowyn_4_4 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+			title:c_Gollowyn_1_1 = {
+				set_county_faith = faith:toozer_recuperism
+			}
+
+
+			title:k_New_League.holder = {
+				set_character_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_1_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_1_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_1_3 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_2_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_2_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_2_3 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_2_4 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_4_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_4_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Dulhecht_4_3 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Old_League_2_4 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Old_League_2_5 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Kiemlande_5_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Kiemlande_5_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Middlesept_4_4 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Middlesept_3_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:k_Aqueporta.holder = {
+				set_character_faith = faith:sacraborist_communion
+				every_sub_realm_county = {
+					set_county_faith = faith:sacraborist_communion
+				}
+			}
+			title:c_Torquia_2_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Torquia_2_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Torquia_2_3 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Torquia_4_1 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+			title:c_Torquia_4_2 = {
+				set_county_faith = faith:sacraborist_communion
+			}
+
+			title:c_Reussia_5_1 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Reussia_5_2 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Reussia_2_5 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Kollon_2_3 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Kollon_2_4 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Weisshugel_2_2 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Kiemlande_6_2 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Kiemlande_6_3 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Kiemlande_6_5 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Dulhecht_4_5 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Torquia_4_4 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Reussia_2_3 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Reussia_2_4 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Dejois_3_1 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Dejois_3_2 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+			title:c_Dejois_3_4 = {
+				set_county_faith = faith:cult_of_the_night
+			}
+
+			title:d_Sud_2.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Sud_1_3 = {
+				set_county_faith = petitionist_communion
+			}
+			title:c_Imperial_preserve_1_2.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Imperial_Preserve_2_2 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Imperial_Preserve_2_4 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:d_Intermark_1.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Intermark_2.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Intermark_5.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Epine_2_1 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Epine_1_1 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Epine_1_2 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_High_Hiria_1_2 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:d_Middlesept_1.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Middlesept_2.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Middlesept_5.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Waltenland_3.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Reussia_4_2.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Reussia_3_1.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Reussia_3_3 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Gollowyn_1_2 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Gollowyn_1_3 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Gollowyn_4_2 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:d_Dulhecht_5.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:d_Almaria_5.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:petitionist_communion
+				}
+			}
+			title:c_Almaria_6_1 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Almaria_4_4 = {
+				set_county_faith = faith:petitionist_communion
+			}
+			title:c_Almaria_4_3 = {
+				set_county_faith = faith:petitionist_communion
+			}
+
+			title:d_Waltenland_1.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:d_Waltenland_4.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:d_Waltenland_5.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:d_Waltenland_6.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:d_Weisshugel_1.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:d_Weisshugel_4.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:resurgenist_communion
+				}
+			}
+			title:c_Sud_1_1 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			title:c_Sud_1_2 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			title:c_Reussia_6_2 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			title:c_Sud_4_3 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			title:c_Sud_4_4 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			title:c_Sud_5_1 = {
+				set_county_faith = faith:resurgenist_communion
+			}
+			
+
+			title:c_Epine_2_2 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Epine_2_3 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Epine_4_4 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Epine_5_1 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Epine_5_2 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Sud_5_3 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+			title:c_Sud_5_4 = {
+				set_county_faith = faith:rebirthist_communion
+			}
+
+			title:c_Alben_1_2 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Alben_3_2 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Alben_3_3 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Alben_3_5 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Middlesept_4_1 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Middlesept_4_2 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_High_Hiria_1_1 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:d_Dejois_4.holder = {
+				every_sub_realm_county = {
+					set_county_faith = faith:millist_communion
+				}
+			}
+			title:c_Dejois_2_3 = {
+				set_county_faith = faith:millist_communion
+			}
+			title:c_Dejois_2_4 = {
+				set_county_faith = faith:millist_communion
+			}
+
+			title:c_Sud_5_2 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_2_2 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_2_3 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_2_4 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_1_1 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_1_3 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_1_4 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Alben_3_4 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Imperial_Preserve_2_5 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Middlesept_3_1 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Almaria_3_3 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Almaria_4_1 = {
+				set_county_faith = faith:marchist_communion
+			}
+			title:c_Almaria_4_2 = {
+				set_county_faith = faith:marchist_communion
+			}
+
+			title:c_Reussia_5_3 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:c_Reussia_5_4 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:c_Reussia_5_5 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:Sud_1_2 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:c_Sud_1_3 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:c_Sud_1_4 = {
+				set_county_faith = faith:purian_communion
+			}
+			title:c_Almaria_6_2 = {
+				set_county_faith = faith:purian_communion
+			}
+			
+			title:c_Reussia_2_2 = {
+				set_county_faith = faith:toozer_the_crossing
+			}
+			title:c_Old_League_3_3 = {
+				set_county_faith = faith:toozer_the_crossing
+			}
+		}
+		
+	}
+}
+
+MTC_test.3 = {
+	type = character_event
+	window = fullscreen_event
+	title = MTC_test.3.t
+	desc = MTC_test.3.desc
+	theme = realm
+	override_background = { reference = ep3_fullscreen_harrying_of_the_north }
+
+
+	option = {
+		name = MTC_test.3.a
+		
+	}
+}
+
+MTC_test.4 = {
+	desc = MTC_test.4.desc
+	
+	option = {
+		name = MTC_test.4.a
+		hidden_effect = {
+			create_story_ma_bowan_storyline_general = yes
+		}
+		
+	}
+}
+
+MTC_test.5 = {
+	desc = MTC_test.5.desc
+	
+	option = {
+		name = MTC_test.5.a
+		hidden_effect = {
+			create_story_markus_storyline_0 = yes
+		}
+		
+	}
+}
+
+namespace = MtC_test
+
+MtC_test.1 = {
+	type = character_event
+	title = MtC_test.1.t
+	desc = MtC_test.1.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.1.a
+		flavor = MtC_test.1.a.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 0
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+	
+	option = {
+		name = MtC_test.1.b
+		flavor = MtC_test.1.b.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 1
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+	
+	option = {
+		name = MtC_test.1.c
+		flavor = MtC_test.1.c.flavour
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 2
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+
+	option = {
+		name = MtC_test.1.d
+		flavor = MtC_test.1.d.flavour
+
+		trigger = {
+			debug_only = yes
+		}
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_long_lived_esmael_var
+				value = 4
+			}
+			trigger_event = MtC_test.2
+		}
+	}
+}
+
+MtC_test.2 = {
+	type = character_event
+	title = MtC_test.2.t
+	desc = MtC_test.2.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	# option = {
+	# 	name = MtC_test.2.a
+	# 	flavor = MtC_test.2.a.flavour
+	# 	scope:event_owner = {
+	# 		trigger_event = MtC_test.1
+	# 	}
+	# }
+
+	option = {
+		name = MtC_test.2.b
+		flavor = MtC_test.2.b.flavour
+		
+	}
+}
+
+MtC_test.3 = {
+	type = character_event
+	title = MtC_test.3.t
+	desc = MtC_test.3.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	option = {
+		name = MtC_test.3.a
+		flavor = MtC_test.3.a.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 0
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+	
+	option = {
+		name = MtC_test.3.b
+		flavor = MtC_test.3.b.flavour
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 1
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+	
+	option = {
+		name = MtC_test.3.c
+		flavor = MtC_test.3.c.flavour
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 2
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+
+	option = {
+		name = MtC_test.3.d
+		flavor = MtC_test.3.d.flavour
+
+		trigger = {
+			debug_only = yes
+		}
+
+		scope:event_owner = {
+			set_variable = {
+				name = knowledge_eastern_war_var
+				value = 3
+			}
+			trigger_event = MtC_test.4
+		}
+	}
+}
+
+MtC_test.4 = {
+	type = character_event
+	title = MtC_test.4.t
+	desc = MtC_test.4.desc
+	theme = learning
+
+	trigger = { is_alive = yes }
+
+	immediate = {
+		root = { save_scope_as = event_owner }
+	}
+
+	# option = {
+	# 	name = MtC_test.4.a
+	# 	flavor = MtC_test.4.a.flavour
+	# 	scope:event_owner = {
+	# 		trigger_event = MtC_test.3
+	# 	}
+	# }
+
+	option = {
+		name = MtC_test.4.b
+		flavor = MtC_test.4.b.flavour
+		
+	}
+}

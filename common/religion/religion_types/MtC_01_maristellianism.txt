@@ -229,5 +229,17 @@
 			doctrine = tenet_MtC_placeholder_b
 			doctrine = tenet_MtC_placeholder_c
 		}
+		cult_of_the_night = {
+			color = rgb { 68 68 118 }
+			icon = placeholder
+			
+
+			holy_site = city_of_hiria
+
+			#placeholder tenets
+			doctrine = tenet_MtC_placeholder_a
+			doctrine = tenet_MtC_placeholder_b
+			doctrine = tenet_MtC_placeholder_c
+		}
 	}
 }

@@ -225,5 +225,41 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
+		toozer_dix_dieux = {
+			color = rgb { 248 213 73 }
+			icon = placeholder
+			
+
+			holy_site = city_of_hiria
+
+			#placeholder tenets
+			doctrine = tenet_MtC_placeholder_a
+			doctrine = tenet_MtC_placeholder_b
+			doctrine = tenet_MtC_placeholder_c
+		}
+		toozer_recuperism = {
+			color = rgb { 73 24 24 }
+			icon = placeholder
+			
+
+			holy_site = city_of_hiria
+
+			#placeholder tenets
+			doctrine = tenet_MtC_placeholder_a
+			doctrine = tenet_MtC_placeholder_b
+			doctrine = tenet_MtC_placeholder_c
+		}
+		toozer_the_crossing = {
+			color = rgb { 167 214 254 }
+			icon = placeholder
+			
+
+			holy_site = city_of_hiria
+
+			#placeholder tenets
+			doctrine = tenet_MtC_placeholder_a
+			doctrine = tenet_MtC_placeholder_b
+			doctrine = tenet_MtC_placeholder_c
+		}
 	}
 }

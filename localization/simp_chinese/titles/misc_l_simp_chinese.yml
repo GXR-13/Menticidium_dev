@@ -212,6 +212,7 @@ sea_lane25: "$northward_lane_name$"
 sea_lane27: "$northward_lane_name$"
 sea_lane28: "$northward_lane_name$"
 sea_lane34: "$northward_lane_name$"
+sea_lane38: "$northward_lane_name$"
 #Southward Lane
 souththward_lane_name: "南向航道"
 sea_lane20: "$souththward_lane_name$"

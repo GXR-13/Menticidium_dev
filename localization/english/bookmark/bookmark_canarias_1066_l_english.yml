@@ -1,10 +1,6 @@
 ﻿l_english:
- bm_group_1066: "Total Conversion Sandbox"
- bm_1066_canarias: "Total Conversion Sandbox"
- bm_1066_canarias_desc: "This is a bookmark.#!"
-
-
- # Guanarigato
- bookmark_canarias_guanarigato: "Guanarigato"
- bookmark_canarias_guanarigato_desc: "This is a character.#!"
-
+ bm_group_1066: "WIP"
+ bm_1066_canarias: "WIP"
+ bm_1066_canarias_desc: "这是标签。#!"
+ bookmark_canarias_guanarigato: "申必人"
+ bookmark_canarias_guanarigato_desc: "这是角色。#!"

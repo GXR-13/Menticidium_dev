@@ -21,6 +21,6 @@ guanghai = {
 	unit_gfx = { mongol_unit_gfx }
 
 	ethnicities = {#Chinese
-		10 = asian
+		10 = asian_han_chinese
 	}
 }
