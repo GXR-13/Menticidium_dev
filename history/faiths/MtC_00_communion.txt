@@ -1,0 +1,9 @@
+﻿the_general_church = {
+    1.1.1 = {
+        known = {
+            tenet_legalism
+            tenet_aniconism
+            tenet_ritual_celebrations
+        }
+    }
+}

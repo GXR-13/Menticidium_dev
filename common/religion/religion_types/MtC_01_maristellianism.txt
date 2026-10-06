@@ -1,43 +1,62 @@
 ﻿maristellianism_religion = {
-	family = rf_old_beliefs
-	graphical_faith = "pagan_gfx"
+	religion_details = {
+		family = rf_old_beliefs
+		graphical_faith = "pagan_gfx"
+	}
 	doctrine = old_beliefs_hostility_doctrine
 
 	#Main Group
+	doctrine = doctrine_polytheist
 	doctrine = doctrine_no_head
-	doctrine = doctrine_gender_equal
+	doctrine = doctrine_gender_male_dominated
 	doctrine = doctrine_pluralism_pluralistic
 	doctrine = doctrine_theocracy_temporal
 
 	#Marriage
-	doctrine = doctrine_monogamy
-	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
 	doctrine = doctrine_bastardry_legitimization
-	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+	doctrine = doctrine_consanguinity_cousins
 
 	#Crimes
 	doctrine = doctrine_homosexuality_shunned
-	doctrine = doctrine_adultery_men_shunned
-	doctrine = doctrine_adultery_women_shunned
-	doctrine = doctrine_kinslaying_extended_family_crime
-	doctrine = doctrine_deviancy_shunned
-	doctrine = doctrine_witchcraft_crime
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_accepted
 
 	#Clerical Functions
-	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_function_recruitment
 	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
-	doctrine = doctrine_clerical_succession_spiritual_appointment
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	doctrine = doctrine_monasticism_absent
+	doctrine = doctrine_sacraments_absent
 
 	#Allow pilgrimages
 	doctrine = doctrine_pilgrimage_encouraged
 
 	#Funeral tradition
-	doctrine = doctrine_funeral_stoic
+	doctrine = doctrine_funeral_cremation
+
+	#Coronation tradition
+	doctrine = doctrine_no_anointment
+
+	#Preservation
+	doctrine = doctrine_oral_storytelling
 
 	traits = {
-		virtues = { brave just honest }
-		sins = { craven arbitrary deceitful }
+		virtues = {
+			brave = { weight = 30 scale = 1 }
+			just = { weight = 20 scale = 1 }
+			compassionate = { weight = 20 scale = 1 }
+		}
+		sins = {
+			craven = { weight = 20 scale = 1 }
+			arbitrary = { weight = 20 scale = 1 }
+			callous = { weight = 30 scale = 1 }
+		}
 	}
 
 	custom_faith_icons = {
@@ -216,30 +235,30 @@
 		GHWNamePlural = ghw_purifications
 	}
 
-	faiths = {
-		frazione_del_litorale = {
-			color = rgb { 144 12 212 }
-			icon = placeholder
+	# faiths = {
+	# 	frazione_del_litorale = {
+	# 		color = rgb { 144 12 212 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		cult_of_the_night = {
-			color = rgb { 68 68 118 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	cult_of_the_night = {
+	# 		color = rgb { 68 68 118 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-	}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# }
 }

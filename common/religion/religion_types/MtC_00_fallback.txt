@@ -1,15 +1,18 @@
 ﻿old_therosian_paganism_religion = {
-	family = rf_old_beliefs
-	graphical_faith = "pagan_gfx"
+	religion_details = {
+		family = rf_old_beliefs
+		graphical_faith = pagan_gfx
+	}
 	doctrine = old_beliefs_hostility_doctrine
 
 	pagan_roots = yes
 
 	#Main Group
+	doctrine = doctrine_polytheist
 	doctrine = doctrine_no_head
-	doctrine = doctrine_gender_equal
-	doctrine = doctrine_pluralism_righteous
-	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
 
 	#Marriage
 	doctrine = doctrine_concubines
@@ -30,6 +33,8 @@
 	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_appointment
+	doctrine = doctrine_monasticism_absent
+	doctrine = doctrine_sacraments_absent
 
 	#Allow pilgrimages
 	doctrine = doctrine_pilgrimage_encouraged
@@ -37,13 +42,27 @@
 	#Funeral tradition
 	doctrine = doctrine_funeral_cremation
 
+	#Coronation tradition
+	doctrine = doctrine_no_anointment
+
+	#Preservation
+	doctrine = doctrine_oral_storytelling
+
 	traits = {
-		virtues = { brave just honest }
-		sins = { craven arbitrary deceitful }
+		virtues = {
+			brave = { weight = 30 scale = 1 }
+			just = { weight = 20 scale = 1 }
+			compassionate = { weight = 20 scale = 1 }
+		}
+		sins = {
+			craven = { weight = 20 scale = 1 }
+			arbitrary = { weight = 20 scale = 1 }
+			callous = { weight = 30 scale = 1 }
+		}
 	}
 
 	custom_faith_icons = {
-		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 
 	}
 
 	holy_order_names = {
@@ -210,56 +229,56 @@
 		GHWNamePlural = ghw_great_holy_wars
 	}	
 
-	faiths = {
-		old_therosian_pagan = {
-			color = rgb { 20 148 43 }
-			icon = pagan
-			reformed_icon = pagan_reformed
+	# faiths = {
+	# 	old_therosian_pagan = {
+	# 		color = rgb { 20 148 43 }
+	# 		icon = pagan
+	# 		reformed_icon = pagan_reformed
 
-			doctrine = unreformed_faith_doctrine
+	# 		doctrine = unreformed_faith_doctrine
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#Generic pagan tenets
-			doctrine = tenet_astrology
-			doctrine = tenet_ancestor_worship
-			doctrine = tenet_sanctity_of_nature
-		}
-		toozer_dix_dieux = {
-			color = rgb { 248 213 73 }
-			icon = placeholder
+	# 		#Generic pagan tenets
+	# 		doctrine = tenet_astrology
+	# 		doctrine = tenet_ancestor_worship
+	# 		doctrine = tenet_sanctity_of_nature
+	# 	}
+	# 	toozer_dix_dieux = {
+	# 		color = rgb { 248 213 73 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		toozer_recuperism = {
-			color = rgb { 73 24 24 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	toozer_recuperism = {
+	# 		color = rgb { 73 24 24 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		toozer_the_crossing = {
-			color = rgb { 167 214 254 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	toozer_the_crossing = {
+	# 		color = rgb { 167 214 254 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-	}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# }
 }

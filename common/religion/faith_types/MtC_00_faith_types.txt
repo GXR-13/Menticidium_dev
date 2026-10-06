@@ -1,0 +1,147 @@
+﻿old_pagan_faith = {
+	main_rite = old_pagan
+	faith_details = {
+		religion = old_therosian_paganism_religion
+		color = rgb { 20 148 43 }
+		icon = pagan
+		reformed_icon = pagan_reformed
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+
+	doctrines = {
+		unreformed_faith_doctrine
+	}
+}
+
+#
+imperial_communion_faith = {
+	main_rite = the_general_church
+	faith_details = {
+		religion = communiunism_religion
+		color = rgb { 230 230 230 }
+		icon = placeholder
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+uzturet_faith = {
+	main_rite = uzturet
+	faith_details = {
+		religion = dabigsian_artificism_religion
+		color = rgb { 57 197 255 }
+		icon = placeholder
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+
+	doctrines = {
+		unreformed_faith_doctrine
+	}
+}
+
+the_law_faith = {
+	main_rite = shiquan_zong
+	faith_details = {
+		religion = gaozhu_law_religion
+		color = rgb { 239 194 55 }
+		icon = placeholder
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+cult_of_the_sea_faith = {
+	main_rite = cult_of_the_sea
+	faith_details = {
+		religion = maristellianism_religion
+		color = rgb { 144 12 212 }
+		icon = placeholder
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+cult_of_the_night_faith = {
+	main_rite = cult_of_the_night
+	faith_details = {
+		religion = maristellianism_religion
+		color = rgb { 68 68 118 }
+		icon = placeholder
+		graphical_faith = "pagan_gfx"
+	}
+
+	eminent_holy_sites = {
+		city_of_hiria
+	}
+
+	holy_sites = {#
+	}
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}

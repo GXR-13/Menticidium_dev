@@ -208,154 +208,154 @@
 		GHWNamePlural = ghw_great_holy_wars
 	}	
 
-	faiths = {
-		imperial_verita = {
-			color = rgb { 230 230 230 }
+	# faiths = {
+	# 	imperial_verita = {
+	# 		color = rgb { 230 230 230 }
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
 
-		eastern_ritualism = {
-			color = rgb { 213 185 185 }
-			icon = placeholder
+	# 	eastern_ritualism = {
+	# 		color = rgb { 213 185 185 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
 
-		southern_ritualism = {
-			color = rgb { 213 213 185 }
-			icon = placeholder
+	# 	southern_ritualism = {
+	# 		color = rgb { 213 213 185 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
 
-		old_universal_church = {
-			color = rgb { 163 163 163 }
-			icon = imperial_verita
+	# 	old_universal_church = {
+	# 		color = rgb { 163 163 163 }
+	# 		icon = imperial_verita
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
 
-		new_universal_church = {
-			color = rgb { 234 234 234 }
-			icon = placeholder
+	# 	new_universal_church = {
+	# 		color = rgb { 234 234 234 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
 
-		petitionist_communion = {
-			color = rgb { 229 128 145 } #粉红
-			icon = placeholder
+	# 	petitionist_communion = {
+	# 		color = rgb { 229 128 145 } #粉红
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		resurgenist_communion = {
-			color = rgb { 229 67 90 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	resurgenist_communion = {
+	# 		color = rgb { 229 67 90 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		rebirthist_communion = {
-			color = rgb { 155 31 31 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	rebirthist_communion = {
+	# 		color = rgb { 155 31 31 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		purian_communion = {
-			color = rgb { 179 77 27 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	purian_communion = {
+	# 		color = rgb { 179 77 27 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		millist_communion = {
-			color = rgb { 142 115 92 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	millist_communion = {
+	# 		color = rgb { 142 115 92 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		marchist_communion = {
-			color = rgb { 124 72 48 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	marchist_communion = {
+	# 		color = rgb { 124 72 48 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-		sacraborist_communion = {
-			color = rgb { 153 206 52 }
-			icon = placeholder
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# 	sacraborist_communion = {
+	# 		color = rgb { 153 206 52 }
+	# 		icon = placeholder
 			
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-	}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# }
 }

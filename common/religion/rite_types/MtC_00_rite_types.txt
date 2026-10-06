@@ -1,0 +1,135 @@
+﻿old_pagan = {
+	name = old_pagan
+	desc = old_pagan_desc
+	faith = old_pagan_faith
+
+	color = rgb { 20 148 43 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+the_general_church = {
+	name = the_general_church
+	desc = the_general_church_desc
+	faith = imperial_communion_faith
+
+	color = rgb { 163 163 163 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+eastern_ritualism = {
+	name = eastern_ritualism
+	desc = eastern_ritualism_desc
+	faith = imperial_communion_faith
+
+	color = rgb { 213 185 185 }
+	icon = imperial_verita
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+southern_ritualism = {
+	name = southern_ritualism
+	desc = southern_ritualism_desc
+	faith = imperial_communion_faith
+
+	color = rgb { 213 213 185 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+uzturet = {
+	name = uzturet
+	desc = uzturet_desc
+	faith = uzturet_faith
+
+	color = rgb { 57 197 255 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+shiquan_zong = {
+	name = shiquan_zong
+	desc = shiquan_zong_desc
+	faith = the_law_faith
+
+	color = rgb { 239 194 55 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+cult_of_the_sea_faith = {
+	name = cult_of_the_sea
+	desc = cult_of_the_sea_desc
+	faith = cult_of_the_sea_faith
+
+	color = rgb { 144 12 212 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+cult_of_the_night = {
+	name = cult_of_the_night 
+	desc = cult_of_the_night_desc
+	faith = cult_of_the_night_faith
+
+	color = rgb { 68 68 118 }
+	icon = placeholder
+
+	tenets = {
+		tenet_MtC_placeholder_a
+		tenet_MtC_placeholder_b
+		tenet_MtC_placeholder_c
+	}
+}
+
+#  = {
+# 	name = 
+# 	desc = _desc
+# 	faith = _faith
+
+# 	color = 
+# 	icon = placeholder
+
+# 	tenets = {
+# 		tenet_MtC_placeholder_a
+# 		tenet_MtC_placeholder_b
+# 		tenet_MtC_placeholder_c
+# 	}
+# }
+

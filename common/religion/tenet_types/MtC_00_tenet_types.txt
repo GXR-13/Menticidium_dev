@@ -1,0 +1,121 @@
+﻿##########################
+# Christian Faith Tenets #
+##########################
+# Aniconism / Iconomachia / Eikonomakhía
+tenet_MtC_placeholder_a = {
+	icon = core_tenet_placeholder
+	is_shown = {
+		always = no
+	}
+	can_pick = {
+		always = yes
+	}
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+	}
+
+	parameters = {
+	}
+
+	county_modifier = {
+	}
+
+	county_modifier = {
+	}
+
+}
+
+tenet_MtC_placeholder_b = {
+	icon = core_tenet_placeholder
+	is_shown = {
+		always = no
+	}
+	can_pick = {
+		always = yes
+	}
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+	}
+
+	parameters = {
+	}
+
+	county_modifier = {
+	}
+
+	county_modifier = {
+	}
+
+}
+
+tenet_MtC_placeholder_c = {
+	icon = core_tenet_placeholder
+	is_shown = {
+		always = no
+	}
+	can_pick = {
+		always = yes
+	}
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+	}
+
+	parameters = {
+	}
+
+	county_modifier = {
+	}
+
+	county_modifier = {
+	}
+
+}
+
+#############################
+# Empty Template Tenet 		#
+#############################
+
+#tenets = {
+#	icon = ""
+#
+#	is_shown = {
+#		always = no
+#	}
+#	can_pick = {
+#		always = yes
+#	}
+
+#	piety_cost = {
+#		if = {
+#			limit = {
+#				always = no
+#			}
+#			value = faith_tenet_cost_low
+#		}
+#		else = {
+#			value = faith_tenet_cost_massive
+#		}
+
+#		# Multiplier for keeping same tenet
+#		if = {
+#			limit = { rite_has_tenet = tenets }
+#			multiply = faith_unchanged_doctrine_cost_mult
+#		}
+#	}
+
+#	parameters = {
+#		tenets_active = yes
+#	}
+
+#	character_modifier = {
+
+#	}
+
+#	traits = {
+#		virtues = { brave = 2}
+#		sins = { craven = 2}
+#	}
+#}

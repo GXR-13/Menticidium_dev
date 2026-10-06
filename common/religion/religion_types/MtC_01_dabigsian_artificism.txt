@@ -216,21 +216,21 @@
 		GHWName = ghw_purification
 		GHWNamePlural = ghw_purifications
 	}
-	faiths = {
-		uzturet = {
-			color = rgb { 57 197 255 }
-			icon = placeholder
-			reformed_icon = placeholder
+	# faiths = {
+	# 	uzturet = {
+	# 		color = rgb { 57 197 255 }
+	# 		icon = placeholder
+	# 		reformed_icon = placeholder
 
-			doctrine = unreformed_faith_doctrine
+	# 		doctrine = unreformed_faith_doctrine
 
-			holy_site = city_of_hiria
+	# 		holy_site = city_of_hiria
 
-			#placeholder tenets
-			doctrine = tenet_MtC_placeholder_a
-			doctrine = tenet_MtC_placeholder_b
-			doctrine = tenet_MtC_placeholder_c
-		}
-	}
+	# 		#placeholder tenets
+	# 		doctrine = tenet_MtC_placeholder_a
+	# 		doctrine = tenet_MtC_placeholder_b
+	# 		doctrine = tenet_MtC_placeholder_c
+	# 	}
+	# }
 
 }
