@@ -15,7 +15,7 @@
 		title = d_laamp_JttW
 		government = landless_adventurer_government
 		culture = guanghai
-		rite = old_pagan
+		religion = southern_ritualism
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = JttW_1
 		position = { 250 750 }

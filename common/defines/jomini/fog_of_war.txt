@@ -1,17 +1,17 @@
 ﻿NFogOfWar = {
 	#Jomini defines
 	#these are used when generating the FoW alpha mask
-	TEXTURE_WIDTH = 512	#noise texture will be baked into this one so the size should be at least as big as the noise texture for best result
-	TEXTURE_HEIGHT = 512
+	TEXTURE_WIDTH = 4096	#noise texture will be baked into this one so the size should be at least as big as the noise texture for best result
+	TEXTURE_HEIGHT = 2048
 	KERNEL_SCALE = 4
 	SAMPLE_COUNT = 16
 	NOISE_TEXTURE = "gfx/map/textures/noise.dds"
 	#these are used when applying FoW to terrain and meshes etc
-	ALPHA_MIN = 0.7
+	ALPHA_MIN = 0.5
 	PATTERN_SPEED = { 0.004 0.004 }
 	PATTERN_STRENGTH = 0.6
 	PATTERN_TILING = 10
-	FADE_OUT_ZOOM_STEP = 12
+	FADE_OUT_ZOOM_STEP = 9
 	FADE_OUT_SPEED = 2
 	
 	
