@@ -4,68 +4,68 @@
 7 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 396 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 397 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_5_4
 398 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 399 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 400 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_5_1
 401 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 422 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 424 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_5_2
 402 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 403 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 404 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Waltenland_6
@@ -73,83 +73,83 @@
 405 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 412 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 413 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 414 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_6_4
 406 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 407 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 448 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 449 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_6_2
 408 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 410 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 411 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 446 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_6_3
 438 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 447 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 450 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Waltenland_4
@@ -157,73 +157,73 @@
 409 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 417 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 427 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 452 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_4_2
 423 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 443 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 444 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_4_1
 435 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 436 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 442 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_4_4
 439 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 440 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 441 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Waltenland_2
@@ -231,88 +231,88 @@
 415 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 455 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 458 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 461 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_2_4
 416 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 418 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 419 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 420 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_2_3
 437 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 451 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 453 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 454 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_2_1
 456 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 457 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 459 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 460 = {
     culture = weisslander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Waltenland_3
@@ -320,78 +320,78 @@
 421 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 466 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 467 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_3_1
 462 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 463 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 464 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 465 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_3_2
 468 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 469 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 470 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 472 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_3_4
 471 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 473 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 474 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Waltenland_1
@@ -399,55 +399,55 @@
 425 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 426 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 445 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_1_1
 428 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 429 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 430 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 431 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Waltenland_1_2
 432 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 433 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 434 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

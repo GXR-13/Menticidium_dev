@@ -2,7 +2,7 @@
 Dejois_1 = {
 	name = "leo" #莱奥·塔西梅
 	culture = high_hirian
-	religion = imperial_verita
+	rite = the_general_church
 	dynasty = tacimer
 	698.2.1 = { birth = yes }
 }
@@ -10,7 +10,7 @@ Dejois_1 = {
 Dejois_2 = {
 	name = "Mahel" #马埃尔·高利
 	culture = high_hirian
-	religion = imperial_verita
+	rite = the_general_church
 	dynasty = gawley
 	698.2.1 = { birth = yes }
 }
@@ -19,7 +19,7 @@ Dejois_3 = {
 	name = "Isabel" #伊莎贝尔·卡隆
 	female = yes
 	culture = suditish
-	religion = imperial_verita
+	rite = the_general_church
 	dynasty = carlon
 	698.2.1 = { birth = yes }
 }
@@ -27,7 +27,7 @@ Dejois_3 = {
 Dejois_4 = {
 	name = "Jules" #朱尔斯·韦德
 	culture = suditish
-	religion = imperial_verita
+	rite = the_general_church
 	dynasty = wade
 	698.2.1 = { birth = yes }
 }
@@ -35,7 +35,7 @@ Dejois_4 = {
 Dejois_5 = {
 	name = "Marceau" #马尔索·西里兰
 	culture = south_hirian
-	religion = imperial_verita
+	rite = the_general_church
 	dynasty = sirrland
 	698.2.1 = { birth = yes }
 }

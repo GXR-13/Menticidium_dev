@@ -1,6 +1,6 @@
 ﻿Sud_1 = {#  
     name = "Karl"
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = mayer
     688.3.3 = {
@@ -10,7 +10,7 @@
 
 Sud_2 = {# 
     name = "Eugene"
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = voler
     709.6.4 = {
@@ -21,7 +21,7 @@ Sud_2 = {#
 Sud_3 = {# 
     name = "Renne"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = suditish
     dynasty = de_la_ville
     711.4.10 = {
@@ -31,7 +31,7 @@ Sud_3 = {#
 
 Sud_4 = {# 
     name = "William"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = ryan
     680.5.12 = {
@@ -41,7 +41,7 @@ Sud_4 = {#
 
 Sud_5 = {# 
     name = "Alan"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = prestre
     712.3.30 = {
@@ -51,7 +51,7 @@ Sud_5 = {#
 
 Sud_6 = {# 
     name = "Hugo"
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = wade
     704.4.2 = {
@@ -62,7 +62,7 @@ Sud_6 = {#
 Sud_7 = {# 
     name = "Carine"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = suditish
     dynasty = martiniere
     715.3.1 = {

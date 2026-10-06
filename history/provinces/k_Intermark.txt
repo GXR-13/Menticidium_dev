@@ -4,73 +4,73 @@
 267 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 268 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 269 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_1_2
 270 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 281 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 282 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_1_4
 279 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 280 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 286 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 287 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_1_3
 283 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 285 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 288 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Intermark_2
@@ -78,78 +78,78 @@
 271 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 298 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 300 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_2_3
 289 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 290 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 294 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 296 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_2_4
 295 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 297 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 310 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 311 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_2_2
 299 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 309 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 315 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Intermark_4
@@ -157,78 +157,78 @@
 272 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 273 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 332 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 334 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_4_4
 312 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 314 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 327 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 328 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_4_3
 329 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 331 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 335 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_4_2
 330 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 333 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 336 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Intermark_3
@@ -236,68 +236,68 @@
 274 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 275 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 276 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_3_2
 277 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 278 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 284 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_3_3
 291 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 302 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 303 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_3_4
 292 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 293 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 301 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Intermark_5
@@ -305,94 +305,94 @@
 304 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 305 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 306 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_5_5
 307 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 308 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 318 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 321 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_5_1
 313 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 316 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 317 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_5_4
 319 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 320 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 322 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 323 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Intermark_5_2
 324 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 325 = {
     culture = frindi
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 326 = {
     culture = frindi
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

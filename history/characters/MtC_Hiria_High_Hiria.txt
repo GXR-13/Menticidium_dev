@@ -1,6 +1,6 @@
 ﻿High_Hiria_1 = {# 
     name = "Hilbert"
-    religion = imperial_verita
+    rite = the_general_church
     culture = leaguemen
     dynasty = miller
     697.3.14 = {

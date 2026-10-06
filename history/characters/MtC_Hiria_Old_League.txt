@@ -1,7 +1,7 @@
 ﻿#Template
 # Old_League_ = {
 # 	name= ""
-# 	religion = imperial_verita
+# 	rite = the_general_church
 # 	culture = leaguemen
 # 	dynasty = 
 # 	 = {
@@ -11,7 +11,7 @@
 
 Old_League_1 = { #兰舍恩·维罗，联盟长
 	name= "Lahmschon"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = concordian
 	dynasty = veiro
 	699.7.21 = {
@@ -21,7 +21,7 @@ Old_League_1 = { #兰舍恩·维罗，联盟长
 
 Old_League_2 = { #路易斯·加农三世，维斯普利亚领主
 	name= "Lewis"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = leaguemen
 	dynasty = cannon
 	689.9.7 = { #1970年
@@ -31,7 +31,7 @@ Old_League_2 = { #路易斯·加农三世，维斯普利亚领主
 
 Old_League_3 = { #慢羊羊首领
 	name= "Doch"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = leaguemen
 	718.9.11 = {
 		birth = yes
@@ -40,7 +40,7 @@ Old_League_3 = { #慢羊羊首领
 
 Old_League_4 = { #拉尔夫·杨，高级学监-High Chancellor
 	name= "Ralph"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = high_hirian
 	dynasty = jung
 	706.3.8 = {
@@ -50,7 +50,7 @@ Old_League_4 = { #拉尔夫·杨，高级学监-High Chancellor
 
 Old_League_5 = { #托马斯·尤尼安，大奥登领主
 	name= "Thomas"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = concordian
 	dynasty = yunian_kinhall
 	694.6.4 = {
@@ -60,7 +60,7 @@ Old_League_5 = { #托马斯·尤尼安，大奥登领主
 
 Old_League_6 = { #休·尤尼安，小奥登领主
 	name= "Huges"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = concordian
 	dynasty = yunian_obwester
 	701.8.10 = {
@@ -70,7 +70,7 @@ Old_League_6 = { #休·尤尼安，小奥登领主
 
 Old_League_7 = { #茉吉亚·安瑟恩（茅革），特莱维恩领主
 	name= "Moghia"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = concordian
 	dynasty = anthern 
 	female = yes
@@ -81,7 +81,7 @@ Old_League_7 = { #茉吉亚·安瑟恩（茅革），特莱维恩领主
 
 Old_League_8 = { #柏斯·冯·坦宁，费尔米亚首席角斗士
 	name= "Berth"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = leaguemen
 	dynasty = von_tanning
 	710.5.6 = {
@@ -91,7 +91,7 @@ Old_League_8 = { #柏斯·冯·坦宁，费尔米亚首席角斗士
 
 Old_League_9 = { #玛丽亚·迪·阿西亚，盖威克代表
 	name= "Maria"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = cisfreddian
 	dynasty = de_assia
 	female = yes
@@ -102,7 +102,7 @@ Old_League_9 = { #玛丽亚·迪·阿西亚，盖威克代表
 
 Old_League_10 = { #布鲁斯·奥斯滕，科尔尼森总督
 	name= "Bruce"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = leaguemen
 	dynasty = osten
 	700.7.25 = {

@@ -1,7 +1,7 @@
 ﻿Alben_1 = {# 
     name = "Richenda"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = norr
     700.2.25 = {
@@ -11,7 +11,7 @@
 
 Alben_2 = {# 
     name = "Isidor"
-    religion = imperial_verita
+    rite = the_general_church
     culture = albennian
     dynasty = ross
     718.3.19 = {
@@ -21,7 +21,7 @@ Alben_2 = {#
 
 Alben_3 = {# 
     name = "Gerlach"
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = von_grasse
     714.3.10 = {
@@ -31,7 +31,7 @@ Alben_3 = {#
 
 Alben_4 = {# 
     name = "Rutger"
-    religion = imperial_verita
+    rite = the_general_church
     culture = albennian
     dynasty = von_kornburg
     705.3.16 = {

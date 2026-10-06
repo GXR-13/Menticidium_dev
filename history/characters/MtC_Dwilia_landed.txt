@@ -1,7 +1,7 @@
 ﻿###Jaskowia###
 Dwilia_1001 = { #Leszek 'the Stalwart'
 	name= "Leszek" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ptaskan
 	dynasty = kosasz
 	680.5.9 = {
@@ -11,7 +11,7 @@ Dwilia_1001 = { #Leszek 'the Stalwart'
 
 Dwilia_1002 = { #Pavel, Elder son of Leszek
 	name= "Pavel" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ptaskan
 	dynasty = kosasz
 	father = Dwilia_1001
@@ -22,7 +22,7 @@ Dwilia_1002 = { #Pavel, Elder son of Leszek
 
 Dwilia_1003 = { #Piotr, Second son of Leszek
 	name= "Piotr" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ptaskan
 	dynasty = kosasz
 	father = Dwilia_1001
@@ -35,7 +35,7 @@ Dwilia_1003 = { #Piotr, Second son of Leszek
 Dwilia_1004 = { #Duke of Otwartoboz
 	name= "Wszebora" 
 	female = yes
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ptaskan
 	709.6.12 = {
 		birth=yes
@@ -45,7 +45,7 @@ Dwilia_1004 = { #Duke of Otwartoboz
 ###Powykac###
 Dwilia_2001 = {
 	name = "Karel"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	dynasty = giest
 	707.3.31 = {
@@ -55,7 +55,7 @@ Dwilia_2001 = {
 
 Dwilia_2002 = { #Count of Półnobóz and Końpadow
 	name = "KreS_imir"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	#dynasty = 
 	691.12.3 = {
@@ -65,7 +65,7 @@ Dwilia_2002 = { #Count of Półnobóz and Końpadow
 
 Dwilia_2003 = { #count bischop of Czerwobóg
 	name = "Strasz"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	#dynasty = 
 	724.1.23 = {
@@ -75,7 +75,7 @@ Dwilia_2003 = { #count bischop of Czerwobóg
 
 Dwilia_2004 = { #count of Górnogrota 
 	name = "Zbyslav"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	#dynasty = 
 	704.6.20 = {
@@ -85,7 +85,7 @@ Dwilia_2004 = { #count of Górnogrota
 ###Pwaczia###
 Dwilia_3001 = { #King Szczepan
 	name = "Szczepan"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	dynasty = z_loL_a
 	672.6.28 = {
@@ -95,7 +95,7 @@ Dwilia_3001 = { #King Szczepan
 
 Dwilia_3002 = { #tribe man
 	name = "MS_ciwO_j"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	#dynasty = 
 	714.6.17 = {
@@ -105,7 +105,7 @@ Dwilia_3002 = { #tribe man
 
 Dwilia_3003 = { #tribe man
 	name = "Mateusz"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	#dynasty = 
 	705.4.10 = {
@@ -115,7 +115,7 @@ Dwilia_3003 = { #tribe man
 
 Dwilia_3004 = { #tribe woman
 	name = "BoZ_ena"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	female = yes
 	culture = noszian
 	#dynasty = 
@@ -126,7 +126,7 @@ Dwilia_3004 = { #tribe woman
 
 Dwilia_3005 = { #count of Womiech
 	name = "GaweL_"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	dynasty = z_loL_a
 	701.6.7 = {
@@ -136,7 +136,7 @@ Dwilia_3005 = { #count of Womiech
 
 Dwilia_3006 = { #setteler of Roztwów
 	name = "Wernhard"
-	religion = imperial_verita
+	rite = the_general_church
 	culture = zurunnish
 	dynasty = von_roztau
 	695.4.23 = {
@@ -146,7 +146,7 @@ Dwilia_3006 = { #setteler of Roztwów
 ###Pomrok###
 Dwilia_4001 = {#General Ludolf
 	name = "Ludolf"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	700.8.27 = {
 		birth=yes
@@ -155,7 +155,7 @@ Dwilia_4001 = {#General Ludolf
 
 Dwilia_4002 = { #West Borderwatch
 	name = "Gyro"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	701.3.16 = {
 		birth=yes
@@ -164,7 +164,7 @@ Dwilia_4002 = { #West Borderwatch
 
 Dwilia_4003 = { #East Borderwatch
 	name = "Humfried"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	706.6.25 = {
 		birth=yes
@@ -173,7 +173,7 @@ Dwilia_4003 = { #East Borderwatch
 
 Dwilia_4004 = { #count of Wiernedzy
 	name = "Kajetan"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	720.10.8 = {
 		birth=yes
@@ -182,7 +182,7 @@ Dwilia_4004 = { #count of Wiernedzy
 
 Dwilia_4005 = { #count of Dobrze
 	name = "Ryszard"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = noszian
 	688.5.14 = {
 		birth=yes
@@ -191,7 +191,7 @@ Dwilia_4005 = { #count of Dobrze
 ###Bokojowa###
 Dwilia_5001 = { #King Hynek
 	name= "Hynek" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	dynasty = kramenski
 	694.2.11 = {
@@ -200,7 +200,7 @@ Dwilia_5001 = { #King Hynek
 }
 Dwilia_5002 = { #Count Tista
 	name= "Tista" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	dynasty = kramenski
 	708.2.11 = {
@@ -209,7 +209,7 @@ Dwilia_5002 = { #Count Tista
 }
 Dwilia_5003 = { #Count Vitek
 	name= "VI_tek" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	dynasty = kramenski
 	715.6.22 = {
@@ -218,7 +218,7 @@ Dwilia_5003 = { #Count Vitek
 }
 Dwilia_5004 = { #Domas, Lusko Representative
 	name= "Domas" 
-	religion = imperial_verita
+	rite = the_general_church
 	culture = weisslander
 	722.5.1 = {
 		birth=yes
@@ -226,7 +226,7 @@ Dwilia_5004 = { #Domas, Lusko Representative
 }
 Dwilia_5005 = { #Vojtec, head of kanevic in the west
 	name= "VojtE_ch" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	dynasty = kanevic
 	704.3.17 = {
@@ -235,7 +235,7 @@ Dwilia_5005 = { #Vojtec, head of kanevic in the west
 }
 Dwilia_5006 = { #Bozepor, head of dusivid in the east
 	name= "BoZ_epor" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	dynasty = dusivid
 	687.4.2 = {
@@ -244,7 +244,7 @@ Dwilia_5006 = { #Bozepor, head of dusivid in the east
 }
 Dwilia_5007 = {#Jena, court chronicler of Hynek
 	name= "Jana" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = bokojowish
 	female = yes
 	dynasty = kramenski
@@ -255,7 +255,7 @@ Dwilia_5007 = {#Jena, court chronicler of Hynek
 ###Pavland
 Dwilia_6001 = { #King Benno
 	name= "Benno"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	dynasty = witte
 	684.11.21 = {
@@ -265,7 +265,7 @@ Dwilia_6001 = { #King Benno
 
 Dwilia_6002 = { #Duke Magnus
 	name= "Magnus"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	dynasty = raisten
 	723.8.3 = {
@@ -276,7 +276,7 @@ Dwilia_6002 = { #Duke Magnus
 Dwilia_6003 = { #Duchess Bisina
 	name= "Bisina"
 	female = yes
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	708.4.17 = {
 		birth = yes
@@ -287,7 +287,7 @@ Dwilia_6003 = { #Duchess Bisina
 ###Sowkovia###
 Dwilia_7001 = { #yong king Berbat. Poor him
 	name = "Berbat"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	dynasty = grodija
 	733.2.27 = {
@@ -296,7 +296,7 @@ Dwilia_7001 = { #yong king Berbat. Poor him
 }
 Dwilia_7002 = { #Count Goran
 	name = "Goran"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	704.1.20 = {
 		birth = yes
@@ -304,7 +304,7 @@ Dwilia_7002 = { #Count Goran
 }
 Dwilia_7003 = { #Count Zvonimir
 	name = "Zvonimir"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	710.2.26 = {
 		birth = yes
@@ -312,7 +312,7 @@ Dwilia_7003 = { #Count Zvonimir
 }
 Dwilia_7004 = { #Count Godimir
 	name = "Godimir"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	695.1.15 = {
 		birth = yes
@@ -320,7 +320,7 @@ Dwilia_7004 = { #Count Godimir
 }
 Dwilia_7005 = { #Berbat's younger brother
 	name = "Martin"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	dynasty = grodija
 	735.12.14 = {
@@ -330,7 +330,7 @@ Dwilia_7005 = { #Berbat's younger brother
 ###Witamia###
 Dwilia_8001 = { #General Werner
 	name = "Werner"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	688.4.15 = {
 		birth = yes
@@ -339,7 +339,7 @@ Dwilia_8001 = { #General Werner
 Dwilia_8002 = { #Liutgard of the Neulande Rigment
 	name = "Luitgard"
 	female = yes
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	716.6.15 = {
 		birth = yes
@@ -347,7 +347,7 @@ Dwilia_8002 = { #Liutgard of the Neulande Rigment
 }
 Dwilia_8003 = { #Duke Josip, the local
 	name = "Josip"
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	691.8.22 = {
 		birth = yes
@@ -356,7 +356,7 @@ Dwilia_8003 = { #Duke Josip, the local
 ###Despotic Dwilia###
 Dwilia_9001 = { #Ludael, ur the general now!
 	name= "Ludael" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = iowician
 	695.5.30 = {
 		birth=yes
@@ -365,7 +365,7 @@ Dwilia_9001 = { #Ludael, ur the general now!
 
 Dwilia_9002 = { #Ludael's homie
 	name= "Tymmeke" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	718.7.30 = {
 		birth=yes
@@ -374,7 +374,7 @@ Dwilia_9002 = { #Ludael's homie
 
 Dwilia_9003 = { #Ludael's another homie
 	name= "Hans" 
-	religion = eastern_ritualism
+	rite = eastern_ritualism
 	culture = ostlander
 	717.12.28 = {
 		birth=yes

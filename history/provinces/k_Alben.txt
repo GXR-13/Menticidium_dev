@@ -4,100 +4,100 @@
 217 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 218 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 220 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_1_2
 219 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 221 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 222 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 223 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_1_4
 224 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 225 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 226 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 227 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_1_3
 228 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 229 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 230 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 231 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_1_5
 232 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 233 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 234 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Alben_2
@@ -105,68 +105,68 @@
 235 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 263 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 264 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_2_1
 241 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 242 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 243 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_2_3
 244 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 265 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 266 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_2_4
 246 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 254 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 261 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Alben_3
@@ -174,109 +174,109 @@
 236 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 237 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 238 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 239 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 240 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_3_3
 245 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 256 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 257 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 258 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_3_5
 247 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 248 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 253 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 255 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_3_2
 249 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 250 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 251 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 252 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Alben_3_4
 259 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 260 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 262 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

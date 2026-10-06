@@ -4,61 +4,61 @@
 18 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1067 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1068 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1069 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_2_3
 1087 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1089 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1090 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_2_2
 1088 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1091 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1092 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1093 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Torquia_6
@@ -66,66 +66,66 @@
 1065 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1066 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1085 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1086 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_6_1
 1084 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1094 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1095 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1096 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_6_3
 1097 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1099 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1100 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1101 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Torquia_4
@@ -133,78 +133,78 @@
 1070 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1071 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1072 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1073 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_4_2
 1074 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1075 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1080 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1083 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_4_4
 1076 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1081 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1082 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_4_3
 1077 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1078 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1079 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Torquia_1
@@ -212,61 +212,61 @@
 1098 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1102 = {
     culture = littorian 
     holding = castle_holding
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1103 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 
 ###c_Torquia_1_1
 1104 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1105 = {
     culture = littorian 
     holding = castle_holding
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1106 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1107 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 
 ###c_Torquia_1_3
 1108 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1109 = {
     culture = littorian 
     holding = castle_holding
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1110 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 1111 = {
     culture = littorian 
     holding = none
-    religion = frazione_del_litorale
+    rite = cult_of_the_sea
 }
 
 ##d_Torquia_3
@@ -274,61 +274,61 @@
 1112 = {
     culture = littorian 
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1113 = {
     culture = littorian 
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1117 = {
     culture = littorian 
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1118 = {
     culture = littorian 
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_3_2
 1114 = {
     culture = littorian 
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1115 = {
     culture = littorian 
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1116 = {
     culture = littorian 
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Torquia_3_3
 1119 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1120 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1121 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1122 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Torquia_7
@@ -336,56 +336,56 @@
 1207 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1208 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1211 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1227 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ###c_Torquia_7_3
 1209 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1214 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1216 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ###c_Torquia_7_1
 1210 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1228 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1229 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ##d_Torquia_8
@@ -393,83 +393,83 @@
 1212 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1224 = {
     culture = varaparian
     holding = castle_holding
-    religion = uzturet
+    rite = uzturet
 }
 1226 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1240 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Torquia_8_4
 1213 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1215 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1373 = {
     culture = varaparian
     holding = castle_holding
-    religion = uzturet
+    rite = uzturet
 }
 1374 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Torquia_8_3
 1217 = {
     culture = varaparian
     holding = castle_holding
-    religion = uzturet
+    rite = uzturet
 }
 1219 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1222 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Torquia_8_2
 1218 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1220 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1221 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1223 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ##d_Torquia_5
@@ -477,60 +477,60 @@
 1225 = {
     culture = littorian 
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1230 = {
     culture = littorian 
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1231 = {
     culture = littorian 
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ###c_Torquia_5_3
 1232 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1233 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1237 = {
     culture = cisfreddian
     holding = none
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 1239 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = southern_ritualism
+    rite = southern_ritualism
 }
 
 ###c_Torquia_5_2
 1234 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1235 = {
     culture = varaparian
     holding = castle_holding
-    religion = uzturet
+    rite = uzturet
 }
 1236 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1238 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 

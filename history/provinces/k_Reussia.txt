@@ -4,110 +4,110 @@
 2 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 4 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 5 = {
     culture = leaguemen
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 6 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_2_2
 880 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 881 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 904 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 905 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_2_3
 906 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 907 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 908 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 920 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_2_4
 921 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 922 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 924 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 925 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_2_5
 931 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 932 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 933 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 934 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Reussia_1
@@ -115,73 +115,73 @@
 12 = {
     culture = gollois
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 854 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 855 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_1_1
 859 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 860 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 862 = {
     culture = gollois
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_1_2
 861 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 867 = {
     culture = gollois
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 868 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_1_3
 863 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 864 = {
     culture = gollois
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 865 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 866 = {
     culture = gollois
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Reussia_4
@@ -189,78 +189,78 @@
 856 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 877 = {
     culture = platian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 883 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_4_3
 872 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 873 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 896 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 897 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_4_2
 884 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 885 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 901 = {
     culture = platian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_4_4
 887 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 898 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 899 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 900 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Reussia_6
@@ -268,61 +268,61 @@
 858 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 874 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 889 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1010 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_6_2
 870 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 871 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 891 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 914 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_6_1
 888 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 890 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 894 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Reussia_3
@@ -330,61 +330,61 @@
 869 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 875 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 893 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 895 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_3_1
 878 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 879 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 882 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_3_2
 892 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 902 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 903 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 923 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Reussia_5
@@ -392,104 +392,104 @@
 876 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 915 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 916 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 917 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_5_3
 909 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 910 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 936 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 937 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_5_5
 911 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 912 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 918 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 919 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_5_1
 913 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 927 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 928 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 930 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Reussia_5_2
 926 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 929 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 935 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 

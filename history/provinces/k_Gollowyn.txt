@@ -4,83 +4,83 @@
 16 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 778 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 779 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 780 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_1_1
 785 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 786 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 787 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_1_3
 788 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 789 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 790 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 791 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_1_2
 807 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 827 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 831 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 832 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Gollowyn_6
@@ -88,68 +88,68 @@
 781 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 782 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 783 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_6_3
 784 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 844 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 845 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_6_2
 840 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 841 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 842 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_6_4
 846 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 847 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1036 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Gollowyn_2
@@ -157,73 +157,73 @@
 792 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 793 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 801 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_2_2
 794 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 818 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 830 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_2_3
 802 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 816 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 817 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 819 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_2_4
 820 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 821 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 822 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Gollowyn_4
@@ -231,78 +231,78 @@
 795 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 796 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 797 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 800 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_4_4
 798 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 799 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 843 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_4_2
 833 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 848 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 849 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 851 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_4_3
 837 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 852 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 853 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Gollowyn_3
@@ -310,51 +310,51 @@
 803 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 804 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 806 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_3_2
 805 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 814 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 815 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_3_3
 808 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 809 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 813 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Gollowyn_5
@@ -362,82 +362,82 @@
 810 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 811 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 812 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 834 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_5_1
 823 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 824 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 825 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 850 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_5_3
 826 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 828 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 829 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 835 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Gollowyn_5_4
 836 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 838 = {
     culture = gollowynian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 839 = {
     culture = gollowynian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 

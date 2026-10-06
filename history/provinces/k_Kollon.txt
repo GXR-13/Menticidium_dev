@@ -4,88 +4,88 @@
 9 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 475 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 476 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 489 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 495 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_3_3
 477 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 478 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 488 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 518 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_3_4
 479 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 516 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 517 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_3_1
 496 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 497 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 498 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 502 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Kollon_1
@@ -93,93 +93,93 @@
 480 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 481 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 482 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 483 = {
     culture = weisslander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 484 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_1_1
 490 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 491 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 493 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 503 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_1_2
 492 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 504 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 505 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 507 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_1_3
 494 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 499 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 500 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 501 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Kollon_4
@@ -187,88 +187,88 @@
 485 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 486 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 512 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 519 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_4_2
 487 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 701 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 702 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 703 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_4_1
 520 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 521 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 523 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 531 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_4_3
 700 = {
     culture = leaguemen
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 704 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 706 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1990 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Kollon_2
@@ -276,87 +276,87 @@
 506 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 510 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 511 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 514 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_2_3
 508 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 509 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 527 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_2_2
 513 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 515 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 522 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 524 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Kollon_2_4
 525 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 526 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 528 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 529 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 530 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

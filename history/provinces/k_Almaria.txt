@@ -4,66 +4,66 @@
 17 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 708 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 709 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 711 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_2_3
 714 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 715 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 719 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 720 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_2_2
 717 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 718 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 721 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 722 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Almaria_1
@@ -71,51 +71,51 @@
 705 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 712 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 713 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_1_2
 710 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 726 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 727 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_1_3
 723 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 724 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 725 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Almaria_3
@@ -123,83 +123,83 @@
 716 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 730 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 731 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 732 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_3_2
 729 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 767 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 773 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 776 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_3_3
 733 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 768 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 771 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 772 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_3_4
 774 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 775 = {
     culture = cisfreddian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 777 = {
     culture = cisfreddian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Almaria_5
@@ -207,56 +207,56 @@
 728 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 747 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 748 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_5_1
 741 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 750 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 752 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_5_2
 742 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 749 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 751 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 753 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Almaria_6
@@ -264,61 +264,61 @@
 734 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 735 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 739 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 746 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_6_3
 736 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 737 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 738 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 740 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_6_1
 743 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 744 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 745 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Almaria_4
@@ -326,82 +326,82 @@
 754 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 755 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 758 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 769 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_4_3
 756 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 757 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 762 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_4_2
 759 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 760 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 764 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 770 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Almaria_4_4
 761 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 763 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 765 = {
     culture = cotier
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 766 = {
     culture = cotier
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

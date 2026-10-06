@@ -1,6 +1,6 @@
 ﻿Torquia_1 = {# 
     name = "Markus"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = calaway
     717.5.19 = {
@@ -10,7 +10,7 @@
 
 Torquia_2 = {# 
     name = "Kane"
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = manning
     684.10.30 = {

@@ -4,83 +4,83 @@
 91 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 92 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 93 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 104 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_4_1
 94 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 100 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 102 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 149 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_4_4
 103 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 105 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 106 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_4_2
 110 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 147 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 148 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 150 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Middlesept_6
@@ -88,78 +88,78 @@
 95 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 96 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 98 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 99 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_6_4
 116 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 117 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 118 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 121 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_6_2
 120 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 133 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 136 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_6_3
 132 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 134 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 135 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Middlesept_2
@@ -167,83 +167,83 @@
 97 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 176 = {
     culture = weisslander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 181 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 182 = {
     culture = weisslander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_2_4
 154 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 156 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 157 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 171 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_2_3
 158 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 177 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 180 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_2_1
 178 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 179 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 183 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 184 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Middlesept_1
@@ -251,110 +251,110 @@
 101 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 155 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 166 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 167 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_1_4
 113 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 114 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 115 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 163 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_1_5
 152 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 153 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 164 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 165 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_1_2
 159 = {
     culture = leaguemen
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 160 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 161 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 162 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_1_1
 172 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 173 = {
     culture = leaguemen
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 174 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 175 = {
     culture = leaguemen
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Middlesept_3
@@ -362,83 +362,83 @@
 107 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 108 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 109 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_3_4
 112 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 119 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 122 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 126 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_3_3
 123 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 124 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 125 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 131 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_3_1
 127 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 128 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 129 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 130 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Middlesept_5
@@ -446,82 +446,82 @@
 111 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 145 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 146 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 151 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_5_4
 137 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 138 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 139 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 141 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_5_3
 140 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 142 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 143 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 144 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Middlesept_5_2
 168 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 169 = {
     culture = zurunnish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 170 = {
     culture = zurunnish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 

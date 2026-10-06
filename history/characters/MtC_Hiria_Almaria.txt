@@ -1,6 +1,6 @@
 ﻿Almaria_1 = {# 
     name = "Liam"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = jung
     693.1.19 = {
@@ -11,7 +11,7 @@
 Almaria_2 = {# 
     name = "Ethel"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = de_fango
     698.4.1 = {
@@ -21,7 +21,7 @@ Almaria_2 = {#
 
 Almaria_3 = {# 
     name = "PE_ire-Raimond"
-    religion = imperial_verita
+    rite = the_general_church
     culture = cotier
     dynasty = de_assia
     705.4.18 = {
@@ -31,7 +31,7 @@ Almaria_3 = {#
 
 Almaria_4 = {# 
     name = "Guiges"
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = ramonda
     701.4.29 = {
@@ -41,7 +41,7 @@ Almaria_4 = {#
 
 Almaria_5 = {# 
     name = "TiE_rri"
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = sirrland
     704.11.27 = {
@@ -52,7 +52,7 @@ Almaria_5 = {#
 Almaria_6 = {# 
     name = "Cunigunda"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = cisfreddian
     dynasty = gialla
     703.2.23 = {

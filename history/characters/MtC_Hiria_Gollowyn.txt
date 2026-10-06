@@ -1,6 +1,6 @@
 ﻿Gollowyn_1 = {#Governor of Gollowyn
     name = "Airmedach"
-    religion = imperial_verita
+    rite = the_general_church
     culture = gollowynian
     dynasty = eilginn
     688.9.30  = {
@@ -10,7 +10,7 @@
 
 Gollowyn_2 = {# 
     name = "Edward"
-    religion = imperial_verita
+    rite = the_general_church
     culture = leaguemen
     dynasty = dan
     678.4.28 = {
@@ -20,7 +20,7 @@ Gollowyn_2 = {#
 
 Gollowyn_3 = {# 
     name = "Cormac"
-    religion = imperial_verita
+    rite = the_general_church
     culture = gollowynian
     dynasty = neail
     694.6.29 = {
@@ -31,7 +31,7 @@ Gollowyn_3 = {#
 Gollowyn_4 = {# 
     name = "Emma"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = leaguemen
     dynasty = roswin
     691.4.13 = {
@@ -42,7 +42,7 @@ Gollowyn_4 = {#
 Gollowyn_5 = {# 
     name = "Elinion"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = gollowynian
     dynasty = llyn
     712.3.6 = {
@@ -52,7 +52,7 @@ Gollowyn_5 = {#
 
 Gollowyn_6 = {# 
     name = "Selyf"
-    religion = imperial_verita
+    rite = the_general_church
     culture = gollowynian
     dynasty = a_fey
     701.3.4 = {

@@ -4,109 +4,109 @@
 1 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 19 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 20 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 21 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 22 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 23 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_High_Hiria_1_2
 24 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 25 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 26 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 27 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_High_Hiria_1_5
 28 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 29 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 30 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_High_Hiria_1_4
 31 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 33 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 36 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_High_Hiria_1_1
 32 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 34 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 35 = {
     culture = high_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 37 = {
     culture = high_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

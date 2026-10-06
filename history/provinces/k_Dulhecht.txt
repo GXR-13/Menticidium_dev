@@ -4,78 +4,78 @@
 11 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 634 = {
     culture = fretian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 635 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 636 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_2_2
 644 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 652 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 653 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_2_3
 650 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 651 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 654 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 664 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_2_4
 658 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 659 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 660 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dulhecht_1
@@ -83,61 +83,61 @@
 630 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 631 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 632 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 633 = {
     culture = fretian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 642 = {
     culture = fretian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_1_2
 643 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 647 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 648 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_1_3
 645 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 646 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 649 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dulhecht_5
@@ -145,83 +145,83 @@
 637 = {
     culture = north_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 638 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 639 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 640 = {
     culture = north_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_5_3
 689 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 694 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 696 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 699 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_5_1
 690 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 691 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 692 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 693 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_5_4
 695 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 697 = {
     culture = gronlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 698 = {
     culture = gronlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dulhecht_3
@@ -229,66 +229,66 @@
 641 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 655 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 656 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 657 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_3_2
 666 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 667 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 673 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 674 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_3_3
 668 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 669 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 670 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 671 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dulhecht_4
@@ -296,99 +296,99 @@
 661 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 678 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 679 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_4_1
 662 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 663 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 665 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 677 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_4_2
 672 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 675 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 676 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_4_4
 680 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 681 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 682 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 686 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dulhecht_4_5
 684 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 685 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 687 = {
     culture = zuidlander
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 688 = {
     culture = zuidlander
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 

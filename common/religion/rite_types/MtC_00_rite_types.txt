@@ -88,7 +88,7 @@ shiquan_zong = {
 	}
 }
 
-cult_of_the_sea_faith = {
+cult_of_the_sea = {
 	name = cult_of_the_sea
 	desc = cult_of_the_sea_desc
 	faith = cult_of_the_sea_faith

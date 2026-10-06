@@ -4,78 +4,78 @@
 14 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1123 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1126 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_3_4
 1124 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1131 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1136 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1139 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_3_2
 1125 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1127 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1135 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1138 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_3_1
 1143 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1174 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1175 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dejois_1
@@ -83,78 +83,78 @@
 1128 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1129 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1132 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_1_4
 1130 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1134 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1144 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_1_1
 1145 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1146 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1147 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1148 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_1_2
 1149 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1150 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1151 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1152 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dejois_4
@@ -162,105 +162,105 @@
 1133 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1176 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1177 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1178 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_4_5
 1140 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1183 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1192 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_4_3
 1141 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1142 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1179 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1180 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_4_1
 1158 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1166 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1167 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1168 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_4_4
 1171 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1172 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1173 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1187 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dejois_2
@@ -268,78 +268,78 @@
 1153 = {
     culture = platian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1154 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1155 = {
     culture = platian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_2_2
 1156 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1157 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1160 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1161 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_2_3
 1159 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1162 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1163 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1164 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_2_4
 1165 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1169 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1170 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Dejois_5
@@ -347,104 +347,104 @@
 1185 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1186 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1188 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1189 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_5_2
 1191 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1193 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1194 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1195 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_5_5
 1196 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1199 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1201 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_5_4
 1197 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1198 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1200 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Dejois_5_3
 1202 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1203 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1204 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1205 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1206 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 

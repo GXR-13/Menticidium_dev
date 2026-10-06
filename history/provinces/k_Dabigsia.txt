@@ -4,73 +4,73 @@
 1375 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1536 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1538 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_2_3
 1539 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1540 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1541 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_2_2
 1542 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1555 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1556 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_2_1
 1557 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1558 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1559 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1560 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_3
@@ -78,78 +78,78 @@
 1508 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1509 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1510 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1511 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_3_2
 1537 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1546 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1548 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1562 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_3_3
 1563 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1591 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1592 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_3_4
 1564 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1573 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1574 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_1
@@ -157,73 +157,73 @@
 1543 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1545 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1549 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_1_2
 1550 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1551 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1553 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_1_3
 1552 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1554 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1561 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_1_4
 1565 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1566 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1567 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1570 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_4
@@ -231,73 +231,73 @@
 1544 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1547 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1576 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_4_1
 1568 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1569 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1571 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1572 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_4_3
 1575 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1579 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1580 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_4_4
 1581 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1582 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1593 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_5
@@ -305,83 +305,83 @@
 1577 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1587 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1588 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1590 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_5_2
 1583 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1584 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1585 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_5_1
 1586 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1589 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1594 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1595 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_5_3
 1596 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1597 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1598 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1599 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_6
@@ -389,56 +389,56 @@
 1578 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1600 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1605 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1606 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_6_1
 1601 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1602 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1604 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_6_3
 1615 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1616 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1617 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 
 ##d_Dabigsia_7
@@ -446,82 +446,82 @@
 1603 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1607 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1608 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_7_4
 1609 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1610 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1613 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1614 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_7_2
 1611 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1612 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1618 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1619 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 
 ###c_Dabigsia_7_3
 1620 = {
     culture = varaparian
     holding = tribal_holding
-    religion = uzturet
+    rite = uzturet
 }
 1621 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1622 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 1623 = {
     culture = varaparian
     holding = none
-    religion = uzturet
+    rite = uzturet
 }
 

@@ -4,78 +4,78 @@
 185 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 189 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 190 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 191 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_1_1
 186 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 187 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 188 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_1_4
 193 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 194 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 198 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 199 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_1_3
 197 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 206 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 207 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Imperial_Preserve_2
@@ -83,99 +83,99 @@
 192 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 195 = {
     culture = albennian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 202 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 203 = {
     culture = albennian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_2_1
 196 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 212 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 214 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_2_2
 200 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 205 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 208 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 209 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_2_4
 201 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 204 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 215 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 216 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Imperial_Preserve_2_3
 210 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 211 = {
     culture = green_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 213 = {
     culture = green_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 

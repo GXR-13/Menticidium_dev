@@ -1,6 +1,6 @@
 ﻿Intermark_1 = {# 
     name = "Wulf"
-    religion = imperial_verita
+    rite = the_general_church
     culture = green_hirian
     dynasty = hayles
     688.11.21 = {
@@ -10,7 +10,7 @@
 
 Intermark_2 = {# 
     name = "Dubcenn"
-    religion = imperial_verita
+    rite = the_general_church
     culture = frindi
     dynasty = emlyn
     666.4.15 = {
@@ -20,7 +20,7 @@ Intermark_2 = {#
 
 Intermark_3 = {# 
     name = "Mels"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = perry
     716.1.15 = {
@@ -31,7 +31,7 @@ Intermark_3 = {#
 Intermark_4 = {# 
     name = "Jane"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = mayer
     710.5.13 = {
@@ -41,7 +41,7 @@ Intermark_4 = {#
 
 Intermark_5 = {# 
     name = "Fredrick"
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = kylar
     706.2.4 = {

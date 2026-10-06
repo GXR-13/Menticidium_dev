@@ -1,6 +1,6 @@
 ﻿Weisshugel_1 = {# 
     name = "Dennis"
-    religion = imperial_verita
+    rite = the_general_church
     culture = south_hirian
     dynasty = de_char
     685.4.11 = {
@@ -11,7 +11,7 @@
 Weisshugel_2 = {# 
     name = "Elisabeth"
     female = yes
-    religion = imperial_verita
+    rite = the_general_church
     culture = high_hirian
     dynasty = rosh
     708.3.19 = {
@@ -21,7 +21,7 @@ Weisshugel_2 = {#
 
 Weisshugel_3 = {# 
     name = "Stefan"
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = lU_tzen
     703.4.17 = {
@@ -31,7 +31,7 @@ Weisshugel_3 = {#
 
 Weisshugel_4 = {# 
     name = "Anno"
-    religion = imperial_verita
+    rite = the_general_church
     culture = north_hirian
     dynasty = von_heissburg
     683.5.14 = {

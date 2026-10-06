@@ -4,60 +4,60 @@
 13 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 946 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_3_3
 938 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_3_2
 939 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 947 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_3_1
 940 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 945 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_3_5
 941 = {
     culture = south_hirian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 942 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 943 = {
     culture = south_hirian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Sud_2
@@ -65,78 +65,78 @@
 944 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 948 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 952 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 953 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_2_3
 954 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 955 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 956 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_2_2
 965 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 971 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 972 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_2_1
 966 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 968 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 970 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 973 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Sud_1
@@ -144,88 +144,88 @@
 949 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 950 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 959 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 960 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_1_4
 951 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 999 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1000 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1002 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_1_2
 957 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 958 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 961 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 962 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_1_1
 963 = {
     culture = banlian
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 964 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 967 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 969 = {
     culture = banlian
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Sud_6
@@ -233,39 +233,39 @@
 974 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 978 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 979 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 980 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_6_1
 975 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 976 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 977 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Sud_4
@@ -273,88 +273,88 @@
 981 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 994 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 995 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1001 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_4_4
 988 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 989 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 990 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 992 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_4_3
 991 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 993 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 996 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1008 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_4_1
 997 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 998 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1007 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1009 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ##d_Sud_5
@@ -362,77 +362,77 @@
 982 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 983 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 987 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_5_3
 984 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 985 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 986 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_5_1
 1003 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1004 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1005 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1006 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
 ###c_Sud_5_4
 1181 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1182 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 1184 = {
     culture = suditish
     holding = castle_holding
-    religion = imperial_verita
+    rite = the_general_church
 }
 1190 = {
     culture = suditish
     holding = none
-    religion = imperial_verita
+    rite = the_general_church
 }
 
