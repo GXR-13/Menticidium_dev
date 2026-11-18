@@ -1,6 +1,6 @@
 ﻿#Bokojowa
 k_Pokojowa = {
-	741.1.1 = { change_development_level = 17 }
+	741.1.1 = { change_prosperity_level = 17 }
 
 	729.12.16 = { 
 		holder = Dwilia_5001

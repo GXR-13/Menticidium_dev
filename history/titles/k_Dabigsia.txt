@@ -1,6 +1,6 @@
 ﻿#Witamia
 k_Dabigsia = {
-	741.1.1 = { change_development_level = 12 }
+	741.1.1 = { change_prosperity_level = 12 }
 }
 
 #Use Uzturet titles instead of dejure titles#

@@ -1,6 +1,6 @@
 ﻿#Doria Norde, or Lega Norde
 k_Doria_Norde = {
-	741.1.1 = { change_development_level = 19 }
+	741.1.1 = { change_prosperity_level = 19 }
 }
 
 d_Lega_Norde = {

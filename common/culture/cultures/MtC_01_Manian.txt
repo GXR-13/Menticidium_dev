@@ -8,9 +8,9 @@ manian = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_warrior_culture
+		tradition_stand_and_fight
+		tradition_hereditary_hierarchy
 	}
 	
 	name_list = name_list_frankish
@@ -39,9 +39,10 @@ zurunnish = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_forest_folk
+		tradition_stand_and_fight
+		tradition_warrior_culture
+		tradition_staunch_traditionalists
 	}
 	
 	name_list = name_list_swabian
@@ -71,9 +72,9 @@ gronlander = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_hard_working
+		tradition_agrarian
+		tradition_collective_lands
 	}
 	
 	name_list = name_list_franconian
@@ -103,9 +104,10 @@ weisslander = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_hard_working
+		tradition_hill_dwellers
+		tradition_collective_lands
+		tradition_family_entrepreneurship
 	}
 	
 	name_list = name_list_bavarian
@@ -167,9 +169,10 @@ zuidlander = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_agrarian
+		tradition_welcoming_name
+		tradition_parochialism
+		tradition_fp2_malleable_subjects
 	}
 	
 	name_list = name_list_dutch

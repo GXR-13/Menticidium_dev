@@ -1,6 +1,6 @@
 ﻿#Despotic Dwilia
 k_Despotic_Dwilia = {
-	741.1.1 = { change_development_level = 24 }
+	741.1.1 = { change_prosperity_level = 24 }
 
 	741.7.16 = { 
 		holder = Dwilia_9001

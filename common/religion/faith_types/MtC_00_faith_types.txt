@@ -1,7 +1,7 @@
 ﻿old_pagan_faith = {
 	main_rite = old_pagan
 	faith_details = {
-		rite = old_paganism_religion
+		religion = old_therosian_paganism_religion
 		color = rgb { 20 148 43 }
 		icon = pagan
 		reformed_icon = pagan_reformed

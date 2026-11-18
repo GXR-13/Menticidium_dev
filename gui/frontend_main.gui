@@ -252,6 +252,7 @@ widget = {
 	}
 
 	widget = {
+		visible = "[Not( FrontEndMainView.ShouldHoldForCharacters )]"
 		parentanchor = center
 		size = { 1920 1080 }
 		scale = "[ScaleToFitElementInside('(int32)1920', '(int32)1080')]"
@@ -734,6 +735,7 @@ widget = {
 
 									widget = {
 										size = { 64 64 }
+										visible = "[SaveGameItem.HasCoatOfArms]"
 
 										coa_realm_shadow = {
 											texture = "[SaveGameItem.GetPlayerGovernment.GetRealmFrameShadow('(int32)62')]"
@@ -777,11 +779,8 @@ widget = {
 						button_frontend = {
 							name = "new_game_button"
 							text = "NEW_GAME"
-							tooltip = "NEW_GAME"
 							fontsize = 20
 							onclick = "[FrontEndMainView.OnNewGame]"
-							shortcut = menu_1
-
 							state = {
 								name = _mouse_hierarchy_enter
 								on_start = "[PdxGuiInterruptThenTriggerAllAnimations('main_menu_glow_new_leave','main_menu_glow_new_enter')]"
@@ -810,10 +809,8 @@ widget = {
 								name = "load_game_button"
 								visible = "[FrontEndLoadView.CanDoContinue]"
 								text = "LOAD"
-								tooltip  ="LOAD"
 								fontsize = 20
 								onclick = "[FrontEndMainView.OnLoad]"
-								shortcut = menu_2
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -851,8 +848,8 @@ widget = {
 								onclick = "[FrontEndMainView.OnHost]"
 								onclick = "[RefreshIllustration]"
 								enabled = "[JominiIsMultiplayerAccessible]"
+								tooltip_visible = "[Not(JominiIsMultiplayerAccessible)]"
 								tooltip = "[JominiGetMultiplayerAccessibleString]"
-								shortcut = menu_3
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -872,8 +869,8 @@ widget = {
 								onclick = "[FrontEndMainView.OnMultiPlayer]"
 								onclick = "[RefreshIllustration]"
 								enabled = "[JominiIsMultiplayerAccessible]"
+								tooltip_visible = "[Not(JominiIsMultiplayerAccessible)]"
 								tooltip = "[JominiGetMultiplayerAccessibleString]"
-								shortcut = menu_4
 
 								state = {
 									name = _mouse_hierarchy_enter
@@ -1087,7 +1084,6 @@ widget = {
 
 					button_group = {
 						onclick = "[FrontEndMainView.OnSettings]"
-						shortcut = "menu_10"
 
 						flowcontainer = {
 							spacing = 5
@@ -1121,7 +1117,7 @@ widget = {
 				size = { 372 64 }
 				parentanchor = bottom|hcenter
 				position = { 2 -15 }
-				visible = "[FrontEndMainView.IsSteamAvailable]"
+				visible = "[FrontEndMainView.IsSteamSubscriptionActive]"
 
 				button_normal = {
 					onclick = "[PdxGuiTriggerAllAnimations('start_game_audio')]"
@@ -1326,7 +1322,7 @@ widget = {
 
 					text_single = {
 						parentanchor = center
-						text = "[FrontEndMainView.GetSubscriptionStatusText]"
+						text = "subscription_active"
 						max_width = 312
 						align = nobaseline
 						using = Font_Size_Small
@@ -1378,6 +1374,7 @@ widget = {
 	}
 
 	widget = {
+		visible = "[Not( FrontEndMainView.ShouldHoldForCharacters )]"
 		parentanchor = bottom|left
 		size = { 800 100 }
 		position = { 10 -20}

@@ -4,7 +4,7 @@ k_Old_League = {
 		holder = Old_League_1
 	}
 	741.1.1 = {
-		change_development_level = 25
+		change_prosperity_level = 25
         liege = h_Hiria
 		government = feudal_government
     }

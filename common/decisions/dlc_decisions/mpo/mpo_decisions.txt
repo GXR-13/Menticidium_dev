@@ -6856,7 +6856,7 @@ settle_the_steppe_decision = {
 								is_coastal_county = yes
 							}
 						}
-						change_development_level = 1
+						change_prosperity_level = 1
 					}
 					save_scope_value_as = {
 						name = development_herd_value
@@ -6890,7 +6890,7 @@ settle_the_steppe_decision = {
 								is_coastal_county = yes
 							}
 						}
-						change_development_level = 1
+						change_prosperity_level = 1
 					}
 					save_scope_value_as = {
 						name = development_herd_value

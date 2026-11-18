@@ -64,3 +64,63 @@ tradition_placeholder3 = {
 	ai_will_do = { value = 0 }
 }
 
+tradition_draig_hunters = {
+	category = societal
+
+	layers = {
+		0 = intrigue
+		1 = mediterranean
+		4 = hunter.dds
+	}
+
+	is_shown = { always = no }
+	can_pick = { always = no }
+	can_pick_for_hybridization = { always = no }
+
+	parameters = {
+		hunting_traits_more_common = yes
+		hunting_traits_more_valued = yes
+		sacred_hunts = yes
+		unlock_draig_hunter_vanguards_maa = yes
+		unlock_draig_hunter_veterans_maa = yes
+		unlock_draig_hunter_mercenaries_maa = yes
+		unlock_hunting_machineries_innovation = yes
+	}
+
+	cost = { prestige = 300000 }
+
+	ai_will_do = { value = 0 }
+}
+
+tradition_muintir_na_tire_ceo = {
+	category = regional
+
+	layers = {
+		0 = learning
+		1 = indian
+		4 = mountain.dds
+	}
+
+	is_shown = { always = no }
+	can_pick = { always = no }
+	can_pick_for_hybridization = { always = no }
+
+	parameters = {
+		rough_terrain_expert_trait_more_common = yes
+		mountain_trait_bonuses = yes
+		can_recruit_mountain_specialist = yes
+	}
+	character_modifier = {
+		mountains_development_growth_factor = 0.2
+		mountains_travel_danger = mountains_high_danger_reduction
+	}
+	province_modifier = {
+		mountains_construction_gold_cost = -0.1
+		mountains_holding_construction_gold_cost = -0.1
+	}
+
+	cost = { prestige = 300000 }
+
+	ai_will_do = { value = 0 }
+
+}

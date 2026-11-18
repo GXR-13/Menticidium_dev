@@ -8,9 +8,10 @@ frindi = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_forest_wardens
+		tradition_staunch_traditionalists
+		tradition_stalwart_defenders
+		tradition_music_theory
 	}
 	
 	name_list = name_list_irish
@@ -38,9 +39,10 @@ gollowynian = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_muintir_na_tire_ceo
+		tradition_draig_hunters
+		tradition_loyal_soldiers
+		tradition_poetry
 	}
 	
 	name_list = name_list_welsh
@@ -68,9 +70,10 @@ rupnic = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_legalistic
+		tradition_artisans
+		tradition_sorcerous_metallurgy
+		tradition_parochialism
 	}
 	
 	name_list = name_list_latgalian

@@ -1,0 +1,27 @@
+﻿object={
+	name="gdp_docks_01_a"
+	render_pass=MapUnderWater
+	clamp_to_water_level=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="gdp_docks_01_a_mesh"
+	count=0
+}
+object={
+	name="gdp_docks_02_a"
+	render_pass=MapUnderWater
+	clamp_to_water_level=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="gdp_docks_02_a_mesh"
+	count=0
+}
+object={
+	name="gdp_docks_03_a"
+	render_pass=MapUnderWater
+	clamp_to_water_level=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="gdp_docks_03_a_mesh"
+	count=0
+}

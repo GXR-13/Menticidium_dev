@@ -8,9 +8,10 @@ guanghai = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_astute_diplomats
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_castle_keepers
 	}
 	
 	name_list = name_list_han

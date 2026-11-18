@@ -1,6 +1,6 @@
 ﻿#Jaskowvia
 k_Jaskowvia = {
-	741.1.1 = { change_development_level = 19 }
+	741.1.1 = { change_prosperity_level = 19 }
 
 	715.9.30 = { 
 		holder = Dwilia_1001 

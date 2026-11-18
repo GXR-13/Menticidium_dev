@@ -5,6 +5,14 @@ heritagh_Hirian = {
 			HERITAGE = heritagh_Hirian
 		}
 	}
+	parameters = {
+		cloth_mordant_alum = yes
+		fur_trimmed_finery = yes
+		castle_wine_demand = yes
+		northern_beer_imports = yes
+		housing_cheese_demand = yes
+		votive_gold_demand = yes
+	}
 	audio_parameter = european
 }
 
@@ -14,6 +22,12 @@ heritage_hynian = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_hynian
 		}
+	}
+	parameters = {
+		cattle_wealth = yes
+		housing_cheese_demand = yes
+		court_finery_furs_demand = yes
+		votive_gold_demand = yes
 	}
 	audio_parameter = european
 }
@@ -25,6 +39,15 @@ heritage_dorian = {
 			HERITAGE = heritage_dorian
 		}
 	}
+	parameters = {
+		cloth_mordant_alum = yes
+		fur_trimmed_finery = yes
+		fustian_weaving = yes
+		castle_wine_demand = yes
+		housing_olive_oil_demand = yes
+		court_finery_textiles_demand = yes
+		votive_gold_demand = yes
+	}
 	audio_parameter = european
 }
 
@@ -34,6 +57,14 @@ heritage_banlian = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_banlian
 		}
+	}
+	parameters = {
+		cloth_mordant_alum = yes
+		fur_trimmed_finery = yes
+		castle_wine_demand = yes
+		housing_olive_oil_demand = yes
+		court_finery_furs_demand = yes
+		votive_gold_demand = yes
 	}
 	audio_parameter = european
 }
@@ -45,6 +76,13 @@ heritage_dabigsian = {
 			HERITAGE = heritage_dabigsian
 		}
 	}
+	parameters = {
+		saharan_salt_reliance = yes
+		saharan_cloth_imports = yes
+		housing_fruit_demand = yes
+		court_finery_textiles_demand = yes
+		votive_gold_demand = yes
+	}
 	audio_parameter = european
 }
 
@@ -54,6 +92,14 @@ heritage_manian = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_manian
 		}
+	}
+	parameters = {
+		northern_beer_imports = yes
+		northern_salt_curing = yes
+		amber_amulets = yes
+		housing_cheese_demand = yes
+		court_finery_furs_demand = yes
+		votive_silver_demand = yes
 	}
 	audio_parameter = european
 }
@@ -65,6 +111,14 @@ heritage_near_ludian = {
 			HERITAGE = heritage_near_ludian
 		}
 	}
+	parameters = {
+		fur_trimmed_finery = yes
+		northern_salt_curing = yes
+		amber_amulets = yes
+		housing_honey_demand = yes
+		court_finery_furs_demand = yes
+		votive_amber_demand = yes
+	}
 	audio_parameter = european
 }
 
@@ -74,6 +128,13 @@ heritage_di = {#翟 "Germany, but Chinese"
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_di
 		}
+	}
+	parameters = {
+		song_horse_shortage = yes
+		ivory_carving_patronage = yes
+		housing_tea_demand = yes
+		court_finery_silk_demand = yes
+		votive_incense_demand = yes
 	}
 	audio_parameter = european
 }
@@ -85,6 +146,13 @@ heritage_li = {#离 "English, but Chinese/Japanese"
 			HERITAGE = heritage_li
 		}
 	}
+	parameters = {
+		song_horse_shortage = yes
+		ivory_carving_patronage = yes
+		housing_tea_demand = yes
+		court_finery_silk_demand = yes
+		votive_incense_demand = yes
+	}
 	audio_parameter = european
 }
 
@@ -94,6 +162,13 @@ heritage_mao = {#卯 "French/Italian, but Chinese"
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_mao
 		}
+	}
+	parameters = {
+		song_horse_shortage = yes
+		ivory_carving_patronage = yes
+		housing_tea_demand = yes
+		court_finery_silk_demand = yes
+		votive_incense_demand = yes
 	}
 	audio_parameter = european
 }

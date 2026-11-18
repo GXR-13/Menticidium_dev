@@ -246,3 +246,28 @@ heritage_li_collective_noun: "离"
 
 heritage_mao_name: "卯"
 heritage_mao_collective_noun: "卯"
+
+tradition_draig_hunters_name: "猎龙者"
+tradition_draig_hunters_desc: "该文化拥有狩猎古老恶兽的传统。他们的战士常年在山丘中与蜥类兽物搏斗，用来对付龙种的长矛与弩炮在面对寻常野兽和人类时也同样致命。"
+culture_parameter_unlock_draig_hunter_vanguards_maa: "可以招募猎龙兵先锋[men_at_arms|E]"
+culture_parameter_unlock_draig_hunter_veterans_maa: "可以招募猎龙兵[men_at_arms|E]"
+culture_parameter_unlock_draig_hunter_mercenaries_maa: "可以招募老练猎龙人[men_at_arms|E]"
+culture_parameter_unlock_hunting_machineries_innovation: "可在$culture_era_late_medieval$[era|E]解锁猎龙机械[innovation|E]"
+
+tradition_muintir_na_tire_ceo_name: "雾国之民" #Muintir na Tíre Ceo
+tradition_muintir_na_tire_ceo_desc: "该文化世代在浓雾与山崖间定居。他们运用自身的生存智慧，在被外人视作难以定居的山间安然繁衍。"
+
+landschaft_weisheit_name: "乡野智慧" #Landschaft Weisheit
+landschaft_weisheit_desc: "纵使该文化所定居的地域称不上严酷，他们仍然形成出了一套节俭而精明的生活价值观。他们的人民往往用朴实的方法精打细算，节省可用的每一份资源。"
+
+grosses_erreichen_name: "成就伟业" #Großes Erreichen
+grosses_erreichen_desc: "该文化的历史是被征服与野心塑造的。即便在秩序已经安定的今日，过往英雄的传说仍然激励着他们。"
+
+schwert_und_flamme_name: "剑与火" #Schwert und Flamme
+schwert_und_flamme_desc: "该文化拥有一套残酷而高效的治军理念，擅长使用火攻摧残对手的意志，随后用训练有素的战阵扫平一切抵抗。"
+
+legacy_of_the_conquerer_name: "征服者之遗"
+legacy_of_the_conquerer_desc: "该文化的历史始于征服与野心，但随后又归于反叛和混乱。他们重视其祖先的功绩，但也在文化融合中习得了退让与统治之道。"
+
+sagesse_de_la_campagne_name: "乡野智慧" #Sagesse de la Campagne
+sagesse_de_la_campagne_desc: "纵使该文化所定居的地域称不上严酷，他们仍然形成出了一套节俭而精明的生活价值观。他们的人民往往用朴实的方法精打细算，节省可用的每一份资源。"

@@ -1,6 +1,6 @@
 ﻿#Torquia
 k_Torquia = {
-	741.1.1 = { change_development_level = 15 }
+	741.1.1 = { change_prosperity_level = 15 }
 }
 #Torquia_1
 c_Torquia_1_1 = {

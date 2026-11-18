@@ -8,9 +8,10 @@ noszian = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_forest_wardens
+		tradition_hereditary_hierarchy
+		tradition_isolationist
+		tradition_hunters
 	}
 	
 	name_list = name_list_pommeranian
@@ -37,9 +38,11 @@ ptaskan = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_hereditary_hierarchy
+		tradition_staunch_traditionalists
+		tradition_eye_for_an_eye
+		tradition_storytellers
+		tradition_agrarian
 	}
 	
 	name_list = name_list_polish
@@ -66,9 +69,10 @@ iowician = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_warrior_culture
+		tradition_swords_for_hire
+		tradition_warriors_by_merit
+		tradition_medicinal_plants
 	}
 	
 	name_list = name_list_serbian
@@ -95,9 +99,10 @@ bokojowish = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_placeholder1
-		tradition_placeholder2
-		tradition_placeholder3
+		tradition_mountain_homes
+		tradition_family_entrepreneurship
+		tradition_forbearing
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_czech
