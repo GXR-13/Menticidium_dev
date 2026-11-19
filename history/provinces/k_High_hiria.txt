@@ -4,6 +4,55 @@
 1 = {
     culture = high_hirian
     holding = castle_holding
+    741.7.17 = {
+        province_size = 5
+		districts = {
+			district = {
+				type = household_district
+				level = 1
+				buildings = {
+				}
+			}
+			district = {
+				type = castle_holding_district
+				level = 2
+				buildings = {
+					castle_training_grounds_2
+				}
+			}
+			district = {
+				type = grain_district
+				level = 3
+				buildings = {
+					beer_brewery_2
+				}
+			}
+			district = {
+				type = walls_district
+				level = 2
+				buildings = {
+					city_watch_2
+				}
+			}
+			district = {
+				type = urban_housing_district
+				level = 2
+				buildings = {
+					civic_projects_2
+					suburb_1
+				}
+			}
+			district = {
+				type = guild_district
+				level = 2
+				buildings = {
+					brewers_guild_1
+					guild_goldsmiths_2
+				}
+			}
+		}
+    }
+    
     rite = the_general_church
 }
 19 = {

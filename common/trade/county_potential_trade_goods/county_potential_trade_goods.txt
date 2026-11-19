@@ -1,0 +1,108 @@
+﻿trade_good_alum = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_medicaments = {
+	counties = { c_Old_League_1_1 }
+}
+
+trade_good_horses = {
+	counties = { c_Old_League_1_1 }
+}
+
+trade_good_amber = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_honey = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_cattle = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_copper = {
+	counties = { c_Old_League_1_1 }
+}
+
+trade_good_cotton = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_dyes = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_fish = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_flax = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_fruit = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_furs = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_gems = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_gold = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_grain = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_hemp = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_incense = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_iron = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_ivory = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_jade = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_millet = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_oil = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_rice = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_salt = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_silk = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_silver = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_spices = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_stone = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_sugar = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_wine = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_wood = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_wool = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_tea = {
+	counties = { c_Old_League_1_1 }
+}
+trade_good_ceramics = {
+	counties = { c_Old_League_1_1 }
+}
